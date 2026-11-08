@@ -1,7 +1,10 @@
 # Apple — High-Chill (*Malus domestica*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/apple-high-chill.md`
-**Researched:** 2026-10-07
+**Researched:** 2026-10-07 (re-researched 2026-11-08 against the expanded
+checklist in `crops/researchNotes/checklist-additions.md` — see Finding 8 and
+the new Agronomic data lines on elevation, photoperiod, clonal/viral
+degeneration risk, and salinity, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -117,6 +120,27 @@ destroys the allergen. Pomace and culls are also used as livestock
 feed, carrying a choking hazard from whole fruit and an ethanol risk
 from fermented silage (see Hazards, below).
 
+**Finding 8 — dormancy is temperature-driven, not photoperiod-driven, a
+documented exception among temperate woody plants; frost is a hazard to
+fresh fruit, but a genuine frost-exploiting product tradition exists in
+processing.** A peer-reviewed study on commercial apple and pear rootstocks
+found that day length did not trigger growth cessation or dormancy at all —
+only temperatures below about 12°C did, regardless of photoperiod — a trait
+first noted in the 1920s and distinct from many other temperate woody
+species [15]. The folk belief that frost sweetens fresh apples on the tree
+is not supported: extension sources attribute sweetness to ordinary warm-
+day/cool-night sugar buildup and describe hard frost as damaging, and at
+least one study found spring frost altered flesh sugar/acid chemistry
+without a clear quality gain [16]. A genuine frost-exploiting tradition does
+exist in processing rather than fresh fruit: ice cider (cidre de glace),
+originating in Quebec, freezes harvested apples or their juice to
+concentrate sugars to a high Brix level before fermentation into a sweet,
+higher-alcohol product, with "Cidre de glace du Québec" holding protected
+geographical-indication status since 2014 — a different mechanism from
+icewine grapes (frozen on the vine before pressing) but the same underlying
+pattern of a frost exposure that is a quality asset in one product stream
+while remaining a pure hazard for fresh fruit [16].
+
 ## Agronomic data
 
 - **Life form / season:** A deciduous perennial tree, typically kept to
@@ -129,7 +153,21 @@ from fermented silage (see Hazards, below).
   window than fruit for immediate sale) [1][2][3].
 - **Climate:** Cool-to-cold-winter temperate climates with a
   comparatively rapid spring warm-up; the crop fails where winter chill
-  is too short (Finding 1) [3][8].
+  is too short (Finding 1) [3][8]. Elevation matters as a way to recover
+  chill that warming or low latitude has eroded: growers in at least one
+  Himalayan valley are shifting plantings to higher elevations as measured
+  chill units decline year over year, and tropical highland regions (e.g.
+  the Ethiopian highlands) grow apples only at elevation, though even then
+  chill is typically insufficient and forces low-chill cultivars reported
+  to fetch lower prices for inferior fruit; higher sites also report better
+  sun exposure and cooler nights linked to color/flavor, traded off against
+  higher sunburn and water-stress risk [17].
+- **Photoperiod sensitivity:** Not photoperiod-driven for dormancy or
+  flowering — a documented exception among temperate woody plants.
+  Day length did not trigger growth cessation or dormancy in a controlled
+  study of commercial rootstocks; only sub-12°C temperature did, regardless
+  of photoperiod (Finding 8) [15]. Not applicable to tuberization/bulbing,
+  since apple has no such organ.
 - **Food status:** Raw-edible; moderate-calorie, mostly water and
   carbohydrate, low protein [1].
 - **Pollination:** Required; insect- (honey bee-) pollinated, with
@@ -144,7 +182,15 @@ from fermented silage (see Hazards, below).
   and collar rot, woolly aphid) and precocity; a small number of
   seedling-grown rootstock lines are themselves propagated from seed,
   with one notable cold-hardy seedling line coming nearly true from
-  seed.
+  seed. Because fruiting cultivars are propagated by grafting rather than
+  seed, several graft-transmissible viruses (Apple chlorotic leaf spot
+  virus, Apple stem grooving virus, Apple stem pitting virus, Apple mosaic
+  virus) perpetuate silently through infected budwood and rootstock mother
+  trees, with no cure once a tree is infected; control is certification
+  rather than treatment — national/regional clean-plant programs (the US
+  National Clean Plant Network, Oregon's state certification scheme, a UK
+  top-fruit certification scheme) virus-test mother trees for these same
+  viruses on a multi-year retest cycle and supply tested budwood [18].
 - **Water use:** Root zone typically 1.0-2.0 m with a moderately
   generous soil-moisture-depletion allowance before stress sets in;
   irrigation scheduling can be guided by direct plant water-status
@@ -158,7 +204,16 @@ from fermented silage (see Hazards, below).
 - **Soil:** A moderately acidic to neutral soil pH is preferred; low
   fruit calcium uptake is linked to a major storage disorder (see
   Hazards/disorders below), which preharvest calcium sprays help
-  mitigate.
+  mitigate. Salinity tolerance is distinct from pH and rootstock-
+  dependent, with no single agreed threshold: pot studies put upper
+  tolerance around 2-4‰ salinity depending on mycorrhizal association,
+  while rootstock trials show real spread (JM2 tolerating 150 mM NaCl
+  with limited injury; M. hupehensis more tolerant than M. sieversii at
+  200 mM NaCl; a newer rootstock outperforming M9-type rootstocks in
+  saline-alkali soil up to 10‰), though at least one field/greenhouse
+  study found no rootstock significantly outperformed the common M.9
+  rootstock and that sodium salts harmed growth more than calcium salts
+  [19].
 - **Stand life:** First commercial crop around year 3 after planting in
   an intensive dwarfing system, full production by roughly year 6, with
   a productive planting life of around 20 years in a modern system
@@ -271,6 +326,13 @@ trees are propagated.
   single crop entry with chill requirement as a cultivar-level
   attribute, rather than two separate entries, is a genuine open
   design question not resolved here.
+- Elevation figures (Himalayan chill-decline rate, highland-tropical
+  cultivation notes) come from a mix of extension/ag-journal and general-
+  interest sources, search-snippet depth only — no single authoritative
+  review was opened.
+- Salinity-tolerance figures come from a mix of pot studies and rootstock
+  trials with real disagreement on method and magnitude; no canonical
+  single threshold exists across sources.
 
 ## Estimates and derivations
 
@@ -414,3 +476,41 @@ note, and feed-inclusion limits. Accessed 2026-10-07, opened directly.
 [14] Search-snippet-level material on a specific fruit-juice mycotoxin,
 including a regulatory-reference source and a peer-reviewed scientific
 publication. Accessed 2026-10-07, search snippets only.
+
+[15] A peer-reviewed study (*Tree Physiology*, 2005) on dormancy induction
+in commercial apple and pear rootstocks. Supplied: the finding that day
+length does not trigger growth cessation or dormancy, that only sub-12°C
+temperature does, and that this photoperiod-insensitivity is a documented
+exception among temperate woody plants first noted in the 1920s. Accessed
+2026-11-08, search snippet only (title and abstract-level detail; not
+opened in full).
+
+[16] Search-snippet-level material on frost and apple quality, including a
+university extension harvest guide explicitly rejecting the "frost
+sweetens apples" folk belief, a 2021 study on frost-ring chemistry in
+Gala apples, and general-reference material on Quebec ice cider (cidre de
+glace) and its 2014 protected-geographical-indication status. Accessed
+2026-11-08, search snippets only.
+
+[17] Search-snippet-level material on elevation and apple cultivation,
+including a Himalayan-valley chill-unit decline study, general-reference
+and grower material on tropical highland apple production (Ethiopian
+highlands), and general horticultural material on altitude effects on
+fruit color/flavor versus sunburn and water-stress risk. Accessed
+2026-11-08, search snippets only; no single authoritative review opened.
+
+[18] Search-snippet-level material on graft-transmissible apple viruses
+and clean-stock certification, including university extension sources
+on Apple chlorotic leaf spot virus, Apple stem grooving virus, Apple stem
+pitting virus, and Apple mosaic virus, plus program descriptions for the
+US National Clean Plant Network, an Oregon state certification scheme,
+and a UK top-fruit certification scheme. Accessed 2026-11-08, search
+snippets only.
+
+[19] Search-snippet-level material on apple salinity tolerance, including
+a mycorrhizal-association pot study, rootstock-comparison trials (JM2,
+M. hupehensis, M. sieversii, and a newer saline-alkali-tolerant
+rootstock), and a field/greenhouse rootstock-salinity trial finding no
+rootstock significantly outperformed M.9 and that sodium salts harmed
+growth more than calcium salts. Accessed 2026-11-08, search snippets
+only.
