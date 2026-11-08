@@ -12,7 +12,7 @@
 | banana | Musa AAA dessert | banana.md | `highland_banana`, `plantain` | 2026-10-10 | RESEARCHED |
 | banana_passionfruit | Passiflora tripartita var. mollissima | banana-passionfruit.md |  | 2026-10-04 | RESEARCHED |
 | bergamot | Citrus bergamia | bergamot.md |  | 2026-10-06 | RESEARCHED |
-| bitter_orange | Citrus × aurantium |  | `orange` |  | LISTED |
+| bitter_orange | Citrus × aurantium | bitter-orange.md | `orange`, `chinotto`, `laraha`, `daidai` | 2026-11-08 | RESEARCHED |
 | black_raspberry | Rubus occidentalis | black-raspberry.md |  | 2026-09-29 | RESEARCHED |
 | blackberry | Rubus subgenus Rubus | blackberry.md |  | 2026-09-30 | RESEARCHED |
 | blackcurrant | Ribes nigrum | blackcurrant.md |  | 2026-10-01 | RESEARCHED |
@@ -24,11 +24,13 @@
 | cantaloupe | Cucumis melo, Reticulatus and Cantalupensis groups | cantaloupe.md |  | 2026-09-30 | RESEARCHED |
 | champedak | Artocarpus integer | champedak.md |  | 2026-10-03 | RESEARCHED |
 | cherry_plum | Prunus cerasifera | cherry-plum.md |  | 2026-10-06 | RESEARCHED |
+| chinotto | Citrus myrtifolia (possibly *C.* × *aurantium* var. *myrtifolia*) |  | `bitter_orange` | 2026-11-08 | PROPOSED |
 | citron | Citrus medica | citron.md |  | 2026-10-02 | RESEARCHED |
 | citron_melon | Citrullus amarus | watermelon.md | `seed_watermelon`, `watermelon` | 2026-10-10 | RESEARCHED |
 | coconut | Cocos nucifera | coconut.md |  | 2026-10-10 | RESEARCHED |
 | coyo | Persea schiedeana | coyo.md |  | 2026-10-05 | RESEARCHED |
 | cranberry | Vaccinium macrocarpon | cranberry.md |  | 2026-10-01 | RESEARCHED |
+| daidai | *C.* × *aurantium* var. *daidai* |  | `bitter_orange` | 2026-11-08 | PROPOSED |
 | date_palm | Phoenix dactylifera | date-palm.md |  | 2026-10-10 | RESEARCHED |
 | dragon_fruit | Selenicereus undatus and red-fleshed relatives | dragon-fruit.md |  | 2026-09-30 | RESEARCHED |
 | durian | Durio zibethinus | durian.md |  | 2026-09-30 | RESEARCHED |
@@ -53,6 +55,7 @@
 | kiwiberry | Actinidia arguta; A. kolomikta as a cultivar group | kiwiberry.md |  | 2026-09-30 | RESEARCHED |
 | kiwifruit | Actinidia deliciosa | kiwifruit.md |  | 2026-09-30 | RESEARCHED |
 | korla_pear | Pyrus sinkiangensis | korla-pear.md |  | 2026-10-04 | RESEARCHED |
+| laraha | *C.* × *aurantium*, Curaçao landrace |  | `bitter_orange` | 2026-11-08 | PROPOSED |
 | lemon | Citrus × limon | lemon.md |  | 2026-09-29 | RESEARCHED |
 | lingonberry | Vaccinium vitis-idaea | lingonberry.md |  | 2026-10-06 | RESEARCHED |
 | longan | Dimocarpus longan | longan.md |  | 2026-09-30 | RESEARCHED |
