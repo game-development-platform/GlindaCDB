@@ -1,7 +1,10 @@
 # Apricot (*Prunus armeniaca*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/apricot.md`
-**Researched:** 2026-09-29
+**Researched:** 2026-09-29 (re-researched 2026-11-08 against the expanded
+checklist in `crops/researchNotes/checklist-additions.md` — see Finding 7
+and the new Agronomic data lines on elevation, photoperiod, and clonal/
+viral degeneration risk, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -99,6 +102,28 @@ notably faster per-crew rate over two passes [4][5]. These convert to
 roughly 90 kg per person-hour for fresh-market picking and roughly 260
 kg per person-hour for processing-fruit picking (see Estimates below).
 
+**Finding 7 — high-altitude growing regions exist, dormancy is not
+photoperiod-driven, and the "most serious disease" from Finding 5's
+disease-profile source is itself a graft-transmissible propagation-
+material risk, not only a field disease.** Apricot is grown at real
+elevation in Himalayan valleys (Hunza Valley/Gilgit-Baltistan, roughly
+1,300-2,500 m, irrigated with glacier meltwater), where spring frost on
+open blossoms remains a persistent problem addressed with smoky fires or
+plastic covers, and where fruit is traditionally sun-dried for one to
+two weeks in the intense mountain sun — bloom timing and drying duration
+both conflict between the low-confidence tourism/grower sources used, so
+are not reconciled to single figures [27]. Flowering timing is driven by
+chilling and heat accumulation, not day length, consistent with most
+*Prunus* species — no photoperiod effect surfaced in several chilling/
+dormancy studies reviewed, though none of them explicitly ruled
+photoperiod out either [28]. Plum pox virus (Sharka), the viral disease
+already noted in Finding 5/disease profile as the most serious affecting
+stone fruits, is itself graft-transmissible: infected budwood and nursery
+stock distribution drives its long-distance spread, separately from
+aphid-driven local spread in the field, and the US source reviewed
+describes nursery virus certification there as inconsistent rather than
+standardized [29].
+
 ## Agronomic data
 
 - **Life form / season:** A deciduous perennial tree.
@@ -106,7 +131,15 @@ kg per person-hour for processing-fruit picking (see Estimates below).
   over several hand passes, processing fruit over two passes [4][5].
 - **Climate:** Cool temperate, temperate, Mediterranean, and semi-arid
   climates; the crop is grown across a wide hardiness range but is
-  everywhere vulnerable to spring frost at bloom (Finding 1).
+  everywhere vulnerable to spring frost at bloom (Finding 1). Also grown
+  at real elevation in Himalayan valleys (roughly 1,300-2,500 m), where
+  glacier meltwater substitutes for reliable rainfall and frost
+  protection remains a persistent concern at bloom (Finding 7).
+- **Photoperiod sensitivity:** Not documented as a factor; flowering
+  timing is attributed to chilling and heat accumulation across several
+  dormancy studies reviewed, consistent with most *Prunus* species, with
+  no photoperiod effect surfacing in this pass (Finding 7). Not
+  applicable to tuberization/bulbing, since apricot has no such organ.
 - **Food status:** Raw-edible; moderate-calorie, with meaningfully
   higher protein than many other tree fruits; dried (sulfured) fruit is
   far more calorie-dense and lower in water content [7][8].
@@ -124,7 +157,20 @@ kg per person-hour for processing-fruit picking (see Estimates below).
   oriented orchards (see Estimates below).
 - **Propagation:** Budded nursery trees, typically onto apricot
   seedling, plum, or peach rootstock; grafting is required for named
-  cultivars.
+  cultivars. This grafted propagation route carries a real clonal/viral
+  degeneration risk: Plum pox virus (Sharka) spreads long-distance
+  through infected budwood and nursery stock, separately from its aphid-
+  driven field spread (Finding 7), and at least two further graft-
+  transmissible viruses occur in apricot — Apple chlorotic leaf spot
+  virus (found in roughly a third of apricot samples in one field survey,
+  usually symptomless but able to cause severe graft incompatibility in
+  some combinations) and Apricot latent virus (reported at high infection
+  rates in at least one Spanish orchard survey). Clean-stock control
+  exists via the US National Clean Plant Network's fruit-tree program
+  (covering *Prunus* alongside apple, pear, and quince, with a dedicated
+  Prunus virus-elimination effort using heat therapy and tissue culture
+  at one program site), though nursery certification is described as
+  inconsistent rather than federally standardized in the US [29].
 - **Water use:** Root depth commonly 1.0-2.0 m, with an effective
   active rooting zone narrower in practice; water demand is sensitive
   essentially throughout fruit growth and for roughly a month after
@@ -200,6 +246,15 @@ health/safety data.
   different calculation methods and source datasets (a roughly
   five-fold versus roughly three-fold fresh-to-dried ratio) and was not
   reconciled to a single figure.
+- Himalayan-valley bloom timing and sun-drying duration both conflict
+  between the two tourism/grower sources used, neither of them a
+  research-grade source; not reconciled.
+- Whether apricot has any photoperiod effect at all on dormancy was not
+  conclusively ruled out — no dormancy study reviewed named it as a
+  factor, but none explicitly tested for its absence either.
+- Ladakh, mentioned in passing in some general apricot literature as
+  another high-altitude growing region, was specifically searched for
+  but turned up no results in this pass.
 
 ## Estimates and derivations
 
@@ -376,3 +431,30 @@ direct page reads and search snippets only.
 hybrid fruit, including a general-audience science/culture article and
 encyclopedia pages. Supplied: typical species-parentage ratio for one
 such hybrid type. Accessed 2026-10-06, search snippets only.
+
+[27] Search-snippet-level material on Himalayan-valley apricot growing
+(Hunza Valley/Gilgit-Baltistan), including an agricultural-library page
+and tourism-operator pages. Supplied: growing elevation, glacier-
+meltwater irrigation, bloom timing (conflicting between sources), spring-
+frost protection practice, elevation-linked ripening-date gradient, and
+sun-drying duration (conflicting between sources). Accessed 2026-11-08,
+search snippets only; neither tourism source is research-grade.
+
+[28] Search-snippet-level material on apricot chilling/dormancy
+requirements, including a Belgrade cultivar trial, Murcia/Tuscany
+trials, and a 2023 chill-portion study using male meiosis as a dormancy
+marker. Supplied: chill-unit and chill-portion figures, a chill/heat
+compensation relationship, and the absence of any photoperiod factor
+across all studies reviewed. Accessed 2026-11-08, search snippets only.
+
+[29] Search-snippet-level material on Plum pox virus (Sharka) and
+graft-transmissible Prunus viruses, including a university extension
+page, a USDA APHIS document, a trade-publication article on nursery
+certification, National Clean Plant Network program pages, and a peer-
+reviewed field-survey article on Apple chlorotic leaf spot virus and
+Apricot latent virus in apricot orchards. Supplied: PPV graft- versus
+aphid-transmission routes, US PPV quarantine/free status, a note on
+inconsistent US nursery virus certification, the National Clean Plant
+Network's fruit-tree program structure, and infection-rate figures for
+two further graft-transmissible apricot viruses. Accessed 2026-11-08,
+search snippets only.

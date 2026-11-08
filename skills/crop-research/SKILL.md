@@ -94,10 +94,13 @@ from this file.
    (this project hasn't reached the follow-on-pass stage yet, so `RESEARCHED` is the right ceiling right
    now, not `PRELIMINARY`/`FOLLOW-ON-*`/`DATA-COMPLETE` - check the top-level project plan if that has
    changed). Add any newly proposed rows from step 5, and cross-link every cropID the file now covers in
-   each other's `Related crops` column. If the row being researched is `OUT-OF-DATE` because it predates a
-   checklist expansion (see "Keeping this skill current", below, and `crops/researchNotes/`), re-research it
-   against the *current* checklist rather than just touching up the old doc, and check `crops/researchNotes/`
-   for what specifically changed since it was last researched.
+   each other's `Related crops` column. If the row being researched is `OUT-OF-DATE`, re-research it against
+   *every* bullet in the current `templates/research-doc.md` and the full step 3 checklist, not only the
+   angles named in `crops/researchNotes/` - that log only covers checklist changes made since 2026-11-08 and
+   can't tell you what an older, pre-migration version of this process may have missed, so treat it as a
+   pointer to what's newest, never as the complete list of what to check. Still read `crops/researchNotes/`
+   first, since it tells you which angles are newest and most likely to need genuinely new sourcing rather
+   than just a quick confirmation that the existing doc already covers them.
 7. **Report**: the doc's path, the key findings, what's estimated or left unsourced (and the weakest of
    those), any open questions worth flagging, the status-table rows changed, and the sources used.
 
@@ -112,6 +115,11 @@ genuinely new, broadly-applicable research angle (not a one-off single-crop curi
 `RESEARCHED` under the old checklist is out of date against the new one. Mark every such row `OUT-OF-DATE`
 in its status table (not `FOLLOW-ON-*` - that status is reserved for a later, not-yet-reached project
 stage) and write a dated entry to `crops/researchNotes/` listing exactly what was added, so that when an
-`OUT-OF-DATE` row is re-researched (step 6), it's clear which specific angles are the reason it needs
-another pass rather than a full from-scratch redo. See `crops/researchNotes/` for the log of past
-additions.
+`OUT-OF-DATE` row is re-researched (step 6), it's clear which specific angles are newest and most likely to
+need genuinely new sourcing. See `crops/researchNotes/` for the log of past additions.
+
+This log is necessarily incomplete for anything that changed before it existed: many of this project's raw-
+data files were migrated from an earlier, outside research process with its own history of changes, none of
+which was recorded here. Don't treat an `OUT-OF-DATE` row's absence from `crops/researchNotes/` as proof the
+doc already covers everything the current checklist asks for - step 6's full-template check against every
+current bullet, not just the logged angles, is what actually closes that gap.
