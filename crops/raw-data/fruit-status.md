@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|
 | american_grape | Vitis labrusca types and interspecific hybrids | grape.md | `grape`, `muscadine` | 2026-11-08 | RESEARCHED |
 | apple_high_chill | Malus domestica | apple-high-chill.md |  | 2026-11-08 | RESEARCHED |
-| apple_low_chill | Malus domestica | apple-low-chill.md |  | 2026-10-07 | OUT-OF-DATE |
+| apple_low_chill | Malus domestica | apple-low-chill.md |  | 2026-11-08 | RESEARCHED |
 | apricot | Prunus armeniaca | apricot.md |  | 2026-09-29 | OUT-OF-DATE |
 | asian_pear | Pyrus pyrifolia and related species | asian-pear.md |  | 2026-10-02 | OUT-OF-DATE |
 | avocado | Persea americana | avocado.md |  | 2026-09-29 | OUT-OF-DATE |

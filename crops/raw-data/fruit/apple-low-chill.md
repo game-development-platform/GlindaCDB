@@ -1,7 +1,12 @@
 # Apple — Low-Chill (*Malus domestica*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/apple-low-chill.md`
-**Researched:** 2026-10-07
+**Researched:** 2026-10-07 (re-researched 2026-11-08 against the expanded
+checklist in `crops/researchNotes/checklist-additions.md` — see the new
+Agronomic data lines on photoperiod, elevation, clonal/viral degeneration
+risk, and salinity, added that date; these largely carry over from the
+related high-chill crop's own 2026-11-08 re-research pass, since both are
+the same species)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -95,10 +100,14 @@ unusually poor because the intended pollinizer bloomed too early
 relative to the main cultivar [4].
 
 **Finding 6 — early bloom brings frost risk, and ripening-season rain
-brings disease pressure.** Low-chill cultivars bloom notably early
-(late winter), which brings a real risk of frost injury to flower buds,
-though a long bloom period means later flowers often escape damage
-[1]. In at least one Brazilian growing region, early bloom timing
+brings disease pressure; unlike the related high-chill crop, frost here
+is purely a hazard, with no quality-event or frost-exploiting-product
+analog found.** Low-chill cultivars bloom notably early (late winter),
+which brings a real risk of frost injury to flower buds, though a long
+bloom period means later flowers often escape damage [1]. The mild-
+winter and tropical climates this group is grown in don't produce the
+hard, late-season freeze that the related high-chill crop's ice-cider
+tradition depends on, so no equivalent was looked for or found here. In at least one Brazilian growing region, early bloom timing
 specifically raises frost-loss risk in colder areas while reducing
 yield in warmer areas [5]. In warm subtropical growing regions, the
 ripening season coincides with high rainfall, humidity, insect
@@ -132,13 +141,27 @@ multi-year period is attributed to this chemical (see Hazards, below)
   climates for low-chill cultivars; tropical highland elevations near
   the equator for the defoliation-based two-crop system, with somewhat
   higher elevation needed further from the equator for a single annual
-  cycle instead of two [1][2][3][4].
+  cycle instead of two [1][2][3][4]. Here elevation is not a quality
+  factor as in the related high-chill crop's temperate orchards, but a
+  substitute for chill itself — the tropical defoliation system exists
+  specifically because sufficient elevation delivers enough cool-night
+  effect to support the crop near the equator at all (see "Naming and
+  scope," above).
 - **Food status:** Raw-edible; nutritional composition shared with the
   broader species.
 - **Pollination:** Required, insect- (honey bee-) pollinated, with
   pollinizer-cultivar pairing — though self-fruitfulness claims for
   several specific cultivars genuinely conflict between sources
   (Finding 5).
+- **Photoperiod sensitivity:** Not photoperiod-driven, consistent with
+  the related high-chill crop (dormancy and flowering respond to
+  temperature, not day length, a documented exception among temperate
+  woody plants) — carried over by species identity rather than
+  independently re-sourced for this group. This is the underlying reason
+  the tropical defoliation system works at all: with no photoperiod
+  dormancy cue to override, forced leaf removal alone is enough to
+  trigger bud break regardless of calendar season (Finding 1). Not
+  applicable to tuberization/bulbing, since apple has no such organ.
 - **Yield / composition:** See Finding 3 and Estimates below for the
   wide range between low-input and intensively managed systems.
 - **Propagation:** Exclusively vegetative (budded or grafted); a
@@ -147,7 +170,13 @@ multi-year period is attributed to this chemical (see Hazards, below)
   own, grown year-round specifically for this system. A range of
   semi-vigorous to dwarfing clonal rootstocks is used in subtropical
   systems, with some rootstocks found unacceptable in at least one
-  regional trial due to poor vigor and health issues.
+  regional trial due to poor vigor and health issues. As with the
+  related high-chill crop, grafted propagation carries the same graft-
+  transmissible virus risk (Apple chlorotic leaf spot virus, Apple stem
+  grooving virus, Apple stem pitting virus, Apple mosaic virus) and is
+  addressed the same way, via certified clean-stock budwood rather than
+  treatment — not independently re-sourced for this group's own
+  rootstocks or growing regions.
 - **Water use:** Broadly shares root-zone depth and crop-coefficient
   physiology with the related high-chill crop, though hot growing
   climates raise daily water demand even as a shorter growing season
@@ -162,7 +191,11 @@ multi-year period is attributed to this chemical (see Hazards, below)
 - **Soil:** A moderately acidic to neutral soil pH is preferred; zinc
   deficiency is noted as common in at least one subtropical growing
   region, and boron is described as critical for fruit set, retention,
-  and firmness there.
+  and firmness there. Salinity tolerance, as its own soil dimension
+  separate from pH, is carried over from the related high-chill crop by
+  species identity rather than independently sourced here: rootstock-
+  dependent and genuinely contested across studies, with no single
+  agreed threshold.
 - **Stand life:** First harvest within one to two years of planting in
   at least one intensively managed system, reaching stable production
   within four to five years there; overall productive lifespan is not
