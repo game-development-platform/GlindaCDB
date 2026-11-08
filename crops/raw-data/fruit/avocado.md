@@ -1,7 +1,11 @@
 # Avocado (*Persea americana*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/avocado.md`
-**Researched:** 2026-09-29
+**Researched:** 2026-09-29 (re-researched 2026-11-08 against the full
+current checklist in `skills/crop-research/SKILL.md` and
+`templates/research-doc.md` — see Finding 7 and the new Agronomic data
+lines on photoperiod and elevation, and the named viroid in Propagation,
+added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -112,6 +116,30 @@ birds [1][3][4]. In people, the primary documented concern is allergy,
 including a specific cross-reactivity syndrome linking this fruit to
 natural rubber latex allergy [4].
 
+**Finding 7 — photoperiod's role in flowering is genuinely disputed
+rather than settled, elevation is directly tied to the race system's
+origins, and frost remains a pure hazard with no quality upside.** Unlike
+most of the other tree fruits this project has researched, avocado's
+flowering trigger is not clearly temperature-only: one university source
+says day length "does not seem to be" a factor and temperature is the
+main driver, but a separate study on two major cultivars found short
+days (≤10 hours) associated with successful flowering while 12-hour days
+under warm conditions blocked it, and a Florida source ties floral
+initiation to both low temperature and, it says, short day length more
+importantly, with initiation starting near the shortest days of the
+year — these sources genuinely conflict and are not reconciled here
+[14]. Elevation is tied directly to the three-race system's origins
+(Guatemalan race from upland Guatemala, Mexican race from highland
+Mexico, West Indian race from lowland coastal Mesoamerica) and remains
+load-bearing in modern growing regions: Kenyan commercial production
+guidance sets a roughly 1,000-2,500 m band, and a Colombian study across
+seven localities at 1,340-2,420 m found the flowering-to-harvest interval
+lengthens at higher elevation, though no source found a clean elevation-
+versus-disease-pressure relationship specifically [15]. Frost is
+confirmed as purely a hazard, consistent with the race-dependent frost-
+tolerance differences already noted (Finding 4/Agronomic data) — no
+documented case of frost improving fruit quality was found [17].
+
 ## Agronomic data
 
 - **Life form / season:** An evergreen perennial tree, reaching
@@ -122,10 +150,22 @@ natural rubber latex allergy [4].
   bearing [2][4][7].
 - **Climate:** Subtropical, Mediterranean, and tropical-highland
   climates for the Mexican and Guatemalan races; tropical lowland
-  climates for the West Indian race [1][2][4].
+  climates for the West Indian race [1][2][4]. Elevation is load-bearing
+  rather than incidental in modern tropical growing regions: Kenyan
+  commercial guidance sets a roughly 1,000-2,500 m growing band, and a
+  Colombian multi-site study found the flowering-to-harvest interval
+  itself lengthens at higher elevation within that range (Finding 7)
+  [15].
 - **Food status:** Raw-edible; unusually calorie-dense and fat-rich for
   a fruit, with meaningful protein content; flesh turns bitter if
   cooked too long [1][4][6].
+- **Photoperiod sensitivity:** Genuinely disputed rather than settled —
+  sources disagree on whether day length drives flowering at all, with
+  at least one study finding short days favor flowering and long days
+  under warm conditions block it, against another source describing
+  flowering as temperature-driven with day length not a factor (Finding
+  7) [14]. Not applicable to tuberization/bulbing, since avocado has no
+  such organ.
 - **Pollination:** Partially required — insect- (primarily bee-)
   pollinated, with interplanting of both flower-opening types needed
   for reliable fruit set; unpollinated flowers can still produce small,
@@ -140,7 +180,19 @@ natural rubber latex allergy [4].
   chosen for root-rot tolerance, poor-aeration tolerance, or salinity
   tolerance. Seed is recalcitrant (loses viability rapidly on drying)
   and used only for rootstock production, never for fruiting-cultivar
-  propagation.
+  propagation. Grafted propagation carries a confirmed clonal/viral
+  degeneration risk from Avocado sunblotch viroid, the scarred-fruit/
+  crippled-tree disease already noted under Disease/pest profile:
+  graft transmission via infected budwood or rootstock seedlings is
+  described as its most prevalent spread route, but it is also seed-
+  transmitted — a "recovery" phenomenon in previously symptomatic trees
+  raises seed-transmission rates sharply, so symptomless carrier trees
+  can be just as risky a seed source as visibly affected ones. Control
+  in at least one major growing region relies on registered disease-free
+  scion/seed sources confirmed by viroid indexing, with infected trees
+  removed and stumps killed; at least one other major growing region is
+  reported to lack an equivalent clean-budwood certification program
+  [16].
 - **Water use:** Root depth is comparatively shallow (roughly 0.5-1.0
   m); the crop needs an unusually high proportion of air-filled soil
   pore space and is best planted on raised berms or ridges with a deep
@@ -162,9 +214,11 @@ natural rubber latex allergy [4].
   more, with some specimens documented at over a century old.
 - **Disease/pest profile:** A specific water-mold root-rot pathogen is
   the dominant and most serious disease across most growing regions,
-  with rootstock choice offering tolerance but no true resistance; a
-  viroid disease causes scarred fruit and crippled trees and spreads
-  through propagation material.
+  with rootstock choice offering tolerance but no true resistance;
+  Avocado sunblotch viroid causes scarred fruit and crippled trees and
+  spreads through propagation material, both by grafting and by seed
+  (see Propagation, above, for its clonal/viral degeneration risk in
+  detail) [16].
 - **Cultivars:** A considerable number of named cultivars exist across
   all three races and their hybrids, differing in flower-opening type,
   oil content, cold hardiness, fruit size, skin character, and season.
@@ -172,9 +226,9 @@ natural rubber latex allergy [4].
 ## Hazards
 
 A specific water-mold root-rot pathogen is the dominant disease
-affecting this crop across most growing regions; a viroid disease
-causes scarred fruit and crippled trees, spreading through propagation
-material.
+affecting this crop across most growing regions; Avocado sunblotch
+viroid causes scarred fruit and crippled trees, spreading through both
+grafting and seed from infected (including symptomless carrier) trees.
 
 **TO BE ADDRESSED** — a specific plant toxin present throughout the
 tree (most concentrated in leaves, also present in bark, skin, and
@@ -228,6 +282,14 @@ kind of health/safety data.
   documented regional system rather than a true nutrient-removal
   figure.
 - Soil phosphorus and potassium uptake were not researched.
+- Photoperiod's role in flowering is not resolved: sources genuinely
+  conflict on whether day length matters at all, let alone in which
+  direction, and this pass did not reconcile them.
+- Oil-content-by-race figures conflict between two sources by a wide
+  margin and were not reconciled to a single set of figures.
+- Whether elevation itself drives disease pressure (as opposed to
+  drainage/aeration, which is already well documented) was specifically
+  looked for and not found.
 
 ## Estimates and derivations
 
@@ -378,3 +440,36 @@ fruit. Supplied: the distinction between pulp-derived oil and seed
 oil, cold-pressing versus solvent extraction of dried flesh, smoke-
 point notes, and adulteration-detection findings. Accessed 2026-09-29,
 opened directly.
+
+[14] Search-snippet-level material on avocado flowering and photoperiod,
+including a university extension source stating day length is not a
+flowering factor, a peer-reviewed cultivar study finding short days
+favor flowering, and a Florida university source linking floral
+initiation to both low temperature and short day length. Supplied: the
+genuinely conflicting evidence on whether and how photoperiod affects
+flowering. Accessed 2026-11-08, search snippets only.
+
+[15] Search-snippet-level material on avocado race origins and
+elevation-linked growing regions, including a tropical-fruit reference
+chart, Kenyan and Colombian agricultural-research sources on elevation
+bands and growing-region guidance, and a Colombian ecophysiology study
+across seven localities. Supplied: race-origin elevation context,
+Kenyan commercial elevation guidance, and a documented elevation-linked
+lengthening of the flowering-to-harvest interval. Accessed 2026-11-08,
+search snippets only; oil-content-by-race figures conflicted between
+sources and were not reconciled.
+
+[16] Search-snippet-level material on Avocado sunblotch viroid,
+including a university IPM pest-management guideline, a South African
+avocado-growers'-association journal article, and a secondary report
+on US regional certification gaps. Supplied: viroid identification,
+graft- and seed-transmission routes (including a "recovery" phenomenon
+raising seed-transmission risk from symptomless carrier trees), and
+clean-stock/viroid-indexing control practice in at least one major
+growing region. Accessed 2026-11-08, search snippets only.
+
+[17] Search-snippet-level material on avocado frost damage, including a
+university extension article and recent regional frost-loss reporting.
+Supplied: confirmation that frost is documented only as a hazard
+(fruit/skin/flesh damage, fruit drop), with no documented quality-
+improvement case found. Accessed 2026-11-08, search snippets only.
