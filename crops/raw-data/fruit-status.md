@@ -6,7 +6,7 @@
 | apple_high_chill | Malus domestica | apple-high-chill.md |  | 2026-11-08 | RESEARCHED |
 | apple_low_chill | Malus domestica | apple-low-chill.md |  | 2026-11-08 | RESEARCHED |
 | apricot | Prunus armeniaca | apricot.md |  | 2026-11-08 | RESEARCHED |
-| asian_pear | Pyrus pyrifolia and related species | asian-pear.md |  | 2026-10-02 | OUT-OF-DATE |
+| asian_pear | Pyrus pyrifolia and related species | asian-pear.md |  | 2026-11-08 | RESEARCHED |
 | avocado | Persea americana | avocado.md |  | 2026-09-29 | OUT-OF-DATE |
 | babaco | Vasconcellea × heilbornii | babaco.md |  | 2026-10-03 | OUT-OF-DATE |
 | banana | Musa AAA dessert | banana.md | `highland_banana`, `plantain` | 2026-10-10 | OUT-OF-DATE |
