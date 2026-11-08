@@ -24,7 +24,7 @@
 | cantaloupe | Cucumis melo, Reticulatus and Cantalupensis groups | cantaloupe.md |  | 2026-09-30 | RESEARCHED |
 | champedak | Artocarpus integer | champedak.md |  | 2026-10-03 | RESEARCHED |
 | cherry_plum | Prunus cerasifera | cherry-plum.md |  | 2026-10-06 | RESEARCHED |
-| chinotto | Citrus myrtifolia (possibly *C.* × *aurantium* var. *myrtifolia*) |  | `bitter_orange` | 2026-11-08 | PROPOSED |
+| chinotto | Citrus myrtifolia (possibly *C.* × *aurantium* var. *myrtifolia*) | chinotto.md | `bitter_orange` | 2026-11-08 | RESEARCHED |
 | citron | Citrus medica | citron.md |  | 2026-10-02 | RESEARCHED |
 | citron_melon | Citrullus amarus | watermelon.md | `seed_watermelon`, `watermelon` | 2026-10-10 | RESEARCHED |
 | coconut | Cocos nucifera | coconut.md |  | 2026-10-10 | RESEARCHED |
