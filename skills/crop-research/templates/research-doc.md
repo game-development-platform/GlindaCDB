@@ -53,26 +53,36 @@ future candidate row gets flagged, the way walnut.md flags Black Walnut without 
 - **Harvest pattern:** <single harvest | cut-and-come-again | continuous picking | perennial bearing>,
   with the harvest window if known.
 - **Days/years to first bearing:** <n, or "Not sourced.">
-- **Climate zones:** <hardiness zones / climate-zone descriptions, with any chill-hour or similar
-  requirement>.
+- **Climate zones:** <hardiness zones / climate-zone descriptions, elevation range if the crop is grown at a
+  notably high or low elevation band, with any chill-hour/vernalization requirement>.
 - **Composition:** <key nutrition figures per 100 g or per kg, with how confidently sourced (primary
   database vs. an aggregator reproducing one)>.
 - **Edibility:** <raw-edible? cooked only? what prep is required?>
 - **Pollination:** <required or not; mechanism; any cultivar-compatibility wrinkle>.
+- **Photoperiod sensitivity:** <day-length effect on flowering, AND, separately, on tuberization/bulbing/
+  rhizome yield itself if the harvested organ is one of those - a short-day/long-day requirement for yield
+  is a different claim from one for flowering, or "Not sourced."/"Not applicable.">.
 - **Yield:** <range, with units and region/management-level context; note any conflicting figures rather
   than picking one>.
 - **Water use:** <whatever crop-coefficient or irrigation-requirement figure is findable, or "Not sourced.">
 - **Propagation:** <seed vs. vegetative route(s); anything notable about rootstocks, hybrid seed, or
-  clonal risk>.
+  clonal risk; for vegetatively-propagated crops specifically, any clonal/viral degeneration risk carried in
+  the propagation material and how growers get clean stock (tissue/meristem culture, certified seed, etc.)>.
 - **Labor:** <whatever labor-hour or timing figures are findable, or "Not sourced.">
-- **Soil:** <pH range, texture preference, nutrient notes>.
+- **Soil:** <pH range, texture preference, nutrient notes, salinity tolerance as its own dimension (not the
+  same as pH)>.
 - **Storage (postharvest):** <regime(s), temperature/humidity, shelf life, any disorder to watch for>.
 - **Establishment:** <planting method, spacing, nursery practice if relevant>.
 - **Cultivars:** <named cultivars actually found in sourcing, with what's different about each - this is
   where a minor difference that failed the distinctiveness check belongs, not a new row>.
-- **Weather response:** <frost, heat, drought, waterlogging tolerance; any dose-response figure found>.
+- **Weather response:** <frost, heat, drought, waterlogging tolerance; any dose-response figure found; note
+  separately if frost is a quality event rather than just a hazard - it can improve a crop (e.g. sweetening)
+  as well as damage it, and both can be true for the same crop at different times>.
+- **Water regime:** <ordinary irrigation requirement vs. a flooded/paddy requirement that's qualitatively
+  different from irrigation (standing water depth, submersion tolerance), if the crop needs the latter>.
 - **Harvest stages / windows:** <single stage/window, or describe multiple maturity stages or separate
-  annual harvest windows if the crop has them>.
+  annual harvest windows if the crop has them; note if ripening is asynchronous/successive within one
+  planting (not every unit ready at once) rather than a single harvest or simple repeated cut-and-come-again>.
 - **Soil biology:** <symbiont dependence, replant disease, allelopathy - if anything was found>.
 - **Controlled environment:** <anything sourced about greenhouse/hydroponic/closed-system viability, or a
   reasoned-but-unsourced inference flagged as such>.
@@ -80,9 +90,10 @@ future candidate row gets flagged, the way walnut.md flags Black Walnut without 
 ## Hazards
 
 <!-- One bullet per real hazard (toxin, allergen, disease, pest with quantified outbreak severity,
-     allelopathy, drug interaction) or a single line "No hazards found in this pass." Use "TO BE
-     ADDRESSED" for anything that needs a dedicated health/safety write-up this project doesn't have a
-     home for yet, the way walnut.md does for its animal-toxicity gap. -->
+     allelopathy, drug interaction, ergot/fungal contamination - a distinct hazard from a plant-produced
+     toxin, worth its own bullet rather than folding into "disease") or a single line "No hazards found in
+     this pass." Use "TO BE ADDRESSED" for anything that needs a dedicated health/safety write-up this
+     project doesn't have a home for yet, the way walnut.md does for its animal-toxicity gap. -->
 
 - <Hazard, with citation and what mitigates it.>
 

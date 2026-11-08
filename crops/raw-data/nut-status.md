@@ -2,11 +2,11 @@
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
-| almond | Prunus dulcis [Mill.] D.A. Webb | almond.md |  | 2026-11-03 | RESEARCHED |
-| chestnut | Castanea mollissima Blume | chestnut.md |  | 2026-11-03 | RESEARCHED |
-| hazelnut | Corylus avellana L., European hazel | hazelnut.md |  | 2026-11-03 | RESEARCHED |
-| macadamia | Macadamia integrifolia Maiden & Betche | macadamia.md |  | 2026-11-04 | RESEARCHED |
-| walnut | Juglans regia L. | walnut.md |  | 2026-11-03 | RESEARCHED |
+| almond | Prunus dulcis [Mill.] D.A. Webb | almond.md |  | 2026-11-03 | OUT-OF-DATE |
+| chestnut | Castanea mollissima Blume | chestnut.md |  | 2026-11-03 | OUT-OF-DATE |
+| hazelnut | Corylus avellana L., European hazel | hazelnut.md |  | 2026-11-03 | OUT-OF-DATE |
+| macadamia | Macadamia integrifolia Maiden & Betche | macadamia.md |  | 2026-11-04 | OUT-OF-DATE |
+| walnut | Juglans regia L. | walnut.md |  | 2026-11-03 | OUT-OF-DATE |
 | black_walnut | Juglans nigra |  | `walnut` |  | PROPOSED |
 | cashew | *Anacardium occidentale* |  |  |  | LISTED |
 | pistachio | *Pistacia vera* |  |  |  | LISTED |

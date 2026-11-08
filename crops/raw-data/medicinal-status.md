@@ -2,7 +2,7 @@
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
-| maypop | Passiflora incarnata | maypop.md |  | 2026-10-04 | RESEARCHED |
+| maypop | Passiflora incarnata | maypop.md |  | 2026-10-04 | OUT-OF-DATE |
 | opium_poppy | *Papaver somniferum* |  | `poppy_seed` |  | LISTED |
 | cannabis | *Cannabis sativa* |  | `hemp_fiber` |  | LISTED |
 | cinchona | *Cinchona spp.* |  |  |  | LISTED |

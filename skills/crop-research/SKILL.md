@@ -74,7 +74,15 @@ from this file.
    name conflicts, growing cycle and climate range, yield range and any conflicting figures, composition and
    edibility, pollination, propagation, labor if findable, soil/pH, storage and postharvest handling, named
    cultivars, hazards (toxicity, disease, allelopathy), and every real harvested-product/processing use -
-   mirroring the section list in step 4, not a fixed schema to fill mechanically.
+   mirroring the section list in step 4, not a fixed schema to fill mechanically. Also specifically check
+   for these recurring-but-easy-to-miss angles, each only worth a line if it actually applies: chill-hours/
+   vernalization requirement; photoperiod sensitivity, both for flowering and for tuberization/bulbing/
+   rhizome yield itself; frost as a quality event (can improve a crop, e.g. sweetening, as well as damage
+   it, not only a hazard); flooded/paddy water requirement as distinct from ordinary irrigation need;
+   clonal/viral degeneration risk in vegetatively-propagated crops; salinity tolerance as its own soil
+   dimension, separate from pH; elevation as a climate dimension climate-zone language doesn't capture;
+   ergot/fungal contamination as a hazard distinct from plant-produced toxins; and asynchronous/successive-
+   ripening as a harvest-pattern shape distinct from ordinary cut-and-come-again.
 4. **Write the doc** to `crops/raw-data/<category>/<crop-id>.md` using the Write tool, from
    `templates/research-doc.md`. Use kebab-case for the filename and lowercase snake_case for the cropID,
    matching the existing files.
@@ -86,7 +94,10 @@ from this file.
    (this project hasn't reached the follow-on-pass stage yet, so `RESEARCHED` is the right ceiling right
    now, not `PRELIMINARY`/`FOLLOW-ON-*`/`DATA-COMPLETE` - check the top-level project plan if that has
    changed). Add any newly proposed rows from step 5, and cross-link every cropID the file now covers in
-   each other's `Related crops` column.
+   each other's `Related crops` column. If the row being researched is `OUT-OF-DATE` because it predates a
+   checklist expansion (see "Keeping this skill current", below, and `crops/researchNotes/`), re-research it
+   against the *current* checklist rather than just touching up the old doc, and check `crops/researchNotes/`
+   for what specifically changed since it was last researched.
 7. **Report**: the doc's path, the key findings, what's estimated or left unsourced (and the weakest of
    those), any open questions worth flagging, the status-table rows changed, and the sources used.
 
@@ -95,3 +106,12 @@ from this file.
 Update it when the status-table column spec, the project's directory layout, or the established doc
 structure changes. If a new crop category needs a noticeably different processing/use pattern than what's
 covered here, a short example reference inside `templates/` is more useful than expanding this file.
+
+**Checklist versioning.** When step 3's angle checklist or the template's "Agronomic data" bullets gain a
+genuinely new, broadly-applicable research angle (not a one-off single-crop curiosity), every row already
+`RESEARCHED` under the old checklist is out of date against the new one. Mark every such row `OUT-OF-DATE`
+in its status table (not `FOLLOW-ON-*` - that status is reserved for a later, not-yet-reached project
+stage) and write a dated entry to `crops/researchNotes/` listing exactly what was added, so that when an
+`OUT-OF-DATE` row is re-researched (step 6), it's clear which specific angles are the reason it needs
+another pass rather than a full from-scratch redo. See `crops/researchNotes/` for the log of past
+additions.

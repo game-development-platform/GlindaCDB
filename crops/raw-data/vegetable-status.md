@@ -4,8 +4,8 @@ Only `pickling_melon` and `snake_melon` have been migrated into the public repo 
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
-| pickling_melon | Cucumis melo Conomon group | pickling-melon.md |  | 2026-10-06 | RESEARCHED |
-| snake_melon | Cucumis melo Flexuosus group | snake-melon.md |  | 2026-10-06 | RESEARCHED |
+| pickling_melon | Cucumis melo Conomon group | pickling-melon.md |  | 2026-10-06 | OUT-OF-DATE |
+| snake_melon | Cucumis melo Flexuosus group | snake-melon.md |  | 2026-10-06 | OUT-OF-DATE |
 | tomato | *Solanum lycopersicum* |  |  |  | OUT-OF-DATE |
 | onion | *Allium cepa* |  |  |  | OUT-OF-DATE |
 | garlic | *Allium sativum* |  |  |  | OUT-OF-DATE |
