@@ -2,7 +2,7 @@
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
-| american_grape | Vitis labrusca types and interspecific hybrids | grape.md | `grape`, `muscadine` | 2026-10-09 | OUT-OF-DATE |
+| american_grape | Vitis labrusca types and interspecific hybrids | grape.md | `grape`, `muscadine` | 2026-11-08 | RESEARCHED |
 | apple_high_chill | Malus domestica | apple-high-chill.md |  | 2026-10-07 | OUT-OF-DATE |
 | apple_low_chill | Malus domestica | apple-low-chill.md |  | 2026-10-07 | OUT-OF-DATE |
 | apricot | Prunus armeniaca | apricot.md |  | 2026-09-29 | OUT-OF-DATE |
@@ -41,7 +41,7 @@
 | giant_granadilla | Passiflora quadrangularis | giant-granadilla.md |  | 2026-10-04 | OUT-OF-DATE |
 | golden_currant | Ribes aureum | golden-currant.md |  | 2026-10-02 | OUT-OF-DATE |
 | gooseberry | Ribes uva-crispa × R. hirtellum | gooseberry.md |  | 2026-10-02 | OUT-OF-DATE |
-| grape | Vitis vinifera | grape.md | `american_grape`, `muscadine` | 2026-10-09 | OUT-OF-DATE |
+| grape | Vitis vinifera | grape.md | `american_grape`, `muscadine` | 2026-11-08 | RESEARCHED |
 | grapefruit | Citrus × paradisi | grapefruit.md |  | 2026-09-29 | OUT-OF-DATE |
 | guava | Psidium guajava | guava.md |  | 2026-09-30 | OUT-OF-DATE |
 | highland_banana | Musa AAA-EA, Mutika/Lujugira subgroup | banana.md | `banana`, `plantain` | 2026-10-10 | OUT-OF-DATE |
@@ -69,7 +69,7 @@
 | medlar | Mespilus germanica | medlar.md |  | 2026-10-07 | OUT-OF-DATE |
 | meyer_lemon | Citrus × meyeri | meyer-lemon.md |  | 2026-10-03 | OUT-OF-DATE |
 | mountain_papaya | Vasconcellea pubescens | mountain-papaya.md |  | 2026-10-03 | OUT-OF-DATE |
-| muscadine | Vitis rotundifolia | grape.md | `american_grape`, `grape` | 2026-10-09 | OUT-OF-DATE |
+| muscadine | Vitis rotundifolia | grape.md | `american_grape`, `grape` | 2026-11-08 | RESEARCHED |
 | nectarine | Prunus persica, smooth-skinned | nectarine.md |  | 2026-10-18 | OUT-OF-DATE |
 | olive | Olea europaea | olive.md |  | 2026-10-11 | OUT-OF-DATE |
 | orange | Citrus × sinensis | orange.md | `bitter_orange` | 2026-10-10 | OUT-OF-DATE |

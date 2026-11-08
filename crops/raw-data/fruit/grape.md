@@ -1,7 +1,9 @@
 # Grape (*Vitis vinifera*), American Grape (*V. labrusca* and hybrids), and Muscadine (*V. rotundifolia*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/grape.md`
-**Researched:** 2026-10-09
+**Researched:** 2026-10-09 (re-researched 2026-11-08 against the expanded checklist in
+`crops/researchNotes/checklist-additions.md` — see Findings 10 and the new Agronomic data lines on
+elevation, chill-hours, photoperiod, water regime, and clonal/viral degeneration risk, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -178,6 +180,21 @@ and residual copper content [18], and copper-based fungicide residues
 from vineyard spraying have specifically been documented to poison sheep
 grazed on sprayed vineyards or fed pomace [25].
 
+**Finding 10 — the same fungus is both the vine's main storage pest and
+the thing that makes several of the world's most prized dessert wines.**
+Grey mould, already noted above as a documented grape disease, is
+*Botrytis cinerea* — and under a specific weather pattern (morning mist
+followed by warm, dry afternoons), the identical fungal infection on
+thin-skinned white cultivars is deliberately courted rather than fought:
+it perforates the skin and lets water evaporate out, concentrating sugar
+and flavour, and is the defining ingredient of Sauternes and Tokaji Aszú
+[45]. Under wetter conditions the same infection turns destructive
+("grey rot") instead [45]. This is a second case, alongside Finding 1's
+own frost/icewine pairing, of a weather-triggered event that can be
+either a hazard or the entire basis of a premium product depending on
+exactly how it unfolds — not sourced for American grape or muscadine,
+where no comparable noble-rot product tradition was found.
+
 ## Agronomic data
 
 - **Life form / season:** All three crops are perennial woody vines
@@ -193,7 +210,9 @@ grazed on sprayed vineyards or fed pomace [25].
   pruning scheduling. Muscadine is harvested over several hand-picking
   passes for fresh fruit, or in a single mechanised or catch-frame pass
   for processing fruit, as individual cultivars ripen over three to six
-  weeks.
+  weeks - an asynchronous/successive-ripening pattern within a single
+  planting, not a single harvest or simple repeated cut-and-come-again
+  (Finding 8).
 - **Climate:** Grape favours Mediterranean, warm-temperate, temperate,
   semi-arid, and irrigated-arid climates, broadly within a mid-latitude
   band, with specialized pruning-scheduled cropping possible in
@@ -202,6 +221,37 @@ grazed on sprayed vineyards or fed pomace [25].
   Muscadine is restricted to a hot, humid subtropical band in the
   southeastern United States, with some plantings also in a few other
   warm, humid regions worldwide (Finding 1).
+- **Elevation:** Grape is the only one of the three crops with a
+  documented high-altitude viticulture practice: sources describe sites
+  from roughly 700-800 m (parts of Europe) up to and above 1,000 m
+  (e.g. Mendoza, Argentina) as "high-altitude," driven mainly by a wider
+  diurnal temperature swing (some Spanish high-altitude sites reach
+  roughly 25°C day-night swings) that slows ripening and is linked to
+  fuller flavour development and retained acidity, plus a roughly
+  10-12% UV increase per 1,000 m linked to thicker skins and more
+  phenolic development, and generally lower disease pressure from lower
+  humidity and better air movement; the main downsides are increased
+  frost risk and uneven ripening [46]. These figures come from wine-
+  trade and consumer sources rather than peer-reviewed studies and
+  should be treated as approximate (see Open research questions).
+  Not sourced for American grape or muscadine.
+- **Chill-hours/vernalization:** Specific chilling-hour figures exist for
+  several wine-grape cultivars, though informal and inconsistent figures
+  are all that were found for muscadine (Finding/Open-questions, above)
+  [33]. Not sourced as a single reconciled figure for American grape.
+- **Photoperiod sensitivity:** Budbreak and the length of time from
+  budbreak to flowering are primarily temperature-driven, not
+  photoperiod-driven, in the sourcing found here; chill accumulation
+  itself has little or no effect on flowering timing once budbreak has
+  occurred [47]. Short days (alongside low temperature) instead trigger
+  fall dormancy onset, a separate phase from flowering [47]. One study
+  on a wild relative (*V. riparia*, not the cultivated species) found
+  photoperiod still measurably affects how fast the floral meristem
+  itself develops once a bud is floral-competent, faster under long
+  days — a nuance, not a contradiction, since it's about developmental
+  speed rather than whether flowering happens at all [47]. Not
+  applicable to tuberization/bulbing, since none of these three crops'
+  harvested organ is a bulb, corm, or tuber.
 - **Food status:** All three are raw-edible fresh fruit crops; grape
   also supports a major dried (raisin) product.
 - **Pollination:** Cultivated grape and American grape vines are
@@ -228,13 +278,20 @@ grazed on sprayed vineyards or fed pomace [25].
   muscadine production guide consulted here does specifically note that
   roughly one inch of water per week is usually adequate in dry periods,
   with overwatering and poor drainage both discouraged.
+- **Water regime:** Not applicable - none of the three crops is grown
+  under a flooded/paddy regime; all water needs are met by rainfall and/
+  or ordinary irrigation as described above.
 - **Establishment:** Grape and American grape are established from
   dormant hardwood cuttings or bench grafts (grape, where grafted onto
   phylloxera-resistant rootstock) planted at a density on the order of a
   few thousand vines per hectare on a trellis system, typically cropping
   from the third year onward. Muscadine is established from own-rooted
   cuttings or layered material at a considerably wider spacing, with no
-  harvest expected until at least the second year.
+  harvest expected until at least the second year. Propagation from
+  infected cuttings carries a documented clonal/viral degeneration risk
+  (the leafroll virus noted under Disease/pest profile travels this way,
+  not only via its mealybug/scale-insect vectors); clean, virus-tested
+  planting stock is produced via heat therapy or meristem culture [27].
 - **Labor:** Highly product-dependent. Wine-grape vineyards are
   comparatively labor-light per hectare thanks to mechanisation options
   for pruning and harvest; table-grape and raisin production are far
@@ -246,8 +303,12 @@ grazed on sprayed vineyards or fed pomace [25].
 - **Soil:** Grape tolerates a wide pH range depending on rootstock choice
   (certain rootstocks specifically confer lime tolerance), with sandy
   soils notably also conferring some protection against the phylloxera
-  pest. Muscadine prefers a narrower, more acidic pH range and is
-  sensitive to poorly drained soils with shallow hardpans.
+  pest. A standard crop-evapotranspiration reference gives grape a
+  specific salinity-tolerance threshold and yield-decline slope distinct
+  from its pH tolerance [6]; some named rootstocks are also specifically
+  bred or selected for added salt tolerance [16]. Muscadine prefers a
+  narrower, more acidic pH range and is sensitive to poorly drained soils
+  with shallow hardpans; its own salinity tolerance was not sourced.
 - **Stand life:** Grape vineyards are commonly productive for around
   two to three decades under intensive commercial management, though
   much older vines exist in less intensive systems; muscadine plantings
@@ -277,6 +338,19 @@ grazed on sprayed vineyards or fed pomace [25].
 - **Storage:** Storage life and handling requirements differ sharply
   between the three crops and by intended product, detailed in Finding
   5 above.
+- **Weather response:** Frost is both a hazard and, in a specific
+  controlled form, a quality event: midwinter cold kills buds outright
+  past each crop's hardiness limit (Finding 1), but fruit deliberately
+  left to freeze on the vine is the entire basis of icewine production
+  (Agronomic Harvest, above; Uses and processing). *Botrytis cinerea*
+  infection shows the same dual character under weather control rather
+  than temperature control - destructive "grey mould"/"grey rot" under
+  wet conditions, prized "noble rot" under misty-mornings-then-dry-
+  afternoons conditions (Finding 10). Heat and drought stress reduce
+  yield in a close-to-linear fashion past about 80% of potential
+  evapotranspiration (Finding 3); waterlogging tolerance was not
+  specifically sourced beyond muscadine's documented sensitivity to
+  poorly drained soils (Soil, above).
 
 ## Hazards
 
@@ -438,6 +512,21 @@ ritual use was identified for muscadine.
 - A specific Islamic-law question about grape products beyond the core
   prohibition on wine itself was not independently researched in this
   pass and is recorded here only as a flag for future research.
+- The elevation figures added 2026-11-08 (lapse rate, diurnal-range
+  swing, UV-increase-per-1,000m) come entirely from wine-trade/consumer
+  sources with no peer-reviewed source independently opened - these
+  should be treated as approximate, and a dedicated viticultural-climate
+  study would be a meaningfully stronger source if found.
+- Whether cultivated *Vitis vinifera* flowering is genuinely day-neutral
+  (as opposed to merely temperature-dominated with a secondary
+  photoperiod effect, per the *V. riparia* finding) was not conclusively
+  settled in this pass - no source explicitly stated vinifera's own
+  photoperiod sensitivity (or lack of it) for flowering.
+- American grape and muscadine were not independently checked for an
+  elevation effect, a noble-rot-equivalent product tradition, or their
+  own chill-hour figures beyond muscadine's already-flagged inconsistent
+  sourcing - all three are recorded as "not sourced" here rather than
+  assumed absent.
 
 ## Estimates and derivations
 
@@ -846,3 +935,36 @@ economics, from a university extension economics program and a
 university extension bulletin. Supplied: an establishment-period model
 with a multi-year timeline to full yield. Accessed 2026-10-09, search
 snippets only.
+
+[45] Search-snippet-level material on noble rot (*Botrytis cinerea*) and
+its relationship to grey mould/grey rot, from wine-trade and consumer
+wine-education sources. Supplied: confirmation that noble rot and grey
+mould are the same fungal species, the weather pattern (morning mist,
+warm dry afternoons) that produces the desired form versus the
+destructive form, the mechanism (skin perforation and water loss
+concentrating sugar/flavour), thin-skinned-cultivar susceptibility, and
+named regions/products (Sauternes, Tokaji Aszú). Accessed 2026-11-08,
+search snippets only; no peer-reviewed source was independently opened.
+
+[46] Search-snippet-level material on high-altitude viticulture, from
+wine-trade and consumer wine-education sources (a wine retailer's blog,
+a wine encyclopedia entry, and a wine magazine). Supplied: an
+approximate temperature-lapse-rate rule of thumb, informal elevation
+thresholds for "high-altitude" by region, documented diurnal-range
+figures for specific high-altitude Spanish vineyards, a UV-increase-
+with-elevation figure linked to skin thickness/phenolics, and qualitative
+notes on reduced disease pressure versus increased frost risk and
+uneven ripening at altitude. Accessed 2026-11-08, search snippets only;
+none of these sources is peer-reviewed, and no specific primary study
+was independently opened.
+
+[47] A peer-reviewed horticulture-journal review on grapevine dormancy
+and flowering physiology, cross-checked against a *Vitis riparia*
+photoperiod-treatment study. Supplied: the temperature-driven (not
+chill-driven) timing from budbreak to flowering, the short-day/low-
+temperature trigger for fall dormancy onset as a separate phase from
+flowering, and the *V. riparia* finding that long-day photoperiod
+treatment speeds floral meristem development once a bud is floral-
+competent, without establishing whether flowering itself is day-neutral
+in cultivated *V. vinifera*. Accessed 2026-11-08, search snippets only;
+neither primary source was independently opened in full.
