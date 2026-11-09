@@ -12,7 +12,7 @@
 | banana | Musa AAA dessert | banana.md | `highland_banana`, `plantain` | 2026-11-08 | RESEARCHED |
 | banana_passionfruit | Passiflora tripartita var. mollissima | banana-passionfruit.md |  | 2026-11-08 | RESEARCHED |
 | bergamot | Citrus bergamia | bergamot.md |  | 2026-11-08 | RESEARCHED |
-| bitter_orange | Citrus × aurantium | bitter-orange.md | `orange`, `chinotto`, `laraha`, `daidai` | 2026-11-08 | OUT-OF-DATE |
+| bitter_orange | Citrus × aurantium | bitter-orange.md | `orange`, `chinotto`, `laraha`, `daidai` | 2026-11-08 | RESEARCHED |
 | black_raspberry | Rubus occidentalis | black-raspberry.md |  | 2026-09-29 | OUT-OF-DATE |
 | blackberry | Rubus subgenus Rubus | blackberry.md |  | 2026-09-30 | OUT-OF-DATE |
 | blackcurrant | Ribes nigrum | blackcurrant.md |  | 2026-10-01 | OUT-OF-DATE |

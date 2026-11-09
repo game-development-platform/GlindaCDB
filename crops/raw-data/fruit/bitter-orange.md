@@ -1,7 +1,10 @@
 # Bitter Orange (*Citrus* × *aurantium*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/bitter-orange.md`
-**Researched:** 2026-11-08
+**Researched:** 2026-11-08 (checked again the same day against the full
+current checklist in `skills/crop-research/SKILL.md` and
+`templates/research-doc.md` — see the new Agronomic data lines on
+photoperiod and rootstock salinity ranking)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -190,6 +193,16 @@ settled.
   [21] — suggesting bitter orange is not grown seedless and is a
   plausible pollen source for other citrus, though this doesn't confirm
   its own self-compatibility or seed count.
+- **Photoperiod sensitivity:** Not sourced for this species specifically
+  with a clean answer. Citrus flowering generally is understood to be
+  driven primarily by low temperature and water-deficit stress rather
+  than day length, with photoperiod playing at most a secondary,
+  permissive role in some genotypes; one crop-requirements database
+  lists sour orange's photoperiod response ambiguously as "long day,
+  short day and day neutral," which, taken loosely, suggests
+  day-neutrality is the closest supported characterization rather than
+  a true day-length dependency [23]. Not applicable to tuberization/
+  bulbing — a tree crop with no storage organ.
 - **Yield:** Not sourced, and the usual "kg of fruit per hectare" framing
   may not even be the right measure for this crop given Finding 1 — no
   source gave a fruit-mass yield figure specific to this species (only
@@ -219,7 +232,15 @@ settled.
   moderately-drained soils, similar to sweet orange (see `orange.md`).
   Notably, the Curaçao landrace is the documented exception: it is
   specifically adapted to thin, dry, salt-exposed soil unsuitable for
-  orange cultivation generally (Finding 5) [9]. No nutrient-uptake or
+  orange cultivation generally (Finding 5) [9]. Separately, sour orange
+  rootstock itself (not just the Curaçao landrace) is independently
+  documented as salt-tolerant relative to other standard citrus
+  rootstocks: most sources rank it second or third, behind Cleopatra
+  mandarin and/or Rangpur lime, among common rootstocks, tolerating
+  soil salinity well above the general citrus saline-soil threshold of
+  roughly 4 dS/m — though one Jordanian trial found Volkamer lemon more
+  salt-tolerant than sour orange at salinity up to 15 dS/m, so this
+  ranking is not universal across studies [24]. No nutrient-uptake or
   removal figures sourced.
 - **Disease/pest profile:** Besides citrus tristeza virus (Finding 2),
   documented viral diseases include crinkly leaf virus and xyloporosis;
@@ -324,6 +345,14 @@ settled.
 - No soil nutrient-uptake/removal figures were sourced.
 - No labor-hour figures were sourced for any operation (flower picking,
   fruit collection, peeling, distillation).
+- Photoperiod sensitivity for flowering has no clean, species-specific
+  answer; the one source found gives an ambiguous "long day, short day
+  and day neutral" classification rather than a definite one.
+- Sour-orange rootstock's salinity-tolerance ranking relative to other
+  rootstocks is not universal across studies — most rank it near the
+  top among standard rootstocks, but at least one trial ranks an
+  alternative (Volkamer lemon) above it at high salinity. Not
+  reconciled.
 
 ## Estimates and derivations
 
@@ -483,3 +512,25 @@ orange rooting hormone response, consulted together for seed-based
 propagation practice and the bitter-orange-specific IBA rooting result.
 Accessed 2026-11-08, search snippets; neither source was independently
 opened in full.
+
+[23] Search-snippet-level material on citrus flowering photoperiod
+response, including a University of Illinois crop-requirements
+database entry for sour orange, a Yelenosky citrus review, a Journal
+of the Japanese Society for Horticultural Science article, a sweet-
+orange CsFT molecular study, and an Agriculture (MDPI) flower-induction
+review. Supplied: temperature/water-deficit as the primary flowering
+cue for citrus generally, and sour orange's ambiguous photoperiod
+classification. Accessed 2026-11-08, search snippets only, none opened
+directly, none species-specific with a clean answer.
+
+[24] Search-snippet-level material on citrus rootstock salinity
+tolerance, including a University of Florida IFAS Extension page
+(opened directly), a Florida extension rootstock-salinity synthesis, a
+Texas Lower Rio Grande Valley seawater-irrigation rootstock trial, an
+Indian rootstock-salinity seedling study, and a Jordanian high-salinity
+rootstock trial. Supplied: sour orange's salinity ranking relative to
+other standard rootstocks, the general citrus saline-soil threshold
+(>4 dS/m per the US Salinity Laboratory Staff, 1954), and the
+conflicting Jordanian finding favoring Volkamer lemon over sour orange
+at high salinity. Accessed 2026-11-08; the UF/IFAS page was opened
+directly, the rest at search-snippet depth only.
