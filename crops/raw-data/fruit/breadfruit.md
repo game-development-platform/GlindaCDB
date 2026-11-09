@@ -1,7 +1,11 @@
 # Breadfruit (*Artocarpus altilis*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/breadfruit.md`
-**Researched:** 2026-10-01
+**Researched:** 2026-10-01 (re-researched 2026-11-09 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see the new Agronomic data line on photoperiod and the salt-spray tolerance
+now written into Soil from a citation that already existed but was never
+used, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -123,6 +127,12 @@ separately, so no standard world-production figure exists.
   pollination (parthenocarpic); seeded cultivar groups require cross-
   pollination by wind or insects (bees collect pollen from male flower
   spikes).
+- **Photoperiod sensitivity:** No day-length dependence for flowering
+  was found for this species or at the genus level; flowering timing
+  is consistently described across sources as driven by temperature
+  and rainfall seasonality (a main wet-season crop plus a smaller crop
+  several months later, Finding 4), not photoperiod. Not applicable to
+  tuberization/bulbing — a tree crop with no storage organ.
 - **Yield / composition:** See Finding 4 and Estimates below for the
   range between traditional agroforestry, unfertilized export-orchard,
   and theoretical intensive-planting yield tiers.
@@ -146,7 +156,13 @@ separately, so no standard world-production figure exists.
 - **Soil:** Neutral to slightly alkaline soil preference; light to
   medium, freely draining soils (sands, sandy loams, loams, sandy clay
   loams) are preferred, though some traditional varieties grow
-  successfully on shallow coral sand.
+  successfully on shallow coral sand. The species as a whole tolerates
+  saline soils and coralline/atoll soils, and tolerates brief salt-
+  spray exposure, though prolonged salt spray causes leaf yellowing
+  and leaf drop — a qualitative rating only, no numeric salinity
+  threshold given, consistent with Source [9]'s confirmation that no
+  entry for this crop exists in the standard FAO salinity-tolerance
+  tables [4].
 - **Stand life:** First fruit arrives in two to three years for grafted
   trees, under three years for the earliest-bearing Caribbean
   cultivars, three to six years for other clonal material, and six to
@@ -239,6 +255,16 @@ crop feeds.
 - Two detailed specialist monographs referenced by other sources
   consulted here were not themselves directly opened during this
   research.
+- Photoperiod sensitivity for flowering was not found at either the
+  species or genus level; all sources describe flowering timing as
+  temperature/rainfall-seasonality-driven instead. One unread lead
+  (Borchert et al. 2005, *Nature*, on photoperiodic induction of
+  synchronous flowering near the equator, cited in passing in a
+  breadfruit seasonality review) was not opened and its relevance to
+  this species specifically is unconfirmed.
+- The salt-spray and saline-soil tolerance figures now written into
+  the Soil bullet are qualitative only; no numeric salinity threshold
+  exists in any source consulted for this crop.
 
 ## Estimates and derivations
 
@@ -351,16 +377,23 @@ export-orchard household labor budget and a Caribbean commercial
 orchard model), and germplasm-collection notes. Accessed 2026-10-01,
 PDF extracted.
 
-[4] A companion regional species profile for this crop from the same
-Pacific-islands agroforestry reference series. Supplied: flowering
-biology and parthenocarpy, a detailed fruit-development timeline,
-fruit and seed traits including an absence of seed dormancy and
-desiccation tolerance, variety and regional yield figures, detailed
-environmental tolerances (drought, frost, waterlogging, salt spray,
-wind, fire, shade), rooting habit, soil pH range, detailed propagation
+[4] Elevitch & Ragone, "Artocarpus altilis (breadfruit)," Species
+Profiles for Pacific Island Agroforestry v2.1 (2006) — a companion
+regional species profile for this crop from the same Pacific-islands
+agroforestry reference series. Supplied: flowering biology and
+parthenocarpy, a detailed fruit-development timeline, fruit and seed
+traits including an absence of seed dormancy and desiccation
+tolerance, variety and regional yield figures, detailed environmental
+tolerances (drought, frost, waterlogging, salt spray, wind, fire,
+shade) including a qualitative salt-spray tolerance rating and a
+saline/coralline-soil tolerance statement (both re-confirmed and
+actually transcribed into this document's Soil bullet on the
+2026-11-09 pass, having been cited but not written into the body on
+the original pass), rooting habit, soil pH range, detailed propagation
 method success rates, and non-food uses (fodder, bee forage, latex,
 bark cloth, cordage, mosquito repellent, timber, and medicine).
-Accessed 2026-10-01, PDF extracted.
+Accessed 2026-10-01 and re-confirmed 2026-11-09, PDF opened/extracted
+both times.
 
 [5] A US government agricultural-research-service commercial-storage
 handbook chapter on this crop. Supplied: fruit size and seed-count
