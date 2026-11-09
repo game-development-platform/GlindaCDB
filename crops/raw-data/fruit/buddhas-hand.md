@@ -1,7 +1,9 @@
 # Buddha's Hand (*Citrus medica* var. *sarcodactylis*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/buddhas-hand.md`
-**Researched:** 2026-10-03
+**Researched:** 2026-10-03 (re-researched 2026-11-09 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see the new Agronomic data lines on photoperiod and salinity, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -106,6 +108,16 @@ distribution through a certified-budwood program [1][2].
   protein composition were not sourced.
 - **Pollination:** Not required by hand; flowers are thinned rather than
   hand-pollinated, and the species self-pollinates like citron.
+- **Photoperiod sensitivity:** Not independently sourced for this
+  species. By analogy with citrus-genus physiology, consistent with
+  this project's findings for other citrus crops: flowering is likely
+  triggered by cold and water-deficit stress rather than day length —
+  citrus floral induction is described in the literature as
+  "autoinductive," with no single indispensable photoperiodic
+  stimulus. The three annual flowering flushes and heavy flower-
+  thinning documented for this crop (Finding 2) are therefore treated
+  as temperature/management-driven rather than day-length-driven [13].
+  Not applicable to tuberization/bulbing — a woody citrus tree.
 - **Yield:** No reliable single per-hectare figure could be derived with
   confidence; per-tree yield figures (20-100 kg/tree/year depending on
   source) and regional area-level figures diverge by a wide margin (see
@@ -126,7 +138,16 @@ distribution through a certified-budwood program [1][2].
   phosphorus and potassium at flowering and fruiting), with organic
   fertilizer preferred; pH tolerance is assumed by analogy to citron
   (roughly 5.5-8.0, optimum 6.5), since no dedicated soil study was found
-  for this crop.
+  for this crop. Salinity tolerance was not sourced for this species
+  specifically either. By citrus-rootstock-level analogy only (strongly
+  rootstock-dependent, as this project has also found for bitter
+  orange): citrus yield generally suffers above roughly 2 dS/m soil
+  salinity, with Alemow (*Citrus macrophylla*) and sour-orange-type
+  rootstocks ranking among the more salt-tolerant options in trials,
+  versus more sensitive stocks like Shekwasha and trifoliate-orange
+  hybrids; one grower source lists this crop as commercially grafted
+  onto Citrange rootstock, but gives no salinity data for that specific
+  combination [14].
 - **Storage:** Ripe fruit keeps roughly one to two weeks cool and dry, or
   two to four weeks refrigerated, but molds easily; green fruit intended
   for the medicinal product is sliced and dried immediately, and the
@@ -219,6 +240,10 @@ longevity."
   chilling-sensitivity study for this specific crop (as opposed to
   citron) were not found.
 - The dried-slice yield (fresh-to-dry mass ratio) was not found.
+- Photoperiod sensitivity and salinity tolerance were not sourced for
+  this species specifically; both are carried over as citrus-genus- or
+  rootstock-level analogies only, flagged as such rather than treated
+  as confirmed species-specific findings.
 
 ## Estimates and derivations
 
@@ -334,3 +359,23 @@ Accessed 2026-10-03.
 storage duration cool-and-dry versus refrigerated, and a note on
 specialty plantings in a California growing region. Accessed 2026-10-03,
 search snippet only.
+
+[13] A 2022 peer-reviewed open-access review (Agustí et al., "Advances
+in Citrus Flowering," Frontiers in Plant Science) and a University of
+Florida IFAS citrus-flowering short-course overview (Guardiola),
+consulted at the citrus-genus level. Supplied: the cold-and-water-
+deficit-stress floral-induction mechanism and the "autoinductive," no-
+single-indispensable-stimulus framing, consistent with this project's
+findings for other citrus crops. Accessed 2026-11-09, both opened
+directly; no species-specific source was found despite targeted search.
+
+[14] Search-snippet-level material on citrus rootstock salinity
+tolerance, including general citrus salinity-threshold reviews, an
+ICAR-CCRI Nagpur nursery trial (2015-18) on rootstock salt response, a
+Tunisian rootstock-salinity study, and a grower listing (Diggers Club)
+naming Citrange as this crop's commercial rootstock. Supplied: the
+general citrus soil-salinity yield-impairment threshold, rootstock-
+dependent tolerance ranking, and the Citrange-rootstock note (without
+salinity data for that specific pairing). Accessed 2026-11-09, search
+snippets only except the grower listing, which was opened directly;
+none species-specific to this crop.

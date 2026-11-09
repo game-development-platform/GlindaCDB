@@ -19,7 +19,7 @@
 | blueberry | Vaccinium corymbosum | blueberry.md |  | 2026-11-09 | RESEARCHED |
 | bokbunja | Rubus coreanus | bokbunja.md |  | 2026-11-09 | RESEARCHED |
 | breadfruit | Artocarpus altilis | breadfruit.md |  | 2026-11-09 | RESEARCHED |
-| buddhas_hand | Citrus medica var. sarcodactylis | buddhas-hand.md |  | 2026-10-03 | OUT-OF-DATE |
+| buddhas_hand | Citrus medica var. sarcodactylis | buddhas-hand.md |  | 2026-11-09 | RESEARCHED |
 | bush_cherry | Prunus tomentosa | bush-cherry.md |  | 2026-10-05 | OUT-OF-DATE |
 | cantaloupe | Cucumis melo, Reticulatus and Cantalupensis groups | cantaloupe.md |  | 2026-09-30 | OUT-OF-DATE |
 | champedak | Artocarpus integer | champedak.md |  | 2026-10-03 | OUT-OF-DATE |
