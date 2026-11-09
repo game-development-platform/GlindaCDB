@@ -1,7 +1,9 @@
 # Chinotto (*Citrus myrtifolia*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/chinotto.md`
-**Researched:** 2026-11-08
+**Researched:** 2026-11-08 (re-researched 2026-11-09 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see the new Agronomic data lines on photoperiod and salinity, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -131,6 +133,13 @@ named commercial product categories from one small, barely-edible fruit.
   protein, or fiber figures located.
 - **Edibility:** Not eaten fresh (bitter); always processed (brined,
   candied, juiced, or distilled for oil) before consumption.
+- **Photoperiod sensitivity:** Not sourced for this species specifically.
+  By citrus-genus analogy (consistent with this project's other citrus
+  entries, e.g. `buddhas-hand.md`): flowering is understood to be
+  triggered by cold and water-deficit stress rather than day length,
+  with floral induction described in the literature as occurring
+  independently of photoperiod [9]. Not applicable to tuberization/
+  bulbing — a woody tree crop with no storage organ.
 - **Pollination:** Not sourced for this species specifically.
 - **Yield:** Not sourced. The sources consistently describe yields as
   small in absolute terms ("small quantities of fruit," a contributing
@@ -149,7 +158,12 @@ named commercial product categories from one small, barely-edible fruit.
   economic factor: the candying process is explicitly described as
   "long" and "labor-intensive," cited as a direct cause of the
   industry's historical decline (Finding 2) [2][5].
-- **Soil:** Not sourced.
+- **Soil:** Salinity tolerance not sourced for this species specifically.
+  By citrus-genus analogy only (strongly rootstock-dependent, as found
+  elsewhere in this project): general citrus yield loss begins around
+  1.4-2 dS/m soil salinity, with tolerance varying considerably by
+  rootstock; no chinotto-specific rootstock or salinity data was
+  found [10].
 - **Disease/pest profile:** Not sourced beyond the frost-damage history
   already covered (Finding 2); no named disease or pest was found
   specific to this species.
@@ -222,6 +236,9 @@ present, but this wasn't confirmed and is not asserted here.
 - Exact historical production volumes for the Savona candying industry
   (at its 19th/20th-century peak) were not found — only qualitative
   "flourished" / "many businesses" language.
+- Photoperiod sensitivity and salinity tolerance are both sourced only
+  by citrus-genus analogy; no species-specific data on either was
+  found for this species.
 
 ## Sources
 
@@ -284,3 +301,18 @@ cold-tolerance context, plus one Research Square preprint describing a
 semi-micrografting trial using a variegated chinotto scion. None of
 these sources gave chinotto-specific propagation data. Accessed
 2026-11-08, search snippets across several pages.
+
+[9] A 2021 peer-reviewed *Agriculture* journal article (University of
+Catania) on citrus flowering physiology, supplemented by a title-level
+citation to a 1969 *Journal of Horticultural Science* paper on sweet
+orange. Supplied: the general citrus finding that floral induction is
+triggered by low temperature and water-deficit stress, occurring
+independently of photoperiod; not species-specific to chinotto.
+Accessed 2026-11-09, search-snippet depth only.
+
+[10] General citrus salinity-tolerance review material (search
+snippets, not species-specific). Supplied: a general citrus yield-loss
+threshold of roughly 1.4-2 dS/m soil salinity and confirmation that
+tolerance is strongly rootstock-dependent across citrus; no
+chinotto-specific figure found. Accessed 2026-11-09, search snippets
+only.
