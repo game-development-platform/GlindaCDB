@@ -10,7 +10,7 @@
 | avocado | Persea americana | avocado.md |  | 2026-11-08 | RESEARCHED |
 | babaco | Vasconcellea × heilbornii | babaco.md |  | 2026-11-08 | RESEARCHED |
 | banana | Musa AAA dessert | banana.md | `highland_banana`, `plantain` | 2026-11-08 | RESEARCHED |
-| banana_passionfruit | Passiflora tripartita var. mollissima | banana-passionfruit.md |  | 2026-10-04 | OUT-OF-DATE |
+| banana_passionfruit | Passiflora tripartita var. mollissima | banana-passionfruit.md |  | 2026-11-08 | RESEARCHED |
 | bergamot | Citrus bergamia | bergamot.md |  | 2026-10-06 | OUT-OF-DATE |
 | bitter_orange | Citrus × aurantium | bitter-orange.md | `orange`, `chinotto`, `laraha`, `daidai` | 2026-11-08 | OUT-OF-DATE |
 | black_raspberry | Rubus occidentalis | black-raspberry.md |  | 2026-09-29 | OUT-OF-DATE |

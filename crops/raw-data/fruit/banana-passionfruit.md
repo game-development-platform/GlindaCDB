@@ -1,7 +1,9 @@
 # Banana Passionfruit / Curuba (*Passiflora tripartita* var. *mollissima*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/banana-passionfruit.md`
-**Researched:** 2026-10-04
+**Researched:** 2026-10-04 (re-researched 2026-11-08 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see the new Agronomic data lines on photoperiod and salinity, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -139,6 +141,17 @@ The fruit is noted as shipping well overall [1].
   over self-pollination with no apparent inbreeding cost (Finding 4).
 - **Yield / composition:** See Finding 3 and Estimates below for the
   range between traditional and intensively managed plantings.
+- **Photoperiod sensitivity:** Not sourced at the species level — no
+  study testing this species' own flowering response to day length was
+  found. By genus-level analogy only (not a confirmed species-specific
+  claim): the commercially studied congener *P. edulis* is a long-day
+  plant requiring roughly 11 hours of daylight to flower, which
+  suggests mollissima's highland flowering could plausibly be day-
+  length influenced too, though some other ornamental *Passiflora*
+  species are reportedly short-day instead, and a photoperiod-
+  insensitive mutant line exists within *P. edulis* itself, showing the
+  trait varies even within the genus. Not applicable to tuberization/
+  bulbing, since this is a vine with no such storage organ.
 - **Propagation:** Grown from seed via nursery seedlings (the standard
   commercial method); cuttings root poorly, air-layering is used more,
   and grafting and laboratory propagation are experimental or costly
@@ -159,7 +172,20 @@ The fruit is noted as shipping well overall [1].
 - **Soil:** Well-drained loam with substantial organic matter, low
   aluminum, and a specific fertility profile is preferred; a moderately
   acidic soil pH is optimal; boron deficiency is linked to fruit
-  cracking.
+  cracking. Salinity tolerance, as its own dimension, is sourced
+  directly for this species at the seedling stage: a Colombian trial
+  grew seedlings at 0, 20, 40, and 80 mM NaCl (roughly 0.70, 2.38, 3.47,
+  and 5.49 dS/m EC) and found sharply dropping leaf area and dry matter
+  with increasing salinity, especially at the highest level, concluding
+  seedlings are "moderately tolerant" during early growth; a follow-up
+  study on the same species found leaf area reduced 21-76% across the
+  same treatments and photosynthetic efficiency (Fv/Fm) dropped by up
+  to 92%, attributing the damage mainly to photosynthetic disruption.
+  A separate secondary summary classifies the same underlying data as
+  "moderately sensitive" instead — a direct conflict with the original
+  study's own framing, not reconciled here. Tolerance in mature,
+  established plants (as opposed to seedlings) is not established
+  either way.
 - **Stand life:** First harvest roughly one to two years after
   transplanting (sources conflict on the exact timing); productive life
   of roughly a decade under good management, with renewal pruning used
@@ -233,6 +259,15 @@ sedative; this is not considered a food-safety hazard.
   crop.
 - Seed viability duration, cyanogen content of leaves and unripe fruit,
   and a detailed regional cost study were not accessed or found.
+- Photoperiod response of this species itself is not sourced; the
+  genus-level analogy to *P. edulis*'s long-day flowering requirement
+  is suggestive only, not confirmed for this species.
+- Salinity classification of seedlings conflicts directly between the
+  original study ("moderately tolerant") and a secondary summary of
+  the same data ("moderately sensitive"); mature-plant salinity
+  tolerance is not sourced at all. The underlying trial's exact figures
+  come from a search-engine abstract/summary, since the source PDF
+  itself returned an access error when fetched directly.
 
 ## Estimates and derivations
 
@@ -410,3 +445,31 @@ only (full citation not independently verified).
 related passionfruit-genus crops, used for climate comparison and
 water-use analogy. Read: opened (repo files, earlier in the research
 process).
+
+[19] Search-snippet-level material on *Passiflora edulis* flowering
+photoperiod response, including an RHS cultivation profile, a
+Brazilian (Jaboticabal) horticultural trial, an Okinawa study, and a
+UFV dissertation/SciELO journal article on a photoperiod-insensitive
+mutant line, plus a non-peer-reviewed grower-site note on short-day
+behavior in other ornamental *Passiflora* species. Accessed 2026-11-08,
+search snippets only, none opened directly.
+
+[20] A 2011 Colombian peer-reviewed agricultural-science journal
+article (Revista U.D.C.A Actualidad & Divulgación Científica) on
+salinity-stress response of this species' seedlings. Supplied: NaCl/EC
+treatment levels, leaf-area and dry-matter outcomes, and the study's
+own "moderately tolerant" classification. Accessed 2026-11-08, found
+via a repository listing at search-snippet/abstract depth — the source
+PDF returned an access error (HTTP 403) when fetched directly, not
+opened in full text.
+
+[21] A 2013 peer-reviewed follow-up study on the same species and
+salinity treatments, focused on photosynthetic response. Supplied:
+leaf-area reduction range and photosystem-II efficiency (Fv/Fm) decline
+figures. Accessed 2026-11-08, search snippet only, not opened directly.
+
+[22] A secondary summary source classifying the same underlying
+seedling salinity data as "moderately sensitive," conflicting with
+Source [20]'s own framing; and a genus-level note on a related Andean
+*Passiflora* species' salt tolerance via sodium excretion, cited only
+as context. Accessed 2026-11-08, search snippets only.
