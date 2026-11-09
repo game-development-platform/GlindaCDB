@@ -1,7 +1,11 @@
 # Cantaloupe / Muskmelon (*Cucumis melo*, Reticulatus and Cantalupensis groups)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/cantaloupe.md`
-**Researched:** 2026-09-30
+**Researched:** 2026-09-30 (re-researched 2026-11-09 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see the new Agronomic data line on photoperiod/sex-expression and the
+numeric salinity figure now written into Soil from a citation that already
+existed but was never used, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -128,6 +132,17 @@ packing facility rather than in the field [1][3][15].
 - **Pollination:** Requires insect (bee) pollination; most cultivars are
   andromonoecious, with some monoecious and gynoecious lines used
   specifically in hybrid-seed breeding (Finding 3).
+- **Photoperiod sensitivity:** Floral initiation/flowering time itself
+  appears day-neutral, driven primarily by temperature (see Life
+  form/season above). Sex expression is a separate matter, however —
+  the ratio of male to perfect (female) flowers on andromonoecious
+  plants is reported as sensitive to both temperature and photoperiod,
+  with short days and low temperature favoring female flowers and high
+  temperature/long days favoring male flowers; melon-specific
+  quantitative data are thin, and this draws partly on congener
+  (cucumber) evidence rather than melon-specific studies [23]. Not
+  applicable to tuberization/bulbing — a vine crop with no storage
+  organ.
 - **Yield:** A world-average yield figure derived from recent global
   production statistics sits in the high 20,000s kg/ha, though this
   figure is lumped together with honeydew and other melon types and is
@@ -156,6 +171,11 @@ packing facility rather than in the field [1][3][15].
   California fertilization guideline's nutrient-removal figures; heavier
   soils are preferred early in the season for moisture retention, while
   well-drained sandy loam rich in organic matter is generally preferred.
+  Salinity tolerance is rated moderately sensitive, with an ECe threshold
+  of 1.0 dS/m and yield declining roughly 8.4% per additional dS/m above
+  that threshold (FAO Irrigation & Drainage Paper 29 salt-tolerance
+  table); the same table lists watermelon alongside muskmelon but without
+  numeric values, only an estimated "moderately sensitive" rating [10].
 - **Storage:** Picked fruit is cooled soon after harvest and held cool
   and humid for roughly 10-14 days, with immature fruit vulnerable to
   chilling injury below a specific temperature threshold; the netted rind
@@ -243,6 +263,10 @@ this kind of health/safety data.
   cucurbit crop (gynoecious-line maintenance via a specific plant
   hormone treatment) applies directly to this crop was not confirmed by
   a melon-specific source.
+- Sex-expression photoperiod/temperature sensitivity relies partly on
+  cucumber (a congener) evidence rather than melon-specific
+  quantitative studies; a direct melon sex-expression trial would
+  replace this analogy.
 
 ## Estimates and derivations
 
@@ -369,10 +393,16 @@ rooting depth and soil-moisture-depletion allowance figures, and a note
 that a water-stress yield-response factor was found for watermelon but
 not melon specifically. Accessed 2026-09-30.
 
-[10] A standard international water-quality-for-agriculture reference
-work's salt-tolerance annex. Supplied: a salinity threshold and
-yield-loss-per-unit figure for muskmelon, rated moderately sensitive.
-Accessed 2026-09-30.
+[10] FAO Irrigation and Drainage Paper 29 (revised 1985), Annex Table
+1 (salt tolerance of annual/vegetable crops). Supplied: an ECe
+threshold of 1.0 dS/m and an 8.4%-per-dS/m yield-decline slope for
+muskmelon (Reticulatus Group), rated moderately sensitive, plus a
+watermelon entry in the same table rated moderately sensitive
+(estimated) but without numeric threshold/slope values. Accessed
+2026-09-30 (full table content retrieved) and re-confirmed 2026-11-09;
+the exact figures were first written into this document's body on the
+2026-11-09 pass, having been cited but not transcribed on the original
+pass.
 
 [11] A major international agricultural-statistics database's recent
 production figures for the "cantaloupes and other melons" category,
@@ -451,3 +481,13 @@ timing and sunburn exposure. Accessed 2026-09-30, search snippets only.
 [22] A search-snippet-level fertilization-guideline summary giving a
 weighted-average nitrogen-removal figure per ton of fresh fruit. Accessed
 2026-09-30, search snippet only.
+
+[23] Search-snippet-level material on melon and cucumber floral sex-
+expression response to temperature and photoperiod, including a
+Virginia Tech Cooperative Extension guide (SPES-507) and cucumber-
+specific peer-reviewed studies (PMC6220452, PMC6288824) used as a
+congener analogy. Supplied: the environmental-sensitivity framing of
+male-to-female flower ratio (short days/low temperature favoring
+female flowers, long days/high temperature favoring male flowers), with
+melon-specific quantitative data noted as thin. Accessed 2026-11-09,
+search snippets only, none opened directly.
