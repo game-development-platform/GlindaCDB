@@ -1,7 +1,10 @@
 # Banana, Plantain, and East African Highland Banana (*Musa* spp.)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/banana.md`
-**Researched:** 2026-10-10
+**Researched:** 2026-10-10 (re-researched 2026-11-08 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see Finding 8 and the new Agronomic data lines on flowering photoperiod and
+salinity, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -156,6 +159,27 @@ alcohol-content figures conflict notably between sources [12]. The
 unfermented juice itself is also consumed as a mild, essentially non-
 alcoholic beverage [12].
 
+**Finding 8 — in B-genome cultivars, part of the clonal-degeneration
+risk is built into the plant's own DNA, not carried by an outside
+pathogen.** Banana streak virus (BSV) exists in at least four distinct
+species as infectious sequences integrated directly into the *Musa
+balbisiana* B genome itself, rather than only as an ordinary externally
+transmitted infection; this affects plantain (AAB) and other B-genome
+cultivars and hybrids [23]. Tissue culture/micropropagation — the
+standard clean-stock method used across all three crops to exclude
+externally transmitted pathogens (see Propagation, below) — is itself
+a documented trigger that can activate this integrated viral sequence
+into infectious virus, independent of any external infection source;
+one study found natural plantains and a synthetic hybrid equally prone
+to this activation for one BSV species, but not for another, and a
+separate field-risk study found tissue culture and ordinary field
+cultivation trigger activation through distinct pathways, with water-
+regime and thermal stress flagged as separate activators under field
+conditions [23]. The practical upshot: standard tissue-culture clean-
+stock certification, which works well against ordinary externally
+transmitted viruses, cannot by itself guarantee virus-free planting
+material for B-genome cultivars specifically.
+
 ## Agronomic data
 
 **Shared across all three crops** (family-level biology):
@@ -180,6 +204,21 @@ alcoholic beverage [12].
   sword suckers dug from established plantings, corm pieces, or
   laboratory-grown (tissue-culture) plantlets; suckers are commonly
   treated (pared and hot-water-treated) against pests before planting.
+  Tissue culture reliably excludes ordinary externally transmitted
+  pathogens, but B-genome cultivars (plantain and some hybrids) carry a
+  distinct clonal-degeneration risk from an infectious virus integrated
+  directly into their own genome, which tissue culture itself can
+  trigger into activity (Finding 8) [23].
+- **Photoperiod sensitivity:** Disputed between sources for flowering:
+  some classify banana as day-neutral for floral induction itself, with
+  photoperiods under roughly 12 hours only slowing the rate of bunch
+  initiation and development rather than blocking flowering outright;
+  other work describes a facultative long-day response in which longer
+  photoperiods during the mid-vegetative phase (roughly the two to
+  three months before bunch formation) hasten flowering, with
+  sensitivity reportedly varying by genome group/cultivar. Not
+  reconciled between sources [24]. Not applicable to tuberization/
+  bulbing, since Musa has no such storage organ.
 - **Water use:** An unusually shallow root zone combined with a
   conservative soil-moisture-depletion allowance and a notably high
   yield-sensitivity-to-water-deficit parameter make this one of the
@@ -196,7 +235,19 @@ alcoholic beverage [12].
 - **Disease/pest profile:** A soil-borne fungal wilt disease, a major
   leaf fungal disease, an incurable aphid-borne virus, and a bacterial
   wilt disease are the dominant disease concerns, with relative
-  severity varying by crop and genome group (Finding 5).
+  severity varying by crop and genome group (Finding 5). A separate,
+  genome-integrated viral degeneration risk affects B-genome cultivars
+  specifically (Finding 8).
+- **Soil:** A standard international crop-water-use reference rates
+  banana only qualitatively as salinity-"sensitive," with no numeric
+  salinity threshold or yield-decline slope given [2][25]. Field-
+  irrigation studies do give real figures, though for irrigation-water
+  EC rather than the soil-ECe convention FAO's own table uses, so the
+  two aren't directly comparable: an Omani trial found yield losses up
+  to 50% once irrigation water exceeds roughly 1.0 dS/m EC, and a
+  Brazilian study found an roughly 10.1% yield decline per unit
+  increase in irrigation-water EC above a 0.6 dS/m baseline, regardless
+  of cultivar [25].
 
 **Dessert banana specifically:**
 
@@ -346,6 +397,17 @@ national dish.
   modeling purposes; this crop's frost response (killing the entire
   above-ground plant, not just leaves) does not map cleanly onto
   archetypes built from true trees.
+- Flowering photoperiod response (day-neutral-with-modulation vs.
+  facultative long-day) is not reconciled between sources, and neither
+  camp's sourcing was opened beyond search-snippet depth.
+- Banana's FAO-56 salinity rating is a bare qualitative label with no
+  numeric threshold; the two numeric field-irrigation figures found use
+  irrigation-water EC, not FAO's own soil-ECe convention, so they
+  can't be directly substituted into FAO-56-style modeling.
+- Whether eBSV activation risk (Finding 8) differs meaningfully between
+  the plantain and highland-banana B-genome groups specifically was not
+  found — the one activation study located tested a natural plantain
+  and a synthetic AAAB hybrid, not the highland group.
 
 ## Estimates and derivations
 
@@ -560,3 +622,29 @@ different region, whose leaves are also sold as a product. Accessed
 herbaceous fruit crops with similar ratoon-based harvest patterns,
 used for grounding and comparison. Read: opened (earlier in the same
 research session).
+
+[23] Search-snippet-level material on Banana streak virus (BSV)
+endogenous to the Musa balbisiana B genome, including a peer-reviewed
+Molecular Plant Pathology study (2010) on tissue-culture activation in
+natural plantains and a synthetic AAAB hybrid, and a peer-reviewed
+Frontiers in Plant Science field-risk study (2022) distinguishing
+tissue-culture and field-cultivation activation pathways. Accessed
+2026-11-08, search snippets only, neither opened directly.
+
+[24] Search-snippet-level material on banana flowering photoperiod
+response, including science-news coverage (phys.org, 2011) of a
+Functional Plant Biology study describing a facultative long-day
+response, a 2017 Scientific Reports paper on FLOWERING LOCUS T
+homologues describing day-neutral floral induction, and a Brazilian
+Journal of Plant Physiology open-access review. Accessed 2026-11-08,
+search snippets only, none opened directly.
+
+[25] FAO Irrigation and Drainage Paper 56, Annex Table A1.2 ("Salt
+tolerance of woody crops"), opened directly at the source page.
+Supplied: banana's own salinity rating, which is a bare qualitative
+"sensitive" label with both the numeric threshold and slope columns
+blank. Supplemented by search-snippet-level material on an Omani
+irrigation-water-salinity field trial and a Brazilian peer-reviewed
+agronomy journal article (Revista Ciência Agronômica) giving numeric
+irrigation-water EC figures, neither opened directly. Accessed
+2026-11-08.

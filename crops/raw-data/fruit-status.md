@@ -9,7 +9,7 @@
 | asian_pear | Pyrus pyrifolia and related species | asian-pear.md |  | 2026-11-08 | RESEARCHED |
 | avocado | Persea americana | avocado.md |  | 2026-11-08 | RESEARCHED |
 | babaco | Vasconcellea × heilbornii | babaco.md |  | 2026-11-08 | RESEARCHED |
-| banana | Musa AAA dessert | banana.md | `highland_banana`, `plantain` | 2026-10-10 | OUT-OF-DATE |
+| banana | Musa AAA dessert | banana.md | `highland_banana`, `plantain` | 2026-11-08 | RESEARCHED |
 | banana_passionfruit | Passiflora tripartita var. mollissima | banana-passionfruit.md |  | 2026-10-04 | OUT-OF-DATE |
 | bergamot | Citrus bergamia | bergamot.md |  | 2026-10-06 | OUT-OF-DATE |
 | bitter_orange | Citrus × aurantium | bitter-orange.md | `orange`, `chinotto`, `laraha`, `daidai` | 2026-11-08 | OUT-OF-DATE |
@@ -44,7 +44,7 @@
 | grape | Vitis vinifera | grape.md | `american_grape`, `muscadine` | 2026-11-08 | RESEARCHED |
 | grapefruit | Citrus × paradisi | grapefruit.md |  | 2026-09-29 | OUT-OF-DATE |
 | guava | Psidium guajava | guava.md |  | 2026-09-30 | OUT-OF-DATE |
-| highland_banana | Musa AAA-EA, Mutika/Lujugira subgroup | banana.md | `banana`, `plantain` | 2026-10-10 | OUT-OF-DATE |
+| highland_banana | Musa AAA-EA, Mutika/Lujugira subgroup | banana.md | `banana`, `plantain` | 2026-11-08 | RESEARCHED |
 | honeydew | Cucumis melo Inodorus group | honeydew.md |  | 2026-09-30 | OUT-OF-DATE |
 | indian_jujube | Ziziphus mauritiana | indian-jujube.md |  | 2026-10-13 | OUT-OF-DATE |
 | jackfruit | Artocarpus heterophyllus | jackfruit.md |  | 2026-10-01 | OUT-OF-DATE |
@@ -85,7 +85,7 @@
 | persimmon_dateplum | Diospyros lotus | persimmon-dateplum.md |  | 2026-10-12 | OUT-OF-DATE |
 | persimmon_texas | Diospyros texana | persimmon-texas.md |  | 2026-10-12 | OUT-OF-DATE |
 | pineapple | Ananas comosus | pineapple.md |  | 2026-09-29 | OUT-OF-DATE |
-| plantain | Musa AAB and other cooking bananas | banana.md | `banana`, `highland_banana` | 2026-10-10 | OUT-OF-DATE |
+| plantain | Musa AAB and other cooking bananas | banana.md | `banana`, `highland_banana` | 2026-11-08 | RESEARCHED |
 | plum | Prunus domestica, European plum | plum.md |  | 2026-09-28 | OUT-OF-DATE |
 | pomegranate | Punica granatum | pomegranate.md |  | 2026-10-12 | OUT-OF-DATE |
 | pomelo | Citrus maxima | pomelo.md |  | 2026-10-03 | OUT-OF-DATE |
