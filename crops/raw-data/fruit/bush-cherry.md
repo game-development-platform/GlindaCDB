@@ -1,7 +1,9 @@
 # Bush Cherries — Nanking Cherry (*Prunus tomentosa*) and Sand Cherry (*P. pumila*, incl. var. *besseyi*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/bush-cherry.md`
-**Researched:** 2026-10-05
+**Researched:** 2026-10-05 (re-researched 2026-11-09 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see the new Agronomic data lines on photoperiod and salinity, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -118,6 +120,16 @@ the parent of a line of cold-hardy cherry-plum hybrids [2][5][8].
   while others describe it as partly self-fertile; both are
   insect-pollinated. Sand cherry is insect-pollinated, with
   self-fertility not stated in the sources reviewed.
+- **Photoperiod sensitivity:** Not sourced specifically for either
+  species. By Prunus-genus analogy only (not confirmed species-
+  specific): as with other stone-fruit Prunus crops this project has
+  researched, bloom timing is governed by chilling accumulation and a
+  post-rest heat requirement rather than day length. One field trial
+  found a sand-cherry (*P. besseyi*) clone bloomed roughly 9 days later
+  than a peach cultivar grown alongside it, with the authors attributing
+  the gap to heat-accumulation differences after an earlier-satisfied
+  chilling requirement, not to photoperiod or chilling itself [9]. Not
+  applicable to tuberization/bulbing — both are woody shrubs.
 - **Yield:** No per-hectare yield figure was found directly for either
   species; a yield estimate is derived below from per-bush figures and an
   assumed hedge-planting density. No yield figure at all was found for
@@ -138,7 +150,17 @@ the parent of a line of cold-hardy cherry-plum hybrids [2][5][8].
 - **Soil:** Well-drained soil is strongly preferred, sandy for both
   species; Nanking cherry tolerates alkaline soil to around pH 8 or
   higher, though another source gives a narrower range. Nutrient-uptake
-  figures were not found for either species.
+  figures were not found for either species. Salinity, by contrast, is
+  now sourced species-specifically for both from the same controlled
+  trial: Nanking cherry was rated severely susceptible to soil-applied
+  sodium chloride, with significant leaf necrosis by day 3 and total
+  necrosis by day 7; sand cherry was rated moderate-to-poor tolerance in
+  the same trial — no necrosis, but wilting and leaf drop, despite
+  accumulating the highest leaf sodium and chloride content of the
+  seven species tested in that study [10]. One other source notes
+  Nanking cherry is nonetheless often field-planted on saline and
+  saline-alkali soils in China, a conflict with the controlled-trial
+  result not resolved here.
 - **Labor:** No sourced labor-hour study exists for either species; hand
   harvest of the soft, easily damaged fruit is explicitly identified as
   the main obstacle to commercial production, and is assumed to dominate
@@ -199,6 +221,14 @@ project has a place for this kind of health/safety data.
 - Taxonomic placement of Nanking cherry (closer to plums versus a
   distinct cherry subgenus) is disputed between sources, though this
   does not appear to affect cultivation practice.
+- Photoperiod sensitivity for flowering is carried over by Prunus-
+  genus analogy only; no species-specific study was found for either
+  species.
+- Nanking cherry's salinity tolerance conflicts between a controlled
+  seedling trial (severely susceptible) and a separate source noting
+  the species is often field-planted on saline/saline-alkali soils in
+  China — not reconciled here, and possibly reflecting a difference
+  between young seedlings and established field plantings.
 
 ## Estimates and derivations
 
@@ -297,3 +327,26 @@ recommendation, an alternative soil pH range, a fruit-size survey across
 multiple accessions, growing-region-specific plant and fruit
 description, and named cherry-plum hybrid cultivars bred from sand
 cherry. Accessed 2026-10-05, search snippets only.
+
+[9] A peer-reviewed ASHS (Journal of the American Society for
+Horticultural Science) field comparison of a sand-cherry (*P. besseyi*)
+clone against a peach cultivar. Supplied: a documented ~9-day bloom-
+timing gap between the two, and the authors' attribution of that gap to
+post-rest heat-accumulation differences rather than photoperiod or
+chilling-requirement differences, plus documented chilling-satisfaction
+dates for each. Accessed 2026-11-09, abstract/excerpt depth only, not
+fully opened.
+
+[10] Dirr, M.A., "Tolerance of Seven Woody Ornamentals to Soil-Applied
+Sodium Chloride," Arboriculture & Urban Forestry (then Journal of
+Arboriculture) 4(7):162-165, 1978. Supplied: a controlled two-year-old-
+seedling, soil-applied-NaCl trial rating Nanking cherry severely
+susceptible (significant leaf necrosis by day 3, total necrosis by day
+7) and sand cherry moderate-to-poor tolerance (wilting and leaf drop
+without necrosis, despite the highest leaf sodium/chloride content of
+the seven species tested). Supplemented by search-snippet-level
+material noting Nanking cherry is nonetheless often field-planted on
+saline/saline-alkali soils in China, and a 2008 Chinese stone-fruit
+salt-resistance comparison rating it weakest of five species tested.
+Accessed 2026-11-09; the Dirr paper was opened directly, the
+supplementary material at search-snippet depth only.
