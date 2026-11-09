@@ -1,7 +1,10 @@
 # Cherry Plum / Myrobalan / Alycha (*Prunus cerasifera*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/cherry-plum.md`
-**Researched:** 2026-10-06
+**Researched:** 2026-10-06 (re-researched 2026-11-09 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see the new Agronomic data lines on photoperiod/chilling and salinity, added
+that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -90,6 +93,14 @@ per-tree yields around 10 kg (up to 50 kg for the best trees) [9][11].
   and protein content are carried over by analogy from the related plum
   crop this project has also researched, since no dedicated composition
   analysis for this species was found.
+- **Photoperiod sensitivity:** Not directly sourced for this species.
+  By analogy with deciduous *Prunus* generally (sweet cherry, apricot,
+  almond), dormancy release and flowering timing are driven by
+  cumulative winter chilling followed by post-dormancy heat
+  accumulation, not by day length; a commercial nursery source gives a
+  rough 300-500 chill-hour estimate for this species specifically,
+  unverified against peer-reviewed data [12]. Not applicable to
+  tuberization/bulbing — a tree crop with no storage organ.
 - **Pollination:** Sources conflict on self-fertility — one source
   describes the species as "self-fertile but cross-pollinated," while
   another describes it as an outbreeding diploid; the Russian hybrid
@@ -112,9 +123,18 @@ per-tree yields around 10 kg (up to 50 kg for the best trees) [9][11].
   months of cold stratification and can take up to 18 months to
   germinate.
 - **Soil:** Tolerates light, medium, and heavy soils, with well-drained
-  soil preferred; pH range and salinity tolerance are carried over by
-  analogy from the related plum crop, since no direct figures were
-  found for this species.
+  soil preferred; pH range is carried over by analogy from the related
+  plum crop, since no direct figure was found for this species.
+  Salinity tolerance is directly sourced at the species level but
+  inconsistent: in vitro trials on the Myrobalan 29C and Myrobolan B
+  clonal rootstock selections found only limited to moderate salt
+  tolerance (worse under severe NaCl stress), while a *P. cerasifera* ×
+  *P. munsoniana* hybrid rootstock (Mariana 2624) tested as the most
+  salt-tolerant of seven *Prunus* rootstocks compared, and a 2023 trial
+  of eight *P. cerasifera* genotypes found tolerance varying widely
+  within the species — suggesting genotype matters more than species
+  identity here, so no single figure can be cited as representative
+  [13].
 - **Labor:** No sourced labor-hour budget exists for this crop; rough
   estimates are carried over by analogy from the related plum crop,
   adjusted for smaller fruit size, with an added allowance for the
@@ -186,8 +206,16 @@ data.
 - Stand life and bearing regularity are not well researched; one source's
   note on irregular, infrequent heavy-crop years under less intensive
   cultivation was not further quantified.
-- Soil pH tolerance and salinity rating are carried over by analogy from
-  the related plum crop rather than directly sourced for this species.
+- Soil pH tolerance is carried over by analogy from the related plum
+  crop rather than directly sourced for this species.
+- Salinity tolerance is directly sourced but conflicting at the
+  genotype level (clonal rootstock selections read as only moderately
+  tolerant, while a hybrid rootstock and at least one of eight tested
+  genotypes read as strongly tolerant) — not reconciled into a single
+  representative figure here.
+- No peer-reviewed, species-specific chilling-requirement study was
+  found; the ~300-500 chill-hour figure used here comes from a
+  commercial nursery source only.
 - Spacing and planting-density figures used to derive per-hectare yield
   tiers are assumed by analogy to typical plum-orchard spacing, not
   directly sourced for this species.
@@ -308,3 +336,25 @@ Accessed 2026-10-06, search snippets only.
 from nursery and gardening sources. Supplied: tree size, average and
 maximum per-tree yield figures, bearing age, and a cold-hardiness
 figure. Accessed 2026-10-06, search snippets only.
+
+[12] Search-snippet-level material on deciduous *Prunus* chilling and
+dormancy physiology, including a sweet-cherry study on chilling-versus-
+heat-driven bud break and dormancy release, a chill-requirement study
+on a named Chinese plum (*P. salicina*) cultivar, and a commercial
+nursery guide giving a chill-hour estimate for this species
+specifically. Supplied: confirmation of the genus-level
+chilling-then-heat flowering-timing model (not day-length-driven) and
+an unverified ~300-500 chill-hour estimate for this species. Accessed
+2026-11-09, search snippets only; none opened in full.
+
+[13] Search-snippet-level material on salinity/NaCl-stress trials of
+*Prunus cerasifera* clonal selections and related rootstocks, including
+an in vitro 2025 study of Myrobalan 29C, a 2006 study comparing
+Myrobolan B against Pixy rootstock under NaCl stress with and without
+calcium sulfate treatment, a 2021 *Horticulturae* comparison of seven
+*Prunus* rootstocks including the *P. cerasifera* × *P. munsoniana*
+hybrid Mariana 2624, and a 2023 University of Tehran trial of eight
+*P. cerasifera* genotypes under NaCl stress up to 80 mM. Supplied:
+conflicting salt-tolerance ratings showing strong genotype-dependent
+variation within the species. Accessed 2026-11-09, search snippets
+only; none opened in full.
