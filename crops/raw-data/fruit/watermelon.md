@@ -233,6 +233,11 @@ making them useful as a watermelon rootstock option.
 
 ## Agronomic data (citron melon, *C. amarus*)
 
+*(This profile re-reviewed 2026-11-09 against the full current checklist in
+`skills/crop-research/SKILL.md` and `templates/research-doc.md` — see the new
+Photoperiod and Salinity bullets below. The dessert-watermelon and
+seed-watermelon profiles above are unaffected by this pass.)*
+
 - **Life form / season:** Warm-season annual trailing vine, harvested as
   a single end-of-season crop; notably drought-hardy given its origin in
   one of the driest inhabited regions on Earth.
@@ -250,6 +255,22 @@ making them useful as a watermelon rootstock option.
   notably higher drought tolerance reflecting this species' Kalahari
   origin and documented ability for harvested fruit biomass to remain
   viable unrooted for many months.
+- **Photoperiod:** Not independently researched for this species.
+  Genus-level sources on dessert watermelon conflict (one database
+  calling it day-neutral/"indifferent to photoperiodism," another
+  calling it long-day), and no citron-melon-specific study was found;
+  a wild *Citrullus colocynthis* desert trial found flowering timing
+  insensitive to sowing date, loosely consistent with day-neutral
+  behavior, but this is analogy, not direct evidence [18]. Not
+  applicable to tuberization/bulbing — a vine annual with no storage
+  organ.
+- **Salinity:** Not sourced for citron melon specifically — despite its
+  use as a disease-resistant watermelon rootstock (see Uses), no study
+  testing *C. amarus* for salt tolerance was found. For comparison,
+  dessert watermelon's own FAO salinity rating (citation [13]) is only
+  a non-numeric estimate — "Moderately Sensitive" — so no firm
+  genus-level numeric benchmark exists either; citron melon's desert/
+  Kalahari origin does not by itself establish salt tolerance [18].
 - **Propagation:** By direct seeding; red- and green-seeded types exist,
   and the species readily persists as a volunteer or weedy plant outside
   cultivation.
@@ -329,6 +350,11 @@ making them useful as a watermelon rootstock option.
 - No dedicated yield, storage, or detailed composition data were found
   for citron melon; figures here are rough estimates scaled from dessert
   watermelon.
+- No citron-melon-specific photoperiod or salinity data was found;
+  despite its documented use as a disease-resistant rootstock, no
+  rootstock-salinity trial naming *C. amarus* specifically was located,
+  and dessert watermelon's own FAO salinity rating is itself only a
+  non-numeric estimate rather than a firm genus-level benchmark.
 - Isolation distance and diploid seed-yield figures for dessert-
   watermelon seed production were not researched.
 
@@ -546,3 +572,17 @@ and a series of regional enterprise-budget publications. Supplied: a
 documented harvest labor-time range per unit area, and documented hired-
 crew labor hours for transplanting and end-of-season plastic-mulch
 removal. Accessed 2026-10-10, search snippets only.
+
+[18] Multiple search-snippet-level sources on *Citrullus* genus
+photoperiod response and citron-melon/rootstock salinity tolerance,
+including INRAE's "Tropileg" cucurbit production database, a
+University of Illinois alternative-crops profile, a Sudanese *Citrullus
+colocynthis* sowing-date flowering trial, and general rootstock-
+salinity literature covering other cucurbit genera (bottle gourd,
+*Cucurbita moschata*) but not naming *C. amarus* specifically. Also
+re-confirms (direct fetch) that the FAO reference underlying citation
+[13]'s dessert-watermelon salinity rating gives only a non-numeric
+"Moderately Sensitive (estimate)" rating with no ECe threshold or
+yield-decline slope. Accessed 2026-11-09; the FAO page was opened
+directly, the rest at search-snippet depth only. No citron-melon-
+specific photoperiod or salinity data was found.

@@ -26,7 +26,7 @@
 | cherry_plum | Prunus cerasifera | cherry-plum.md |  | 2026-11-09 | RESEARCHED |
 | chinotto | Citrus myrtifolia (possibly *C.* × *aurantium* var. *myrtifolia*) | chinotto.md | `bitter_orange` | 2026-11-09 | RESEARCHED |
 | citron | Citrus medica | citron.md |  | 2026-11-09 | RESEARCHED |
-| citron_melon | Citrullus amarus | watermelon.md | `seed_watermelon`, `watermelon` | 2026-10-10 | OUT-OF-DATE |
+| citron_melon | Citrullus amarus | watermelon.md | `seed_watermelon`, `watermelon` | 2026-11-09 | RESEARCHED |
 | coconut | Cocos nucifera | coconut.md |  | 2026-10-10 | OUT-OF-DATE |
 | coyo | Persea schiedeana | coyo.md |  | 2026-10-05 | OUT-OF-DATE |
 | cranberry | Vaccinium macrocarpon | cranberry.md |  | 2026-10-01 | OUT-OF-DATE |
