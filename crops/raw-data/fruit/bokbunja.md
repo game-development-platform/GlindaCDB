@@ -1,7 +1,10 @@
 # Bokbunja / Korean Black Raspberry (*Rubus coreanus*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/bokbunja.md`
-**Researched:** 2026-10-05
+**Researched:** 2026-10-05 (re-researched 2026-11-09 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see the new Agronomic data lines on photoperiod, salinity, and viral risk,
+added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -129,6 +132,16 @@ peak production, and a documented list of pests and diseases [3].
   bramble crops (not independently researched for this species
   specifically); flower clusters contain many individual flowers per
   cluster.
+- **Photoperiod sensitivity:** Not sourced for this species specifically.
+  By genus-level Rubus analogy only (floricane-type red raspberry
+  literature, untested for this species): floral initiation in
+  biennial/floricane-type brambles is jointly driven by short day
+  length and cool temperature, with initiation reportedly occurring
+  regardless of photoperiod below roughly 12°C — not a day-neutral
+  response as such [14]. This species has no documented primocane-
+  fruiting type, so the day-neutral pattern this project found in some
+  sibling-crop types likely does not apply here. Not applicable to
+  tuberization/bulbing.
 - **Yield / composition:** See Estimates below; a national yield figure
   exists but mixes in the commercially dominant, botanically distinct
   sibling species, so it should be read as a general regional-
@@ -152,7 +165,16 @@ peak production, and a documented list of pests and diseases [3].
   well-drained soil; substantial compost and lime amendment is standard
   Korean practice to counter soil acidity; late-season nitrogen
   fertilization is specifically avoided, since it is linked to winter
-  injury.
+  injury. Salinity tolerance as a plant trait is still not sourced
+  species-specifically and remains carried over from the sibling crop
+  by analogy; a 2008 Korean soil survey of commercial "bokbunja" fields
+  (species identity not confirmed as the true species, the same
+  naming ambiguity noted throughout this entry) found salt-affected
+  soil (EC above roughly 4 dS/m) in about 55% of surveyed fields,
+  worsening with years under cultivation — a field-management finding
+  about accumulated soil salinity under repeated cultivation, not a
+  plant-tolerance figure, included here as context rather than as this
+  crop's own salinity rating [15].
 - **Stand life:** First crop typically arrives in the first or second
   year after planting, with peak production reached around the fourth
   year; overall long-term productive lifespan was not documented,
@@ -163,7 +185,15 @@ peak production, and a documented list of pests and diseases [3].
   anthracnose, a bacterial disease, and a witches'-broom disorder are
   documented — though these are documented for mixed fields of both
   this species and its commercially dominant sibling, not confirmed
-  specifically for the true species alone.
+  specifically for the true species alone. No virus or clonal-
+  degeneration risk documentation specific to this species was found,
+  despite dedicated Korean-language searches. By genus-level Rubus
+  analogy only: vegetatively propagated planting material (tip layers,
+  root cuttings — the standard methods used for this crop) is a
+  documented general vector for virus accumulation across brambles,
+  with clean-stock programs elsewhere in the genus relying on heat
+  therapy and meristem/tissue culture; no such program was found
+  documented for this species specifically [16].
 - **Cultivars:** Cultivar literature is sparse; documented variation
   spans a wild baseline form, a densely hairy-leaved botanical variety
   adapted to higher elevation, a named Korean botanical form, several
@@ -225,6 +255,20 @@ crops.
 - Overall long-term productive stand life (beyond "peaks around year
   four") was not documented and is estimated here by analogy and
   disease-resistance reasoning rather than sourced directly.
+- Photoperiod sensitivity for flowering is carried over by genus-level
+  Rubus analogy only (untested for this species); no species-specific
+  study was found.
+- Salinity tolerance as a plant trait remains unsourced for this
+  species; the only salinity-related finding located is a soil survey
+  of accumulated field salinity under repeated cultivation, not a
+  controlled plant-tolerance trial, and even that survey's "bokbunja"
+  fields are not confirmed as the true species rather than the
+  commercially dominant sibling.
+- Virus/clonal-degeneration risk in vegetatively propagated planting
+  material was not documented for this species specifically, despite
+  dedicated Korean-language searches; genus-level Rubus concern and
+  clean-stock practice elsewhere in the genus is documented, but no
+  species-specific program or risk finding was found.
 
 ## Estimates and derivations
 
@@ -409,3 +453,31 @@ straining. Accessed 2026-10-05, search snippets only.
 quality standard for the crude drug made from this crop. Supplied: a
 maximum permitted drying-loss percentage. Accessed 2026-10-05, search
 snippet only.
+
+[14] Search-snippet-level material on Rubus genus flower-bud-initiation
+photoperiod and temperature response, drawn from red-raspberry-specific
+literature (the Heide/Sønsteby research line) and a related genus-wide
+review proposing chilling and juvenility as prerequisite "systems"
+ahead of the temperature-daylength response. Supplied: the short-day-
+plus-cool-temperature floricane mechanism and the below-12°C
+temperature-override finding, offered here only as an untested genus-
+level analogy, not species-specific sourcing. Accessed 2026-11-09,
+search snippets only, none opened directly.
+
+[15] A 2008 Korean soil-science study of rain-shelter "bokbunja" fields
+in Gochang, Korea (species identity not confirmed as the true species).
+Supplied: a documented incidence of salt-affected soil across surveyed
+fields, a worsening trend with years under cultivation, and a
+desalinization-method comparison (rinsing outperforming leaching).
+Accessed 2026-11-09, search snippet only; a direct PDF fetch attempt
+failed.
+
+[16] Search-snippet-level material on virus risk and clean-stock
+practice in Rubus generally, including an ISHS review of Rubus tissue
+culture (covering virus elimination as a core use case), material
+describing conventional vegetative propagation as slow/ineffective at
+producing virus-free material compared to tissue culture, and a USDA
+Rubus germplasm survey finding viruses in a documented share of
+received Rubus clones. Supplied: genus-level virus-risk and clean-stock
+context; no finding specific to this species. Accessed 2026-11-09,
+search snippets only, none opened directly.
