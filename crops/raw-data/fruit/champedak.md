@@ -1,7 +1,9 @@
 # Champedak (*Artocarpus integer*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/champedak.md`
-**Researched:** 2026-10-03
+**Researched:** 2026-10-03 (re-researched 2026-11-09 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see the new Agronomic data lines on photoperiod and salinity, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -168,6 +170,15 @@ to 10% of an orchard's crop [10].
 - **Pollination:** Required; pollinated by a specific gall midge that
   depends on a fungal infection of the male flowers for its own life
   cycle, an unusual fungus-mediated mutualism (Finding 4).
+- **Photoperiod sensitivity:** The FAO EcoCrop database classifies this
+  species as short-day flowering (under 12 hours), though this is a
+  modeled database parameter rather than a controlled flowering-
+  induction study, and no source found tests this directly or
+  reconciles it with the dry-spell rainfall trigger already documented
+  (Finding 3); no photoperiod data was found for jackfruit either,
+  where only rainfall/dry-season timing is documented as a flowering
+  driver [22]. Not applicable to tuberization/bulbing — a tree crop
+  with no storage organ.
 - **Yield:** A national average yield of roughly 6,000 kg/ha (harvested
   basis) is well sourced from official agricultural statistics for a
   major producing country, with documented potential yield more than
@@ -186,6 +197,11 @@ to 10% of an orchard's crop [10].
 - **Soil:** Prefers fertile, well-drained soil (sandy loam per one
   source); a moderately acid pH range is preferred. Nutrient-uptake
   figures are derived rather than directly sourced (see Estimates).
+  Salinity tolerance is low: the FAO EcoCrop database lists both the
+  optimal and absolute soil-salinity range as under 4 dS/m, consistent
+  with salt-sensitivity documented in seedling studies of jackfruit and
+  breadfruit; no champedak-specific controlled salinity trial was
+  found [23].
 - **Labor:** No sourced labor-hour budget exists for this crop; rough
   estimates suggest harvest, fruit wrapping/spraying against fruit flies,
   and general orchard maintenance (fertilizing, weeding, dieback
@@ -280,6 +296,13 @@ project has a place for this kind of health/safety data.
 - Current detailed agricultural practice in two of the largest producing
   states within the main producing country was not found in the sources
   reviewed.
+- The FAO EcoCrop database's short-day photoperiod classification is a
+  modeled parameter, not a controlled study, and is not reconciled with
+  the dry-spell rainfall-trigger framing documented in Finding 3; no
+  direct test of photoperiod sensitivity was found for this species.
+- Salinity tolerance is sourced only from the same EcoCrop database
+  entry plus genus-level analogy to jackfruit and breadfruit seedling
+  studies; no champedak-specific controlled salinity trial was found.
 
 ## Estimates and derivations
 
@@ -482,3 +505,24 @@ identified gall-midge pollinator species for the related same-genus
 crop, associated with a fungal infection of its male inflorescences —
 cited here as a parallel pollination mechanism to Finding 4. Accessed
 2026-10-03, title-level only.
+
+[22] The FAO EcoCrop database's datasheet entry for this species
+(cropView/dataSheet id=3435). Supplied: a short-day (under 12 hours)
+photoperiod classification — a modeled database parameter rather than
+a controlled flowering-induction study. Supplemented by search-
+snippet-level material on jackfruit flowering phenology (a Yogyakarta
+rainfall/dry-season-timing study), which found no photoperiod data
+either, only rainfall-based timing. Accessed 2026-11-09; the EcoCrop
+page was opened directly, the jackfruit material at search-snippet
+depth only.
+
+[23] The same FAO EcoCrop database datasheet, consulted for soil
+salinity. Supplied: a low (under 4 dS/m) optimal-and-absolute soil-
+salinity range, a modeled database parameter rather than a dedicated
+trial. Supplemented by search-snippet-level material on a 2019
+seedling salt-stress study of jackfruit and breadfruit (growth,
+chlorophyll, and biomass significantly reduced by salt stress) and a
+Sri Lankan jackfruit pot study on tsunami-affected land, whose
+tabulated thresholds were flagged as internally inconsistent and not
+independently verified. Accessed 2026-11-09; the EcoCrop page was
+opened directly, the rest at search-snippet depth only.
