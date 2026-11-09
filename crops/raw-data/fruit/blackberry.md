@@ -1,7 +1,11 @@
 # Blackberry (*Rubus* subgenus *Rubus*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/blackberry.md`
-**Researched:** 2026-09-30
+**Researched:** 2026-09-30 (re-researched 2026-11-09 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see the new Agronomic data lines on photoperiod, and the salinity figure now
+written into the Soil bullet from a citation that already existed but was
+never used, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -168,6 +172,17 @@ area [11].
   weather; a documented heat effect reduces pollen germination and
   fruit set above roughly 29-30°C in at least two primocane-fruiting
   cultivars.
+- **Photoperiod sensitivity:** Floricane (biennial) cultivars initiate
+  flower buds via a short-day autumn response, but temperature control
+  is at least as strong as photoperiod and the short-day timing shifts
+  by cultivar and location; primocane (annual) cultivars are largely
+  day-neutral instead, with initiation tied more to cane age/maturity,
+  though some genotypes also respond positively to chilling around
+  2°C — paralleling but not identical to the floricane/primocane
+  photoperiod split documented for the related raspberry crops [24].
+  Not independently verified against the primary paper (search-snippet
+  sourcing only). Not applicable to tuberization/bulbing — a cane crop
+  with no storage organ.
 - **Yield / composition:** World-average yield sits in the high
   thousands of kg/ha, with tiers spanning roughly a fivefold range
   because growth habit, farming system, and region differ substantially
@@ -192,7 +207,12 @@ area [11].
 - **Soil:** Wide pH tolerance (roughly 4.5-7.5), with a somewhat
   narrower preferred range; many soil types are workable provided
   drainage is good; organic matter is particularly valuable in
-  unirrigated plantings.
+  unirrigated plantings. Salinity: rated sensitive — the FAO salinity-
+  tolerance table (Ehlig 1964) gives an ECe threshold of 1.5 dS/m with
+  a 22%-per-dS/m yield-decline slope above that threshold, identical
+  for blackberry and the closely related hybrid-berry type [14]; a
+  secondary, non-FAO source gives a lower threshold (1.0-1.3 dS/m) for
+  the same two crops, not reconciled here.
 - **Stand life:** Commonly cited as 15-20 years under good management,
   though commercial budgets in some regions assume shorter productive
   lives (as short as 6 years in at least one fresh-market budget, and
@@ -272,6 +292,14 @@ several regions — an ecological rather than a food-safety concern.
   contamination brushing treatment, and manual suppression of unwanted
   early-season new-cane growth) have no corresponding modeled activity
   in this project yet.
+- Photoperiod/temperature control of flower-bud initiation is sourced
+  only at search-snippet depth, with the primary paper on floricane
+  short-day-plus-temperature control not independently opened.
+- The salinity figure now written into the Soil bullet comes from a
+  citation ([14]) that existed in this document from its original
+  research pass but was never actually transcribed into the body until
+  this 2026-11-09 full-checklist pass — worth noting as a reminder to
+  check for other orphan citations like it in older docs.
 
 ## Estimates and derivations
 
@@ -438,11 +466,14 @@ table for berry bushes generally. Supplied: crop-coefficient values,
 assumed plant height, and a soil-moisture-depletion allowance. Accessed
 2026-09-30, opened directly.
 
-[14] A standard international agricultural drainage-water-management
-reference work's salinity-tolerance annex. Supplied: a salinity
-threshold and yield-decline slope for this crop and a closely related
-hybrid-berry type, both rated sensitive to salinity. Accessed
-2026-09-30, opened directly.
+[14] FAO Irrigation and Drainage Paper (Y4263E), Table A1.2 ("Salt
+tolerance of woody crops," citing Ehlig 1964). Supplied: an ECe
+salinity threshold (1.5 dS/m) and yield-decline slope (22% per dS/m
+above threshold) for this crop and a closely related hybrid-berry
+type, both rated sensitive to salinity. Accessed 2026-09-30 and
+re-confirmed 2026-11-09, opened directly both times; the exact figures
+were first written into this document's body on the 2026-11-09 pass,
+having been cited but not transcribed on the original pass.
 
 [15] A peer-reviewed international horticultural-society symposium
 paper reporting a weighing-lysimeter study of water use in one major
@@ -510,3 +541,15 @@ duration guideline, additional measured yield figures for one major
 trailing cultivar, and an additional (likely misattributed) world
 production figure not used in this entry. Accessed 2026-09-30, search
 snippets only.
+
+[24] Search-snippet-level material on flower-bud-initiation photoperiod
+and temperature control in blackberry, including a 2024 peer-reviewed
+article (likely MDPI) on temperature and photoperiod control of shoot
+growth and floral bud initiation in biennial-fruiting blackberries, the
+same 2012 Acta Horticulturae (ISHS) genus-wide Rubus flower-bud-
+initiation review used elsewhere in this project's cane-fruit research,
+and an Oregon-based primocane-cultivar note. Supplied: the short-day-
+plus-temperature floricane mechanism, the day-neutral/cane-age-driven
+primocane mechanism, and the chilling-response note for some primocane
+genotypes. Accessed 2026-11-09, search snippets only, none opened
+directly.

@@ -14,7 +14,7 @@
 | bergamot | Citrus bergamia | bergamot.md |  | 2026-11-08 | RESEARCHED |
 | bitter_orange | Citrus × aurantium | bitter-orange.md | `orange`, `chinotto`, `laraha`, `daidai` | 2026-11-08 | RESEARCHED |
 | black_raspberry | Rubus occidentalis | black-raspberry.md |  | 2026-11-09 | RESEARCHED |
-| blackberry | Rubus subgenus Rubus | blackberry.md |  | 2026-09-30 | OUT-OF-DATE |
+| blackberry | Rubus subgenus Rubus | blackberry.md |  | 2026-11-09 | RESEARCHED |
 | blackcurrant | Ribes nigrum | blackcurrant.md |  | 2026-10-01 | OUT-OF-DATE |
 | blueberry | Vaccinium corymbosum | blueberry.md |  | 2026-09-29 | OUT-OF-DATE |
 | bokbunja | Rubus coreanus | bokbunja.md |  | 2026-10-05 | OUT-OF-DATE |
