@@ -1,11 +1,11 @@
 # algae crop status
 
-No crops researched yet in this category. All 26 rows below are queued (sourced from the private source project's own gap-tracking queue) but have had no research pass of any kind, so all are LISTED.
+1 of the 26 originally queued rows has been researched; the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
-| kelp_kombu | *Laminaria japonica / Saccharina japonica* |  |  |  | LISTED |
-| sugar_kelp | *Saccharina latissima* |  |  |  | LISTED |
+| kelp_kombu | *Laminaria japonica / Saccharina japonica* | kelp-kombu.md | `sugar_kelp`, `mitsuishi_kombu`, `naga_kombu` | 2026-11-09 | RESEARCHED |
+| sugar_kelp | *Saccharina latissima* |  | `kelp_kombu` |  | LISTED |
 | laminaria_digitata | *Laminaria digitata* |  |  |  | LISTED |
 | giant_kelp | *Macrocystis pyrifera* |  |  |  | LISTED |
 | ecklonia | *Ecklonia spp.* |  |  |  | LISTED |
@@ -30,3 +30,5 @@ No crops researched yet in this category. All 26 rows below are queued (sourced 
 | botryococcus | *Botryococcus braunii* |  |  |  | LISTED |
 | scenedesmus | *Scenedesmus spp.* |  |  |  | LISTED |
 | neochloris | *Neochloris oleoabundans* |  |  |  | LISTED |
+| mitsuishi_kombu | *Saccharina angustata* |  | `kelp_kombu` |  | PROPOSED |
+| naga_kombu | *Saccharina longissima* |  | `kelp_kombu` |  | PROPOSED |
