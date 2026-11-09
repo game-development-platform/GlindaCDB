@@ -1,7 +1,10 @@
 # Blackcurrant (*Ribes nigrum*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/blackcurrant.md`
-**Researched:** 2026-10-01
+**Researched:** 2026-10-01 (re-researched 2026-11-09 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see the new Agronomic data line on photoperiod and the confirmed salinity
+figure in Soil, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -149,6 +152,17 @@ typical cultivated level [2].
   meaningful share of cross-pollinating companion plants for optimal
   yield, while another describes most modern cultivars as self-
   pollinating and typically grown without separate pollinizers.
+- **Photoperiod sensitivity:** Floral initiation is photoperiod-
+  dependent (a short-day response) but temperature-modulated: at
+  moderate temperatures (roughly 12-16°C) flowering requires day
+  length to shorten below a critical point (studies place this near 15
+  hours), while at cooler temperatures (12°C or below) flower
+  initiation proceeds regardless of day length, effectively becoming
+  day-neutral; initiation occurs in late summer/early autumn, with
+  anthesis the following spring [18]. Search-snippet-level sourcing
+  only, not independently verified against the primary papers. Not
+  applicable to tuberization/bulbing — a shrub crop with no storage
+  organ.
 - **Yield / composition:** World-average yield sits in the low
   thousands of kg/ha, with wide regional variation (see Estimates
   below); vitamin C content is notably high and variable by cultivar.
@@ -168,7 +182,14 @@ typical cultivated level [2].
   neutral to slightly acidic, with some conflict between sources);
   deep, organic, well-drained soils with good water-holding capacity
   are preferred; the crop is described as a heavy feeder, and boron
-  deficiency has been noted in at least one growing region.
+  deficiency has been noted in at least one growing region. Salinity:
+  confirmed directly against the FAO salinity-tolerance table — *Ribes*
+  sp. is listed there with only a qualitative "sensitive" (estimated)
+  rating, with no numeric ECe threshold or yield-decline slope given
+  for the genus, unlike the real numeric figure this project found for
+  the related blackberry crop in the same table. Source [7]'s original
+  "no specific numeric threshold" description is therefore confirmed
+  correct, not an unfilled gap [7].
 - **Stand life:** No crop is typically allowed in the first year after
   planting; a light crop arrives in year two, full cropping by roughly
   year three to four; overall productive life is commonly at least 8-10
@@ -244,6 +265,11 @@ established finding.
   crop-specific international figure.
 - Detailed dormant-bud perfumery-oil data rely entirely on search-
   snippet-level sources rather than a primary study.
+- Photoperiod/temperature control of flower initiation is sourced only
+  at search-snippet depth; the primary Heide/Sønsteby-group papers were
+  not independently opened, and sources disagree somewhat on the exact
+  critical day length (near 15 hours in some studies, versus other
+  figures elsewhere).
 
 ## Estimates and derivations
 
@@ -358,10 +384,15 @@ assumed plant height, rooting-depth range, and a soil-moisture-
 depletion allowance. Accessed (originally for a related cane-fruit
 crop's research, reused here without re-opening).
 
-[7] A standard international agricultural drainage-water-management
-reference work's salinity-tolerance annex. Supplied: a tentative
-salinity-sensitivity rating for this genus generally, without a
-specific numeric threshold. Accessed 2026-10-01, opened directly.
+[7] FAO Irrigation and Drainage Paper 29 (Ayers and Westcot), Table
+A1.2 ("Salt tolerance of woody crops"). Supplied: a qualitative
+"sensitive" (estimated) salinity rating for *Ribes* sp. generally,
+citing Beeftink 1955 and Zhemchuzhnikov 1946, with the numeric
+ECe-threshold and yield-decline-slope cells both genuinely blank for
+this genus in the table itself (re-confirmed directly against the same
+table on the 2026-11-09 pass, which by contrast found a real numeric
+figure for blackberry in this same table). Accessed 2026-10-01 and
+re-confirmed 2026-11-09, opened directly both times.
 
 [8] Search-snippet-level material on regional legal restrictions
 related to the forest-pathogen host relationship, including several
@@ -436,3 +467,13 @@ share of world perfumery-bud supply and growing area. Accessed
 genus. Supplied: comparative chill-hour ranges for this crop and a
 closely related red-fruited crop (a lower-authority source, used only
 as a secondary cross-check). Accessed 2026-10-01, search snippet only.
+
+[18] Search-snippet-level material on blackcurrant flowering
+photoperiod and temperature control, including work attributed to the
+Heide/Sønsteby research group (a Scientia Horticulturae paper on
+dormancy induction interfering with short-day floral induction, and a
+related comparative blackcurrant/red-raspberry photoperiod-temperature
+study), plus an older 1960s Nature paper on cultivar 'Baldwin'.
+Supplied: the short-day, temperature-modulated floral-initiation
+mechanism and the critical-day-length figure. Accessed 2026-11-09,
+search snippets only, none opened directly.
