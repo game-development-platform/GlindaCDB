@@ -16,7 +16,7 @@
 | black_raspberry | Rubus occidentalis | black-raspberry.md |  | 2026-11-09 | RESEARCHED |
 | blackberry | Rubus subgenus Rubus | blackberry.md |  | 2026-11-09 | RESEARCHED |
 | blackcurrant | Ribes nigrum | blackcurrant.md |  | 2026-11-09 | RESEARCHED |
-| blueberry | Vaccinium corymbosum | blueberry.md |  | 2026-09-29 | OUT-OF-DATE |
+| blueberry | Vaccinium corymbosum | blueberry.md |  | 2026-11-09 | RESEARCHED |
 | bokbunja | Rubus coreanus | bokbunja.md |  | 2026-10-05 | OUT-OF-DATE |
 | breadfruit | Artocarpus altilis | breadfruit.md |  | 2026-10-01 | OUT-OF-DATE |
 | buddhas_hand | Citrus medica var. sarcodactylis | buddhas-hand.md |  | 2026-10-03 | OUT-OF-DATE |

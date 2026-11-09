@@ -1,7 +1,10 @@
 # Blueberry (*Vaccinium corymbosum*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/blueberry.md`
-**Researched:** 2026-09-29
+**Researched:** 2026-09-29 (re-researched 2026-11-09 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see the new Agronomic data lines on photoperiod and the numeric salinity
+thresholds now written into Soil, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -110,6 +113,16 @@ staggered) ripening are specifically suited to machine harvest [3].
   sonicating bees most efficient, honeybees also widely used, solitary
   bees contributing); some cultivars are self-unfruitful, and cross-
   pollination generally raises both fruit set and berry size.
+- **Photoperiod sensitivity:** Flower-bud initiation (distinct from the
+  winter-chill requirement above, which governs bud break/bloom after
+  dormancy, not initiation) is a phytochrome-mediated short-day
+  response, typically occurring under roughly 8-hour photoperiods in
+  late summer/fall, reinforced by cool fall temperatures (temperatures
+  above roughly 29°C in fall inhibit initiation); at least one day-
+  neutral, summer-blooming experimental genotype is documented as an
+  exception to the typical commercial-cultivar pattern [11]. Search-
+  snippet-level sourcing only. Not applicable to tuberization/bulbing —
+  a shrub crop with no storage organ.
 - **Yield / composition:** World-average yield sits in the mid
   thousands of kg/ha, with wide regional variation; one South American
   producing country reported the world's highest national average
@@ -136,7 +149,15 @@ staggered) ripening are specifically suited to machine harvest [3].
 - **Soil:** A narrow, distinctly acidic pH target considerably lower
   than most fruit crops; porous sandy or sandy-loam soil with
   substantial organic matter and excellent drainage is required, since
-  roots cannot penetrate compacted soil.
+  roots cannot penetrate compacted soil. Salinity: the crop is
+  described as extremely salt-sensitive, with a university extension
+  irrigation-water-quality circular giving numeric upper limits of EC
+  ≤1.0 dS/m (1,000 µS/cm), chloride ≤70 ppm, sodium ≤46 ppm, and boron
+  ≤1 ppm — boron above that level is documented as directly toxic to
+  the plant, not just a general salinity effect [9]. No corresponding
+  entry for this genus was found in the FAO Irrigation & Drainage Paper
+  29 woody-crop salt-tolerance table that this project has used for
+  several other berry crops.
 - **Stand life:** Bushes mature over five to seven years to full
   production; at least one detailed modern grower budget assumes a
   total field life of roughly 25 years including establishment.
@@ -182,9 +203,9 @@ jurisdiction.
   a crop-specific extension guide's considerably shallower figure; the
   shallower, crop-specific figure is used here as more directly
   applicable.
-- Salinity-tolerance thresholds are available only at the search-
-  snippet level, without a standard international reference entry for
-  this crop specifically.
+- Photoperiod sensitivity for flower-bud initiation is sourced only at
+  search-snippet depth; the underlying peer-reviewed studies were not
+  independently opened.
 - Several cultivars within each group (additional rabbiteye and
   southern highbush cultivars, and low-chill evergreen types grown in
   some South American and Central American production regions) were
@@ -310,13 +331,26 @@ table for berry bushes generally. Supplied: crop-coefficient values,
 assumed plant height, a general rooting-depth range, and a soil-
 moisture-depletion allowance. Accessed 2026-09-29, opened directly.
 
-[9] A university cooperative extension irrigation-water-quality
-circular. Supplied: a qualitative salinity-sensitivity rating and
-recommended irrigation-water electrical-conductivity, chloride, and
-sodium thresholds. Accessed 2026-09-29, search snippet only (full PDF
-did not extract).
+[9] University of Georgia Cooperative Extension Circular C1105,
+"Blueberry Irrigation Water Quality." Supplied: a qualitative
+"extremely sensitive to salt" rating, and numeric upper-limit
+thresholds for irrigation-water electrical conductivity (1.0 dS/m),
+chloride (70 ppm), sodium (46 ppm), and boron (1 ppm, with boron
+specifically flagged as directly toxic above that level). Accessed
+2026-09-29 (full PDF did not extract that pass) and re-confirmed
+2026-11-09 via the circular's current HTML page, opened directly that
+time with the full numeric table extracted.
 
 [10] Search-snippet-level material from several regional university
 extension guides. Supplied: additional regional yield-by-year figures,
 a mature-bush yield range, an alternative soil pH range, and sulfur-
 application-rate guidance. Accessed 2026-09-29, search snippets only.
+
+[11] Search-snippet-level material on blueberry flower-bud-initiation
+photoperiod response, including a peer-reviewed review (PMC), a
+Florida State Horticultural Society study on cultivar 'Misty', and a
+2025 ASHS conference abstract on a day-neutral experimental genotype
+(FL16-64). Supplied: the short-day, phytochrome-mediated initiation
+mechanism, the roughly 8-hour critical photoperiod, the fall-
+temperature inhibition threshold, and the day-neutral exception.
+Accessed 2026-11-09, search snippets only, none opened directly.
