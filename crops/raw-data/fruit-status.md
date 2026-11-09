@@ -8,7 +8,7 @@
 | apricot | Prunus armeniaca | apricot.md |  | 2026-11-08 | RESEARCHED |
 | asian_pear | Pyrus pyrifolia and related species | asian-pear.md |  | 2026-11-08 | RESEARCHED |
 | avocado | Persea americana | avocado.md |  | 2026-11-08 | RESEARCHED |
-| babaco | Vasconcellea × heilbornii | babaco.md |  | 2026-10-03 | OUT-OF-DATE |
+| babaco | Vasconcellea × heilbornii | babaco.md |  | 2026-11-08 | RESEARCHED |
 | banana | Musa AAA dessert | banana.md | `highland_banana`, `plantain` | 2026-10-10 | OUT-OF-DATE |
 | banana_passionfruit | Passiflora tripartita var. mollissima | banana-passionfruit.md |  | 2026-10-04 | OUT-OF-DATE |
 | bergamot | Citrus bergamia | bergamot.md |  | 2026-10-06 | OUT-OF-DATE |

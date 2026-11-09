@@ -1,7 +1,10 @@
 # Babaco (*Vasconcellea* × *heilbornii*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/babaco.md`
-**Researched:** 2026-10-03
+**Researched:** 2026-10-03 (re-researched 2026-11-08 against the full
+current checklist in `skills/crop-research/SKILL.md` and
+`templates/research-doc.md` — see the new Agronomic data lines on
+photoperiod and salinity, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -120,6 +123,13 @@ small plantings also exist in several other countries following a
   coastal sites, and protected (greenhouse) cultivation in cooler
   climates.
 - **Food status:** Raw-edible, including the skin.
+- **Photoperiod sensitivity:** Not sourced for this crop specifically.
+  The plant flowers and fruits continuously once mature, suggestive of
+  day-neutral behavior, and papaya (a close relative in the same
+  family) is widely described as flowering year-round, but no source
+  found explicitly tests or states photoperiod-independence for either
+  crop - this is treated as suggestive, not confirmed. Not applicable
+  to tuberization/bulbing, since babaco has no such organ.
 - **Pollination:** Not required — the crop produces only female
   flowers and sets fruit parthenocarpically without any pollination at
   all.
@@ -144,7 +154,12 @@ small plantings also exist in several other countries following a
 - **Soil:** Deep, well-drained loam to sandy soil is preferred, with an
   unusually wide tolerable pH range; substantial organic matter and a
   large one-time manure application at planting are documented
-  practice.
+  practice. Salinity tolerance, as its own dimension separate from pH,
+  is not sourced at a specific threshold for this crop: one source
+  describes it as salinity-intolerant in passing, and a genus-level
+  review of babaco's parent genus claims general drought and salinity
+  tolerance as a trait of breeding interest, but neither gives a number
+  and the two claims are not reconciled here.
 - **Stand life:** First harvest roughly eight to ten months after
   planting; a commercial production period of roughly two years before
   replanting is standard, though the plant can persist considerably
@@ -215,6 +230,12 @@ for this kind of health/safety data.
 - Nutrient uptake per tonne of fruit, cuttings produced per mother
   plant in field conditions, and current regional market/production
   statistics were not researched.
+- Photoperiod sensitivity was not conclusively settled either way for
+  this crop; continuous year-round flowering is suggestive of day-
+  neutrality but not confirmed by direct study.
+- A specific salinity threshold was not found; the existing "salinity
+  intolerant" note and a genus-level "salinity tolerant" breeding claim
+  for the parent genus are not reconciled.
 
 ## Estimates and derivations
 
@@ -324,3 +345,18 @@ Ecuador. Accessed 2026-10-03, search snippet only.
 [9] Search-snippet-level material on intensive-cultivation yield
 figures for this crop, from a tropical-fruit reference website.
 Accessed 2026-10-03, search snippet only.
+
+[10] Search-snippet-level material on photoperiod and flowering
+habit in babaco and related Caricaceae, including a general-reference
+encyclopedia entry citing a 1993 horticultural study, and papaya
+factsheets/patents describing year-round flowering. Supplied: evidence
+suggestive of, but not confirming, day-neutral flowering. Accessed
+2026-11-08, search snippets only; the most likely primary source
+(a 1996 HortScience paper on greenhouse babaco cultivation) was not
+opened.
+
+[11] Search-snippet-level material on salinity tolerance in the
+parent genus, including a 2025 peer-reviewed review on Vasconcellea
+species in papaya breeding. Supplied: a genus-level claim of drought
+and salinity tolerance as a breeding-interest trait, without a species-
+level threshold or figure. Accessed 2026-11-08, search snippet only.
