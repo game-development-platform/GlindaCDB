@@ -1,7 +1,9 @@
 # Black Raspberry (*Rubus occidentalis*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/black-raspberry.md`
-**Researched:** 2026-09-29
+**Researched:** 2026-09-29 (re-researched 2026-11-09 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see the new Agronomic data lines on photoperiod and salinity, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -95,6 +97,17 @@ treated as an established food-safety or nutritional claim.
   red-fruited crop (not independently researched for this species);
   pollinating insects are also the vector for at least one serious
   pollen-borne virus affecting this crop (Finding 1).
+- **Photoperiod sensitivity:** Not directly studied for this species.
+  By analogy to the related red-fruited crop (not confirmed species-
+  specific): standard biennial-cane floral initiation is linked to
+  short days plus cool autumn temperatures, while fall-fruiting
+  (primocane) types — including this species' own fall-fruiting
+  cultivar(s) — are reported as largely day-length-independent, with
+  temperature the dominant cue; this species' own fall-fruiting
+  cultivars acquired that trait through introgression from red-
+  raspberry breeding lines, paralleling the mechanism rather than
+  arising independently. Not applicable to tuberization/bulbing — a
+  cane crop with no storage organ.
 - **Yield / composition:** See Finding 2 and Estimates below for the
   range between typical, good, and exceptional yields.
 - **Propagation:** Exclusively vegetative — tip layering (the standard
@@ -119,7 +132,17 @@ treated as an established food-safety or nutritional claim.
   synthetic ground cover used in at least one detailed trial; soils
   with a history of certain solanaceous crops (which host the same
   soil-borne wilt fungus) should be avoided. Soil pH preference is
-  assumed by analogy to the related red-fruited crop.
+  assumed by analogy to the related red-fruited crop. Salinity
+  tolerance, however, is sourced species-specifically (moderate
+  confidence, since the primary USDA record itself wasn't opened
+  directly): a USDA PLANTS Database profile rates this species'
+  salinity tolerance as "None" on that database's categorical scale (no
+  numeric EC threshold given) — lower than the red-raspberry analogy
+  previously assumed here. Red raspberry itself is inconsistently
+  documented on this point: one source rates it "poor," while at least
+  one cultivar study found tolerance to high NaCl concentrations and
+  even a growth benefit under mild saline-alkali stress, suggesting
+  cultivar-level variation may apply to both species.
 - **Stand life:** Productivity can begin declining after as few as two
   production seasons due to disease pressure, though some sources
   suggest a longer four-to-eight-year typical productive life under
@@ -171,24 +194,33 @@ not treated as a hazard.
   benefit from modeling stand decline as disease-driven rather than a
   single fixed lifespan figure.
 - A substantial number of agronomic values (nutritional composition,
-  pollination detail, chill-hour requirement, soil pH range, salinity
-  rating, water-use stage timing, and labor-hour figures) are carried
-  over by analogy from the related red-fruited crop rather than
-  independently sourced for this species, since dedicated research on
-  this crop specifically is much more limited. A composition analysis
-  and dedicated labor-cost study specific to this crop would be the
-  most valuable replacements.
+  pollination detail, chill-hour requirement, soil pH range, water-use
+  stage timing, and labor-hour figures) are carried over by analogy
+  from the related red-fruited crop rather than independently sourced
+  for this species, since dedicated research on this crop specifically
+  is much more limited. A composition analysis and dedicated labor-cost
+  study specific to this crop would be the most valuable replacements.
 - Nutrient uptake per tonne of fruit was not researched.
 - Overall productive lifespan estimates remain only roughly bounded
   rather than precisely sourced.
+- Photoperiod sensitivity for flower bud initiation has not been
+  directly studied in this species; the red-raspberry analogy used
+  here, and the primocane-fruiting mechanism in this species' own
+  fall-fruiting cultivars, are both drawn from indirect sourcing.
+- The species-specific "None" salinity rating found this pass came from
+  a third-party index attributing the figure to USDA PLANTS, not from
+  the USDA PLANTS record itself opened directly — worth confirming
+  against the primary database directly in a future pass.
 
 ## Estimates and derivations
 
-Nutritional composition, pollination detail, soil pH range, salinity
-rating, and chill-hour requirement are carried over by analogy from
-the related red-fruited crop, since a dedicated composition analysis
-and chill study specific to this species were not available in the
-sources used.
+Nutritional composition, pollination detail, soil pH range, and
+chill-hour requirement are carried over by analogy from the related
+red-fruited crop, since a dedicated composition analysis and chill
+study specific to this species were not available in the sources
+used. Salinity rating is the one exception as of the 2026-11-09 pass:
+it is now sourced species-specifically from USDA PLANTS (via a third-
+party index), not carried over by analogy.
 
 A world-average yield figure is derived from one major Western US
 growing state's average yield over roughly a decade, since no broader
@@ -314,3 +346,28 @@ fruited crop (raw), used here as a composition analogy since this
 crop's own composition data was inaccessible in this research session.
 Accessed 2026-09-29, opened directly (API data, earlier in the same
 session).
+
+[11] Search-snippet-level material on Rubus genus and red-raspberry
+flower-bud-initiation photoperiod response, including a 2012 Acta
+Horticulturae (ISHS) review article, a peer-reviewed journal article
+(Journal of the American Society for Horticultural Science), and
+primocane-fruiting-cultivar studies (Horticultural Science and Technology
+journal; a 2024 journal article on temperature/photoperiod effects),
+plus a plant-patent record (USPP27871) and a grower-forum discussion on
+this species' own fall-fruiting cultivars. Supplied: the temperature-
+plus-short-day biennial floral-initiation model, the day-length-
+independence of primocane-fruiting types, and the red-raspberry-
+introgression origin of this species' fall-fruiting trait. Accessed
+2026-11-09, search snippets only, none opened directly.
+
+[12] A third-party plant-database index (rootfast-web.pages.dev)
+explicitly attributing its data to the USDA PLANTS Database, consulted
+for this species' own salinity-tolerance rating, pH range, and
+drought/moisture/shade tolerance. The underlying USDA PLANTS record
+itself was not opened directly this pass. Supplemented by search-
+snippet-level material on red raspberry's own salinity tolerance,
+including a landscape-plant database rating, a 2007 peer-reviewed
+study (Neocleous & Vasilakakis, cv. 'Autumn Bliss') on NaCl/chloride
+toxicity, and a 2023 Chinese study (cv. 'Qiuping') on saline-alkali
+stress response. Accessed 2026-11-09; the third-party index was fetched
+and opened directly, the rest at search-snippet depth only.
