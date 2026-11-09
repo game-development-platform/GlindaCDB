@@ -1,7 +1,9 @@
 # Citron (*Citrus medica*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/citron.md`
-**Researched:** 2026-10-02
+**Researched:** 2026-10-02 (re-researched 2026-11-09 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see the new Agronomic data lines on photoperiod and salinity, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -100,6 +102,12 @@ combined with sunlight exposure [11].
   figures were not confidently sourced; one source's moisture and
   vitamin-C figures were flagged by the source itself as needing
   rechecking.
+- **Photoperiod sensitivity:** No citron-specific day-length study was
+  found; by citrus-genus analogy, flowering is considered
+  "autoinductive" — driven by cold and water-deficit stress rather than
+  photoperiod — consistent with this species' documented year-round,
+  dormancy-free bloom flushes [13]. Not applicable to tuberization/
+  bulbing — a tree crop with no storage organ.
 - **Pollination:** Not required; the species is self-pollinating, though
   insects do visit the flowers.
 - **Yield:** A world-average figure (roughly 7,000 kg/ha) is derived
@@ -120,7 +128,15 @@ combined with sunlight exposure [11].
   is also an accepted route for ritual trees, since seedlings grow
   true-to-type due to the species' high homozygosity.
 - **Soil:** Deep, well-drained loam with good aeration is preferred; a
-  near-neutral to mildly alkaline pH range is tolerated.
+  near-neutral to mildly alkaline pH range is tolerated. Citron is
+  documented as salt-sensitive at the species level: an Etrog citron
+  accession showed markedly poorer chloride exclusion than Rangpur lime
+  rootstock in one study, and the FAO EcoCrop database rates its soil
+  salinity tolerance as low (under 4 dS/m). By citrus-genus analogy,
+  general citrus yield loss begins above roughly 1.2-1.5 dS/m soil EC,
+  and own-rooted (ungrafted) trees — the norm for ritual fruit — are
+  likely more salt-vulnerable than budded peel-orchard trees on a
+  salt-tolerant rootstock [14].
 - **Labor:** No sourced labor-hour budget exists for this crop; rough
   estimates suggest harvest and a substantial pruning/maintenance burden
   (staking fruiting branches, thorn trimming, water-sprout removal, and
@@ -207,8 +223,16 @@ destined for export to dozens of countries.
 - A detailed food-composition figure from one source was flagged by that
   source itself as needing to be rechecked.
 - Caloric content, peel-to-whole-fruit weight ratio, candied-peel yield
-  ratio, essential-oil yield, salinity tolerance, and detailed irrigation
-  practice were not found in the sources reviewed.
+  ratio, essential-oil yield, and detailed irrigation practice were not
+  found in the sources reviewed. (Salinity tolerance was not found as
+  of the original 2026-10-02 pass but has since been sourced — see
+  Soil above.)
+- No citron-specific numeric dS/m salinity threshold was found, only a
+  qualitative salt-sensitivity rating and an under-4-dS/m FAO EcoCrop
+  suitability band; a precise species-specific threshold would improve
+  on the citrus-genus-analogy figure currently used.
+- No citron-specific day-length/photoperiod study was found; the
+  flowering-trigger note here relies entirely on citrus-genus analogy.
 - Planting density (trees per hectare) is an estimate based on assumed
   spacing rather than a sourced orchard-planning figure.
 - Whether container or soilless cultivation of a tree intended for
@@ -346,3 +370,22 @@ Accessed 2026-10-02, search snippets only.
 group. Supplied: hybrid cultivar backgrounds, fruit description, and
 its status as a commercially minor curiosity/ornamental group. Accessed
 2026-10-06.
+
+[13] General horticultural review and journal-abstract material on
+citrus flowering physiology (search snippets), including sources
+confirming the citrus-genus "autoinductive" pattern (flowering driven
+by low temperature and water-deficit stress rather than day length),
+and a separate 2025 preprint finding photoperiod extension promoted
+flowering in Tahiti lime specifically (not read onto citron, a
+different species). Accessed 2026-11-09, search-snippet depth only;
+nothing citron-specific was found.
+
+[14] A Storey (1995) study on rootstock effects on chloride exclusion
+in Etrog citron and Rangpur lime, the FAO EcoCrop database's
+*Citrus medica* datasheet, and a 2025 systematic review of citrus
+salinity tolerance. Supplied: species-level salt-sensitivity rating for
+Etrog citron, an under-4-dS/m soil-salinity suitability band, and a
+general citrus yield-loss threshold of roughly 1.2-1.5 dS/m soil EC
+used here as genus-level context. Accessed 2026-11-09; all at
+title/abstract or database-page/search-snippet depth, none opened in
+full.
