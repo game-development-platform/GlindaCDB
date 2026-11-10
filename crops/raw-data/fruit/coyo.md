@@ -1,7 +1,9 @@
 # Coyo (*Persea schiedeana*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/coyo.md`
-**Researched:** 2026-10-05
+**Researched:** 2026-10-05 (re-researched 2026-11-09 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see the new Agronomic data lines on photoperiod and salinity, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -124,6 +126,18 @@ surrounding flora" — not reconciled here.
   higher measured oil content, which may put its true energy density
   well above the analogy figure if that oil content is expressed on a
   fresh-weight basis (an open question — see below).
+- **Photoperiod sensitivity:** Not directly studied for this species.
+  By genus-level analogy to its better-known cultivated relative —
+  where floral induction is understood as temperature-driven
+  (induction proceeds regardless of daylength below roughly 25°C, with
+  cool temperatures around 10°C triggering irreversible commitment to
+  flowering) rather than strictly photoperiod-driven, though the
+  relative role of daylength has not been rigorously tested even in
+  that relative — the regionally inconsistent Oaxaca/Veracruz flowering
+  timing documented above (Finding 3) most plausibly reflects regional
+  temperature/rainfall differences rather than latitude/day-length, but
+  this is not confirmed for this species [8]. Not applicable to
+  tuberization/bulbing — a tree crop with no storage organ.
 - **Pollination:** Not directly researched for this species; presumed
   insect-pollinated by analogy by its better-known cultivated relative,
   which displays a two-day flower-opening pattern across individual
@@ -155,7 +169,15 @@ surrounding flora" — not reconciled here.
   surveyed region, and tolerant of heavy clay soils; pH tolerance is
   carried over by analogy from its cultivated relative in the absence of
   direct data. Seedlings form several spreading main roots rather than a
-  single taproot.
+  single taproot. A Mexican nursery-selection program identified two
+  selections of this species (named S-44 and S-88) as salinity-tolerant
+  stock, with grafting success of 100% and 50% respectively, though
+  this reflects nursery graft-union success rather than a direct
+  salt-stress trial — consistent with but not independently confirming
+  source [4]'s clay/chloride-tolerance note; by genus-level analogy,
+  the cultivated relative's own salt tolerance is understood to work
+  via root-level sodium/chloride exclusion, not yet tested in this
+  species [9].
 - **Labor:** No labor-cost study was found for this species. Harvest
   labor is a rough estimate based on an assumed hand-harvest rate by
   climbing and cutting or gathering fallen fruit; establishment and
@@ -249,6 +271,13 @@ this species.
   wild-population conservation consideration for any dual-mode (wild
   versus cultivated) treatment of this crop, which was not otherwise
   explored here.
+- No species-specific photoperiod study exists; the flowering-trigger
+  note here relies entirely on genus-level temperature-driven-induction
+  analogy to its cultivated relative, whose own daylength-versus-
+  temperature role has itself not been rigorously tested.
+- Salinity tolerance rests on a nursery-selection program's graft-union
+  success figures (S-44, S-88) rather than a direct salt-stress/EC
+  trial; no quantified salinity threshold exists for this species.
 
 ## Estimates and derivations
 
@@ -393,3 +422,24 @@ fruiting timing, the fruit-boring weevil pest, documented uses (timber,
 food, honey, and rootstock material for a cultivated relative), and
 geographic distribution and elevation range. Accessed 2026-10-05, PDF
 extracted (originally published in Spanish).
+
+[8] Search-snippet-level material on avocado flowering physiology,
+including a 1986 review (Davenport) on floral induction temperature/
+daylength requirements and a 2021 molecular study on cold-induced
+floral gene upregulation (LFY/AP1-FUL). Supplied: the genus-level
+finding that floral induction in the cultivated relative proceeds
+regardless of daylength below roughly 25°C, with cool temperatures
+around 10°C triggering irreversible commitment to flowering, though
+both sources note the relative role of daylength versus temperature
+has not been rigorously tested even in that species; nothing
+species-specific to this crop was found. Accessed 2026-11-09, search
+snippets only; underlying PDFs could not be opened.
+
+[9] Search-snippet-level material on a Mexican nursery-selection
+program (via a Revista Fitotecnia Mexicana-lineage source) identifying
+two named selections of this species (S-44, S-88) as salinity-tolerant
+rootstock/nursery stock, with documented grafting success of 100% and
+50% respectively. Supplied: the only located salinity-adjacent data for
+this species, though it measures nursery graft-union success rather
+than a direct salt-stress or soil-EC trial. Accessed 2026-11-09, search
+snippets only; underlying PDF could not be opened.
