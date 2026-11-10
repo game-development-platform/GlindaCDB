@@ -1,7 +1,9 @@
 # Cranberry (*Vaccinium macrocarpon*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/cranberry.md`
-**Researched:** 2026-10-01
+**Researched:** 2026-10-01 (re-researched 2026-11-09 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see the new Agronomic data lines on photoperiod and salinity, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -137,6 +139,18 @@ pharmacodynamic effect that ordinary juice consumption may not trigger
 - **Food status / composition:** Raw-edible but very tart, and mostly
   consumed cooked or processed. Roughly 460 kcal/kg and 5 g protein/kg
   raw, with notable vitamin C and potassium content.
+- **Photoperiod sensitivity:** Flower-bud initiation (early July) appears
+  driven primarily by heat accumulation rather than day length: field
+  studies tie initiation dates to growing-degree-days (roughly 290-322
+  GDD across two study years) rather than a fixed photoperiod, and
+  controlled photoperiod trials found no treatment reliably induced
+  floral initiation. Whether winter dormancy-break has a true short-day
+  component distinct from chilling-hours is unresolved for this species
+  specifically; an analogous Ericaceae shrub (black currant) shows
+  short days and chilling acting as two separate, independent dormancy
+  requirements, but this has not been confirmed in cranberry itself
+  [12]. Not applicable to tuberization/bulbing — a woody evergreen vine
+  with no storage organ.
 - **Pollination:** Required — self-fertile but poorly wind-pollinated;
   insect (bee) pollination is needed for adequate fruit set, and managed
   honey bee hives are standard practice at roughly 1-2 colonies per
@@ -160,7 +174,13 @@ pharmacodynamic effect that ordinary juice consumption may not trigger
   programs, never for commercial planting.
 - **Soil:** Strongly acid soil preference (roughly pH 4-5), grown on a
   sand cap over peat or mineral soil with a documented moderate organic
-  matter content.
+  matter content. Salt-sensitive: a documented irrigation-water
+  chloride threshold of roughly 100 ppm Cl⁻ marks a "level of concern,"
+  with definite negative effects at 250 ppm (a greenhouse study in a
+  road-deicing-salt context); separately, a controlled trial found
+  soil-solution salinity averaging 3.2 dS/m during flowering cut yield
+  by 56% and reduced photosynthesis by 22%. No cranberry-specific data
+  on coastal or tidal saltwater intrusion into bogs was found [13].
 - **Labor:** No comprehensive labor-cost budget was found; harvest,
   bed-maintenance, and post-harvest labor figures here are rough
   estimates, since harvest itself is highly mechanized (water reels,
@@ -234,7 +254,16 @@ this kind of health/safety data.
   found in the references consulted; water-use parameters here rely on
   a regional water-budget study rather than a formal crop-coefficient
   study.
-- Salinity tolerance was not researched.
+- Salinity tolerance has limited cranberry-specific data (chloride/EC
+  thresholds now documented in Soil above), but coastal/tidal
+  saltwater-intrusion effects on established bogs specifically remain
+  unresearched.
+- Whether flower-bud initiation or winter dormancy-break involve a true
+  photoperiod component distinct from heat accumulation/chilling hours
+  is not conclusively settled for this species; controlled photoperiod
+  trials found no reliable floral-initiation response, but the
+  mechanism of winter dormancy-break specifically was not directly
+  tested for a day-length component.
 - Soil nitrogen/phosphorus/potassium uptake figures are derived from a
   single regional fertilizer-removal study for one cultivar at one yield
   level and may not generalize well across cultivars or regions.
@@ -384,3 +413,27 @@ identification guide. Supplied: wild-harvest production figures for one
 major wild-harvest country, species identity detail for the related
 small-cranberry species, and a note on wild supply falling short of
 demand in one Nordic country. Accessed 2026-10-01, search snippets only.
+
+[12] Search-snippet-level material on cranberry flower-bud-initiation
+timing and photoperiod physiology, including a 2013 American Society
+for Horticultural Science conference abstract tying initiation dates to
+growing-degree-days, a University of British Columbia master's thesis
+directly testing photoperiod treatments (finding no treatment reliably
+induced floral initiation), a 2013 Journal of the American Pomological
+Society review noting open questions on initiation timing/mechanism, a
+University of Illinois alternative-crops database entry giving an
+ambiguous photoperiod classification, and a black currant dormancy
+study used only as a cross-genus analogy. Accessed 2026-11-09, all at
+search-snippet or abstract depth; none opened in full.
+
+[13] Search-snippet-level material on cranberry salinity tolerance,
+including a University of Massachusetts Amherst irrigation-water
+chloride study (greenhouse trial, road-deicing-salt context) and
+Samson et al. 2017 in the Canadian Journal of Soil Science (a
+peer-reviewed controlled potassium-sulfate salinity trial). Also
+consulted for cross-species context (not as a primary source): a
+University of Georgia Extension blueberry irrigation-water guideline
+and a Vaccinium corymbosum soil-solution EC recommendation, both
+roughly consistent in direction with the cranberry-specific figures.
+Accessed 2026-11-09; the UMass report and Samson et al. 2017 at
+search-snippet/abstract depth, neither opened in full.
