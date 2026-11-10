@@ -1,7 +1,9 @@
 # Coconut (*Cocos nucifera*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/coconut.md`
-**Researched:** 2026-10-10
+**Researched:** 2026-10-10 (re-researched 2026-11-09 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see the new Agronomic data line on photoperiod, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -109,6 +111,16 @@ willing to do it [1][12].
   source gives roughly 3,500 kcal/kg and 33 g protein/kg for raw
   coconut meat specifically (not the whole nut including husk and
   shell).
+- **Photoperiod sensitivity:** Not directly confirmed day-neutral by a
+  species-specific induction study; the documented year-round
+  continuous flowering pattern strongly implies day-neutral induction,
+  but one Sri Lankan study found photoperiod instead governs the
+  *speed* of spadix primordia development (faster during long-day
+  months) rather than flower induction itself, and separate studies
+  attribute seasonal yield bunching to temperature-driven fruit-set and
+  fruit-abortion effects rather than to photoperiod-controlled
+  flowering [15]. Not applicable to tuberization/bulbing — a palm with
+  no storage organ.
 - **Pollination:** Not strictly required at plantation scale — Dwarf
   varieties are self-pollinating, and Tall-variety plantations commonly
   set fruit without any managed pollination system; insect and wind
@@ -238,6 +250,11 @@ mythology and oral tradition, sometimes described as a "tree of life."
 - World-average nut-count-to-yield conversion rests on an estimated
   per-nut dehusked weight rather than a directly measured figure for
   every producing region.
+- No species-specific study directly confirms coconut flower induction
+  as day-neutral/photoperiod-insensitive; this is currently an
+  inference from the documented continuous year-round flowering
+  pattern. No cross-latitude comparison study was found either — the
+  sources reviewed all covered near-equatorial growing regions.
 
 ## Estimates and derivations
 
@@ -397,3 +414,16 @@ a research-institute agroforestry-trial report, and an industry news
 source. Supplied: a regional planting area and yield figure, an
 agroforestry intercropping density figure, and a regional production-
 share figure. Accessed 2026-10-10, search snippets only.
+
+[15] Search-snippet-level material on coconut flowering physiology and
+photoperiod, including the FAO EcoCrop coconut datasheet, a 1968 Ceylon
+Coconut Research Institute study on Tall-variety spadix development, a
+Sri Lankan fruit-set study on 25-26-year-old palms, and a 2024 Brazilian
+(Pará state) green-dwarf coconut study. Supplied: a finding that
+photoperiod affects spadix primordia development speed (faster in
+long-day months) rather than flower induction itself, and separate
+temperature-driven fruit-set/fruit-abortion findings explaining seasonal
+yield bunching without invoking photoperiod-controlled induction. No
+direct species-specific statement confirming day-neutral induction was
+found, and no cross-latitude comparison study was located. Accessed
+2026-11-09, search snippets only; none opened in full.
