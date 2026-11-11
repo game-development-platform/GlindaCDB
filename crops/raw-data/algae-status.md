@@ -1,13 +1,13 @@
 # algae crop status
 
-3 of the 26 originally queued rows have been researched; the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
+4 of the 26 originally queued rows have been researched; the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
 | kelp_kombu | *Laminaria japonica / Saccharina japonica* | kelp-kombu.md | `sugar_kelp`, `mitsuishi_kombu`, `naga_kombu` | 2026-11-09 | RESEARCHED |
 | sugar_kelp | *Saccharina latissima* | sugar-kelp.md | `kelp_kombu`, `winged_kelp`, `skinny_kelp`, `laminaria_digitata` | 2026-11-10 | RESEARCHED |
 | laminaria_digitata | *Laminaria digitata* | laminaria-digitata.md | `sugar_kelp`, `laminaria_hyperborea`, `laminaria_ochroleuca` | 2026-11-10 | RESEARCHED |
-| giant_kelp | *Macrocystis pyrifera* |  |  |  | LISTED |
+| giant_kelp | *Macrocystis pyrifera* | giant-kelp.md | `laminaria_digitata`, `nereocystis`, `lessonia`, `bull_kelp` | 2026-11-11 | RESEARCHED |
 | ecklonia | *Ecklonia spp.* |  |  |  | LISTED |
 | bull_kelp | *Durvillea spp.* |  |  |  | LISTED |
 | wakame | *Undaria pinnatifida* |  |  |  | LISTED |
@@ -36,3 +36,5 @@
 | skinny_kelp | *Saccharina angustissima* |  | `sugar_kelp` |  | PROPOSED |
 | laminaria_hyperborea | *Laminaria hyperborea* |  | `laminaria_digitata` |  | PROPOSED |
 | laminaria_ochroleuca | *Laminaria ochroleuca* |  | `laminaria_digitata` |  | PROPOSED |
+| nereocystis | *Nereocystis luetkeana* |  | `giant_kelp` |  | PROPOSED |
+| lessonia | *Lessonia spp.* |  | `giant_kelp` |  | PROPOSED |
