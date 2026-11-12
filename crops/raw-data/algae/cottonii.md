@@ -1,6 +1,6 @@
-# Cottonii (*Kappaphycus alvarezii*; cropID `eucheuma`)
+# Cottonii (*Kappaphycus alvarezii*)
 
-**Category:** Algae · **Path:** `crops/raw-data/algae/eucheuma.md`
+**Category:** Algae · **Path:** `crops/raw-data/algae/cottonii.md`
 **Researched:** 2026-11-11
 
 This file is original research synthesis, compiled from the public sources
@@ -12,10 +12,11 @@ licensed under this project's MIT license (see repository `LICENSE`).
 
 This covers *Kappaphycus alvarezii* (Doty) Doty ex P.C. Silva, a tropical
 red alga (family Solieriaceae), traded as "cottonii" [1]. It is the main
-source of kappa carrageenan [1]. It covers the single cropID `eucheuma`.
+source of kappa carrageenan [1]. It covers the single cropID `cottonii`.
 
-**Name conflict.** The cropID says `eucheuma` but the row's species is
-*Kappaphycus*.
+**CropID history.** This row was queued as `eucheuma` and renamed to
+`cottonii` on 2026-11-12, because the species is a *Kappaphycus*, not a
+*Eucheuma*.
 
 - The species was originally *Eucheuma cottonii*, then *Eucheuma alvarezii*
   (Doty 1985), and was moved to *Kappaphycus* in 1988 [1].
@@ -25,8 +26,8 @@ source of kappa carrageenan [1]. It covers the single cropID `eucheuma`.
   *E. spinosum*) as "eucheumatoids". They are farmed the same way and often
   grown interchangeably [1][3].
 
-So the cropID name fits the trade group, not the species. Renaming it, for
-example to `cottonii`, is a call for you; this doc keeps the existing ID.
+`eucheuma` fitted the trade group, not the species. `cottonii` matches the
+trade name for this species alone.
 
 Taxonomy is confused by morphological plasticity, colour morphs, local
 names and "names of convenience" [1]. The species can't be told apart
@@ -364,9 +365,8 @@ and India.**
 
 ## Open research questions
 
-- **Rename the cropID?** `eucheuma` names the trade group and an old
-  genus, not *Kappaphycus*. Also, should `spinosum` and `sacol` be split
-  out as proposed?
+- **Proposed rows.** Should `spinosum` and `sacol` be split out as
+  proposed?
 - **True production.** Indonesia's 7 Mt official vs 1.3–1.5 Mt industry
   estimate. This is the biggest number uncertainty in the category so far.
 - **Wet-to-dry ratio.** One Indian process gives 11.6% dry, and Indonesian

@@ -12,11 +12,11 @@
 | bull_kelp | *Durvillea spp.* | bull-kelp.md | `giant_kelp`, `lessonia`, `nereocystis`, `wakame` | 2026-11-11 | OUT-OF-DATE |
 | wakame | *Undaria pinnatifida* | wakame.md | `winged_kelp`, `bull_kelp`, `kelp_kombu` | 2026-11-11 | OUT-OF-DATE |
 | nori | *Porphyra / Pyropia spp.* | nori.md | `tan_zicai`, `laver` | 2026-11-11 | RESEARCHED |
-| eucheuma | *Kappaphycus alvarezii* | eucheuma.md | `spinosum`, `sacol`, `irish_moss` | 2026-11-11 | RESEARCHED |
+| cottonii | *Kappaphycus alvarezii* | cottonii.md | `spinosum`, `sacol`, `irish_moss` | 2026-11-11 | RESEARCHED |
 | gracilaria | *Gracilaria spp.* |  |  |  | LISTED |
 | gelidium | *Gelidium spp.* |  |  |  | LISTED |
 | dulse | *Palmaria palmata* |  |  |  | LISTED |
-| irish_moss | *Chondrus crispus* |  | `eucheuma` |  | LISTED |
+| irish_moss | *Chondrus crispus* |  | `cottonii` |  | LISTED |
 | hijiki | *Sargassum fusiforme* |  |  |  | LISTED |
 | arame | *Eisenia bicyclis* |  | `ecklonia` |  | LISTED |
 | sea_lettuce | *Ulva spp.* |  |  |  | LISTED |
@@ -41,5 +41,5 @@
 | laminaria_pallida | *Laminaria pallida* |  | `ecklonia` |  | PROPOSED |
 | tan_zicai | *Neoporphyra haitanensis* |  | `nori` |  | PROPOSED |
 | laver | *Porphyra umbilicalis* |  | `nori` |  | PROPOSED |
-| spinosum | *Eucheuma denticulatum* |  | `eucheuma` |  | PROPOSED |
-| sacol | *Kappaphycus striatus* |  | `eucheuma` |  | PROPOSED |
+| spinosum | *Eucheuma denticulatum* |  | `cottonii` |  | PROPOSED |
+| sacol | *Kappaphycus striatus* |  | `cottonii` |  | PROPOSED |
