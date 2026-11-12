@@ -1,6 +1,6 @@
 # algae crop status
 
-5 of the 26 originally queued rows have been researched; the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
+6 of the 26 originally queued rows have been researched; the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
@@ -9,7 +9,7 @@
 | laminaria_digitata | *Laminaria digitata* | laminaria-digitata.md | `sugar_kelp`, `laminaria_hyperborea`, `laminaria_ochroleuca` | 2026-11-10 | RESEARCHED |
 | giant_kelp | *Macrocystis pyrifera* | giant-kelp.md | `laminaria_digitata`, `nereocystis`, `lessonia`, `bull_kelp`, `ecklonia` | 2026-11-11 | RESEARCHED |
 | ecklonia | *Ecklonia spp.* | ecklonia.md | `arame`, `giant_kelp`, `laminaria_pallida` | 2026-11-11 | RESEARCHED |
-| bull_kelp | *Durvillea spp.* |  |  |  | LISTED |
+| bull_kelp | *Durvillea spp.* | bull-kelp.md | `giant_kelp`, `lessonia`, `nereocystis` | 2026-11-11 | RESEARCHED |
 | wakame | *Undaria pinnatifida* |  |  |  | LISTED |
 | nori | *Porphyra / Pyropia spp.* |  |  |  | LISTED |
 | eucheuma | *Kappaphycus alvarezii* |  |  |  | LISTED |
@@ -36,6 +36,6 @@
 | skinny_kelp | *Saccharina angustissima* |  | `sugar_kelp` |  | PROPOSED |
 | laminaria_hyperborea | *Laminaria hyperborea* |  | `laminaria_digitata` |  | PROPOSED |
 | laminaria_ochroleuca | *Laminaria ochroleuca* |  | `laminaria_digitata` |  | PROPOSED |
-| nereocystis | *Nereocystis luetkeana* |  | `giant_kelp` |  | PROPOSED |
-| lessonia | *Lessonia spp.* |  | `giant_kelp` |  | PROPOSED |
+| nereocystis | *Nereocystis luetkeana* |  | `giant_kelp`, `bull_kelp` |  | PROPOSED |
+| lessonia | *Lessonia spp.* |  | `giant_kelp`, `bull_kelp` |  | PROPOSED |
 | laminaria_pallida | *Laminaria pallida* |  | `ecklonia` |  | PROPOSED |
