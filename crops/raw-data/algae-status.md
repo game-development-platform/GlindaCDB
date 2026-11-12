@@ -1,6 +1,6 @@
 # algae crop status
 
-6 of the 26 originally queued rows have been researched; the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
+7 of the 26 originally queued rows have been researched; the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
@@ -9,8 +9,8 @@
 | laminaria_digitata | *Laminaria digitata* | laminaria-digitata.md | `sugar_kelp`, `laminaria_hyperborea`, `laminaria_ochroleuca` | 2026-11-10 | RESEARCHED |
 | giant_kelp | *Macrocystis pyrifera* | giant-kelp.md | `laminaria_digitata`, `nereocystis`, `lessonia`, `bull_kelp`, `ecklonia` | 2026-11-11 | RESEARCHED |
 | ecklonia | *Ecklonia spp.* | ecklonia.md | `arame`, `giant_kelp`, `laminaria_pallida` | 2026-11-11 | RESEARCHED |
-| bull_kelp | *Durvillea spp.* | bull-kelp.md | `giant_kelp`, `lessonia`, `nereocystis` | 2026-11-11 | RESEARCHED |
-| wakame | *Undaria pinnatifida* |  |  |  | LISTED |
+| bull_kelp | *Durvillea spp.* | bull-kelp.md | `giant_kelp`, `lessonia`, `nereocystis`, `wakame` | 2026-11-11 | RESEARCHED |
+| wakame | *Undaria pinnatifida* | wakame.md | `winged_kelp`, `bull_kelp`, `kelp_kombu` | 2026-11-11 | RESEARCHED |
 | nori | *Porphyra / Pyropia spp.* |  |  |  | LISTED |
 | eucheuma | *Kappaphycus alvarezii* |  |  |  | LISTED |
 | gracilaria | *Gracilaria spp.* |  |  |  | LISTED |
@@ -32,7 +32,7 @@
 | neochloris | *Neochloris oleoabundans* |  |  |  | LISTED |
 | mitsuishi_kombu | *Saccharina angustata* |  | `kelp_kombu` |  | PROPOSED |
 | naga_kombu | *Saccharina longissima* |  | `kelp_kombu` |  | PROPOSED |
-| winged_kelp | *Alaria esculenta* |  | `sugar_kelp` |  | PROPOSED |
+| winged_kelp | *Alaria esculenta* |  | `sugar_kelp`, `wakame` |  | PROPOSED |
 | skinny_kelp | *Saccharina angustissima* |  | `sugar_kelp` |  | PROPOSED |
 | laminaria_hyperborea | *Laminaria hyperborea* |  | `laminaria_digitata` |  | PROPOSED |
 | laminaria_ochroleuca | *Laminaria ochroleuca* |  | `laminaria_digitata` |  | PROPOSED |
