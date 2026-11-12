@@ -1,6 +1,6 @@
 # algae crop status
 
-8 of the 26 originally queued rows have been researched (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
+9 of the 26 originally queued rows have been researched (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
@@ -12,11 +12,11 @@
 | bull_kelp | *Durvillea spp.* | bull-kelp.md | `giant_kelp`, `lessonia`, `nereocystis`, `wakame` | 2026-11-11 | OUT-OF-DATE |
 | wakame | *Undaria pinnatifida* | wakame.md | `winged_kelp`, `bull_kelp`, `kelp_kombu` | 2026-11-11 | OUT-OF-DATE |
 | nori | *Porphyra / Pyropia spp.* | nori.md | `tan_zicai`, `laver` | 2026-11-11 | RESEARCHED |
-| eucheuma | *Kappaphycus alvarezii* |  |  |  | LISTED |
+| eucheuma | *Kappaphycus alvarezii* | eucheuma.md | `spinosum`, `sacol`, `irish_moss` | 2026-11-11 | RESEARCHED |
 | gracilaria | *Gracilaria spp.* |  |  |  | LISTED |
 | gelidium | *Gelidium spp.* |  |  |  | LISTED |
 | dulse | *Palmaria palmata* |  |  |  | LISTED |
-| irish_moss | *Chondrus crispus* |  |  |  | LISTED |
+| irish_moss | *Chondrus crispus* |  | `eucheuma` |  | LISTED |
 | hijiki | *Sargassum fusiforme* |  |  |  | LISTED |
 | arame | *Eisenia bicyclis* |  | `ecklonia` |  | LISTED |
 | sea_lettuce | *Ulva spp.* |  |  |  | LISTED |
@@ -41,3 +41,5 @@
 | laminaria_pallida | *Laminaria pallida* |  | `ecklonia` |  | PROPOSED |
 | tan_zicai | *Neoporphyra haitanensis* |  | `nori` |  | PROPOSED |
 | laver | *Porphyra umbilicalis* |  | `nori` |  | PROPOSED |
+| spinosum | *Eucheuma denticulatum* |  | `eucheuma` |  | PROPOSED |
+| sacol | *Kappaphycus striatus* |  | `eucheuma` |  | PROPOSED |
