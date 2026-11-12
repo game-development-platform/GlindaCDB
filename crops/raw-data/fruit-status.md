@@ -2,34 +2,34 @@
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
-| american_grape | Vitis labrusca types and interspecific hybrids | grape.md | `grape`, `muscadine` | 2026-11-08 | RESEARCHED |
-| apple_high_chill | Malus domestica | apple-high-chill.md |  | 2026-11-08 | RESEARCHED |
-| apple_low_chill | Malus domestica | apple-low-chill.md |  | 2026-11-08 | RESEARCHED |
-| apricot | Prunus armeniaca | apricot.md |  | 2026-11-08 | RESEARCHED |
-| asian_pear | Pyrus pyrifolia and related species | asian-pear.md |  | 2026-11-08 | RESEARCHED |
-| avocado | Persea americana | avocado.md |  | 2026-11-08 | RESEARCHED |
-| babaco | Vasconcellea × heilbornii | babaco.md |  | 2026-11-08 | RESEARCHED |
-| banana | Musa AAA dessert | banana.md | `highland_banana`, `plantain` | 2026-11-08 | RESEARCHED |
-| banana_passionfruit | Passiflora tripartita var. mollissima | banana-passionfruit.md |  | 2026-11-08 | RESEARCHED |
-| bergamot | Citrus bergamia | bergamot.md |  | 2026-11-08 | RESEARCHED |
-| bitter_orange | Citrus × aurantium | bitter-orange.md | `orange`, `chinotto`, `laraha`, `daidai` | 2026-11-08 | RESEARCHED |
-| black_raspberry | Rubus occidentalis | black-raspberry.md |  | 2026-11-09 | RESEARCHED |
-| blackberry | Rubus subgenus Rubus | blackberry.md |  | 2026-11-09 | RESEARCHED |
-| blackcurrant | Ribes nigrum | blackcurrant.md |  | 2026-11-09 | RESEARCHED |
-| blueberry | Vaccinium corymbosum | blueberry.md |  | 2026-11-09 | RESEARCHED |
-| bokbunja | Rubus coreanus | bokbunja.md |  | 2026-11-09 | RESEARCHED |
-| breadfruit | Artocarpus altilis | breadfruit.md |  | 2026-11-09 | RESEARCHED |
-| buddhas_hand | Citrus medica var. sarcodactylis | buddhas-hand.md |  | 2026-11-09 | RESEARCHED |
-| bush_cherry | Prunus tomentosa | bush-cherry.md |  | 2026-11-09 | RESEARCHED |
-| cantaloupe | Cucumis melo, Reticulatus and Cantalupensis groups | cantaloupe.md |  | 2026-11-09 | RESEARCHED |
-| champedak | Artocarpus integer | champedak.md |  | 2026-11-09 | RESEARCHED |
-| cherry_plum | Prunus cerasifera | cherry-plum.md |  | 2026-11-09 | RESEARCHED |
-| chinotto | Citrus myrtifolia (possibly *C.* × *aurantium* var. *myrtifolia*) | chinotto.md | `bitter_orange` | 2026-11-09 | RESEARCHED |
-| citron | Citrus medica | citron.md |  | 2026-11-09 | RESEARCHED |
-| citron_melon | Citrullus amarus | watermelon.md | `seed_watermelon`, `watermelon` | 2026-11-09 | RESEARCHED |
-| coconut | Cocos nucifera | coconut.md |  | 2026-11-09 | RESEARCHED |
-| coyo | Persea schiedeana | coyo.md |  | 2026-11-09 | RESEARCHED |
-| cranberry | Vaccinium macrocarpon | cranberry.md |  | 2026-11-09 | RESEARCHED |
+| american_grape | Vitis labrusca types and interspecific hybrids | grape.md | `grape`, `muscadine` | 2026-11-08 | OUT-OF-DATE |
+| apple_high_chill | Malus domestica | apple-high-chill.md |  | 2026-11-08 | OUT-OF-DATE |
+| apple_low_chill | Malus domestica | apple-low-chill.md |  | 2026-11-08 | OUT-OF-DATE |
+| apricot | Prunus armeniaca | apricot.md |  | 2026-11-08 | OUT-OF-DATE |
+| asian_pear | Pyrus pyrifolia and related species | asian-pear.md |  | 2026-11-08 | OUT-OF-DATE |
+| avocado | Persea americana | avocado.md |  | 2026-11-08 | OUT-OF-DATE |
+| babaco | Vasconcellea × heilbornii | babaco.md |  | 2026-11-08 | OUT-OF-DATE |
+| banana | Musa AAA dessert | banana.md | `highland_banana`, `plantain` | 2026-11-08 | OUT-OF-DATE |
+| banana_passionfruit | Passiflora tripartita var. mollissima | banana-passionfruit.md |  | 2026-11-08 | OUT-OF-DATE |
+| bergamot | Citrus bergamia | bergamot.md |  | 2026-11-08 | OUT-OF-DATE |
+| bitter_orange | Citrus × aurantium | bitter-orange.md | `orange`, `chinotto`, `laraha`, `daidai` | 2026-11-08 | OUT-OF-DATE |
+| black_raspberry | Rubus occidentalis | black-raspberry.md |  | 2026-11-09 | OUT-OF-DATE |
+| blackberry | Rubus subgenus Rubus | blackberry.md |  | 2026-11-09 | OUT-OF-DATE |
+| blackcurrant | Ribes nigrum | blackcurrant.md |  | 2026-11-09 | OUT-OF-DATE |
+| blueberry | Vaccinium corymbosum | blueberry.md |  | 2026-11-09 | OUT-OF-DATE |
+| bokbunja | Rubus coreanus | bokbunja.md |  | 2026-11-09 | OUT-OF-DATE |
+| breadfruit | Artocarpus altilis | breadfruit.md |  | 2026-11-09 | OUT-OF-DATE |
+| buddhas_hand | Citrus medica var. sarcodactylis | buddhas-hand.md |  | 2026-11-09 | OUT-OF-DATE |
+| bush_cherry | Prunus tomentosa | bush-cherry.md |  | 2026-11-09 | OUT-OF-DATE |
+| cantaloupe | Cucumis melo, Reticulatus and Cantalupensis groups | cantaloupe.md |  | 2026-11-09 | OUT-OF-DATE |
+| champedak | Artocarpus integer | champedak.md |  | 2026-11-09 | OUT-OF-DATE |
+| cherry_plum | Prunus cerasifera | cherry-plum.md |  | 2026-11-09 | OUT-OF-DATE |
+| chinotto | Citrus myrtifolia (possibly *C.* × *aurantium* var. *myrtifolia*) | chinotto.md | `bitter_orange` | 2026-11-09 | OUT-OF-DATE |
+| citron | Citrus medica | citron.md |  | 2026-11-09 | OUT-OF-DATE |
+| citron_melon | Citrullus amarus | watermelon.md | `seed_watermelon`, `watermelon` | 2026-11-09 | OUT-OF-DATE |
+| coconut | Cocos nucifera | coconut.md |  | 2026-11-09 | OUT-OF-DATE |
+| coyo | Persea schiedeana | coyo.md |  | 2026-11-09 | OUT-OF-DATE |
+| cranberry | Vaccinium macrocarpon | cranberry.md |  | 2026-11-09 | OUT-OF-DATE |
 | daidai | *C.* × *aurantium* var. *daidai* |  | `bitter_orange` | 2026-11-08 | PROPOSED |
 | date_palm | Phoenix dactylifera | date-palm.md |  | 2026-10-10 | OUT-OF-DATE |
 | dragon_fruit | Selenicereus undatus and red-fleshed relatives | dragon-fruit.md |  | 2026-09-30 | OUT-OF-DATE |
@@ -41,10 +41,10 @@
 | giant_granadilla | Passiflora quadrangularis | giant-granadilla.md |  | 2026-10-04 | OUT-OF-DATE |
 | golden_currant | Ribes aureum | golden-currant.md |  | 2026-10-02 | OUT-OF-DATE |
 | gooseberry | Ribes uva-crispa × R. hirtellum | gooseberry.md |  | 2026-10-02 | OUT-OF-DATE |
-| grape | Vitis vinifera | grape.md | `american_grape`, `muscadine` | 2026-11-08 | RESEARCHED |
+| grape | Vitis vinifera | grape.md | `american_grape`, `muscadine` | 2026-11-08 | OUT-OF-DATE |
 | grapefruit | Citrus × paradisi | grapefruit.md |  | 2026-09-29 | OUT-OF-DATE |
 | guava | Psidium guajava | guava.md |  | 2026-09-30 | OUT-OF-DATE |
-| highland_banana | Musa AAA-EA, Mutika/Lujugira subgroup | banana.md | `banana`, `plantain` | 2026-11-08 | RESEARCHED |
+| highland_banana | Musa AAA-EA, Mutika/Lujugira subgroup | banana.md | `banana`, `plantain` | 2026-11-08 | OUT-OF-DATE |
 | honeydew | Cucumis melo Inodorus group | honeydew.md |  | 2026-09-30 | OUT-OF-DATE |
 | indian_jujube | Ziziphus mauritiana | indian-jujube.md |  | 2026-10-13 | OUT-OF-DATE |
 | jackfruit | Artocarpus heterophyllus | jackfruit.md |  | 2026-10-01 | OUT-OF-DATE |
@@ -69,7 +69,7 @@
 | medlar | Mespilus germanica | medlar.md |  | 2026-10-07 | OUT-OF-DATE |
 | meyer_lemon | Citrus × meyeri | meyer-lemon.md |  | 2026-10-03 | OUT-OF-DATE |
 | mountain_papaya | Vasconcellea pubescens | mountain-papaya.md |  | 2026-10-03 | OUT-OF-DATE |
-| muscadine | Vitis rotundifolia | grape.md | `american_grape`, `grape` | 2026-11-08 | RESEARCHED |
+| muscadine | Vitis rotundifolia | grape.md | `american_grape`, `grape` | 2026-11-08 | OUT-OF-DATE |
 | nectarine | Prunus persica, smooth-skinned | nectarine.md |  | 2026-10-18 | OUT-OF-DATE |
 | olive | Olea europaea | olive.md |  | 2026-10-11 | OUT-OF-DATE |
 | orange | Citrus × sinensis | orange.md | `bitter_orange` | 2026-10-10 | OUT-OF-DATE |
@@ -85,7 +85,7 @@
 | persimmon_dateplum | Diospyros lotus | persimmon-dateplum.md |  | 2026-10-12 | OUT-OF-DATE |
 | persimmon_texas | Diospyros texana | persimmon-texas.md |  | 2026-10-12 | OUT-OF-DATE |
 | pineapple | Ananas comosus | pineapple.md |  | 2026-09-29 | OUT-OF-DATE |
-| plantain | Musa AAB and other cooking bananas | banana.md | `banana`, `highland_banana` | 2026-11-08 | RESEARCHED |
+| plantain | Musa AAB and other cooking bananas | banana.md | `banana`, `highland_banana` | 2026-11-08 | OUT-OF-DATE |
 | plum | Prunus domestica, European plum | plum.md |  | 2026-09-28 | OUT-OF-DATE |
 | pomegranate | Punica granatum | pomegranate.md |  | 2026-10-12 | OUT-OF-DATE |
 | pomelo | Citrus maxima | pomelo.md |  | 2026-10-03 | OUT-OF-DATE |

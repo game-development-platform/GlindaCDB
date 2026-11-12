@@ -60,7 +60,6 @@ in the template's "Agronomic data" section:
    jurisdiction); weedy/volunteer escape behavior; and any legal restriction
    on cultivating, importing, or moving the crop or its propagation material.
 
-**Rows affected:** not yet moved. As of this date 39 rows were `RESEARCHED`
-without this angle - `fruit` (32) and `algae` (7). Whether to mark them
-`OUT-OF-DATE` per the checklist-versioning rule, or backfill this one line
-in a separate pass, is still to be decided; update this entry when it is.
+**Rows affected:** every row that was `RESEARCHED` as of 2026-11-11 was moved
+to `OUT-OF-DATE` on this date - 39 rows total, across `fruit` (32) and
+`algae` (7). No other category had any `RESEARCHED` rows on this date.
