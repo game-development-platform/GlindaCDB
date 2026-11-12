@@ -1,6 +1,6 @@
 # algae crop status
 
-10 of the 26 originally queued rows have been researched (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
+11 of the 26 originally queued rows have been researched (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | nori | *Porphyra / Pyropia spp.* | nori.md | `tan_zicai`, `laver` | 2026-11-11 | RESEARCHED |
 | cottonii | *Kappaphycus alvarezii* | cottonii.md | `spinosum`, `sacol`, `irish_moss`, `gracilaria` | 2026-11-12 | RESEARCHED |
 | gracilaria | *Gracilaria spp.* | gracilaria.md | `gracilariopsis`, `pelillo`, `gelidium`, `cottonii` | 2026-11-12 | RESEARCHED |
-| gelidium | *Gelidium spp.* |  | `gracilaria` |  | LISTED |
+| gelidium | *Gelidium spp.* | gelidium.md | `gracilaria`, `pterocladiella`, `gelidiella` | 2026-11-12 | RESEARCHED |
 | dulse | *Palmaria palmata* |  |  |  | LISTED |
 | irish_moss | *Chondrus crispus* |  | `cottonii` |  | LISTED |
 | hijiki | *Sargassum fusiforme* |  |  |  | LISTED |
@@ -45,3 +45,5 @@
 | sacol | *Kappaphycus striatus* |  | `cottonii` |  | PROPOSED |
 | gracilariopsis | *Gracilariopsis lemaneiformis* |  | `gracilaria` |  | PROPOSED |
 | pelillo | *Gracilaria chilensis* (*Agarophyton chilense*) |  | `gracilaria` |  | PROPOSED |
+| pterocladiella | *Pterocladiella capillacea* |  | `gelidium` |  | PROPOSED |
+| gelidiella | *Gelidiella acerosa* |  | `gelidium` |  | PROPOSED |
