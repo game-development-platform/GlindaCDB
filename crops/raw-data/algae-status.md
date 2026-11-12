@@ -1,6 +1,6 @@
 # algae crop status
 
-7 of the 26 originally queued rows have been researched (all now OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
+8 of the 26 originally queued rows have been researched (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
@@ -11,7 +11,7 @@
 | ecklonia | *Ecklonia spp.* | ecklonia.md | `arame`, `giant_kelp`, `laminaria_pallida` | 2026-11-11 | OUT-OF-DATE |
 | bull_kelp | *Durvillea spp.* | bull-kelp.md | `giant_kelp`, `lessonia`, `nereocystis`, `wakame` | 2026-11-11 | OUT-OF-DATE |
 | wakame | *Undaria pinnatifida* | wakame.md | `winged_kelp`, `bull_kelp`, `kelp_kombu` | 2026-11-11 | OUT-OF-DATE |
-| nori | *Porphyra / Pyropia spp.* |  |  |  | LISTED |
+| nori | *Porphyra / Pyropia spp.* | nori.md | `tan_zicai`, `laver` | 2026-11-11 | RESEARCHED |
 | eucheuma | *Kappaphycus alvarezii* |  |  |  | LISTED |
 | gracilaria | *Gracilaria spp.* |  |  |  | LISTED |
 | gelidium | *Gelidium spp.* |  |  |  | LISTED |
@@ -39,3 +39,5 @@
 | nereocystis | *Nereocystis luetkeana* |  | `giant_kelp`, `bull_kelp` |  | PROPOSED |
 | lessonia | *Lessonia spp.* |  | `giant_kelp`, `bull_kelp` |  | PROPOSED |
 | laminaria_pallida | *Laminaria pallida* |  | `ecklonia` |  | PROPOSED |
+| tan_zicai | *Neoporphyra haitanensis* |  | `nori` |  | PROPOSED |
+| laver | *Porphyra umbilicalis* |  | `nori` |  | PROPOSED |
