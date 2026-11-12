@@ -84,6 +84,10 @@ future candidate row gets flagged, the way walnut.md flags Black Walnut without 
   annual harvest windows if the crop has them; note if ripening is asynchronous/successive within one
   planting (not every unit ready at once) rather than a single harvest or simple repeated cut-and-come-again>.
 - **Soil biology:** <symbiont dependence, replant disease, allelopathy - if anything was found>.
+- **Invasiveness / biosecurity:** <native range vs. introduced range; any invasive-species listing or
+  formal assessment, naming the list and jurisdiction; weedy/volunteer escape behavior; any legal restriction
+  on cultivation, import, or movement of the crop or its propagation material (permits, quarantine,
+  prohibited zones) - or "No invasive listing found in this pass." / "Not sourced.">.
 - **Controlled environment:** <anything sourced about greenhouse/hydroponic/closed-system viability, or a
   reasoned-but-unsourced inference flagged as such>.
 

@@ -81,8 +81,11 @@ from this file.
    it, not only a hazard); flooded/paddy water requirement as distinct from ordinary irrigation need;
    clonal/viral degeneration risk in vegetatively-propagated crops; salinity tolerance as its own soil
    dimension, separate from pH; elevation as a climate dimension climate-zone language doesn't capture;
-   ergot/fungal contamination as a hazard distinct from plant-produced toxins; and asynchronous/successive-
-   ripening as a harvest-pattern shape distinct from ordinary cut-and-come-again.
+   ergot/fungal contamination as a hazard distinct from plant-produced toxins; asynchronous/successive-
+   ripening as a harvest-pattern shape distinct from ordinary cut-and-come-again; and invasiveness/
+   biosecurity - native vs. introduced range, any invasive-species listing or assessment (national/regional
+   lists, the IUCN/ISSG "100 of the world's worst" list, etc.), weedy/volunteer escape behavior, and any
+   legal restriction on cultivating, importing, or moving the crop or its propagation material.
 4. **Write the doc** to `crops/raw-data/<category>/<crop-id>.md` using the Write tool, from
    `templates/research-doc.md`. Use kebab-case for the filename and lowercase snake_case for the cropID,
    matching the existing files.

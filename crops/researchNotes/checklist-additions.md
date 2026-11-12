@@ -46,3 +46,21 @@ since they also predate this change and weren't written against it.
 
 No category had any `RESEARCHED` rows before this date in: `algae`,
 `cereal`, `fiber`, `forage`, `fungi`, `legume`, `stimulant`, `sugar`.
+
+## 2026-11-11 — invasiveness/biosecurity
+
+Prompted by algae research (wakame is a listed invasive in several regions,
+and sugar kelp/giant kelp cultivation is restricted to local genetic stock in
+some jurisdictions), but the angle applies across every category. One angle
+added, to both Step 3's checklist and a new "Invasiveness / biosecurity" line
+in the template's "Agronomic data" section:
+
+1. **Invasiveness/biosecurity** - native vs. introduced range; any
+   invasive-species listing or formal assessment (naming the list and
+   jurisdiction); weedy/volunteer escape behavior; and any legal restriction
+   on cultivating, importing, or moving the crop or its propagation material.
+
+**Rows affected:** not yet moved. As of this date 39 rows were `RESEARCHED`
+without this angle - `fruit` (32) and `algae` (7). Whether to mark them
+`OUT-OF-DATE` per the checklist-versioning rule, or backfill this one line
+in a separate pass, is still to be decided; update this entry when it is.
