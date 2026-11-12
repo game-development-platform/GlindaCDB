@@ -369,9 +369,9 @@ and India.**
   proposed?
 - **True production.** Indonesia's 7 Mt official vs 1.3–1.5 Mt industry
   estimate. This is the biggest number uncertainty in the category so far.
-- **Wet-to-dry ratio.** One Indian process gives 11.6% dry, and Indonesian
-  processing data imply about 7.9% (12.7:1). The Indonesian figure's
-  species basis is unclear.
+- **Wet-to-dry ratio.** Only one direct figure: an Indian process gives
+  11.6% dry. (An Indonesian 7.9% figure used in the first version of this
+  doc turned out to be for *Gracilaria*; see `gracilaria`, Estimates.)
 - **Per-area yield.** No defensible per-hectare figure; per-metre only.
 - **Composition conflict.** Protein 2.7% vs 12.7–23.6%, and the claim that
   70–92% of biomass is non-carrageenan vs 40–64% SRC yields. Semi-refined
@@ -395,15 +395,15 @@ and India.**
 Arithmetic: 7 / 1.5 = 4.7 and 7 / 1.3 = 5.4; 1.3 / 0.5 = 2.6;
 180 / 30 = 6.0. Consistent with the "one-sixth" claim for Indonesia [3].
 
-**Dry fraction of fresh seaweed, about 8–12%.** Inputs:
+**Dry fraction of fresh seaweed, about 11.6%.** Input:
 
 - Indian process: 20 kg fresh gave 2.31 kg dry whole plant [2].
   2.31 / 20 = 11.6%.
-- Indonesian domestic processing: 47,200 t dry = 600,000 t wet [3].
-  47,200 / 600,000 = 7.9%, a 12.7:1 ratio. The species basis on that
-  page is not certain.
+- Corrected 2026-11-12: an Indonesian figure of 47,200 t dry =
+  600,000 t wet, used here earlier, is for *Gracilaria*, not
+  eucheumatoids, so it has been dropped.
 
-Range 8–12%. A farm-level drying study would replace it.
+One source only. A farm-level drying study would replace it.
 
 **Dry yield per metre of line, about 0.4–1.8 kg.** Inputs: 3.6–15.8 kg
 fresh/m [5]; 11.55% dry fraction (above). 3.6 × 0.1155 = 0.42 and
@@ -477,8 +477,7 @@ Accessed 2026-11-11.
 - Seaweed Insights, Eucheumatoids page (official vs industry figures by
   country; Caribbean, Venezuela and Brazil introductions; 70–92%
   discarded fraction).
-- Seaweed Insights, Southeast Asia page (bales; trader re-drying; 47,200 t
-  dry = 600,000 t wet).
+- Seaweed Insights, Southeast Asia page (bales; trader re-drying).
 - The Fish Site / Hatch (one-sixth estimate; five species groups).
 - FAO 2023, cc5728en (red seaweed 51.7% of cultivation; genera).
 - UNIDO Indonesia policy brief (value 2012–2022).
