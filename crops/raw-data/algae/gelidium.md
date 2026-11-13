@@ -285,8 +285,9 @@ lab agar at triple the price.**
   Should *G. amansii* (Japan, Korea) and *G. corneum* (Atlantic) also be
   separate?
 - **Game modelling:** this is a wild-harvest resource with quota,
-  overharvest and storm-cast mechanics, not a farmed crop. Does the crop
-  model need a wild-bed mode?
+  overharvest and storm-cast mechanics, not a farmed crop. It is tracked as
+  a wild-managed candidate in GitHub issue #2; notes are in
+  `crops/researchNotes/wild-managed/gelidium.md`.
 - **Morocco's current regulation** is only from slides; verify the
   primary text.
 - **Regrowth rate after harvest** and growth optima for commercial

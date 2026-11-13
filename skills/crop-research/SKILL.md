@@ -104,6 +104,12 @@ from this file.
    pointer to what's newest, never as the complete list of what to check. Still read `crops/researchNotes/`
    first, since it tells you which angles are newest and most likely to need genuinely new sourcing rather
    than just a quick confirmation that the existing doc already covers them.
+   **Wild-managed resources.** If the research shows the item is better treated as a wild-managed resource
+   than a farmed crop (no viable cultivation; supply set by harvest rights, seasons, quotas and wild-stand
+   regeneration), still write the normal doc, but also save its wild-management research to
+   `crops/researchNotes/wild-managed/<crop-id-in-kebab-case>.md`. Add the file to that folder's README
+   table, and add a comment to GitHub issue #2 linking it. These files are temporary until that issue
+   produces a wild-managed template.
 7. **Report**: the doc's path, the key findings, what's estimated or left unsourced (and the weakest of
    those), any open questions worth flagging, the status-table rows changed, and the sources used.
 
