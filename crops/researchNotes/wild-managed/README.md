@@ -20,3 +20,4 @@ When a research pass finds that a resource belongs in this category:
 |---|---|---|
 | `gelidium.md` | *Gelidium* spp. | Extracted from `crops/raw-data/algae/gelidium.md` (2026-11-12) |
 | `brazil-nut.md` | *Bertholletia excelsa* | Quick comparison pass (2026-11-13); no status-table row yet |
+| `dulse.md` | *Palmaria palmata* | Extracted from `crops/raw-data/algae/dulse.md` (2026-11-13) |

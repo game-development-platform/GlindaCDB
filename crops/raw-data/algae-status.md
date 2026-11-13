@@ -1,6 +1,6 @@
 # algae crop status
 
-11 of the 26 originally queued rows have been researched (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
+12 of the 26 originally queued rows have been researched (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | cottonii | *Kappaphycus alvarezii* | cottonii.md | `spinosum`, `sacol`, `irish_moss`, `gracilaria` | 2026-11-12 | RESEARCHED |
 | gracilaria | *Gracilaria spp.* | gracilaria.md | `gracilariopsis`, `pelillo`, `gelidium`, `cottonii` | 2026-11-12 | RESEARCHED |
 | gelidium | *Gelidium spp.* | gelidium.md | `gracilaria`, `pterocladiella`, `gelidiella` | 2026-11-12 | RESEARCHED |
-| dulse | *Palmaria palmata* |  |  |  | LISTED |
+| dulse | *Palmaria palmata* | dulse.md | `pacific_dulse`, `pepper_dulse` | 2026-11-13 | RESEARCHED |
 | irish_moss | *Chondrus crispus* |  | `cottonii` |  | LISTED |
 | hijiki | *Sargassum fusiforme* |  |  |  | LISTED |
 | arame | *Eisenia bicyclis* |  | `ecklonia` |  | LISTED |
@@ -47,3 +47,5 @@
 | pelillo | *Gracilaria chilensis* (*Agarophyton chilense*) |  | `gracilaria` |  | PROPOSED |
 | pterocladiella | *Pterocladiella capillacea* |  | `gelidium` |  | PROPOSED |
 | gelidiella | *Gelidiella acerosa* |  | `gelidium` |  | PROPOSED |
+| pacific_dulse | *Devaleraea mollis* (formerly *Palmaria mollis*) |  | `dulse` |  | PROPOSED |
+| pepper_dulse | *Osmundea* spp. |  | `dulse` |  | PROPOSED |
