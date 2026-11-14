@@ -1,6 +1,6 @@
 # algae crop status
 
-14 of the 26 originally queued rows have been researched (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
+15 of the 26 originally queued rows have been researched (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | dulse | *Palmaria palmata* | dulse.md | `pacific_dulse`, `pepper_dulse` | 2026-11-13 | RESEARCHED |
 | irish_moss | *Chondrus crispus* | irish-moss.md | `cottonii`, `false_irish_moss`, `tsunomata` | 2026-11-13 | RESEARCHED |
 | hijiki | *Sargassum fusiforme* | hijiki.md | `akamoku`, `mojaban` | 2026-11-13 | RESEARCHED |
-| arame | *Eisenia bicyclis* |  | `ecklonia` |  | LISTED |
+| arame | *Eisenia bicyclis* | arame.md | `ecklonia`, `sagarame` | 2026-11-13 | RESEARCHED |
 | sea_lettuce | *Ulva spp.* |  |  |  | LISTED |
 | sea_grapes | *Caulerpa lentillifera* |  |  |  | LISTED |
 | spirulina | *Arthrospira platensis* |  |  |  | LISTED |
@@ -53,3 +53,4 @@
 | tsunomata | *Chondrus ocellatus* |  | `irish_moss` |  | PROPOSED |
 | akamoku | *Sargassum horneri* |  | `hijiki` |  | PROPOSED |
 | mojaban | *Sargassum fulvellum* |  | `hijiki` |  | PROPOSED |
+| sagarame | *Eisenia nipponica* (formerly *E. arborea* sensu Arasaki) |  | `arame` |  | PROPOSED |

@@ -22,3 +22,4 @@ When a research pass finds that a resource belongs in this category:
 | `brazil-nut.md` | *Bertholletia excelsa* | Quick comparison pass (2026-11-13); no status-table row yet |
 | `dulse.md` | *Palmaria palmata* | Extracted from `crops/raw-data/algae/dulse.md` (2026-11-13) |
 | `irish-moss.md` | *Chondrus crispus* | Extracted from `crops/raw-data/algae/irish-moss.md` (2026-11-13) |
+| `arame.md` | *Eisenia bicyclis* | Extracted from `crops/raw-data/algae/arame.md` (2026-11-13) |
