@@ -1,6 +1,6 @@
 # algae crop status
 
-13 of the 26 originally queued rows have been researched (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
+14 of the 26 originally queued rows have been researched (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | gelidium | *Gelidium spp.* | gelidium.md | `gracilaria`, `pterocladiella`, `gelidiella` | 2026-11-12 | RESEARCHED |
 | dulse | *Palmaria palmata* | dulse.md | `pacific_dulse`, `pepper_dulse` | 2026-11-13 | RESEARCHED |
 | irish_moss | *Chondrus crispus* | irish-moss.md | `cottonii`, `false_irish_moss`, `tsunomata` | 2026-11-13 | RESEARCHED |
-| hijiki | *Sargassum fusiforme* |  |  |  | LISTED |
+| hijiki | *Sargassum fusiforme* | hijiki.md | `akamoku`, `mojaban` | 2026-11-13 | RESEARCHED |
 | arame | *Eisenia bicyclis* |  | `ecklonia` |  | LISTED |
 | sea_lettuce | *Ulva spp.* |  |  |  | LISTED |
 | sea_grapes | *Caulerpa lentillifera* |  |  |  | LISTED |
@@ -51,3 +51,5 @@
 | pepper_dulse | *Osmundea* spp. |  | `dulse` |  | PROPOSED |
 | false_irish_moss | *Mastocarpus stellatus* |  | `irish_moss` |  | PROPOSED |
 | tsunomata | *Chondrus ocellatus* |  | `irish_moss` |  | PROPOSED |
+| akamoku | *Sargassum horneri* |  | `hijiki` |  | PROPOSED |
+| mojaban | *Sargassum fulvellum* |  | `hijiki` |  | PROPOSED |
