@@ -1,6 +1,6 @@
 # algae crop status
 
-24 of the 26 originally queued rows have been researched (`sea_lettuce` was split into `sea_lettuce_cold` and `sea_lettuce_warm` on 2026-11-14) (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
+25 of the 26 originally queued rows have been researched (`sea_lettuce` was split into `sea_lettuce_cold` and `sea_lettuce_warm` on 2026-11-14) (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | dunaliella | *Dunaliella salina* | dunaliella.md | `haematococcus` | 2026-11-15 | RESEARCHED |
 | asparagopsis | *Asparagopsis taxiformis* | asparagopsis.md | `asparagopsis_armata` | 2026-11-15 | RESEARCHED |
 | botryococcus | *Botryococcus braunii* | botryococcus.md |  | 2026-11-15 | RESEARCHED |
-| scenedesmus | *Scenedesmus spp.* |  |  |  | LISTED |
+| scenedesmus | *Scenedesmus* sensu lato (incl. *Tetradesmus obliquus*, formerly *S. obliquus*) | scenedesmus.md |  | 2026-11-15 | RESEARCHED |
 | neochloris | *Neochloris oleoabundans* |  |  |  | LISTED |
 | mitsuishi_kombu | *Saccharina angustata* |  | `kelp_kombu` |  | PROPOSED |
 | naga_kombu | *Saccharina longissima* |  | `kelp_kombu` |  | PROPOSED |
