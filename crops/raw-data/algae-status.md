@@ -1,6 +1,6 @@
 # algae crop status
 
-25 of the 26 originally queued rows have been researched (`sea_lettuce` was split into `sea_lettuce_cold` and `sea_lettuce_warm` on 2026-11-14) (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
+26 of the 26 originally queued rows have been researched (`sea_lettuce` was split into `sea_lettuce_cold` and `sea_lettuce_warm` on 2026-11-14) (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); no LISTED rows remain (the queue was sourced from the private source project's own gap-tracking queue). Rows marked PROPOSED were surfaced during research.
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | asparagopsis | *Asparagopsis taxiformis* | asparagopsis.md | `asparagopsis_armata` | 2026-11-15 | RESEARCHED |
 | botryococcus | *Botryococcus braunii* | botryococcus.md |  | 2026-11-15 | RESEARCHED |
 | scenedesmus | *Scenedesmus* sensu lato (incl. *Tetradesmus obliquus*, formerly *S. obliquus*) | scenedesmus.md |  | 2026-11-15 | RESEARCHED |
-| neochloris | *Neochloris oleoabundans* |  |  |  | LISTED |
+| neochloris | *Neochloris oleoabundans* (syn. *Ettlia oleoabundans*) | neochloris.md |  | 2026-11-15 | RESEARCHED |
 | mitsuishi_kombu | *Saccharina angustata* |  | `kelp_kombu` |  | PROPOSED |
 | naga_kombu | *Saccharina longissima* |  | `kelp_kombu` |  | PROPOSED |
 | winged_kelp | *Alaria esculenta* |  | `sugar_kelp`, `wakame` |  | PROPOSED |
