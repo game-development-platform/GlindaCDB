@@ -13,8 +13,21 @@ licensed under this project's MIT license (see repository `LICENSE`).
 This covers the foliose ("sheet") green seaweeds of the genus *Ulva*
 (Chlorophyta, Ulvaceae), sold and studied as sea lettuce: chiefly *U.
 lactuca*, *U. fenestrata*, *U. ohnoi*, *U. australis* (= *U. pertusa*),
-*U. rigida* and *U. fasciata* [1][2]. It covers the single cropID
-`sea_lettuce`.
+*U. rigida* and *U. fasciata* [1][2]. It covers two cropIDs, split by
+water temperature (the original queue had a single `sea_lettuce` row):
+
+- **`sea_lettuce_cold`** — cold-temperate species, chiefly *U. lactuca* and
+  *U. fenestrata* (North Atlantic and Scandinavian farming and food use)
+  [6].
+- **`sea_lettuce_warm`** — warm-water species, chiefly *U. ohnoi* (growth
+  optimum about 28 °C, lower limit 10 °C) [7] and *U. fasciata* (Israel)
+  [2].
+- **Not yet assigned:** *U. australis* (= *U. pertusa*; optimum 20–25 °C)
+  [7] and *U. rigida* (Israel) [2] sit between the two. Assign them in a
+  later pass.
+
+Figures below name their species where the source did, so each can be
+read against the right cropID.
 
 **One genus, many look-alikes.**
 
@@ -27,7 +40,7 @@ lactuca*, *U. fenestrata*, *U. ohnoi*, *U. australis* (= *U. pertusa*),
   species are reported often [1].
 - **Consequence.** Yields, composition and growth figures here come from
   different species and strains, and vary widely (Agronomic data). The
-  row stays genus-level, matching the original queue.
+  warm/cold split above is a modelling choice, not a taxonomic one.
 
 **Relatives flagged:**
 
@@ -215,9 +228,10 @@ green tides.**
 
 ## Open research questions
 
-- **Species to model.** Which *Ulva* species should the game's
-  `sea_lettuce` represent (temperate *U. lactuca*/*U. fenestrata*, or
-  warm-water *U. ohnoi*)?
+- **Split boundary.** Where do *U. australis* and *U. rigida* belong in
+  the `sea_lettuce_cold` / `sea_lettuce_warm` split? Most yield figures
+  are warm-water (*U. ohnoi*, Israel); cold-water yields need a further
+  pass.
 - **Bloom link.** How to model farm-hygiene choices causing blooms
   (Finding 2).
 - **Labour and storage** for sea lettuce weren't sourced.

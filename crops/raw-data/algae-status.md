@@ -1,6 +1,6 @@
 # algae crop status
 
-16 of the 26 originally queued rows have been researched (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
+16 of the 26 originally queued rows have been researched (`sea_lettuce` was split into `sea_lettuce_cold` and `sea_lettuce_warm` on 2026-11-14) (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
@@ -11,7 +11,7 @@
 | ecklonia | *Ecklonia spp.* | ecklonia.md | `arame`, `giant_kelp`, `laminaria_pallida` | 2026-11-11 | OUT-OF-DATE |
 | bull_kelp | *Durvillea spp.* | bull-kelp.md | `giant_kelp`, `lessonia`, `nereocystis`, `wakame` | 2026-11-11 | OUT-OF-DATE |
 | wakame | *Undaria pinnatifida* | wakame.md | `winged_kelp`, `bull_kelp`, `kelp_kombu` | 2026-11-11 | OUT-OF-DATE |
-| nori | *Porphyra / Pyropia spp.* | nori.md | `tan_zicai`, `laver` | 2026-11-11 | RESEARCHED |
+| nori | *Porphyra / Pyropia spp.* | nori.md | `tan_zicai`, `laver`, `sea_lettuce_cold`, `sea_lettuce_warm` | 2026-11-11 | RESEARCHED |
 | cottonii | *Kappaphycus alvarezii* | cottonii.md | `spinosum`, `sacol`, `irish_moss`, `gracilaria` | 2026-11-12 | RESEARCHED |
 | gracilaria | *Gracilaria spp.* | gracilaria.md | `gracilariopsis`, `pelillo`, `gelidium`, `cottonii` | 2026-11-12 | RESEARCHED |
 | gelidium | *Gelidium spp.* | gelidium.md | `gracilaria`, `pterocladiella`, `gelidiella` | 2026-11-12 | RESEARCHED |
@@ -19,7 +19,8 @@
 | irish_moss | *Chondrus crispus* | irish-moss.md | `cottonii`, `false_irish_moss`, `tsunomata` | 2026-11-13 | RESEARCHED |
 | hijiki | *Sargassum fusiforme* | hijiki.md | `akamoku`, `mojaban` | 2026-11-13 | RESEARCHED |
 | arame | *Eisenia bicyclis* | arame.md | `ecklonia`, `sagarame` | 2026-11-13 | RESEARCHED |
-| sea_lettuce | *Ulva spp.* | sea-lettuce.md | `aonori`, `hitoegusa`, `nori` | 2026-11-13 | RESEARCHED |
+| sea_lettuce_cold | *Ulva* spp., cold-temperate (*U. lactuca*, *U. fenestrata*) | sea-lettuce.md | `sea_lettuce_warm`, `aonori`, `hitoegusa`, `nori` | 2026-11-14 | RESEARCHED |
+| sea_lettuce_warm | *Ulva* spp., warm-water (*U. ohnoi*, *U. fasciata*) | sea-lettuce.md | `sea_lettuce_cold`, `aonori`, `hitoegusa`, `nori` | 2026-11-14 | RESEARCHED |
 | sea_grapes | *Caulerpa lentillifera* |  |  |  | LISTED |
 | spirulina | *Arthrospira platensis* |  |  |  | LISTED |
 | chlorella | *Chlorella spp.* |  |  |  | LISTED |
@@ -54,5 +55,5 @@
 | akamoku | *Sargassum horneri* |  | `hijiki` |  | PROPOSED |
 | mojaban | *Sargassum fulvellum* |  | `hijiki` |  | PROPOSED |
 | sagarame | *Eisenia nipponica* (formerly *E. arborea* sensu Arasaki) |  | `arame` |  | PROPOSED |
-| aonori | *Ulva prolifera* |  | `sea_lettuce` |  | PROPOSED |
-| hitoegusa | *Monostroma* spp. |  | `sea_lettuce` |  | PROPOSED |
+| aonori | *Ulva prolifera* |  | `sea_lettuce_cold`, `sea_lettuce_warm` |  | PROPOSED |
+| hitoegusa | *Monostroma* spp. |  | `sea_lettuce_cold`, `sea_lettuce_warm` |  | PROPOSED |
