@@ -1,6 +1,6 @@
 # algae crop status
 
-16 of the 26 originally queued rows have been researched (`sea_lettuce` was split into `sea_lettuce_cold` and `sea_lettuce_warm` on 2026-11-14) (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
+17 of the 26 originally queued rows have been researched (`sea_lettuce` was split into `sea_lettuce_cold` and `sea_lettuce_warm` on 2026-11-14) (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | arame | *Eisenia bicyclis* | arame.md | `ecklonia`, `sagarame` | 2026-11-13 | RESEARCHED |
 | sea_lettuce_cold | *Ulva* spp., cold-temperate (*U. lactuca*, *U. fenestrata*) | sea-lettuce.md | `sea_lettuce_warm`, `aonori`, `hitoegusa`, `nori` | 2026-11-14 | RESEARCHED |
 | sea_lettuce_warm | *Ulva* spp., warm-water (*U. ohnoi*, *U. fasciata*) | sea-lettuce.md | `sea_lettuce_cold`, `aonori`, `hitoegusa`, `nori` | 2026-11-14 | RESEARCHED |
-| sea_grapes | *Caulerpa lentillifera* |  |  |  | LISTED |
+| sea_grapes | *Caulerpa lentillifera* | sea-grapes.md | `nama` | 2026-11-14 | RESEARCHED |
 | spirulina | *Arthrospira platensis* |  |  |  | LISTED |
 | chlorella | *Chlorella spp.* |  |  |  | LISTED |
 | nannochloropsis | *Nannochloropsis gaditana* |  |  |  | LISTED |
@@ -57,3 +57,4 @@
 | sagarame | *Eisenia nipponica* (formerly *E. arborea* sensu Arasaki) |  | `arame` |  | PROPOSED |
 | aonori | *Ulva prolifera* |  | `sea_lettuce_cold`, `sea_lettuce_warm` |  | PROPOSED |
 | hitoegusa | *Monostroma* spp. |  | `sea_lettuce_cold`, `sea_lettuce_warm` |  | PROPOSED |
+| nama | *Caulerpa racemosa* complex |  | `sea_grapes` |  | PROPOSED |
