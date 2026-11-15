@@ -1,6 +1,6 @@
 # algae crop status
 
-19 of the 26 originally queued rows have been researched (`sea_lettuce` was split into `sea_lettuce_cold` and `sea_lettuce_warm` on 2026-11-14) (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
+20 of the 26 originally queued rows have been researched (`sea_lettuce` was split into `sea_lettuce_cold` and `sea_lettuce_warm` on 2026-11-14) (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
@@ -23,8 +23,8 @@
 | sea_lettuce_warm | *Ulva* spp., warm-water (*U. ohnoi*, *U. fasciata*) | sea-lettuce.md | `sea_lettuce_cold`, `aonori`, `hitoegusa`, `nori` | 2026-11-14 | RESEARCHED |
 | sea_grapes | *Caulerpa lentillifera* | sea-grapes.md | `nama` | 2026-11-14 | RESEARCHED |
 | spirulina | *Limnospira platensis* (formerly *Arthrospira platensis*), *L. maxima* | spirulina.md | `chlorella` | 2026-11-14 | RESEARCHED |
-| chlorella | *Chlorella spp.* | chlorella.md | `spirulina` | 2026-11-14 | RESEARCHED |
-| nannochloropsis | *Nannochloropsis gaditana* |  |  |  | LISTED |
+| chlorella | *Chlorella spp.* | chlorella.md | `spirulina`, `nannochloropsis` | 2026-11-14 | RESEARCHED |
+| nannochloropsis | *Microchloropsis gaditana* (formerly *Nannochloropsis gaditana*) | nannochloropsis.md | `chlorella` | 2026-11-14 | RESEARCHED |
 | haematococcus | *Haematococcus pluvialis* |  |  |  | LISTED |
 | dunaliella | *Dunaliella salina* |  |  |  | LISTED |
 | asparagopsis | *Asparagopsis taxiformis* |  |  |  | LISTED |
