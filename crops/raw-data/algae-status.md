@@ -1,6 +1,6 @@
 # algae crop status
 
-21 of the 26 originally queued rows have been researched (`sea_lettuce` was split into `sea_lettuce_cold` and `sea_lettuce_warm` on 2026-11-14) (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
+22 of the 26 originally queued rows have been researched (`sea_lettuce` was split into `sea_lettuce_cold` and `sea_lettuce_warm` on 2026-11-14) (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); the rest (sourced from the private source project's own gap-tracking queue) have had no research pass of any kind and remain LISTED. Rows marked PROPOSED were surfaced during research.
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | chlorella | *Chlorella spp.* | chlorella.md | `spirulina`, `nannochloropsis` | 2026-11-14 | RESEARCHED |
 | nannochloropsis | *Microchloropsis gaditana* (formerly *Nannochloropsis gaditana*) | nannochloropsis.md | `chlorella` | 2026-11-14 | RESEARCHED |
 | haematococcus | *Haematococcus lacustris* (formerly *H. pluvialis*) | haematococcus.md | `dunaliella` | 2026-11-15 | RESEARCHED |
-| dunaliella | *Dunaliella salina* |  | `haematococcus` |  | LISTED |
+| dunaliella | *Dunaliella salina* | dunaliella.md | `haematococcus` | 2026-11-15 | RESEARCHED |
 | asparagopsis | *Asparagopsis taxiformis* |  |  |  | LISTED |
 | botryococcus | *Botryococcus braunii* |  |  |  | LISTED |
 | scenedesmus | *Scenedesmus spp.* |  |  |  | LISTED |
