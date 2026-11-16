@@ -31,7 +31,7 @@ and `wakame.md`).
 - **One of the two main farmed kelps in Europe.** It and sugar kelp are
   the most cultivated marine algae in Europe [2].
 - **Its own food profile.** It has a midrib, eats like wakame (Finding 3)
-  [1], and has less iodine than sugar kelp (Finding 4) [4].
+  [1], and has less iodine than sugar kelp (Finding 4) [3].
 - **Not wakame.** It is the Atlantic counterpart of Japanese *Undaria*
   [1][2], but a different genus with its own range and farming season.
 
@@ -100,17 +100,17 @@ occurs, for example in Maine [2], but no managed-harvest system was found.
 
 **Finding 4 — less iodine than sugar kelp, but watch cadmium.**
 
-- **Iodine.** Iodine runs sugar kelp > winged kelp > dulse [4]. Only about
+- **Iodine.** Iodine runs sugar kelp > winged kelp > dulse [3]. Only about
   283 mg of dry winged kelp meets the daily iodine recommendation, against
-  32 mg of sugar kelp [4]. It is described as low in iodine for a kelp [4].
+  32 mg of sugar kelp [3]. It is described as low in iodine for a kelp [3].
 - **Cadmium.**
-  - Norwegian farmed samples reached 2.01 mg/kg dry weight [4]. That
-    exceeds the French food-safety limit [4], but its contribution to
-    dietary cadmium was not judged a threat [4].
-  - Soaking in strong brine (2.0 M NaCl) reduced cadmium [4].
-  - Irish samples averaged 1.03 mg/kg [4].
+  - Norwegian farmed samples reached 2.01 mg/kg dry weight [3]. That
+    exceeds the French food-safety limit [3], but its contribution to
+    dietary cadmium was not judged a threat [3].
+  - Soaking in strong brine (2.0 M NaCl) reduced cadmium [3].
+  - Irish samples averaged 1.03 mg/kg [3].
 - **Arsenic.** Total arsenic averaged 57.9 mg/kg dry weight in Irish
-  samples [4]. Inorganic arsenic was low in Norwegian samples [4].
+  samples [3]. Inorganic arsenic was low in Norwegian samples [3].
 - **Bantry Bay farmed product.** Cadmium and lead were below the EU limit
   for dried seaweed supplements (3 mg/kg); mercury was below 0.011 mg/kg
   [2].
@@ -124,11 +124,11 @@ occurs, for example in Maine [2], but no managed-harvest system was found.
 - **Habitat.** Forms the main canopy on exposed rocky shores [1]. Storms
   and winter ice can strip whole beds [1].
 - **Temperature.** In the north-west Atlantic it lives in water from −2 °C
-  to about 24 °C [3]. Warming may already have pushed its range north up
-  the US East Coast over 50 years [3].
+  to about 24 °C [4]. Warming may already have pushed its range north up
+  the US East Coast over 50 years [4].
 - **Heat-hardy strains.** Gametophytes from southern Maine showed signs of
-  heat adaptation [3]. Some survived far more warming than predicted for
-  the Gulf of Maine [3].
+  heat adaptation [4]. Some survived far more warming than predicted for
+  the Gulf of Maine [4].
 - **Why it matters.** Strain choice is a climate lever.
 
 ## Agronomic data
@@ -139,11 +139,11 @@ occurs, for example in Maine [2], but no managed-harvest system was found.
   partial cuts offshore [2].
 - **Days/years to first bearing:** About 5–7 months from autumn deployment
   to spring harvest (inference from the dates in [2]).
-- **Climate zones:** Cold-temperate to Arctic; −2 to about 24 °C [3].
+- **Climate zones:** Cold-temperate to Arctic; −2 to about 24 °C [4].
 - **Composition (dried, farmed):** Protein 11.2–11.8%; ash about 32%;
   lipid 1.8–2.3% [2].
 - **Edibility:** Edible; blade and sporophylls, midrib often removed [1].
-- **Pollination:** Not applicable. Zoospores from basal sporophylls [1][3].
+- **Pollination:** Not applicable. Zoospores from basal sporophylls [1][4].
 - **Photoperiod sensitivity:** Phenolic content falls as spring light
   rises [2].
 - **Yield:** 7.4 to over 45 kg/m of rope, by strain [2]; about 20 kg/m in
@@ -155,7 +155,7 @@ occurs, for example in Maine [2], but no managed-harvest system was found.
 - **Storage (postharvest):** Dried, oven or freeze [2].
 - **Establishment:** Seeded string wound onto longlines in autumn [2].
 - **Cultivars:** Regional strains and hybrids (Finding 1) [2]; heat-tolerant
-  Maine isolates [3].
+  Maine isolates [4].
 - **Weather response:** Wave-exposed in the wild [1]; storms and ice can
   remove beds [1].
 - **Water regime:** Marine, subtidal, wave-exposed.
@@ -167,8 +167,8 @@ occurs, for example in Maine [2], but no managed-harvest system was found.
 
 ## Hazards
 
-- **Cadmium** can exceed some national limits (Finding 4) [4].
-- **Iodine:** Lower than sugar kelp, but still high (Finding 4) [4].
+- **Cadmium** can exceed some national limits (Finding 4) [3].
+- **Iodine:** Lower than sugar kelp, but still high (Finding 4) [3].
 
 ## Uses and processing
 
@@ -186,7 +186,7 @@ occurs, for example in Maine [2], but no managed-harvest system was found.
 ## Estimates and derivations
 
 **Iodine content, about 530 mg/kg dry weight.** Inputs: 283 mg of dry
-winged kelp meets the recommended daily intake [4]. Assuming an adult
+winged kelp meets the recommended daily intake [3]. Assuming an adult
 recommendation of 150 µg (an assumption, not from the source): 150 µg ÷
 0.283 g ≈ 530 µg/g ≈ 530 mg/kg. The same calculation gives about 4,700
 mg/kg for sugar kelp (150 ÷ 0.032).
@@ -222,15 +222,7 @@ Accessed 2026-11-16.
 
 Accessed 2026-11-16.
 
-[3] Temperature tolerance:
-
-- Quigley, Aydlett & Brawley, SARE project GNE14-074 final report and
-  poster; University of Maine Aquaculture Research Institute summary
-  (−2 to 24 °C; range retraction; heat-adapted gametophytes).
-
-Accessed 2026-11-16.
-
-[4] Food safety:
+[3] Food safety:
 
 - Roleda et al. 2018, *Food Chem.* 254:333–339 (iodine ranking; daily
   allowable amounts).
@@ -239,5 +231,13 @@ Accessed 2026-11-16.
 - Lund University portal, "Chemical food safety of seaweed species" (Irish
   arsenic and cadmium means).
 - SARE GNE14-074 report, citing Wells et al. 2017 (low iodine).
+
+Accessed 2026-11-16.
+
+[4] Temperature tolerance:
+
+- Quigley, Aydlett & Brawley, SARE project GNE14-074 final report and
+  poster; University of Maine Aquaculture Research Institute summary
+  (−2 to 24 °C; range retraction; heat-adapted gametophytes).
 
 Accessed 2026-11-16.
