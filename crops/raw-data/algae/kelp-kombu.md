@@ -40,7 +40,8 @@ mostly culinary and in price, but they do come from distinct coasts.
   kombu [1]. It also matters genetically: it was a parent of Chinese
   interspecific hybrid cultivars (Dongfang no. 2, variety 90-1), and the
   genome study found Chinese cultivars carry limited *S. longissima*
-  admixture [10]. Proposed as `naga_kombu`.
+  admixture [10]. Proposed as `naga_kombu`; since researched in
+  `naga-kombu.md` (2026-11-15).
 - **Sugar kelp (*S. latissima*).** Already its own listed row. It is
   cross-linked because the female parent of the Chinese cultivar
   'Ailunwan' was itself selected from an *S. japonica* × *S. latissima*
