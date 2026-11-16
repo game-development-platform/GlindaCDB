@@ -25,3 +25,4 @@ When a research pass finds that a resource belongs in this category:
 | `arame.md` | *Eisenia bicyclis* | Extracted from `crops/raw-data/algae/arame.md` (2026-11-13) |
 | `spirulina-dihe.md` | *Limnospira platensis* (Chad dihé) | Extracted from `crops/raw-data/algae/spirulina.md` (2026-11-14) |
 | `asparagopsis.md` | *Asparagopsis taxiformis* (limu kohu) | Extracted from `crops/raw-data/algae/asparagopsis.md` (2026-11-15) |
+| `mitsuishi-kombu.md` | *Saccharina angustata* (Mitsuishi / Hidaka kombu) | Extracted from `crops/raw-data/algae/mitsuishi-kombu.md` (2026-11-15) |

@@ -34,7 +34,8 @@ mostly culinary and in price, but they do come from distinct coasts.
 
 - **Mitsuishi / Hidaka kombu (*Saccharina angustata*).** A separate, closely related
   species [1] sold as kombu. Sources disagree on whether it is mainly a
-  dashi kombu or an everyday cooking kombu [1][15]. Proposed as `mitsuishi_kombu`.
+  dashi kombu or an everyday cooking kombu [1][15]. Proposed as `mitsuishi_kombu`; since
+  researched in `mitsuishi-kombu.md` (2026-11-15).
 - **Naga kombu (*Saccharina longissima*).** A separate species sold as
   kombu [1]. It also matters genetically: it was a parent of Chinese
   interspecific hybrid cultivars (Dongfang no. 2, variety 90-1), and the
