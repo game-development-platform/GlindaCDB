@@ -81,7 +81,7 @@ of southern Africa's cold west coast [1]. It covers the single cropID
     cuts off blades and holdfasts and leaves them on the shore for
     wildlife, then sun-dries and chips the kelp for agriculture [3].
   - An environmental clearance certificate and park permits are required
-    [3]. A 2025 dispute concerned a company accused of stripping beaches
+    [3]. A recent dispute concerned a company accused of stripping beaches
     without one [3].
 - **Why it matters.** Beach-cast collection is the main harvest, so supply
   depends on storms.
@@ -180,7 +180,7 @@ Accessed 2026-11-16.
 
 - Namibia Environmental Information Service, ECC records 2023 and 2024
   (beach-cast collection at Lüderitz; method).
-- The Namibian 2025, "Kelp harvesting confusion at Lüderitz".
+- The Namibian, "Kelp harvesting confusion at Lüderitz" (undated in search; the company is accused of collecting since 2019).
 - Molloy 1992, UCT thesis; Namibian seaweed industry review 1991 (*L.
   schinzii*).
 
