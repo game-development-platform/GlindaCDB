@@ -42,7 +42,8 @@ Chile [1]. Chilean breeders have crossed it with *M. pyrifera* [5].
   collision:** this project's existing `bull_kelp` row is *Durvillaea*
   (southern bull kelp), a different alga in a different order (Fucales)
   [8]. "Bull kelp" in North American sources means *Nereocystis*.
-- ***Lessonia* spp. (Chilean "huiro").** Proposed as `lessonia`. A
+- ***Lessonia* spp. (Chilean "huiro").** Proposed as `lessonia`; since
+  researched in `lessonia.md` (2026-11-16). A
   co-occurring Chilean kelp studied alongside *Macrocystis* for its iodine
   and arsenic [8]. Its harvest volume was not sourced in this pass.
 - **Oarweed (`laminaria_digitata`).** Already researched. It is the
