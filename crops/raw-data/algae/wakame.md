@@ -21,8 +21,8 @@ China, from the intertidal down to 15–20 m [2].
 
 **Relatives flagged:**
 
-- **`winged_kelp`** (*Alaria esculenta*, proposed). Same family
-  (Alariaceae) [1].
+- **`winged_kelp`** (*Alaria esculenta*). Same family (Alariaceae) [1].
+  Researched in `winged-kelp.md` (2026-11-16).
 - ***Undaria undarioides*.** A warm-water Japanese congener used in
   temperature comparisons [3]. Not a crop in the sources found, so not
   proposed.

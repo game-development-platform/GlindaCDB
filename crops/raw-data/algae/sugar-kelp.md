@@ -33,7 +33,8 @@ population origin matters, the doc says so.
   the other main cultivated kelp in Norway and Europe, often co-farmed with
   sugar kelp, and is also grown in Maine [7][9]. It is in a different
   family (Alariaceae), with a different processing profile (lower iodine,
-  higher cadmium) [7].
+  higher cadmium) [7]. Since researched in `winged-kelp.md`
+  (2026-11-16).
 - **Skinny kelp (*Saccharina angustissima*).** Proposed as `skinny_kelp`.
   It is a separately farmed species in Maine [9].
 - **Kombu (*Saccharina japonica*).** Already researched as `kelp_kombu`.
