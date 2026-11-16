@@ -27,3 +27,4 @@ When a research pass finds that a resource belongs in this category:
 | `asparagopsis.md` | *Asparagopsis taxiformis* (limu kohu) | Extracted from `crops/raw-data/algae/asparagopsis.md` (2026-11-15) |
 | `mitsuishi-kombu.md` | *Saccharina angustata* (Mitsuishi / Hidaka kombu) | Extracted from `crops/raw-data/algae/mitsuishi-kombu.md` (2026-11-15) |
 | `naga-kombu.md` | *Saccharina longissima* (naga kombu) | Extracted from `crops/raw-data/algae/naga-kombu.md` (2026-11-15) |
+| `laminaria-hyperborea.md` | *Laminaria hyperborea* (tangle / cuvie) | Extracted from `crops/raw-data/algae/laminaria-hyperborea.md` (2026-11-16) |

@@ -23,7 +23,8 @@ pilot scale [1][2].
 **Relatives flagged:**
 
 - **Tangle / cuvie (*Laminaria hyperborea*).** Proposed as
-  `laminaria_hyperborea`. It is the other mechanically harvested
+  `laminaria_hyperborea`; since researched in `laminaria-hyperborea.md`
+  (2026-11-16). It is the other mechanically harvested
   *Laminaria* (trawled in Norway, combed in Brittany), taking about 30% of
   Brittany's kelp landings [1]. It yields a gelling alginate rather than
   *L. digitata*'s thickening/emulsifying one [1]. An older FAO account places
