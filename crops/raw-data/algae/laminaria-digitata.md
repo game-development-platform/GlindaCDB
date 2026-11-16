@@ -32,7 +32,8 @@ pilot scale [1][2].
   harvest-rotation cycle [2].
 - ***Laminaria ochroleuca*.** Proposed as `laminaria_ochroleuca`. A
   warmer-water southern relative sold as "kombu" in Europe; one iodine
-  survey analyses "European kombu" under that name [4].
+  survey analyses "European kombu" under that name [4]. Since researched in
+  `laminaria-ochroleuca.md` (2026-11-16).
 - **Sugar kelp (`sugar_kelp`).** Already researched. It is co-cultivated
   with *L. digitata* in Irish and Shetland trials [2] and cross-linked.
 

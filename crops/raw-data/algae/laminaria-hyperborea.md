@@ -38,7 +38,8 @@ kelp of exposed north-east Atlantic coasts [1]. It covers the single cropID
 **Relatives flagged:**
 
 - `laminaria_digitata` (cross-linked).
-- `laminaria_ochroleuca` (golden kelp), already PROPOSED. It looks similar
+- `laminaria_ochroleuca` (golden kelp), since researched in
+  `laminaria-ochroleuca.md` (2026-11-16). It looks similar
   but is yellower with a smooth stipe [1]. Now cross-linked.
 - No new rows proposed.
 

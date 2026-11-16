@@ -1,6 +1,6 @@
 # algae crop status
 
-26 of the 26 originally queued rows have been researched (`sea_lettuce` was split into `sea_lettuce_cold` and `sea_lettuce_warm` on 2026-11-14) (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); no LISTED rows remain (the queue was sourced from the private source project's own gap-tracking queue). Rows marked PROPOSED were surfaced during research; PROPOSED rows promoted and researched since: `mitsuishi_kombu` (2026-11-15), `naga_kombu` (2026-11-15), `winged_kelp` (2026-11-16), `laminaria_hyperborea` (2026-11-16). Rows marked REJECTED failed the gate check for their own row; the parent's file records why (first use: `skinny_kelp`, 2026-11-16, kept as a sugar kelp strain).
+26 of the 26 originally queued rows have been researched (`sea_lettuce` was split into `sea_lettuce_cold` and `sea_lettuce_warm` on 2026-11-14) (the first 7 are OUT-OF-DATE against the 2026-11-11 checklist addition); no LISTED rows remain (the queue was sourced from the private source project's own gap-tracking queue). Rows marked PROPOSED were surfaced during research; PROPOSED rows promoted and researched since: `mitsuishi_kombu` (2026-11-15), `naga_kombu` (2026-11-15), `winged_kelp` (2026-11-16), `laminaria_hyperborea` (2026-11-16), `laminaria_ochroleuca` (2026-11-16). Rows marked REJECTED failed the gate check for their own row; the parent's file records why (first use: `skinny_kelp`, 2026-11-16, kept as a sugar kelp strain).
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | winged_kelp | *Alaria esculenta* | winged-kelp.md | `sugar_kelp`, `wakame` | 2026-11-16 | RESEARCHED |
 | skinny_kelp | *Saccharina angustissima* | sugar-kelp.md | `sugar_kelp` | 2026-11-16 | REJECTED |
 | laminaria_hyperborea | *Laminaria hyperborea* | laminaria-hyperborea.md | `laminaria_digitata`, `laminaria_ochroleuca` | 2026-11-16 | RESEARCHED |
-| laminaria_ochroleuca | *Laminaria ochroleuca* |  | `laminaria_digitata`, `laminaria_hyperborea` |  | PROPOSED |
+| laminaria_ochroleuca | *Laminaria ochroleuca* | laminaria-ochroleuca.md | `laminaria_digitata`, `laminaria_hyperborea`, `sugar_kelp` | 2026-11-16 | RESEARCHED |
 | nereocystis | *Nereocystis luetkeana* |  | `giant_kelp`, `bull_kelp` |  | PROPOSED |
 | lessonia | *Lessonia spp.* |  | `giant_kelp`, `bull_kelp` |  | PROPOSED |
 | laminaria_pallida | *Laminaria pallida* |  | `ecklonia` |  | PROPOSED |
