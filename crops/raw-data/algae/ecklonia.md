@@ -42,7 +42,8 @@ may want to split them (see Open research questions).
 
 - **`arame`** (*Eisenia bicyclis*). Already listed. Its young sporophytes
   are virtually indistinguishable from *Ecklonia* [1]. Cross-linked.
-- ***Laminaria pallida*.** Proposed as `laminaria_pallida`. It is South
+- ***Laminaria pallida*.** Proposed as `laminaria_pallida`; since
+  researched in `laminaria-pallida.md` (2026-11-16). It is South
   Africa's other commercial kelp, collected as beach-cast alongside
   *E. maxima* for alginate, and the bulk of kelp biomass on the northern
   West Coast [2].

@@ -31,3 +31,4 @@ When a research pass finds that a resource belongs in this category:
 | `laminaria-ochroleuca.md` | *Laminaria ochroleuca* (golden kelp, Galician kombu) | Extracted from `crops/raw-data/algae/laminaria-ochroleuca.md` (2026-11-16) |
 | `nereocystis.md` | *Nereocystis luetkeana* (North American bull kelp) | Extracted from `crops/raw-data/algae/nereocystis.md` (2026-11-16) |
 | `lessonia.md` | *Lessonia* spp. (huiro negro, huiro palo) | Extracted from `crops/raw-data/algae/lessonia.md` (2026-11-16) |
+| `laminaria-pallida.md` | *Laminaria pallida* (split-fan kelp; also covers South Africa's *Ecklonia maxima* concession system) | Extracted from `crops/raw-data/algae/laminaria-pallida.md` (2026-11-16) |
