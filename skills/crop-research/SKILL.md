@@ -92,6 +92,13 @@ from this file.
 5. **Propose a row** for every relative, cultivar group, or alternate species the research surfaced that
    might deserve its own entry (ground rules, above) - note it in "Naming and scope" and add it to the
    status table as `PROPOSED`, unless the user asks for it to be researched now instead.
+   **Promoting a `PROPOSED` row** starts with a gate check: is it distinct enough for its own row? Consider
+   taxonomy, range, farming system, harvest and uses. If it passes, research it in full as above. If it
+   fails, don't write a doc. Record the gate result and the reasons in the parent crop's "Naming and scope"
+   section, and fold anything useful into the parent's own doc (for example its Cultivars line). Then set
+   the row to `Raw data file name` = the parent's file, `Date of last update` = today and
+   `Status` = `REJECTED`. Keep the row so the decision isn't re-litigated later. `REJECTED` rows are never
+   picked by "next".
 6. **Update the status table**, `crops/raw-data/<category>-status.md`: set the researched cropID's row to
    `Raw data file name` = the new file's name, `Date of last update` = today, `Status` = `RESEARCHED`
    (this project hasn't reached the follow-on-pass stage yet, so `RESEARCHED` is the right ceiling right
