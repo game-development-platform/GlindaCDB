@@ -35,7 +35,8 @@ Chile [1]. Chilean breeders have crossed it with *M. pyrifera* [5].
 
 **Relatives flagged:**
 
-- **Bull kelp (*Nereocystis luetkeana*).** Proposed as `nereocystis`. It is
+- **Bull kelp (*Nereocystis luetkeana*).** Proposed as `nereocystis`; since
+  researched in `nereocystis.md` (2026-11-16). It is
   the NE Pacific canopy kelp that replaces giant kelp in northern
   California, and it is harvested there for food [2]. **Naming
   collision:** this project's existing `bull_kelp` row is *Durvillaea*

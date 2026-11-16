@@ -18,7 +18,7 @@ names include cochayuyo (Chile) and rimurapa (New Zealand) [1][4].
 
 **Name clash.** In North American sources, "bull kelp" means *Nereocystis
 luetkeana*, a true kelp. That is proposed separately as `nereocystis`
-(see `giant_kelp`). This row is the Southern Hemisphere genus only.
+(see `giant_kelp`), since researched in `nereocystis.md` (2026-11-16). This row is the Southern Hemisphere genus only.
 
 **Species.** A 2020 review lists six accepted species [1]:
 
