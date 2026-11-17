@@ -4,7 +4,11 @@
 **Researched:** 2026-10-07 (re-researched 2026-11-08 against the expanded
 checklist in `crops/researchNotes/checklist-additions.md` — see Finding 8 and
 the new Agronomic data lines on elevation, photoperiod, clonal/viral
-degeneration risk, and salinity, added that date)
+degeneration risk, and salinity, added that date; re-researched again
+2026-11-17 against the full current checklist — see Finding 9 and the new
+Agronomic data lines on composition, establishment, weather response, water
+regime, harvest stages, soil biology, invasiveness/biosecurity, and
+controlled environment, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -141,6 +145,30 @@ icewine grapes (frozen on the vine before pressing) but the same underlying
 pattern of a frost exposure that is a quality asset in one product stream
 while remaining a pure hazard for fresh fruit [16].
 
+**Finding 9 — a plant-health risk shut one major market for ninety years,
+and the crop's own escapes threaten its wild ancestor.** After fire blight
+was found established in New Zealand in 1919, Australia refused entry to
+New Zealand apples from 1921; New Zealand pressed for access from 1986 and
+took the matter to the World Trade Organization in 2007, where a 2010 panel
+ruling, upheld on appeal, found Australia's sixteen quarantine measures and
+its risk assessment inconsistent with its obligations [22]. Australia issued
+a final import risk analysis on 18 August 2011 concluding that fire blight,
+European canker and apple leaf curling midge could be managed, New Zealand
+apples went on sale within the week — and the first consignment was then
+rejected at the border on 30 August [22]. Fire blight remains a regulated
+pest in the European Union, where specified protected zones bar or condition
+the entry of host plants including *Malus* [22]. Separately, apple escapes
+from cultivation: it is treated as an environmental weed in Victoria, the
+ACT and parts of New South Wales, mostly near old orchards [20], and in
+Europe its pollen and spontaneous seedlings from discarded fruit hybridize
+with the native European crab apple (*M. sylvestris*), one of the crop's own
+wild contributors — a Scottish study found about 30% of trees that look like
+pure wild apples to be hybrids, and conservation guidelines treat
+hybridization with cultivated apple as a major obstacle to conserving the
+wild species [21]. Hybridization is uneven, though: a Dutch field genebank
+of 115 accessions showed traces of cultivated introgression in only seven
+[21].
+
 ## Agronomic data
 
 - **Life form / season:** A deciduous perennial tree, typically kept to
@@ -168,8 +196,18 @@ while remaining a pure hazard for fresh fruit [16].
   study of commercial rootstocks; only sub-12°C temperature did, regardless
   of photoperiod (Finding 8) [15]. Not applicable to tuberization/bulbing,
   since apple has no such organ.
-- **Food status:** Raw-edible; moderate-calorie, mostly water and
-  carbohydrate, low protein [1].
+- **Days/years to first bearing:** About year 3 after planting in an
+  intensive dwarfing system, full production by roughly year 6 (Stand
+  life, below; see Estimates for the day-count conversion) [4].
+- **Composition:** Raw apple with skin (USDA FoodData Central entry
+  171688, read via third-party mirrors of the database rather than the
+  official page): about 52 kcal, 0.3 g protein, 0.2 g fat, 13.8 g
+  carbohydrate (10.4 g sugars) including 2.4 g fiber, and 4.6 mg vitamin C
+  per 100 g. Cultivar-specific entries run higher in energy (roughly 57-65
+  kcal per 100 g for Golden Delicious, Granny Smith and Fuji) [25].
+- **Edibility:** Raw-edible; moderate-calorie, mostly water and
+  carbohydrate, low protein [1][25]. Seeds are the one hazardous part
+  (Hazards, below); cooking destroys the birch-pollen-linked allergen.
 - **Pollination:** Required; insect- (honey bee-) pollinated, with
   self-incompatibility requiring compatible pollinizer cultivars or
   ornamental crabapples interplanted in the orchard (Finding 3).
@@ -201,7 +239,13 @@ while remaining a pure hazard for fresh fruit [16].
   a per-container basis rather than by the hour) and irrigation/frost-
   protection labor; less intensive, lower-density orchard systems scale
   these figures upward considerably.
-- **Soil:** A moderately acidic to neutral soil pH is preferred; low
+- **Soil:** Slightly acid to neutral soil is preferred, with extension
+  targets that differ by region: pH 6.0-6.5 (Vermont), lime to 6.5 for
+  establishment and 6.0 for maintenance (North Carolina), 6.5-6.8 before
+  planting (Michigan), and 6.2-7.2 (Washington); one Oregon guide does not
+  suggest liming above pH 5.6. All agree that lime should be worked in
+  before planting, since pH is very hard to correct once trees are in
+  [27]. Low
   fruit calcium uptake is linked to a major storage disorder (see
   Hazards/disorders below), which preharvest calcium sprays help
   mitigate. Salinity tolerance is distinct from pH and rootstock-
@@ -213,7 +257,17 @@ while remaining a pure hazard for fresh fruit [16].
   saline-alkali soil up to 10‰), though at least one field/greenhouse
   study found no rootstock significantly outperformed the common M.9
   rootstock and that sodium salts harmed growth more than calcium salts
-  [19].
+  [19]. Poorly drained soil is a site to avoid: trees there often decline
+  over one or more years from Phytophthora root and crown rot (Water
+  regime, below) [29].
+- **Establishment:** Nursery trees (ideally well feathered, 10-15 side
+  shoots) planted into pre-limed, prepared ground. In the current
+  tall-spindle high-density system on M.9 or B.9 rootstock, a common
+  specification is about 0.9 m × 3.4 m (3 ft × 11 ft), roughly 1,320 trees
+  per acre (about 3,260 per hectare), while New York economic analyses put
+  the optimum nearer 1,000-1,200 trees per acre — lower than the
+  highest-yielding density [27][28]. Older, lower-density systems on more
+  vigorous rootstocks were not sourced in this pass.
 - **Stand life:** First commercial crop around year 3 after planting in
   an intensive dwarfing system, full production by roughly year 6, with
   a productive planting life of around 20 years in a modern system
@@ -222,14 +276,88 @@ while remaining a pure hazard for fresh fruit [16].
   by crop load and thinning timing [3].
 - **Disease/pest profile:** Fire blight, crown and collar rots, and
   woolly apple aphid are significant rootstock-linked pest and disease
-  concerns, along with a general replant-disease problem in some
-  rootstocks; other major pests and diseases (scab, mildew, codling
+  concerns, along with replant disease (Soil biology, below); other major pests and diseases (scab, mildew, codling
   moth) are widely known but not deeply researched here [9].
 - **Cultivars:** A very large number of named cultivars exist; within
   the high-chill group, major cultivars differ noticeably in chill
   requirement, storage life, acidity, firmness, and susceptibility to
   specific storage disorders (see Sources for cultivar-level detail)
-  [2][8].
+  [2][8]. Honeycrisp stands out as a multiple-pick cultivar (Harvest
+  stages, below) whose bitter-pit and soft-scald risk depends heavily on
+  harvest timing [26].
+- **Weather response:** Dormant trees tolerate about −40°C, but blossom
+  is killed by a few degrees of frost, with stage-by-stage 10%/90%-kill
+  thresholds (Finding 4) [1][6]. Frost is a hazard to fresh fruit and the
+  folk belief that it sweetens apples is not supported, but freezing is
+  deliberately used to make ice cider (Finding 8) [16]. Early-season
+  drought reduces fruit set and size, late-season drought the next year's
+  bloom (Finding 5) [3]. Heat and drought stress also worsen bitter pit
+  (Hazards) [2]. Hail: Not sourced.
+- **Water regime:** Ordinary irrigation only; no flooded requirement.
+  Apple is waterlogging-sensitive, and tolerance is a rootstock trait:
+  extension ratings call M.9 relatively resistant to flooding and
+  Phytophthora, M.7 and MM.111 moderately susceptible, MM.106 susceptible
+  and MM.104 highly susceptible. Trials have used 24-48 hours of
+  waterlogging per week over months, or four weeks continuously, and found
+  some newer Vineland and Geneva rootstocks equal or better than M.9; no
+  survival limit in days was found [29].
+- **Harvest stages / windows:** One window per cultivar, from late
+  summer to late autumn, with maturity at picking chosen for intended
+  storage length (Harvest pattern, above) [2]. Within a tree, ripening can
+  be asynchronous: Honeycrisp is usually spot-picked in about 3-4 passes
+  (trials compared three and five), with exterior fruit commonly ready
+  before interior fruit, though canopy position did not affect maturity
+  consistently. Picking three rather than five times, or slightly
+  immature, gave 60% more bitter pit in one Penn State trial, and growth
+  regulators are used to reduce the number of passes [26].
+- **Soil biology:** Apple replant disease is the major soil-biology
+  problem: replanting apple where apple grew before brings stunted growth
+  and lost yield, especially in young trees, from a host-specific complex
+  of soilborne fungi (*Cylindrocarpon*/*Ilyonectria*, *Rhizoctonia*),
+  oomycetes (*Pythium*, *Phytophthora*) and root-lesion nematodes
+  (*Pratylenchus*), which the apple's own roots favour by shifting the
+  soil microbiome [23]. Which organisms are primary is still disputed, and
+  no single control works across regions [23]. One review cites orchard
+  profitability on replanted soil as about 50% lower, a figure not traced
+  to its original source [23]. Autotoxicity: phloridzin, the dominant
+  phenol in apple root exudate, is released in larger amounts from
+  replant-diseased seedlings, and old apple root debris added to soil
+  severely damaged seedlings in one study, attributed to phloridzin; the
+  effect faded as the debris aged. Whether phloridzin is a cause or a
+  defence response remains open [23]. Mycorrhizal association affects
+  salinity tolerance (Soil, above) [19].
+- **Invasiveness / biosecurity:** Native to Central Asia through its
+  wild ancestor *M. sieversii* [1]; introduced across the temperate
+  world. Regarded as an environmental weed in Victoria, the ACT and parts
+  of New South Wales, naturalising along roadsides, riparian strips and
+  bushland near old orchards, and becoming naturalised in wetter parts of
+  South Australia; recorded in Tasmania. No national Australian listing
+  was found [20]. New Zealand records it as naturalised since 1872, but
+  the conservation department's weed database does not list *Malus* as a
+  weed [20]. In Europe, crop-to-wild gene flow threatens the European crab
+  apple (Finding 9) [21]. *Legal restrictions:* Australia's 1921-2011 ban
+  on New Zealand apples over fire blight (Finding 9) [22]; European Union
+  plant-health rules listing fire blight as a protected-zone quarantine
+  pest (and a regulated non-quarantine pest elsewhere in the Union), with
+  entry of host plants into protected zones prohibited or conditioned, and
+  *Malus* plants for planting from outside the Union limited to one- to
+  two-year-old bare-rooted dormant grafted plants, with later derogations
+  for named countries [22]; and Washington State's apple maggot
+  quarantine, which bars moving homegrown apples and other host fruit,
+  yard waste, and some soil from quarantined areas into the state's
+  pest-free area [22]. Clean-stock certification for viruses
+  (Propagation, above) [18].
+- **Controlled environment:** Not a commercial controlled-environment
+  crop. A US trial of organic apples in high tunnels found vigorous
+  growth, early fruiting and little disease, but frequent sunburn, soft
+  flesh and off-flavours, attributed to the hot tunnel; the authors saw
+  a possible niche for high-value, disease-prone cultivars [24]. A
+  Japanese university greenhouse study grows apple trees at +3°C and +200
+  ppm CO₂ to model climate change, not as a production system [24]. The
+  chill requirement (Finding 1) and need for insect pollinators are the
+  obvious obstacles indoors; growers' guidance advises low-chill
+  cultivars under glass [24]. Fully lit indoor or soilless production:
+  Not sourced.
 
 ## Hazards
 
@@ -320,8 +448,23 @@ trees are propagated.
   opposed to the modern high-density system detailed in Finding 2/
   Agronomic data) are scaled estimates rather than independently
   sourced.
-- Soil pH preference is estimated from general family-level horticultural
-  knowledge rather than a crop-specific soil-fertility source.
+- Soil pH preference is now sourced from regional extension guides
+  (2026-11-17), but their targets differ (from about 6.0 up to 7.2, with
+  one Oregon guide not suggesting lime above 5.6); no single
+  crop-wide figure exists.
+- The 2026-11-17 additions (Finding 9 and the composition, establishment,
+  weather response, water regime, harvest stages, soil biology,
+  invasiveness/biosecurity and controlled environment lines) rest on
+  search-snippet reading only. In particular: the USDA composition values
+  were read from third-party mirrors, not the official database; the
+  current text of the EU protected-zone rules was not opened and may have
+  been amended; the 50% replant-disease profitability figure was not
+  traced to its source; no national weed listing for apple was found in
+  Australia, nor any assessment in North America, which is recorded as
+  "not found," not as evidence of absence; and no survival limit for
+  waterlogging was found.
+- Whether ripening asynchrony (multiple picks) is typical of high-chill
+  cultivars generally, or mainly of Honeycrisp, was not established.
 - Whether the high-chill/low-chill split should instead be modeled as a
   single crop entry with chill requirement as a cultivar-level
   attribute, rather than two separate entries, is a genuine open
@@ -514,3 +657,88 @@ rootstock), and a field/greenhouse rootstock-salinity trial finding no
 rootstock significantly outperformed M.9 and that sodium salts harmed
 growth more than calcium salts. Accessed 2026-11-08, search snippets
 only.
+
+[20] Search-snippet-level material on apple as a naturalised plant and
+weed: an Australian environmental-weed identification key entry for
+*Malus pumila*, regional NatureMapr species records, the New Zealand
+Plant Conservation Network and New Zealand Organisms Register records,
+the New Zealand Department of Conservation weeds database entry for
+*Malus*, and a New Zealand flora factsheet. Supplied: the Victoria/ACT/
+NSW environmental-weed status, habitats invaded, South Australian and
+Tasmanian records, and New Zealand naturalisation since 1872 without a
+weed listing. Accessed 2026-11-17, search snippets only.
+
+[21] Search-snippet-level material on crop-to-wild gene flow into the
+European crab apple: a 2018 open-access study of gene flow in the
+closest wild relatives of cultivated apple, a 2006 study of hybridization
+in *M. sylvestris*, a Royal Botanic Garden Edinburgh press release on a
+Scottish study (about 30% hybrids), a Danish population study, a 2021
+*Tree Genetics & Genomes* study of a Dutch field genebank (7 of 115
+accessions introgressed), and EUFORGEN technical guidelines for
+*M. sylvestris*. Accessed 2026-11-17, search snippets only.
+
+[22] Search-snippet-level material on legal and quarantine restrictions:
+New Zealand Ministry of Foreign Affairs and Trade dispute documents and
+summary page, New Zealand and Australian press reports (2010-2011), an
+American Society of International Law insight, and Australian
+agriculture department question-and-answer documents on the 2011 import
+risk analysis (Australia-New Zealand apple ban and WTO dispute); the
+European Union plant-health implementing regulation 2019/2072 (Annex IX
+copies via the IPPC and legislation.gov.uk, current to November 2024) and
+amending regulations 2020/1361, 2022/1309 and 2023/1511 (fire blight
+protected zones and *Malus* import conditions); and Washington State
+Department of Agriculture apple maggot quarantine pages and 2026 rule
+filings. Accessed 2026-11-17, search snippets only; none of the
+regulation texts was opened in full.
+
+[23] Search-snippet-level material on apple replant disease: a 2022
+*Frontiers in Microbiology* review (Somera and Mazzola), a UK fruit
+research institute's replant-disease best-practice report, a Pacific
+Northwest plant-disease management handbook entry, a 2024 preprint and a
+2023 review on causation, and a review of biofumigation citing the 50%
+profitability figure; and on phloridzin, a 2009 root-exudation study
+(Hofmann et al.), a 2017 *Phytopathologia Mediterranea* short note on
+root debris (Nicola et al.), a 2017 rhizodeposit study, and a 2023
+phloridzin-degrading bacterium study. Accessed 2026-11-17, search
+snippets only.
+
+[24] Search-snippet-level material on protected apple growing: a SARE-
+funded report on organic apple production in high tunnels, trade-press
+reports of a Hirosaki University climate-change greenhouse study, and
+gardening and trade-press articles on fruit trees under glass. Accessed
+2026-11-17, search snippets only.
+
+[25] USDA FoodData Central values for "Apples, raw, with skin" (FDC
+171688) and cultivar-specific apple entries, read through third-party
+mirrors of the database (not the official FoodData Central page).
+Accessed 2026-11-17, search snippets only.
+
+[26] Search-snippet-level material on Honeycrisp harvest: Penn State
+Extension's harvest-practice article and multiple-harvest calculator, a
+Fruit Growers News article on the same work, two Cornell Cooperative
+Extension presentations, and a grower-packer harvesting guide. Supplied:
+number of picks, canopy-position effects on maturity, the bitter-pit
+comparison, and use of growth regulators to reduce picks. Accessed
+2026-11-17, search snippets only.
+
+[27] Search-snippet-level material on orchard soil pH and liming:
+University of Vermont apple program site-selection guides, a North
+Carolina agriculture department soil-test note for apples, Michigan State
+and Washington State extension nutrition and soil pages, and an Oregon
+State extension guide. Also supplied the feathered-nursery-tree and
+pre-planting preparation notes. Accessed 2026-11-17, search snippets
+only.
+
+[28] Search-snippet-level material on tall-spindle planting systems:
+Cornell (Robinson) training-system and orchard-system papers, Michigan
+State orchard-show presentations, and UMass and Wisconsin extension
+sheets. Supplied: spacing, trees per acre, the economic-optimum density,
+and suitable rootstocks. Accessed 2026-11-17, search snippets only.
+
+[29] Search-snippet-level material on waterlogging: a 2012 *Canadian
+Journal of Plant Science* study of Vineland rootstocks (Hampson et al.),
+a 2020 *Horticulture, Environment, and Biotechnology* study of Geneva
+rootstocks, a Brazilian waterlogging trial, a Chinese transcriptome
+study, and extension material (an eXtension apple article, West Virginia
+University) on rootstock flooding ratings and Phytophthora in poorly
+drained soil. Accessed 2026-11-17, search snippets only.
