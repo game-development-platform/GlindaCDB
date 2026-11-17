@@ -41,8 +41,10 @@ This entry does **not** cover:
   growing environment from mainland bitter orange.
 - **Daidai** (*C.* × *aurantium* var. *daidai*), the Chinese/Japanese
   variety used in traditional medicine, tea, and as a decorative fruit at
-  Japanese New Year [1]. Proposed as its own candidate row below — a
-  named variety with its own distinct cultural/medicinal use pattern.
+  Japanese New Year [1]. Proposed here as a candidate row — a named
+  variety with its own distinct cultural/medicinal use pattern — and
+  since researched as its own entry (`daidai`, see `daidai.md`,
+  2026-11-16).
 
 ## Research findings
 

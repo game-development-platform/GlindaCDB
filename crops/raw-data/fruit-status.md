@@ -30,7 +30,7 @@
 | coconut | Cocos nucifera | coconut.md |  | 2026-11-09 | OUT-OF-DATE |
 | coyo | Persea schiedeana | coyo.md |  | 2026-11-09 | OUT-OF-DATE |
 | cranberry | Vaccinium macrocarpon | cranberry.md |  | 2026-11-09 | OUT-OF-DATE |
-| daidai | *C.* × *aurantium* var. *daidai* |  | `bitter_orange` | 2026-11-08 | PROPOSED |
+| daidai | Citrus × aurantium, daidai group (kabusu and kaiseitō; var. *daidai*) | daidai.md | `bitter_orange`, `hetsuka_daidai`, `natsudaidai` | 2026-11-16 | RESEARCHED |
 | date_palm | Phoenix dactylifera | date-palm.md |  | 2026-11-09 | RESEARCHED |
 | dragon_fruit | Selenicereus undatus and red-fleshed relatives | dragon-fruit.md |  | 2026-09-30 | OUT-OF-DATE |
 | durian | Durio zibethinus | durian.md |  | 2026-09-30 | OUT-OF-DATE |
@@ -44,6 +44,7 @@
 | grape | Vitis vinifera | grape.md | `american_grape`, `muscadine` | 2026-11-08 | OUT-OF-DATE |
 | grapefruit | Citrus × paradisi | grapefruit.md |  | 2026-09-29 | OUT-OF-DATE |
 | guava | Psidium guajava | guava.md |  | 2026-09-30 | OUT-OF-DATE |
+| hetsuka_daidai | Citrus sp., Kagoshima local citrus related to kabusu |  | `daidai` | 2026-11-16 | PROPOSED |
 | highland_banana | Musa AAA-EA, Mutika/Lujugira subgroup | banana.md | `banana`, `plantain` | 2026-11-08 | OUT-OF-DATE |
 | honeydew | Cucumis melo Inodorus group | honeydew.md |  | 2026-09-30 | OUT-OF-DATE |
 | indian_jujube | Ziziphus mauritiana | indian-jujube.md |  | 2026-10-13 | OUT-OF-DATE |
@@ -70,6 +71,7 @@
 | meyer_lemon | Citrus × meyeri | meyer-lemon.md |  | 2026-10-03 | OUT-OF-DATE |
 | mountain_papaya | Vasconcellea pubescens | mountain-papaya.md |  | 2026-10-03 | OUT-OF-DATE |
 | muscadine | Vitis rotundifolia | grape.md | `american_grape`, `grape` | 2026-11-08 | OUT-OF-DATE |
+| natsudaidai | Citrus natsudaidai (natsumikan) |  | `daidai` | 2026-11-16 | PROPOSED |
 | nectarine | Prunus persica, smooth-skinned | nectarine.md |  | 2026-10-18 | OUT-OF-DATE |
 | olive | Olea europaea | olive.md |  | 2026-10-11 | OUT-OF-DATE |
 | orange | Citrus × sinensis | orange.md | `bitter_orange` | 2026-10-10 | OUT-OF-DATE |
