@@ -5,6 +5,10 @@
 current checklist in `skills/crop-research/SKILL.md` and
 `templates/research-doc.md` — see Finding 7 and the new Agronomic data
 lines on photoperiod and elevation, and the named viroid in Propagation,
+added that date; re-researched again 2026-11-17 against the full current
+checklist — see Findings 8 and 9 and the new Agronomic data lines on first
+bearing, composition, establishment, weather response, water regime, harvest
+stages, soil biology, invasiveness/biosecurity, and controlled environment,
 added that date)
 
 This file is original research synthesis, compiled from the public sources
@@ -140,6 +144,47 @@ confirmed as purely a hazard, consistent with the race-dependent frost-
 tolerance differences already noted (Finding 4/Agronomic data) — no
 documented case of frost improving fruit quality was found [17].
 
+**Finding 8 — biosecurity has shaped where this crop is grown and traded,
+and two of its worst threats are invasive organisms.** The United States
+barred Mexican avocados from 1914 to 1997 over pests including seed
+weevils and scab, and since then has admitted them only from approved
+areas: Michoacán since 1997, and Jalisco as the only other approved state
+since 2022 [18]. The trade depends on US inspectors working in Michoacán's
+orchards and packhouses, and it has been halted several times for their
+safety: in February 2022 after an inspector received a threat, after two
+USDA employees were assaulted and held in 2024, and again in August 2026,
+when inspections were paused for security reasons without a specific
+incident being cited [18]. Two exotic beetle-fungus partnerships threaten
+the tree. Laurel wilt, a fungus carried by the redbay ambrosia beetle
+(a serious pest of Florida avocado since its discovery there in 2005), has killed over a million trees of
+the laurel family in the southeastern US. More than 1,900 symptomatic
+avocado trees had been removed from Florida groves by 2013, and losses
+there without control were estimated at US$27-54 million [19]. The
+polyphagous shot hole borer, with its *Fusarium* dieback fungus, was
+first recorded in Israel in 2009 in an avocado plantation and has
+seriously weakened avocado trees there. It is established in California,
+where it had not killed avocado trees as of the 2017-2018 extension
+reports found [19]. The root-rot water mould (*Phytophthora cinnamomi*)
+behind Finding 3 is itself on the IUCN Invasive Species Specialist Group's
+list of 100 of the world's worst invasive alien species, and is one of
+very few plant pathogens on it [21]. In California, diseased nursery stock
+was historically the main way it spread into avocado districts. A
+nursery certification programme has required well-drained nursery sites
+and laboratory-tested stock since 1970 [21].
+
+**Finding 9 — the crop's expansion in its main producing region is
+driving forest loss.** In Michoacán, Mexico's environmental prosecutor
+estimated that 6,000-8,000 ha of forest were being cleared each year for
+orchards, with avocado then covering about 150,000 ha of former forest
+land. A 2023 study cites government sources putting the share of
+Michoacán orchards established illegally at 80% [23]. Reports describe
+illegal wells and pumps diverting communal water to new orchards, and
+organised-crime extortion of growers. The growers' association says the
+vast majority of producers comply with the law, and the authorities say
+fruit from legal and illegal orchards is hard to tell apart [23]. The
+figures come mostly from NGO reports and press investigations from
+2016-2024, and they disagree on how large the illegal share is [23].
+
 ## Agronomic data
 
 - **Life form / season:** An evergreen perennial tree, reaching
@@ -156,9 +201,21 @@ documented case of frost improving fruit quality was found [17].
   Colombian multi-site study found the flowering-to-harvest interval
   itself lengthens at higher elevation within that range (Finding 7)
   [15].
-- **Food status:** Raw-edible; unusually calorie-dense and fat-rich for
+- **Days/years to first bearing:** Grafted trees first bear around the
+  third year after planting; seedling trees take several years longer
+  (see Estimates) [1][4].
+- **Composition:** USDA figures, read via third-party mirrors, give about
+  160 kcal, 2 g protein, 14.7 g fat and 8.5 g carbohydrate including
+  6.7 g fiber per 100 g for raw California (Hass-type) avocado, and a
+  calculated 167 kcal with about 15.4 g fat for the "all commercial
+  varieties" entry; a 2023 review of Hass pulp cites the 167 kcal figure
+  [6][25]. Low-oil West Indian types run lower (oil content by race
+  conflicts between sources; see Open research questions) [2][15].
+- **Edibility:** Raw-edible; unusually calorie-dense and fat-rich for
   a fruit, with meaningful protein content; flesh turns bitter if
-  cooked too long [1][4][6].
+  cooked too long [1][4][6]. Fruit picked immature never ripens properly
+  (Finding 1) [1]. Leaves, bark, skin and seed carry an animal toxin
+  (Hazards) [3].
 - **Photoperiod sensitivity:** Genuinely disputed rather than settled —
   sources disagree on whether day length drives flowering at all, with
   at least one study finding short days favor flowering and long days
@@ -208,10 +265,17 @@ documented case of frost improving fruit quality was found [17].
   slightly acidic pH optimum; the Mexican and Guatemalan races become
   chlorotic on high-pH calcareous soils, though the crop is
   successfully grown on such soils in at least one major region with
-  appropriate micronutrient management.
+  appropriate micronutrient management [1][11]. Salinity, and chloride
+  in particular, is damaging, with tolerance varying by race and
+  rootstock (Finding 3) [1][5][8].
 - **Stand life:** Grafted trees reach first harvest around the third
   year after planting; trees can remain productive for 50 years or
-  more, with some specimens documented at over a century old.
+  more, with some specimens documented at over a century old [1].
+- **Establishment:** Grafted nursery trees from certified root-rot-free
+  nurseries (Finding 8) [21], planted on raised berms or ridges over a
+  deep water table (Water use, above) [5], at spacings documented in a
+  regional cost study (see Estimates for tree density) [7]. Wind shelter
+  matters, since the tree is wind-sensitive [1].
 - **Disease/pest profile:** A specific water-mold root-rot pathogen is
   the dominant and most serious disease across most growing regions,
   with rootstock choice offering tolerance but no true resistance;
@@ -222,6 +286,60 @@ documented case of frost improving fruit quality was found [17].
 - **Cultivars:** A considerable number of named cultivars exist across
   all three races and their hybrids, differing in flower-opening type,
   oil content, cold hardiness, fruit size, skin character, and season.
+- **Weather response:** Frost tolerance is set by race, with Mexican
+  hardiest and West Indian least hardy, and frost-damage thresholds are
+  documented [1][5]. Frost is purely a hazard (Finding 7) [17]. The tree is
+  wind-sensitive [1]. Water stress causes fruit drop from fruit set to
+  about half final size (Finding 3) [5]. Heat dose-response figures: Not
+  sourced.
+- **Water regime:** Ordinary irrigation, but within an unusually narrow
+  band: drought and waterlogging both do serious harm, the roots need a
+  high air-filled pore fraction, and waterlogged soil favours the root-rot
+  pathogen and kills trees (Finding 3) [5][11]. No flooded requirement;
+  standing water is the main site hazard.
+- **Harvest stages / windows:** Mature fruit does not ripen on the tree,
+  so the tree acts as storage and fruit is picked selectively over months,
+  roughly seven months for one major cultivar in one California region
+  (Finding 1) [1][7]. This is a picking pattern chosen by the grower, not
+  asynchronous ripening: maturity is set by minimum dry-matter thresholds,
+  and fruit left longer on the tree ripens faster once picked [2].
+  Alternate bearing shifts the size of the crop between years [4].
+- **Soil biology:** The dominant soil-biology issue is the root-rot
+  pathogen *Phytophthora cinnamomi* (Finding 3, Finding 8) [5][21].
+  Organic mulching, notably the high-mulch "Ashburner" system with added
+  calcium, has been credited with suppressing it through *Pseudomonas*
+  bacteria and actinomycetes. A 2002 study found mulch could either
+  reduce or worsen disease in young trees depending on type, and a 2022
+  trial found a silica-based mineral mulch or phosphite raised fine-root
+  weight in infected trees [22]. On mycorrhizae, one 2000 study states
+  that avocado roots do not form the mycorrhizal associations credited
+  with suppressing this pathogen in pines. Whether avocado benefits from,
+  or depends on, arbuscular mycorrhizae was not established [22]. Replant
+  disease and allelopathy: Not sourced.
+- **Invasiveness / biosecurity:** Native to Mesoamerica, with the three
+  races originating from highland Mexico, upland Guatemala and lowland
+  coastal areas (Finding 7) [15]; introduced throughout the tropics and
+  subtropics. Listed among the most aggressive invasive plants of the
+  Galápagos Islands in an FAO-hosted paper on weed risk assessment there
+  [20]. No avocado rating was found in the Hawaii-Pacific Weed Risk
+  Assessment results searched [20]. Its land-use footprint in Michoacán is
+  a separate environmental issue (Finding 9) [23]. *Legal restrictions:*
+  the US-Mexico import history and approved-state system, and the
+  inspection halts (Finding 8) [18]; quarantine measures against laurel
+  wilt and shot hole borer (Finding 8) [19]; nursery root-rot
+  certification in California [21]; and clean-stock rules for sunblotch
+  viroid (Propagation, above) [16]. Quarantine treatment of exported fruit
+  is also documented [2].
+- **Controlled environment:** No greenhouse or closed-system production
+  was found. Netting is used: in South Africa, shade nets changed air
+  temperature and humidity only slightly but cut canopy temperature by
+  about 5°C in the afternoon, and coloured nets raised marketable Hass
+  yield and sped ripening in some trials [24]. A 2026 preprint reports
+  winter silver nets over mature Hass trees giving 16 versus 0.4 kg per
+  tree the following season after a frost winter, with no difference in a
+  frost-free winter [24]. An Australian commercial containerised,
+  under-cover system reports pollination as a major limiting factor under
+  netting, which fits the crop's two flower types (Finding 2) [24].
 
 ## Hazards
 
@@ -287,6 +405,14 @@ kind of health/safety data.
   direction, and this pass did not reconcile them.
 - Oil-content-by-race figures conflict between two sources by a wide
   margin and were not reconciled to a single set of figures.
+- The 2026-11-17 additions (Findings 8 and 9 and the new Agronomic data
+  lines) rest on search-snippet reading only. In particular: the
+  Michoacán deforestation figures conflict and are disputed by industry;
+  laurel wilt loss figures date from 2013 and shot hole borer reports
+  from 2017-2018; the US approved-state history between 1997 and 2022 was
+  not traced step by step; the Galápagos listing comes from an undated
+  paper; avocado's mycorrhizal status is unresolved; and composition
+  figures differ between USDA entries.
 - Whether elevation itself drives disease pressure (as opposed to
   drainage/aeration, which is already well documented) was specifically
   looked for and not found.
@@ -473,3 +599,59 @@ university extension article and recent regional frost-loss reporting.
 Supplied: confirmation that frost is documented only as a hazard
 (fruit/skin/flesh damage, fruit drop), with no documented quality-
 improvement case found. Accessed 2026-11-08, search snippets only.
+
+[18] Search-snippet-level material on US imports of Mexican avocados:
+Modern Farmer, PBS NewsHour/Associated Press, FreightWaves and The Packer
+reports on the February 2022 suspension and resumption, Associated Press
+coverage (via WTOP, August 2026) and Mexico News Daily on the 2026
+inspection pause, and the Food Institute on the 1914-1997 ban and
+approved states. Accessed 2026-11-17, search snippets only.
+
+[19] Search-snippet-level material on laurel wilt and shot hole borers:
+the EPPO alert-list page for *Raffaelea lauricola*, University of Florida
+EDIS material, a California Avocado Commission overview, University of
+California cooperative extension reports (2018, 2021) and a Progressive
+Crop Consultant article on invasive avocado pests, and a *Phytoparasitica*
+paper on the shot hole borer in Israel. Accessed 2026-11-17, search
+snippets only.
+
+[20] Search-snippet-level material on avocado as an invasive plant: an
+FAO-hosted paper on weed risk assessment in the Galápagos (Rogg,
+Buddenhagen and Causton), Hawaii Invasive Species Council weed risk
+assessment reports, and Pacific invasive-species resources. Accessed
+2026-11-17, search snippets only.
+
+[21] Search-snippet-level material on *Phytophthora cinnamomi*: pages
+reproducing the ISSG "100 of the world's worst invasive alien species"
+list, a 2025 *Biological Invasions* paper (Paap et al.), a global-
+distribution study, California Avocado Society yearbooks (1952 onward) on
+nursery-stock spread and certification, University of California
+guidelines, and a Queensland agriculture department page. Accessed
+2026-11-17, search snippets only.
+
+[22] Search-snippet-level material on avocado root rot and soil biology:
+a 2000 *Brazilian Journal of Microbiology* paper, a 2002 *HortTechnology*
+paper on mulches and young avocado trees, a 2022 *Frontiers in
+Microbiology* mulch and phosphite trial, avocado-research articles on the
+Ashburner method, and a 2024 review of soil amendments (Farooq et al.).
+Accessed 2026-11-17, search snippets only.
+
+[23] Search-snippet-level material on avocado-driven land change in
+Michoacán: a 2023 Greens/EFA study on the avocado boom and organised
+crime, Reuters coverage (via the Japan Times) of a Climate Rights
+International report, NBC News, Grist, New York Times coverage (via a
+syndicating newspaper), Earthsight, a 2021 *Ambio* paper, and a 2023
+geography conference abstract on landscape change. Accessed 2026-11-17,
+search snippets only.
+
+[24] Search-snippet-level material on netting and protected avocado
+growing: South African Avocado Growers' Association yearbook papers (2015,
+2017) on shade and coloured nets, a 2026 preprint on winter silver nets
+over Hass, an FAO AGRIS record on Pinkerton under nets, and an Australian
+horticulture company's account of a containerised under-cover system.
+Accessed 2026-11-17, search snippets only.
+
+[25] USDA FoodData Central values for raw California avocado (FDC 171705)
+and raw avocado, all commercial varieties (FDC 171706), read through
+third-party mirrors, and a 2023 *Foods* (MDPI) review of Hass avocado
+pulp composition. Accessed 2026-11-17, search snippets only.
