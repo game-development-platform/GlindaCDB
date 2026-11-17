@@ -1,7 +1,11 @@
 # Date Palm (*Phoenix dactylifera*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/date-palm.md`
-**Researched:** 2026-10-10
+**Researched:** 2026-10-10 (re-researched 2026-11-09 against the full
+current checklist in `skills/crop-research/SKILL.md` and
+`templates/research-doc.md` — see the new Agronomic data lines on
+chill-hours, photoperiod, elevation, and clonal/viral degeneration risk,
+and the new Hazards line on mycotoxin contamination, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -145,6 +149,62 @@ cotton, or shade-net bags, tied down against wind damage [4][5].
   budget, documented per-palm yield figures for a high-yielding
   cultivar, and a documented lower per-palm figure respectively, each
   combined with a standard planting density (see Estimates below).
+- **Chill-hours/vernalization:** None documented — no source describes a
+  chilling or vernalization requirement for flowering or fruiting, and
+  phenology is instead framed in heat-accumulation terms. Two regional
+  thermal-requirement studies disagree on the flowering base temperature
+  (13°C in one, 18°C in the other), and fruiting heat accumulation is
+  documented at roughly 3,689-5,141°C-days (base 10°C), higher using a
+  7°C base — not reconciled here; both reflect the same desert-species
+  pattern of no winter dormancy-break requirement [28].
+- **Photoperiod sensitivity:** Not settled — the literature itself
+  explicitly flags in vivo photoperiodic control of flowering as "virtually
+  unexplored" in this species, with further research "particularly
+  needed." A controlled in vitro study found that manipulating light/dark
+  regime on tissue-cultured plantlets could raise flower-induction rates,
+  but the resulting flowers were abnormal/terminal rather than the
+  natural lateral flowering pattern, so this is a tissue-culture artifact
+  rather than evidence of a natural day-length cue. No source classifies
+  the species as short-day, long-day, or day-neutral; current evidence
+  points toward heat-driven rather than photoperiod-driven floral
+  induction (see Chill-hours/vernalization, above), but this remains an
+  acknowledged literature gap, not a confirmed day-neutral finding [29].
+- **Flooded/paddy water requirement:** None — this is an oasis/desert
+  species with no flood or standing-water requirement, consistent with
+  the Agronomic data Water-use note that standing water can kill mature
+  palms. A seedling-stage physiology study found genuine tolerance of
+  temporary flooding with fresh water (no measurable change in gas
+  exchange), with damage in that same study arising only from seawater
+  salinity rather than from flooding itself — tolerance that matches
+  wild/coastal populations naturally exposed to seawater inundation, some
+  of which grow in swamp forest. Separately, flood irrigation (a
+  controlled management practice, not a biological requirement) is the
+  historically dominant irrigation method and has caused documented
+  waterlogging and salinity-buildup problems in at least one major
+  growing country from overuse [30].
+- **Clonal/viral degeneration risk:** Real for offshoot- and
+  tissue-culture-propagated stock, but mostly genetic/fungal rather than
+  viral. Tissue-culture propagation shows documented somaclonal variation
+  (attributed to transposon/retrotransposon activation during culture),
+  including hard-to-detect-early dwarf variants and, in one cultivar,
+  reduced yield from abnormal parthenocarpic fruit set; AFLP and RAPD
+  marker studies found measurably more genetic variation in
+  tissue-culture-derived plants than in offshoot-derived plants for some
+  cultivars. Offshoot movement between regions is repeatedly documented
+  as a major transmission pathway for the vascular wilt fungal disease
+  and the major weevil pest already in this entry's Hazards section, not
+  primarily for viruses — only one true virus has been described in this
+  species (2020, unconfirmed by any independent follow-up study found
+  here), while phytoplasma diseases (graft/vector-transmissible, loosely
+  "virus-like" in older literature) are better economically documented.
+  No disease-free offshoot certification standard was found in this
+  research, though this is flagged as a search gap rather than a
+  confirmed absence of one [31].
+- **Elevation:** A commonly cited cultivation-manual figure gives a range
+  of roughly 392 m below sea level up to 1,500 m above sea level,
+  independently repeated in a separate regional technical paper; a
+  conflicting secondary estimate from a palm-reference site gives a
+  narrower 0-1,000 m range — not reconciled here [32].
 - **Water use:** A standard international crop-evapotranspiration
   reference gives this species a high, fairly constant crop coefficient
   year-round; documented regional water-budget studies show total
@@ -205,6 +265,18 @@ disease that has killed millions of palms with no cure, a major weevil
 pest responsible for severe regional outbreaks, an inflorescence rot
 disease, several further fungal diseases, scale insects, a mite, and a
 moth.
+
+**Postharvest mycotoxin contamination** — distinct from the field
+pathogens above. No source found documents ergot (*Claviceps*)
+contamination in dates, plausibly because ergot is a grass/cereal-floret
+pathogen poorly matched to this species' floral biology and fruit type,
+though that inference was not directly confirmed by any source here.
+Other fungal mycotoxins are genuinely documented in stored/dried fruit,
+however: *Aspergillus* and *Penicillium* contamination of commercial date
+samples has been found producing ochratoxin A (one survey finding it in
+roughly 17% of samples, with one result exceeding the regulatory limit)
+and, separately, fumonisin B2 co-occurring with ochratoxins in a smaller
+share of samples from another survey [33].
 
 **TO BE ADDRESSED** — spines on the fronds (up to several dozen per
 frond) are a genuine occupational hazard requiring deliberate
@@ -300,6 +372,24 @@ tradition, the date palm itself symbolizes the cosmic tree.
 - The specific soil-nutrient-removal figures used here come from a
   single detailed agronomic source and may not generalize well across
   regions and cultivars.
+- Whether flowering is genuinely day-neutral or has some unstudied
+  photoperiod component is explicitly flagged in the literature itself
+  as an open question, not something this research could settle; only an
+  in vitro tissue-culture artifact study was found, not a field study.
+- The flowering base temperature used in regional thermal-requirement
+  calculations conflicts between two sources (13°C vs 18°C) — not
+  reconciled here.
+- The documented elevation range (roughly -392 m to 1,500 m from the
+  primary cultivation-manual source) conflicts with a secondary
+  palm-reference estimate of 0-1,000 m — not reconciled here.
+- The one documented date-palm virus (2020) has not been confirmed by
+  any independent follow-up study found in this research; whether it is
+  a genuinely established, widespread pathogen or a single-report finding
+  remains unclear.
+- No disease-free offshoot certification standard (comparable to
+  virus-tested nursery-stock programs in other vegetatively propagated
+  crops) was found for this species — a possible literature gap rather
+  than a confirmed absence of such a standard.
 
 ## Estimates and derivations
 
@@ -590,3 +680,57 @@ rule and its documented complexity when applied to a tree piece that is
 cut and replanted, including a historical rabbinic opinion specifically
 addressing trees grown for the ceremonial-frond product. Accessed
 2026-10-10, search snippets only.
+
+[28] Search-snippet-level material on regional thermal-requirement
+studies for date palm ripening, including an Algerian maturity/
+temperature-sum journal article and a separate Biskra (Algeria) thermal-
+requirements journal article. Supplied: flowering base-temperature
+figures (conflicting between sources), fruiting heat-accumulation
+figures in degree-days, and a general temperature-tolerance range.
+Accessed 2026-11-09, search snippets only.
+
+[29] Search-snippet-level material on photoperiod and flowering in date
+palm, including a book chapter on date palm physiology and a peer-
+reviewed plant-growth-regulation journal article on in vitro photoperiod
+manipulation of tissue-cultured plantlets. Supplied: an explicit
+statement that in vivo photoperiodic control of flowering is largely
+unstudied in this species, and an in vitro finding that light/dark
+regime affected flower-induction rate but produced abnormal, non-natural
+flowering. Accessed 2026-11-09, search snippets only.
+
+[30] A peer-reviewed plant-science journal study on physiological
+responses of date palm seedlings to seawater and flooding, supplemented
+with search-snippet-level material on flood-irrigation practice and
+associated waterlogging/salinity problems in a major growing country.
+Supplied: seedling-stage flooding-tolerance data (fresh water tolerated,
+seawater damaging), natural flood-exposed habitat notes, and a
+management-practice note on flood-irrigation-driven waterlogging.
+Accessed 2026-11-09, study accessed via repository summary, not fully
+read; remainder search snippets only.
+
+[31] Search-snippet-level material on genetic/somaclonal variation and
+disease transmission in vegetatively propagated date palm, including
+AFLP and RAPD marker studies on several named cultivars, a review
+attributing somaclonal variation to transposon activation, a fruit-set
+study on tissue-culture-derived palms, regional reports on offshoot-
+transmitted fungal disease and weevil infestation, a quarantine/
+pretreatment study, and a 2020 peer-reviewed virus-characterization
+journal article describing the first documented date-palm virus.
+Supplied: genetic-variation findings between offshoot- and tissue-
+culture-propagated stock, offshoot-mediated disease/pest transmission
+documentation, and the one documented viral pathogen (unconfirmed by
+independent follow-up). Accessed 2026-11-09, search snippets only.
+
+[32] Search-snippet-level material on date palm's elevation/altitude
+range, including a commonly cited date-palm cultivation-manual source,
+a regional technical paper repeating the same figure, and a conflicting
+palm-reference-site estimate. Supplied: a primary elevation range and a
+conflicting secondary estimate. Accessed 2026-11-09, search snippets
+only.
+
+[33] Search-snippet-level material on postharvest mycotoxin
+contamination of commercial dried dates, including a Portuguese
+mycotoxin-survey journal article, a Qatari market-survey study, and an
+Egyptian fungal-metabolite survey. Supplied: ochratoxin A and fumonisin
+B2 contamination rates in sampled commercial dates. Accessed 2026-11-09,
+search snippets only.

@@ -31,7 +31,7 @@
 | coyo | Persea schiedeana | coyo.md |  | 2026-11-09 | OUT-OF-DATE |
 | cranberry | Vaccinium macrocarpon | cranberry.md |  | 2026-11-09 | OUT-OF-DATE |
 | daidai | *C.* × *aurantium* var. *daidai* |  | `bitter_orange` | 2026-11-08 | PROPOSED |
-| date_palm | Phoenix dactylifera | date-palm.md |  | 2026-10-10 | OUT-OF-DATE |
+| date_palm | Phoenix dactylifera | date-palm.md |  | 2026-11-09 | RESEARCHED |
 | dragon_fruit | Selenicereus undatus and red-fleshed relatives | dragon-fruit.md |  | 2026-09-30 | OUT-OF-DATE |
 | durian | Durio zibethinus | durian.md |  | 2026-09-30 | OUT-OF-DATE |
 | dwarf_sour_cherry | Prunus cerasus × P. fruticosa; P. × kerrasis | dwarf-sour-cherry.md |  | 2026-10-05 | OUT-OF-DATE |
