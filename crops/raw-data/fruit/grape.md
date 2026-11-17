@@ -3,7 +3,9 @@
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/grape.md`
 **Researched:** 2026-10-09 (re-researched 2026-11-08 against the expanded checklist in
 `crops/researchNotes/checklist-additions.md` — see Findings 10 and the new Agronomic data lines on
-elevation, chill-hours, photoperiod, water regime, and clonal/viral degeneration risk, added that date)
+elevation, chill-hours, photoperiod, water regime, and clonal/viral degeneration risk, added that date;
+re-researched again 2026-11-17 against the full current checklist — see Finding 11 and the new Agronomic
+data lines on soil biology, invasiveness/biosecurity, and controlled environment, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -195,6 +197,26 @@ either a hazard or the entire basis of a premium product depending on
 exactly how it unfolds — not sourced for American grape or muscadine,
 where no comparable noble-rot product tradition was found.
 
+**Finding 11 — the American vines that saved European viticulture are
+now its regulated outsiders: escaped as weeds, and partly banned by
+law.** The North American species brought in as phylloxera-resistant
+rootstocks (Finding 4) have escaped from abandoned vineyards and from
+discarded prunings across Europe, where they and their hybrids now grow
+wild mainly in alluvial forests; the studies describing them call them
+invasive in character and a threat to the already-declining European
+wild grapevine through competition and hybridization, though one study
+found that hybrids with the wild vine establish only rarely [48].
+Separately, six American-parentage direct-producer cultivars (Noah,
+Othello, Isabelle, Jacquez, Clinton and Herbemont) are excluded from
+the list of varieties that European Union member states may classify
+for wine production, a restriction that began in French law in the
+1930s (sources give 1934 or 1935) and was made express at Union level
+in 1999; attempts to lift it were still being rejected in 2026, even
+as member states gained the right to admit newer disease-resistant
+hybrids into protected-origin wines [49]. So the same group of plants
+is at once indispensable (as rootstock), feral (as an escape), and
+partly prohibited (as a wine grape) in the same territory.
+
 ## Agronomic data
 
 - **Life form / season:** All three crops are perennial woody vines
@@ -351,6 +373,54 @@ where no comparable noble-rot product tradition was found.
   evapotranspiration (Finding 3); waterlogging tolerance was not
   specifically sourced beyond muscadine's documented sensitivity to
   poorly drained soils (Soil, above).
+- **Soil biology:** Grapevine roots are normally colonized by
+  arbuscular mycorrhizal fungi, which a review credits with better
+  growth and phosphorus and nitrogen uptake and with added tolerance of
+  drought, salinity, lime-induced iron chlorosis and root disease;
+  phosphorus fertilizer reduces colonization and cover crops favour it
+  [50]. That is a benefit, not a demonstrated dependence: a systematic
+  review of 169 inoculation experiments found highly variable responses
+  by rootstock and inoculum, with three-quarters of the trials run in
+  greenhouses against sterilized-soil controls [50]. Replanting a
+  vineyard on old vineyard ground carries a soil-borne problem: the
+  dagger nematode that transmits fanleaf virus survives on old root
+  fragments, and one trial found a year of fallow or soil solarization
+  ineffective against it [50]; in a glasshouse study mycorrhizal
+  colonization reduced that nematode's reproduction and the virus's
+  transmission [50]. Allelopathy/autotoxicity: Not sourced. Not sourced
+  separately for American grape or muscadine.
+- **Invasiveness / biosecurity:** *Grape:* native to western Asia and
+  the Mediterranean and introduced worldwide. It is on a 2024 national
+  list of environmental weeds in New Zealand (naturalised since 1870,
+  not spreading by seed), and a Western Australian environmental weed
+  risk assessment scored it "very high" for the state's southwest [48].
+  *American grape and rootstock species:* native to North America and
+  introduced to Europe, where escaped rootstocks and their hybrids are
+  treated as environmental weeds (Finding 11); fox grape itself is
+  recorded as introduced in a dozen countries and was reclassified from
+  casual to naturalised in Sicily, without an invasive listing found
+  for it [48]. *Muscadine:* native to the southeastern United States;
+  no invasive listing, assessment or account of escape elsewhere was
+  found in this pass. *Legal restrictions:* the six-cultivar wine
+  prohibition in the European Union (Finding 11) [49]; phylloxera zoning
+  in Australia, where infested, risk and exclusion zones are declared
+  and movement of vine material, grapes, machinery and equipment out of
+  infested zones is restricted under state law based on a national
+  protocol [49]; California's quarantine on moving nursery stock and
+  bulk grapes from areas infested with the sharpshooter that spreads
+  Pierce's disease [49]; and European Union plant-health rules that
+  prohibit or condition the import and movement of vine planting
+  material, including site and vector-control conditions against a
+  quarantine phytoplasma disease (the prohibition annex was located but
+  its vine entry was not read) [49].
+- **Controlled environment:** Grape is grown under cover on a large
+  scale in China, where plastic rain shelters and plastic greenhouses
+  are used in the wet south to keep rain off the canopy; one survey put
+  the cost at about twice that of open-field growing, and a Fujian
+  study describes taking two crops a year under cover by pruning and
+  dormancy-breaking [51]. No national area figure was found. Soilless
+  or closed-system production: Not sourced. Not sourced for American
+  grape or muscadine.
 
 ## Hazards
 
@@ -527,6 +597,20 @@ ritual use was identified for muscadine.
   own chill-hour figures beyond muscadine's already-flagged inconsistent
   sourcing - all three are recorded as "not sourced" here rather than
   assumed absent.
+
+- The 2026-11-17 additions (Finding 11, soil biology, invasiveness/
+  biosecurity, controlled environment) rest on search-snippet reading
+  only. In particular: the text of the European Union rule excluding
+  the six cultivars and the plant-health annex on vine imports were not
+  opened; the Western Australian assessment's overall rating was not
+  legible beyond the southwest score; no invasiveness assessment of any
+  kind was found for muscadine, which is recorded as "not found" rather
+  than as evidence of absence; and no area figure was found for
+  protected grape growing anywhere.
+- Whether grape itself (as opposed to escaped rootstocks) behaves as an
+  environmental weed in Europe, California or South Africa was not
+  established; most of the invasion literature found concerns the
+  rootstock species and hybrids.
 
 ## Estimates and derivations
 
@@ -968,3 +1052,38 @@ treatment speeds floral meristem development once a bud is floral-
 competent, without establishing whether flowering itself is day-neutral
 in cultivated *V. vinifera*. Accessed 2026-11-08, search snippets only;
 neither primary source was independently opened in full.
+
+[48] Search-snippet-level material on naturalised and invasive *Vitis*:
+a 2007 study of naturalised rootstocks in the Rhône watershed, a review
+of naturalised rootstocks in Europe and their consequences for wild
+grapevine, a 2020 plant-science journal study of rootstock escape and
+hybridization, a niche-overlap modelling paper, a 2017 weed-science
+paper on seed regeneration of alien grape hybrids, two 2015 floristic
+papers (alien grapes in Sicily; an escaped American hybrid in Italy), a
+Western Australian environmental weed risk assessment for grape, a New
+Zealand conservation agency's 2024 environmental weed list, and a
+biodiversity database's distribution record for fox grape. Accessed
+2026-11-17, search snippets only.
+
+[49] Search-snippet-level material on legal restrictions: a seed-
+conservation organisation's 2016 report on the prohibited direct-
+producer cultivars, a wine glossary, and wine-trade press from 2024 to
+2026 (the European Union exclusion and its history); Australia's
+national phylloxera management protocol with state agriculture and
+vine-health pages; California's Pierce's disease control programme and
+plant quarantine manual; and the European Union plant-health
+implementing regulation's annexes (located, not read). Accessed
+2026-11-17, search snippets only.
+
+[50] Search-snippet-level material on vineyard soil biology: a 2015
+review of arbuscular mycorrhiza in viticulture, a 2023 systematic
+review of mycorrhizal inoculation trials, a 2018 glasshouse study of
+mycorrhiza and fanleaf-virus transmission by its nematode vector, a
+Spanish vineyard-replant trial of fallow, solarization and
+biofumigation, and a phytopathology-journal paper on fallow plants
+against the same nematode. Accessed 2026-11-17, search snippets only.
+
+[51] Search-snippet-level material on protected grape growing in China:
+two open-access journal papers on rain-shelter cultivation and its
+costs, a trade analysis, and a Fujian two-crop study. Accessed
+2026-11-17, search snippets only.
