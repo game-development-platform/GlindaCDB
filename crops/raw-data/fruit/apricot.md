@@ -4,7 +4,11 @@
 **Researched:** 2026-09-29 (re-researched 2026-11-08 against the expanded
 checklist in `crops/researchNotes/checklist-additions.md` — see Finding 7
 and the new Agronomic data lines on elevation, photoperiod, and clonal/
-viral degeneration risk, added that date)
+viral degeneration risk, added that date; re-researched again 2026-11-17
+against the full current checklist — see Finding 8 and the new Agronomic data
+lines on first bearing, composition, establishment, weather response, water
+regime, harvest stages, soil biology, invasiveness/biosecurity, and
+controlled environment, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -124,6 +128,28 @@ aphid-driven local spread in the field, and the US source reviewed
 describes nursery virus certification there as inconsistent rather than
 standardized [29].
 
+**Finding 8 — the law reaches this crop at both ends: its worst disease
+has been eradicated from one country, and its kernels are banned from
+retail sale in another.** Plum pox virus was first found in the United
+States in Pennsylvania in 1999, then in Michigan and New York in 2006;
+after eradication there (Pennsylvania and Michigan by 2009, western New
+York by 2012 — sources differ on some dates), the US Department of
+Agriculture declared the country free of it on 17 October 2019, saying no
+other country where the disease had occurred had eradicated it [32].
+Australia lists plum pox as exotic, and its import conditions for stone
+fruit and *Prunus* material require area freedom or an approved systems
+approach [32]. At the other end of the chain, Australia and New Zealand
+prohibited the retail sale of raw apricot kernels, hulled or unhulled,
+from December 2015 on cyanide-poisoning grounds (kernels rendered safe may
+still be used as an ingredient) [33], while the European Union instead set
+a maximum hydrocyanic acid level for unprocessed apricot kernels sold to
+consumers in 2017 [33] — two jurisdictions answering the same hazard
+(Finding 5) with a ban and a limit respectively. Meanwhile the crop's wild
+populations in Central Asia, where the species originated, have shrunk:
+wild apricot is a second-grade nationally protected plant in China and is
+in Kazakhstan's Red Book, with the Ili valley's wild fruit forests holding
+the highest genetic diversity found [31].
+
 ## Agronomic data
 
 - **Life form / season:** A deciduous perennial tree.
@@ -140,9 +166,19 @@ standardized [29].
   dormancy studies reviewed, consistent with most *Prunus* species, with
   no photoperiod effect surfacing in this pass (Finding 7). Not
   applicable to tuberization/bulbing, since apricot has no such organ.
-- **Food status:** Raw-edible; moderate-calorie, with meaningfully
-  higher protein than many other tree fruits; dried (sulfured) fruit is
-  far more calorie-dense and lower in water content [7][8].
+- **Days/years to first bearing:** First harvest around year 3 after
+  planting, full production around year 6 (Stand life, below) [4].
+- **Composition:** Raw apricot (USDA FoodData Central entry 171697, read
+  via third-party mirrors): about 48 kcal and 1.4 g protein per 100 g,
+  with carbohydrate about 10-11 g and fiber 1.5-2.0 g depending on the
+  database version and whether skin is included; vitamin A about 67 µg
+  retinol equivalent per 100 g (secondary source) [38]. Dried (sulfured)
+  fruit is far more calorie-dense and lower in water [7][8].
+- **Edibility:** Raw-edible flesh; moderate-calorie, with meaningfully
+  higher protein than many other tree fruits [7]. Kernels are a
+  poisoning hazard, especially bitter ones (Finding 5), and raw kernels
+  are banned from retail sale in Australia and New Zealand (Finding 8)
+  [33].
 - **Pollination:** Required, insect- (bee-) pollinated. Self-
   compatibility varies by breeding region: European commercial
   cultivars are mainly self-compatible, while North American cultivars
@@ -180,20 +216,92 @@ standardized [29].
   Finding 6 and Estimates); thinning, pruning, and a distinctive bark-
   strip practice used to increase fruit size in older orchards are
   typically contracted rather than measured by the hour.
-- **Soil:** A near-neutral to slightly alkaline soil pH is tolerated;
-  the crop is rated salinity-sensitive at a fairly low threshold.
+- **Soil:** Deep (about 1.2-2.7 m), very well-drained soil is wanted;
+  loamy sand through clay loam is suitable, and shallow or marginal soils
+  make yield and fruit size hard to achieve [39]. Extension pH guidance
+  for orchards clusters at about 6.2-7.2, with 6.5 a common target;
+  nursery and garden guides range up to 8.0, and suitability on
+  calcareous soils depends on rootstock (Myrobalan 29C is favoured on
+  high-lime soils) [36][39]. The crop is rated salinity-sensitive at a
+  fairly low threshold [10].
 - **Stand life:** First harvest around year 3 after planting, reaching
   full production by around year 6, with a productive orchard life of
   roughly 20 years in at least one documented commercial system [4].
-- **Disease/pest profile:** A specific viral stone-fruit disease is
-  described as the most serious disease affecting this and related
-  stone fruits in at least one source [19].
+- **Establishment:** Budded nursery trees planted at the density and
+  spacing documented in the cost studies [2][4]. Before replanting on old
+  stone-fruit ground, see Soil biology, below; rootstock choice also
+  governs tolerance of wet and limy soils (Water regime, Soil) [35][36].
+- **Disease/pest profile:** Plum pox virus (Sharka) is described as the
+  most serious disease affecting this and related stone fruits in at
+  least one source [19][29]. In California, the main apricot nematodes
+  are root-knot nematodes, ring nematode, root-lesion nematode
+  (*Pratylenchus vulnus*) and, more recently, *Criconema mutabile* [35].
 - **Cultivars:** Distinct market classes exist for all-purpose fresh/
   drying/canning use, dedicated canning/processing use, a major
   regional drying-specific cultivar, a jam-oriented cultivar, self-
   fertile cultivars bred for warmer growing regions, and cold-hardy,
   later-blooming cultivars bred for colder climates (some specifically
-  as disease-resistance breeding donors).
+  as disease-resistance breeding donors). Patterson is California's
+  leading cultivar, ripening from about mid-June, with Blenheim a week or
+  so earlier [37]. Xiajin was bred in China for protected cultivation and
+  ripens about seven days before Jintaiyang [34].
+- **Weather response:** Earliest-blooming stone fruit, so spring frost at
+  bloom is the dominant weather risk, with 10%/90% bud-kill thresholds
+  documented (Finding 1) [11]. Heat above about 38°C before harvest causes
+  a flesh-browning disorder (Finding 3) [3]. Very little tolerance of
+  water deficit during fruit growth (Finding 2) [2]. Frost is purely a
+  hazard here; no frost-exploiting product was found.
+- **Water regime:** Ordinary irrigation; no flooded requirement. Apricot
+  is among the least flood-tolerant *Prunus*: one comparison of species
+  ranked Japanese plum and myrobalan plum tolerant and apricot the least
+  tolerant, and a rootstock review calls standing water lethal to apricot
+  seedlings [36]. This is a main reason plum rootstocks are used for
+  apricot; clonal Myrobalan and Brompton are rated moderately tolerant,
+  and bullace, Damascene and Marianna plum fully tolerant [36]. The
+  species comparison included ornamental *Prunus*, so the ranking may not
+  transfer exactly to commercial orchards [36].
+- **Harvest stages / windows:** One early-summer window per cultivar
+  (California's leading cultivars from about mid-June) [37], with fruit
+  always hand-picked firm-ripe (Finding 3) [3]. Ripening is asynchronous within a tree:
+  fresh fruit is picked over several passes [4], ripening can extend over
+  about three weeks in some cultivars, and growers plant cultivars with
+  staggered ripening dates to spread labour [37]. Processing fruit is
+  picked in two passes [5].
+- **Soil biology:** Replanting on old *Prunus* ground brings Prunus
+  replant disease, a complex of incompletely understood pathogens that
+  stunts roots, growth and yield [35]. In Californian peach replant work
+  most first-year damage came from a "rejection" component that occurs
+  with or without nematodes; killing old trees with herbicide and a full
+  fallow year relieved about 85% of it [35]. Ring nematode
+  (*Mesocriconema xenoplax*) damages fine feeder roots and predisposes
+  *Prunus* to bacterial canker and winter injury, the basis of peach tree
+  short life in the southeastern US [35]. UC guidance favours a Hansen 536
+  rootstock when replanting after Nemaguard, except on sandy soil, where
+  ring nematode builds up [35]. These findings come mostly from peach;
+  apricot-specific replant trials were not found. Mycorrhizal
+  association and allelopathy: Not sourced.
+- **Invasiveness / biosecurity:** Native to Central Asia and China, where
+  wild populations have declined and are protected (Finding 8) [1][31];
+  introduced across temperate and Mediterranean regions. Recorded as
+  naturalised in Western Australia, South Australia, Queensland and New
+  South Wales, but persisting around old gardens and farms rather than
+  spreading far; in Victoria it is barely regarded as naturalised, and
+  New Zealand records it as an occasional escape not classified as a
+  weed [30]. No state or national weed declaration was found [30].
+  *Legal restrictions:* plum pox quarantine and US eradication, Australian
+  import conditions for *Prunus*, the Australia-New Zealand raw-kernel
+  sale ban, and the EU kernel cyanide limit (Finding 8) [32][33]; sulfur
+  dioxide residue limits on dried fruit vary by importing country
+  (Finding 4) [16].
+- **Controlled environment:** Grown under cover on a small scale in
+  China: one review estimates several hundred hectares of protected
+  apricot in Henan, Liaoning, Hebei and Shandong, against about 20,000 ha
+  of protected peach, and describes apricot as harder to force than
+  peach or grape because of low light, unmet chill for flower buds, and
+  excessive temperatures under cover [34]. Chinese patents claim
+  greenhouse harvests from 7 days to over a month ahead of field crops,
+  and at least one cultivar was bred specifically for protected growing
+  [34]. Soilless or closed-system production: Not sourced.
 
 ## Hazards
 
@@ -238,10 +346,21 @@ health/safety data.
 - Pruning and thinning labor hours are weakly sourced: a documented
   per-acre contract cost was converted to an estimated hour figure
   using an assumed, undocumented regional wage rate.
-- Soil nutrient-uptake and pH figures are carried over by analogy from
-  related stone-fruit crops rather than independently researched for
-  this crop.
-- Waterlogging tolerance was not researched specifically for this crop.
+- Soil nutrient-uptake figures are carried over by analogy from related
+  stone-fruit crops rather than independently researched for this crop.
+  Soil pH is now sourced (2026-11-17), though extension and nursery
+  ranges differ (about 6.2-7.2 versus up to 8.0).
+- Waterlogging tolerance is now sourced as a ranking (apricot least
+  tolerant among *Prunus* compared), but no survival limit in days was
+  found, and the ranking study included ornamental species.
+- The 2026-11-17 additions (Finding 8 and the new Agronomic data lines)
+  rest on search-snippet reading only. In particular: the unit of the EU
+  kernel hydrocyanic acid limit was not confirmed; whether the wild
+  apricot has an IUCN global assessment was not found; the Chinese
+  protected-cultivation area is an undated review estimate; replant
+  findings are mainly from peach; no Australian weed declaration was
+  found, which is recorded as "not found," not as evidence of absence;
+  and composition was read from third-party mirrors of USDA data.
 - The dried-to-fresh-fruit weight ratio varies meaningfully between two
   different calculation methods and source datasets (a roughly
   five-fold versus roughly three-fold fresh-to-dried ratio) and was not
@@ -457,4 +576,72 @@ aphid-transmission routes, US PPV quarantine/free status, a note on
 inconsistent US nursery virus certification, the National Clean Plant
 Network's fruit-tree program structure, and infection-rate figures for
 two further graft-transmissible apricot viruses. Accessed 2026-11-08,
+search snippets only.
+
+[30] Search-snippet-level material on apricot naturalisation: the
+Australian Plant Name Index and Australian Plant Census distribution
+records, Western Australia's FloraBase, the Flora of Victoria, regional
+NatureMapr records, the Flora of New Zealand, and the New Zealand
+Department of Conservation weeds database. Accessed 2026-11-17, search
+snippets only.
+
+[31] Search-snippet-level material on wild apricot conservation: a 2026
+*Ecology and Evolution* study of wild apricot in the Ili wild fruit
+forests, a 2021 *Scientific Reports* genetic-diversity study, a 2024
+preprint citing China's List of Nationally Important Wild Plants, a 2025
+*Plants* (MDPI) paper citing Kazakhstan's Red Book, and a Radio Free
+Europe report on the Red List of Trees of Central Asia. Accessed
+2026-11-17, search snippets only; no IUCN global assessment was found.
+
+[32] Search-snippet-level material on plum pox virus status: the USDA
+APHIS declaration of freedom (October 2019) and related USDA, ARS and
+trade-press reports, the EPPO Global Database's US reporting; and the
+Australian agriculture department's plum pox page, MICOR import-condition
+records for *Prunus*, and its final import risk analysis for Chinese stone
+fruit. Accessed 2026-11-17, search snippets only.
+
+[33] Search-snippet-level material on apricot-kernel regulation: Food
+Standards Australia New Zealand consumer pages and proposal P1016
+documents, the 2015 Food Standards Code amendment on the Federal Register
+of Legislation, and 2015 trade-press reports (raw-kernel sale ban); and
+Commission Regulation (EU) 2017/1237 via legislation.gov.uk (hydrocyanic
+acid maximum level). Accessed 2026-11-17, search snippets only.
+
+[34] Search-snippet-level material on protected apricot growing in China:
+an ISHS paper on the Xiajin cultivar bred for protected cultivation, an
+encyclopedia review of protected stone-fruit growing (area estimate and
+forcing difficulties), and two Chinese patents on greenhouse apricot
+cultivation. Accessed 2026-11-17, search snippets only.
+
+[35] Search-snippet-level material on *Prunus* replant disease and
+nematodes: University of California IPM peach nematode guidelines, the UC
+Davis Nemaplex entry for ring nematode, UC cooperative extension replant
+papers, a grower-press article on fumigation and rootstocks, and a
+Spanish survey of nematodes in *Prunus* groves. Accessed 2026-11-17,
+search snippets only.
+
+[36] Search-snippet-level material on flooding tolerance and rootstocks: a
+1994 comparative study of flooding tolerance in *Prunus* species (Ranney),
+a 2024 *Horticulturae* (MDPI) review of apricot rootstocks, and a 2014
+Hungarian review of apricot rootstocks (*Erwerbs-Obstbau*). Supplied: the
+species flooding ranking, plum-rootstock tolerance ratings, and lime-soil
+suitability of Myrobalan 29C. Accessed 2026-11-17, search snippets only.
+
+[37] Search-snippet-level material on apricot harvest: University of
+California cooperative extension apricot pages, a California Farm Bureau
+report (2024), a produce trade guide, a home-gardening harvest guide, and
+a farm newsletter. Supplied: uneven ripening, a ripening spread of about
+three weeks, multiple picking sweeps, cultivar ripening dates, and
+staggered cultivar planting. Accessed 2026-11-17, search snippets only.
+
+[38] USDA FoodData Central values for "Apricots, raw" (FDC 171697), read
+through third-party mirrors of the database (not the official page), with
+a secondary nutrition site for the vitamin A figure. Accessed 2026-11-17,
+search snippets only.
+
+[39] Search-snippet-level material on apricot site and soil: the
+University of California Home Orchard site-considerations page, a UC
+Davis apricot production publication, Washington State University's
+orchard soil page, the Rutgers commercial tree fruit guide, and nursery
+and garden growing guides (the wider pH range only). Accessed 2026-11-17,
 search snippets only.
