@@ -6,7 +6,11 @@ checklist in `crops/researchNotes/checklist-additions.md` — see the new
 Agronomic data lines on photoperiod, elevation, clonal/viral degeneration
 risk, and salinity, added that date; these largely carry over from the
 related high-chill crop's own 2026-11-08 re-research pass, since both are
-the same species)
+the same species; re-researched again 2026-11-17 against the full current
+checklist — see Finding 8, the expanded Finding 2, and the new Agronomic data
+lines on first bearing, composition, establishment, weather response, water
+regime, harvest stages, soil biology, invasiveness/biosecurity, and
+controlled environment, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -70,6 +74,18 @@ this system report a considerably larger main-season crop than the
 secondary, rainy-season crop [3]. Regional production in this system
 rose substantially over roughly a decade before peaking and then
 declining due to land-use change, soil decline, and climate shifts [3][9].
+The decline in East Java's Batu district, the system's best-known centre,
+is steep: one report gives production falling from over 142,000 t in 2007
+to about 23,000 t in 2020, and apple area there shrank from about 2,180 ha
+in 2003 to 1,675 ha in 2020 — sources disagree on the exact production
+figures [14]. Local studies link the decline to soil degradation (one
+orchard's soil at 0.79% organic matter, against an ideal above 2%, and
+long orchard use lowering soil pH), heavy synthetic fertilizer and
+pesticide use with resulting pesticide-resistant pest outbreaks, trees
+well over 30 years old, and higher temperatures and rainfall; none
+measures how much each cause contributes [14]. The two-crop system,
+in other words, runs the land harder than a once-a-year temperate cycle,
+and the record suggests it wears out both soil and trees.
 
 **Finding 3 — yields vary enormously by system, roughly spanning an
 order of magnitude.** Reported yields range from a low national average
@@ -127,6 +143,28 @@ reaction. A documented illness cluster in one country over a
 multi-year period is attributed to this chemical (see Hazards, below)
 [11].
 
+**Finding 8 — biosecurity runs through this group's main growing regions:
+a pest eradicated nationally, a disease kept out, and the group's key
+farm chemical withdrawn in Europe.** Brazil, whose southern states grow
+most of its apples, found codling moth (the most widespread apple pest of
+temperate orchards) in 1991, apparently brought in with imported fruit.
+Its eradication programme removed and replaced roughly 95,000-100,000 host
+trees in infested urban areas, mainly in Santa Catarina and Rio Grande do
+Sul, ran about 10,000 traps, caught the last moth in November 2011, and
+declared the pest eradicated in May 2014 — reported as the first South
+American country to do so [12]. Fire blight is absent from Brazil and is
+treated there as one of the most important quarantine diseases of apples
+and pears; Brazil added further import requirements for apples and pears
+in 2020, including a declaration against European canker for propagation
+material [12]. Separately, the hydrogen cyanamide dormancy breaker on
+which much subtropical low-chill growing relies (Finding 1) was refused
+inclusion on the European Union's list of approved plant-protection
+substances in 2008, with national authorisations withdrawn by March 2009
+[13], and New Zealand's environmental regulator decided in 2019 that
+grounds existed to reassess it, with a proposal to phase it out within
+five years [13]. A chill substitute that is legal in one growing region
+can therefore be unavailable in another.
+
 ## Agronomic data
 
 - **Life form / season:** A deciduous perennial tree, kept semi-
@@ -147,12 +185,26 @@ multi-year period is attributed to this chemical (see Hazards, below)
   specifically because sufficient elevation delivers enough cool-night
   effect to support the crop near the equator at all (see "Naming and
   scope," above).
-- **Food status:** Raw-edible; nutritional composition shared with the
-  broader species.
+- **Days/years to first bearing:** First harvest within one to two
+  years of planting in an intensively managed semi-arid system, stable
+  production in four to five years [4]. In the Indonesian tropical
+  system, trees are first defoliated about 1.5 years after planting to
+  start the fruiting cycle, and a Malang trial recorded 2.6-3.4 kg per
+  tree from two-year-old Rome Beauty and Manalagi trees [18].
+- **Composition:** No food-composition entry specific to a low-chill
+  cultivar was found. The species-level USDA values recorded for the
+  related high-chill crop (raw apple with skin, about 52 kcal, 13.8 g
+  carbohydrate including 2.4 g fiber, 0.3 g protein per 100 g) are
+  assumed to apply, carried over by species identity rather than
+  independently sourced.
+- **Edibility:** Raw-edible; seeds are the hazardous part (Hazards,
+  below). In the tropical system, immature fruit is also used in fresh
+  fruit salad [3].
 - **Pollination:** Required, insect- (honey bee-) pollinated, with
   pollinizer-cultivar pairing — though self-fruitfulness claims for
   several specific cultivars genuinely conflict between sources
-  (Finding 5).
+  (Finding 5). Florida extension guidance pairs Anna, Dorsett Golden and
+  TropicSweet as mutual pollinizers [16].
 - **Photoperiod sensitivity:** Not photoperiod-driven, consistent with
   the related high-chill crop (dormancy and flowering respond to
   temperature, not day length, a documented exception among temperate
@@ -182,35 +234,97 @@ multi-year period is attributed to this chemical (see Hazards, below)
   climates raise daily water demand even as a shorter growing season
   lowers total seasonal water use; at least one subtropical growing
   region reports losing trees to waterlogging-related root rot on
-  poorly drained sites.
+  poorly drained sites [1].
 - **Labor:** No dedicated labor-hour study was found for either the
   subtropical or tropical low-chill production system; figures here are
   estimated by analogy to a related high-chill production budget, with
   a distinctive additional labor demand for hand leaf-stripping twice a
   year in the tropical system.
-- **Soil:** A moderately acidic to neutral soil pH is preferred; zinc
-  deficiency is noted as common in at least one subtropical growing
-  region, and boron is described as critical for fruit set, retention,
-  and firmness there. Salinity tolerance, as its own soil dimension
+- **Soil:** Florida extension guidance puts the ideal pH at 6.0-6.5,
+  liming before planting if pH is below 5.0, and stresses good drainage;
+  very sandy soils need added nutrients [16]. Nursery and garden sites
+  give a looser 6.0-7.0 [16]. Zinc deficiency is noted as common in at
+  least one subtropical growing region, and boron is described as
+  critical for fruit set, retention, and firmness there [1]. In East
+  Java, long orchard use has lowered soil pH and organic matter is often
+  below 1% (Finding 2) [14]. Salinity tolerance, as its own soil dimension
   separate from pH, is carried over from the related high-chill crop by
   species identity rather than independently sourced here: rootstock-
   dependent and genuinely contested across studies, with no single
   agreed threshold.
 - **Stand life:** First harvest within one to two years of planting in
   at least one intensively managed system, reaching stable production
-  within four to five years there; overall productive lifespan is not
-  well documented for this group specifically.
+  within four to five years there [4]; overall productive lifespan is
+  not well documented for this group specifically, though Indonesian
+  orchards with trees well over 30 years old are reported as declining
+  [14].
 - **Disease/pest profile:** A fungal canker disease is the most
   significant disease in at least one major subtropical growing region;
   a different fungal leaf-spot disease, powdery mildew, and a further
   fungal disease dominate in the tropical highland system; multiple
   insect pests (a scale insect, a weevil, woolly apple aphid, mites,
-  stink bugs, and fruit flies) are documented across growing regions.
+  stink bugs, and fruit flies) are documented across growing regions
+  [1][3][5]. Codling moth has been eradicated from Brazil (Finding 8)
+  [12].
 - **Cultivars:** A considerable number of named low-chill cultivars
   exist, bred in Israel, the southeastern United States, and Brazil
   specifically for low chill requirements, plus at least one medium-
   chill cultivar grown successfully in the tropical defoliation system
-  despite not itself being a true low-chill type.
+  despite not itself being a true low-chill type. In Indonesia, more
+  than 80% of trees are Rome Beauty, with Manalagi and Princess Noble
+  also grown [18]. Anna is the most widely planted apple in Florida [16].
+- **Weather response:** Early, prolonged late-winter bloom brings frost
+  risk to flowers, though late flowers often escape (Finding 6) [1][16].
+  Frost is purely a hazard here (Finding 6). Rainfall and humidity during
+  ripening drive disease in subtropical and tropical systems (Finding 6)
+  [1][3]. In the low desert, sunburn is a cultivar-specific concern
+  managed by training and shading guidance [2]. Rising temperatures and
+  rainfall are cited as one cause of the East Java decline (Finding 2)
+  [14]. Drought and heat dose-response figures: Not sourced.
+- **Water regime:** Ordinary irrigation; no flooded requirement. Poorly
+  drained sites lose trees to root rot (Water use, above) [1];
+  rootstock waterlogging tolerance as recorded for the related high-chill
+  crop applies by species identity.
+- **Harvest stages / windows:** In subtropical climates, one early
+  summer window per year, earlier than the related high-chill crop [1].
+  In the tropical system, two windows a year set by defoliation timing
+  (Finding 2), with fruit maturing four to five months after
+  defoliation and re-defoliation three to four weeks after harvest [3][18].
+  Ripening is asynchronous within a planting: growers make multiple
+  pickings about a week to ten days apart, picking somewhat immature
+  (Finding 4) [3].
+- **Soil biology:** Apple replant disease (described in the related
+  high-chill crop's entry) is also a problem in southern Brazil's
+  orchards, which sit in the lower-chill end of apple growing: a 2021
+  Santa Catarina trial planted rootstocks about 60 days after removing an
+  old orchard with no fallow, and found the less vigorous rootstocks
+  needed about three crops to overcome the soil's replant effect; Geneva
+  rootstocks such as G.210 and G.213 are the main strategy there [15].
+  Plant-parasitic nematodes in Brazilian apple orchards, and their part
+  in replant disease, are described as barely studied [15]. Whether the
+  low organic matter of East Javan orchard soils (Finding 2) involves
+  replant disease was not sourced. Mycorrhizal association: not
+  independently sourced for this group.
+- **Invasiveness / biosecurity:** Native range and weed status are those
+  of the species (see the related high-chill crop's entry). In the
+  low-chill group's own regions, no invasive listing was found for
+  Brazil, South Africa, Florida, Egypt, Israel or Indonesia. In Argentine
+  Patagonia, apple saplings around abandoned orchards in a national park
+  were rare and almost all apple trees stood in deforested areas, unlike
+  sour cherry from the same orchards, which was spreading into forest;
+  foxes dispersed seeds of both [17]. A US invasive-species database lists
+  no reference treating apple as invasive in North America [17].
+  *Legal restrictions:* Brazil's codling-moth-free status and fire blight
+  quarantine, and the European Union's 2008 withdrawal of hydrogen
+  cyanamide (Finding 8) [12][13].
+- **Controlled environment:** No protected-cultivation or greenhouse
+  trial was found for any low-chill cultivar; Florida extension material
+  covers open-field growing only and calls low-chill apples unlikely to
+  be commercially profitable there, suited to homeowners and small farms
+  [16]. Low chill is the reason growers' guidance recommends these
+  cultivars for growing under glass (see the related high-chill crop's
+  controlled-environment line), which is an inference from that
+  guidance, not a tested low-chill system. Not sourced beyond that.
 
 ## Hazards
 
@@ -272,7 +386,21 @@ researched in depth here.
   by analogy rather than independently measured for a low-chill or
   tropical-system orchard specifically.
 - Years to reach full productive lifespan, and overall orchard
-  lifespan, are not well documented for this crop group.
+  lifespan, are not well documented for this crop group; the only
+  lifespan signal found is Indonesian orchards declining with trees over
+  30 years old.
+- The 2026-11-17 additions (Finding 8, the expanded Finding 2, and the
+  new Agronomic data lines) rest on search-snippet reading only. In
+  particular: Batu production figures conflict between sources; the
+  causes of the East Java decline are suggested, not measured; Brazil's
+  current import rules for apple planting material were not read; the
+  current EU status of hydrogen cyanamide after the 2008 decision, and
+  the outcome of New Zealand's reassessment, were not confirmed; no
+  invasiveness assessment was found for any low-chill growing region,
+  which is recorded as "not found," not as evidence of absence; and
+  composition is carried over from species-level data.
+- Whether replant disease or simple soil exhaustion explains the East
+  Java decline was not established.
 - Whether a particular tropical rootstock line counts as the same
   species as the cultivated apple, for purposes of a graft-compatibility
   religious rule, was not researched.
@@ -408,3 +536,55 @@ region. Accessed 2026-10-07, search snippets only.
 [11] A national public-health agency's epidemiological bulletin on a
 multi-year illness cluster linked to a dormancy-breaking farm chemical
 in one country. Accessed 2026-10-07, opened directly.
+
+[12] Search-snippet-level material on Brazilian apple biosecurity:
+Embrapa publications on the codling moth eradication programme (Kovaleski
+et al.), trade-press reports from 2013 and 2014 on the eradication
+declaration, a 2003 Embrapa technical note on fire blight as a quarantine
+disease, a US exporters' manual for Brazil, a Dutch export-requirements
+sheet, and USDA Foreign Agricultural Service and APEDA notices of Brazil's
+2020 apple and pear import requirements. Accessed 2026-11-17, search
+snippets only.
+
+[13] Search-snippet-level material on hydrogen cyanamide regulation:
+Commission Decision 2008/745/EC on the non-inclusion of cyanamide (via
+legislation.gov.uk and EUR-Lex metadata), New Zealand press reports on
+the Environmental Protection Authority's 2019 reassessment decision and
+phase-out proposal, and a New Zealand kiwifruit growers' submission on
+alternatives. Accessed 2026-11-17, search snippets only.
+
+[14] Search-snippet-level material on the East Java (Batu/Malang) apple
+decline: a University of Muhammadiyah Malang production-trend study, a
+Bumiaji soil organic-matter study, a Batu-Malang soil study on orchard
+age and pH, a 2019 conference paper comparing conventional and semi-
+organic orchards, and a Straits Times report syndicated by Asia News
+Network on ageing trees, soil and climate. Accessed 2026-11-17, search
+snippets only.
+
+[15] Search-snippet-level material on replant disease in southern Brazil:
+a 2018 *Pesquisa Agropecuária Brasileira* Geneva-rootstock trial on
+replant soil in Santa Catarina (Denardi et al.), a 2021 *Frontiers in
+Plant Science* no-fallow replant trial (Rufato et al.), a related SciELO
+rootstock paper, and a survey of plant-parasitic nematodes in Brazilian
+apple orchards. Accessed 2026-11-17, search snippets only.
+
+[16] Search-snippet-level material from University of Florida IFAS
+extension publications on low-chill apples (EDIS MG368 and MG073; MG368
+may be a later edition of the publication in [1]), a county extension
+fact sheet on Anna and Dorsett Golden, and nursery and garden sites (the
+looser pH range only). Supplied: soil pH and liming, drainage, mutual
+pollinizers, Anna's popularity, prolonged bloom, and the commercial
+outlook. Accessed 2026-11-17, search snippets only.
+
+[17] Search-snippet-level material on apple naturalisation outside
+Europe and Australia: a 2019 *Acta Oecologica* study of abandoned
+orchards in Los Alerces National Park, Argentina (via CONICET's
+repository), a Plazi taxonomic treatment, and the invasive.org species
+page. Accessed 2026-11-17, search snippets only.
+
+[18] Search-snippet-level material on Indonesian apple growing: a 1973
+*Fruit Varieties Journal* article on apple growing in tropical Indonesia,
+a Malang variety-trial record (FAO AGRIS), and the PROSEA species page.
+Supplied: defoliation timing after planting, maturation time, the
+re-defoliation interval, cultivar shares, and young-tree yields. Accessed
+2026-11-17, search snippets only.
