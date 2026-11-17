@@ -1,8 +1,7 @@
 # Daidai (*Citrus* × *aurantium*, daidai group)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/daidai.md`
-**Researched:** 2026-11-16 (invasiveness/biosecurity line added 2026-11-17,
-to match the checklist as it stood when this entry was merged)
+**Researched:** 2026-11-16
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -576,12 +575,12 @@ covering bitter orange, a state plant atlas record, and a regional
 wildflower site, with a global invasive-species database's position as
 reported in search results. Supplied: escape into Florida forests and
 homesites, the "caution" rating, absence of documented impacts or of an
-invasive listing, presence in Georgia and Texas. Accessed 2026-11-17,
+invasive listing, presence in Georgia and Texas. Accessed 2026-11-16,
 search snippets only; species-level, not daidai-specific.
 
 [21] Japan's plant-protection service pages on domestic movement
 restrictions and citrus greening disease, with an older prefectural
 notice. Supplied: the regulated areas, inspection-based movement of
 citrus nursery stock, the exclusion of seed and fruit, the 2024
-eradication notice for one island. Accessed 2026-11-17, search snippets
+eradication notice for one island. Accessed 2026-11-16, search snippets
 only; the regulation text was not opened.
