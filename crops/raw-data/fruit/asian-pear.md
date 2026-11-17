@@ -5,7 +5,11 @@
 current checklist in `skills/crop-research/SKILL.md` and
 `templates/research-doc.md` — see Finding 7 and the new Agronomic data
 lines on photoperiod, clonal/viral degeneration risk, salinity, and
-elevation, added that date)
+elevation, added that date; re-researched again 2026-11-17 against the full
+current checklist — see Finding 8 and the new Agronomic data lines on first
+bearing, composition, establishment, weather response, water regime, harvest
+stages, soil biology, invasiveness/biosecurity, and controlled environment,
+added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -137,6 +141,30 @@ highland areas specifically because that elevation is the only way to get
 mild-enough winters with a short-enough chilling period at that latitude
 [29].
 
+**Finding 8 — the crop's own species barely escapes, but one of its
+rootstock species is a banned invasive tree.** Asian pear itself is not
+known to escape cultivation widely in the United States, though it is
+naturalised in parts of Japan, where it was introduced prehistorically and
+has wild relatives it can cross with [33]. Callery pear (*P. calleryana*)
+is a different matter. It is a commonly used pear rootstock species and,
+as the ornamental "Bradford" pear, a widely planted street tree. Its
+cross-pollinating cultivars set fruit whose seed birds spread, and it has
+become an invasive tree in the eastern United States [32]. Ohio banned
+selling, planting or growing it from 1 January 2023 (under a law passed in
+2018). Pennsylvania's ban took effect in 2021-2022, depending on the
+source, with enforcement phased in through February 2024 [32]. South
+Carolina went furthest for fruit growers: from 1 October 2024, nursery
+sale of any pear tree grown on Callery pear rootstock became illegal there
+[32]. Callery pear is also the most flood-tolerant of the common Asian pear
+rootstocks (Water regime, below) [36], so the rootstock that suits wet
+sites best is the one being legislated out. Separately, imports of Chinese
+pears into the United States are allowed only from listed production areas
+north of the 33rd parallel, where oriental fruit fly does not occur. Ya pear
+imports were stopped and recalled after a new *Alternaria* species was
+detected in shipments in 2001-2003, then later readmitted [34]. Australia's
+1998 import risk analysis for Ya pear identified 18 quarantine pests and
+diseases of concern [34].
+
 ## Agronomic data
 
 - **Life form / season:** A deciduous perennial tree; training style
@@ -154,8 +182,16 @@ mild-enough winters with a short-enough chilling period at that latitude
   2,000 m versus 500 m, with a specific high-chill cultivar restricted to
   high elevation there while lower-chill cultivars stay in the lowlands
   (Finding 7) [4][29].
-- **Food status:** Raw-edible; moderate-calorie, modest protein,
-  meaningful fiber content [4].
+- **Days/years to first bearing:** First crop around the third growing
+  season after planting (Stand life, below; see Estimates) [3].
+- **Composition:** Raw Asian pear (USDA FoodData Central entry 168177,
+  read via third-party mirrors): about 42 kcal, 0.5 g protein, 0.2 g fat
+  and 10.7 g carbohydrate including 3.6 g fiber per 100 g [39]. A UK
+  nutrition site lists nashi at only 26 kcal per 100 g, a conflict not
+  resolved here [39].
+- **Edibility:** Raw-edible, eaten crisp with no off-tree ripening step
+  (Finding 1); moderate-calorie, modest protein, meaningful fiber [4][39].
+  No fruit-toxicity hazard was found (Hazards, below).
 - **Pollination:** Required; insect- (bee-) pollinated under normal
   commercial conditions, but widely supplemented or replaced by hand
   pollination in at least two major East Asian producing countries,
@@ -199,9 +235,10 @@ mild-enough winters with a short-enough chilling period at that latitude
   pollination and multi-pass harvest adding substantially more; total
   labor input in at least one intensive East Asian system runs into the
   low thousands of hours per hectare per year (Finding 3).
-- **Soil:** A near-neutral soil pH is assumed by analogy to related
-  pome fruits (not independently sourced for this crop specifically);
-  planting too deep is linked to a root-rot disorder, so shallow
+- **Soil:** Well-drained loam is preferred. A Wisconsin profile gives pH
+  6.0-7.5 for Asian pear, and an Arkansas extension guide for pears
+  generally gives an optimum of 6.0-6.5, though trees usually do well from
+  5.0 to 7.5 [38]. Planting too deep is linked to a root-rot disorder, so shallow
   planting is recommended. Salinity tolerance, distinct from pH, is
   rootstock-dependent and genuinely variable within this crop's own
   species group: one seedling trial found a related wild pear rootstock
@@ -216,6 +253,12 @@ mild-enough winters with a short-enough chilling period at that latitude
   the youngest one-to-three-year-old spurs considered most productive.
   Overall productive lifespan was not well researched, though old
   trees are known to need spur removal and rejuvenation pruning.
+- **Establishment:** Grafted nursery trees planted shallow (Soil, above),
+  at densities documented for vigorous and dwarfing rootstock systems
+  (see Estimates) [2][3]. Rootstock choice governs cold hardiness, vigour,
+  flood tolerance and, in South Carolina, legality (Finding 8) [2][32][36].
+  Replanting on old pear ground risks soil sickness (Soil biology, below)
+  [37].
 - **Disease/pest profile:** A bacterial disease (fire blight) affects
   nearly all cultivars to some degree, with resistance varying
   meaningfully by cultivar; a specific fungal disease is a major concern
@@ -226,7 +269,71 @@ mild-enough winters with a short-enough chilling period at that latitude
   the three species groups, differing substantially in fruit size,
   color, flavor, bloom and harvest timing, storage life, chill
   requirement, disease resistance, and ripening physiology (climacteric
-  versus non-climacteric).
+  versus non-climacteric). Kosui, Gold Nijisseiki and Niitaka are all
+  grown in Japanese heated-greenhouse forcing systems (Controlled
+  environment, below) [35].
+- **Weather response:** Asian pears bloom early, and University of
+  California guidance says they seem more severely affected than European
+  pear by blossom blast, a bacterial disease that worsens frost injury,
+  probably because their early bloom exposes them to more frost [40]. No
+  bloom critical-temperature table specific to Asian pear was found. The
+  general pear table, based on Bartlett, gives about −2.2°C (28°F) for 10%
+  and −4.4°C (24°F) for 90% bud kill at full bloom [40]. In South Korea,
+  an unusually warm March brought pears into early bloom before a frost,
+  and wind machines did little to help [40]. Frost is purely a hazard here
+  (Finding 7) [28]. Heavy rain shortly before harvest is linked to a
+  storage disorder (Water use, above).
+- **Water regime:** Ordinary irrigation; no flooded requirement. Flood
+  tolerance depends sharply on rootstock: in one Japanese comparison, two
+  Callery pear strains were the most tolerant, birchleaf pear (*P.
+  betulifolia*) was intermediate, and *P. pyrifolia* itself and its
+  hybrids were not tolerant [36]. The tolerant Callery strains had about
+  three times the alcohol dehydrogenase activity in their roots [36].
+  A later study found tolerance varied within species, with some
+  selected clones of both species performing well [36]. These are
+  potted-seedling trials, not field trials [36].
+- **Harvest stages / windows:** One window per cultivar, with ripening
+  asynchronous within the tree: fruit is picked across at least three
+  colour-, sugar- and firmness-based passes (Finding 1) [1][2][3].
+- **Soil biology:** Japanese pear suffers a replant problem described as
+  soil sickness syndrome: young trees replanted where pear grew before
+  are often stunted, by soil sickness and by white root rot [37].
+  Phenolic compounds such as arbutin, which accumulate in the bark, are
+  released from the roots and build up in soil, and root bark showed the
+  strongest growth-inhibiting activity in one study. Mixing old roots into
+  fresh soil did not reproduce the syndrome in two trials [37]. Birchleaf
+  pear rootstock was inhibited significantly more than *P. pyrifolia*.
+  Activated carbon mixed into the soil, and hot-water drip treatment of
+  the soil before planting, both reduced the problem in trials [37].
+  Mycorrhizal association: Not sourced.
+- **Invasiveness / biosecurity:** Native to East Asia (China, Korea,
+  Japan) [4]; naturalised in parts of Japan after prehistoric
+  introduction, possibly in Brazil (a genebank record only), and not known
+  to escape widely in the United States [33]. No invasive listing was
+  found for *P. pyrifolia* or the Chinese white pear. The rootstock species
+  Callery pear is an invasive tree, banned in Ohio and Pennsylvania, and in
+  South Carolina even as a rootstock (Finding 8) [32]. *Legal
+  restrictions:* the US state Callery pear bans [32]; US import rules for
+  Chinese pears (approved production areas north of the 33rd parallel,
+  permits, inspection, and the 2001-2003 Ya pear *Alternaria* prohibition)
+  and Australia's Ya pear import risk analysis [34]; fire blight
+  susceptibility (Hazards) makes the crop subject to fire-blight
+  regulation wherever that applies (see the high-chill apple entry for EU
+  and Australia-New Zealand examples).
+- **Controlled environment:** Japan has well-developed heated-greenhouse
+  forcing for Japanese pear. In a Fukui semi-forced system for Kosui,
+  heating starts in late January, bloom moves to mid-February and harvest
+  to early June, described as the earliest economical Kosui season in
+  Japan [35]. Kagoshima growers combine heated plastic houses with a
+  calcium cyanamide dormancy-breaking spray before heating begins in late
+  December [35]. In a Tottori heated house, Gold Nijisseiki bloomed and
+  cropped about a month early, with unchanged fruit weight, slightly lower
+  sugar, and a system judged sustainable over nine years [35]. Heating
+  Niitaka from mid-January to late April advanced bloom by about 70 days
+  and harvest by about 80 days, with fruit weight and sugar close to field
+  levels [35]. Unheated covers or reflective mulch can also shift
+  flowering [35]. Current forcing area: Not sourced; most of these
+  studies date from about 2001-2002.
 
 ## Hazards
 
@@ -277,10 +384,24 @@ between people, based on a wordplay association with separation.
   across cultivars.
 - Labor-hour figures outside the one documented intensive East Asian
   system are largely estimated rather than independently sourced.
-- Soil pH preference is assumed by analogy to related pome fruits
-  rather than independently researched for this crop.
-- Frost-kill thresholds by bloom stage, soil nutrient uptake, and juice
-  yield were not researched for this crop.
+- Soil pH is now sourced (2026-11-17) but only from a regional fruit
+  profile and a general pear extension guide, not an Asian-pear-specific
+  soil-fertility source.
+- Frost-kill thresholds by bloom stage were found only for European pear
+  (Bartlett); Asian pear's own thresholds were not found. Soil nutrient
+  uptake and juice yield were not researched for this crop.
+- The 2026-11-17 additions (Finding 8 and the new Agronomic data lines)
+  rest on search-snippet reading only. In particular: the Pennsylvania ban
+  date conflicts between sources; the South Carolina rootstock rule comes
+  from a secondary article, not the regulation; whether the Ohio and
+  Pennsylvania bans also cover Callery pear used as a rootstock was not
+  established; the composition figures conflict (42 versus 26 kcal per 100
+  g); the Japanese forcing studies are about 25 years old; and no
+  invasiveness assessment was found for *P. pyrifolia*, which is recorded
+  as "not found," not as evidence of absence.
+- Sources [12]-[26] are not present in this file's numbering (it jumps
+  from [11] to [27]); no body text cites them, so the gap appears to be a
+  numbering artefact from an earlier pass rather than a missing source.
 - The photoperiod, viral-propagation, salinity, and elevation sources
   added 2026-11-08 were accessed at search-snippet depth only; none was
   independently opened and verified in full.
@@ -465,3 +586,66 @@ tolerance variation, including a wild rootstock species with notably
 high tolerance versus this crop's own cultivated species rated salt-
 sensitive. Accessed 2026-11-08, search snippets only; these are
 seedling/controlled-solution trials, not field soil-salinity studies.
+
+[32] Search-snippet-level material on Callery pear as an invasive and its
+legal status: Ohio public-radio reports (2023) and an Ohio State
+University extension article on its invasiveness, Pennsylvania nursery-
+trade and conservation-blog reports on the Pennsylvania ban, a gardening
+article and news reports citing South Carolina's 2024 rule on pear trees
+grown on Callery pear rootstock, and general-audience science reports on
+state bans. Accessed 2026-11-17, search snippets only; no regulation text
+was opened.
+
+[33] Search-snippet-level material on *P. pyrifolia* naturalisation: the
+Virginia Tech dendrology factsheet, a Kwantlen Polytechnic University
+plant database entry citing the Floras of China and Japan, a book chapter
+on plants introduced to Japan, and a genebank taxonomy record noting a
+Brazilian naturalised record. Accessed 2026-11-17, search snippets only.
+
+[34] Search-snippet-level material on pear import rules: 7 CFR 319.56-39
+(Code of Federal Regulations editions 2010 and 2014), Federal Register
+rules on Chinese sand, Ya and fragrant pears (2003, 2005, 2011, 2019,
+2020), archived USDA APHIS memoranda on the Ya pear *Alternaria*
+detections; and Australian agriculture department Ya pear import risk
+analysis (1998) and 2005 draft policy extension for pears from China.
+Accessed 2026-11-17, search snippets only.
+
+[35] Search-snippet-level material on Japanese pear forcing: a 2002 study
+of semi-forced Kosui culture in Fukui (Kaminaka and Miwa, via FAO AGRIS),
+ISHS *Acta Horticulturae* 587 papers from the 2001 International
+Symposium on Asian Pears (Kagoshima heated-house Kosui, Niitaka forcing,
+reflective film and mulching), and a Tottori study of Gold Nijisseiki in
+a heated plastic greenhouse (via FAO AGRIS). Accessed 2026-11-17, search
+snippets only.
+
+[36] Search-snippet-level material on pear rootstock flooding tolerance:
+a 1996 ISHS study of ethanol and ethylene production in flooded *Pyrus*
+rootstocks (Tamura et al.), a related study on root mitochondria, a 2006
+*Journal of the Japanese Society for Horticultural Science* study of
+dwarfing clonal selections (Robbani et al.), and a 2013 study of *P.
+boissieriana* as a flood-tolerant rootstock. Accessed 2026-11-17, search
+snippets only.
+
+[37] Search-snippet-level material on Japanese pear soil sickness: papers
+by Toya and colleagues in *Agronomy* (2021, 2022) and *Horticultural
+Research (Japan)*, a 2022 *Horticulture Journal* study, and related
+abstracts on root-bark inhibitory activity, rootstock response, activated
+carbon and hot-water soil treatment. Accessed 2026-11-17, search
+snippets only.
+
+[38] Search-snippet-level material on Asian pear soil pH: the University
+of Wisconsin Uncommon Fruits profile, University of Arkansas extension
+publication FSA 6059 (pears generally), and gardening guides. Accessed
+2026-11-17, search snippets only.
+
+[39] USDA FoodData Central values for "Pears, asian, raw" (FDC 168177),
+read through third-party mirrors of the database, and a UK nutrition
+site's conflicting nashi entry. Accessed 2026-11-17, search snippets
+only.
+
+[40] Search-snippet-level material on pear frost: Michigan State, Purdue
+and Virginia Tech critical-temperature tables for pear bud stages
+(Bartlett), the University of California IPM page on blossom blast in
+pear, a 2008 fruit-growers' mailing-list discussion, and news reports on
+spring frost damage to South Korean fruit blossom. Accessed 2026-11-17,
+search snippets only.
