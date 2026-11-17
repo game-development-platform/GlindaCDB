@@ -71,7 +71,8 @@ This entry does **not** cover:
   citrus whose name merely contains "daidai" and which turned up
   repeatedly in this research (as a marmalade comparison [7], and as a
   close genetic relative of kabusu in one study [16]). It has no row in
-  this project yet. Proposed as its own candidate row.
+  this project yet. Proposed as its own candidate row; since researched
+  as `natsudaidai` (see `natsudaidai.md`, 2026-11-17).
 - **Hetsuka daidai**, a local citrus of Kagoshima that one study found to
   carry pomelo-derived cytoplasm and to be closely related to kabusu,
   natsudaidai and kimikan, with its own flavonoid/coumarin/synephrine
@@ -430,8 +431,8 @@ variety level [8]. One Chinese entry describes the halved unripe fruit as
 - Photoperiod, salinity, elevation, water use, labor hours, orchard
   spacing, storage regime, pressed-juice yield, and whole-fruit and peel
   composition were all not sourced.
-- Whether `natsudaidai` and `hetsuka_daidai` warrant rows (Naming and
-  scope) needs a decision.
+- Whether `hetsuka_daidai` warrants a row (Naming and scope) needs a
+  decision; `natsudaidai` has since been promoted.
 
 ## Estimates and derivations
 
