@@ -56,7 +56,7 @@
 | kiwiberry | Actinidia arguta; A. kolomikta as a cultivar group | kiwiberry.md |  | 2026-09-30 | OUT-OF-DATE |
 | kiwifruit | Actinidia deliciosa | kiwifruit.md |  | 2026-09-30 | OUT-OF-DATE |
 | korla_pear | Pyrus sinkiangensis | korla-pear.md |  | 2026-10-04 | OUT-OF-DATE |
-| laraha | *C.* × *aurantium*, Curaçao landrace |  | `bitter_orange` | 2026-11-08 | PROPOSED |
+| laraha | *C.* × *aurantium*, Curaçao landrace | bitter-orange.md | `bitter_orange` | 2026-11-17 | REJECTED |
 | lemon | Citrus × limon | lemon.md |  | 2026-09-29 | OUT-OF-DATE |
 | lingonberry | Vaccinium vitis-idaea | lingonberry.md |  | 2026-10-06 | OUT-OF-DATE |
 | longan | Dimocarpus longan | longan.md |  | 2026-09-30 | OUT-OF-DATE |

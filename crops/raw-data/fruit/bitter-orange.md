@@ -36,9 +36,25 @@ This entry does **not** cover:
 - **Laraha**, the landrace of this species that adapted to Curaçao's dry,
   salty, poor soil into a fruit too bitter and fibrous to eat at all,
   grown specifically as the dried-peel source for Curaçao liqueur [9].
-  Proposed as its own candidate row below — a geographically isolated
-  landrace with a dedicated commercial product and a genuinely different
-  growing environment from mainland bitter orange.
+  Proposed as `laraha` — a geographically isolated landrace with a
+  dedicated commercial product and a genuinely different growing
+  environment from mainland bitter orange. **Gate check (2026-11-17):
+  not promoted.** *Taxonomy:* the only name in circulation is an
+  informal subspecies, "*currassuviencis*", which the same encyclopedia
+  article files under *C.* × *aurantium* in its text and *C.* ×
+  *sinensis* in its summary box; a European citrus nursery simply sells
+  it as *C. aurantium* 'Curacao'; no genetic, morphological or peel-oil
+  study separating it from other bitter orange was found [25]. *Range
+  and farming system:* one island, and by the liqueur producer's own
+  and trade accounts one main plantation of roughly 35-45 trees [25] —
+  too small to have agronomic data of its own, and none was found
+  (no climate, soil, propagation, pest or per-area figures). *Harvest
+  and uses:* a single product, dried peel of green fruit for liqueur,
+  which is already this entry's unripe-peel and liqueur chains (Uses and
+  processing), and the claim that only laraha peel will do comes from
+  one producer [25]. A separate doc would be this entry's Finding 5
+  again plus a column of "Not sourced." What was found is recorded under
+  Cultivars below.
 - **Daidai** (*C.* × *aurantium* var. *daidai*), the Chinese/Japanese
   variety used in traditional medicine, tea, and as a decorative fruit at
   Japanese New Year [1]. Proposed here as a candidate row — a named
@@ -257,10 +273,20 @@ settled.
   cultivars are grafted.
 - **Cultivars:** 'Gou Tou' is named in one nursery listing as a
   particularly cold-hardy selection (zones 8-10, hardy to the mid-upper
-  teens °F once established) [17], distinct from the three
-  variety-level candidates proposed above (chinotto, laraha, daidai),
-  which this entry treats as potential separate rows rather than mere
-  cultivars.
+  teens °F once established) [17]. Of the three variety-level
+  candidates proposed above, chinotto and daidai are now their own
+  entries; laraha failed its gate check (Naming and scope) and is
+  recorded here instead. **Laraha** (Curaçao orange, sold by one
+  European nursery as *C. aurantium* 'Curacao'): a tree of about 3 m
+  whose fruit is picked green, just before ripening, because the peel of
+  riper fruit becomes too thin to use; harvested twice a year, each
+  fruit taken with a piece of its twig (pulling the fruit alone is said
+  to stop that spur fruiting again); the peel is hand-cut into four
+  sections and sun-dried for five days on a concrete floor, covered at
+  night and in rain so that it never gets wet [25]. The producer gives
+  150-200 fruit per tree and 25-35 kg of dried peel per tree, and a
+  trade source gives 15-20 kg [25]; neither peel figure is consistent
+  with the fruit count (see Estimates, below).
 
 ## Hazards
 
@@ -369,6 +395,17 @@ uses the ~1,000:1 ratio and ignores the separate, lower-yielding absolute
 per unit of finished product if any meaningful share of the 1,500 kg
 figure includes absolute rather than steam-distilled oil. A dedicated
 production-volume breakdown by extraction method would refine this.
+
+**Laraha dried-peel yield per tree: the published figures do not
+reconcile.** 25-35 kg of dried peel from 150-200 fruit [25] implies 125-
+233 g of *dried* peel per fruit (25 ÷ 200 = 0.125 kg; 35 ÷ 150 = 0.233
+kg), and the lower trade figure of 15-20 kg [25] still implies 75-133 g.
+A whole bitter orange is on the order of 150 g fresh, so neither can be
+dried peel per tree per harvest at that fruit count. Possible readings
+are that the peel figure is fresh weight, that it is per year across
+both harvests with a much higher fruit count, or that the fruit count is
+per harvest of a different kind of tree; none is stated. No figure is
+adopted here.
 
 ## Sources
 
@@ -536,3 +573,16 @@ other standard rootstocks, the general citrus saline-soil threshold
 conflicting Jordanian finding favoring Volkamer lemon over sour orange
 at high salinity. Accessed 2026-11-08; the UF/IFAS page was opened
 directly, the rest at search-snippet depth only.
+
+[25] Material on laraha consulted for its gate check: a general
+encyclopedia's laraha and Curaçao-liqueur articles (opened directly;
+naming, the 1527 origin account, disputed liqueur history, the single-
+producer claim, which the encyclopedia itself flags as needing a better
+source), the Curaçao liqueur producer's own process page (opened
+directly; tree height, twice-yearly green harvest, picking and peeling
+method, five-day sun drying, fruit and dried-peel figures per tree), a
+European citrus nursery's listing for *C. aurantium* 'Curacao' (opened
+directly), and drinks-trade pages at search-snippet depth (35 vs. about
+45 trees, the lower dried-peel figure). Searches for a taxonomic,
+genetic or peel-oil study specific to laraha returned nothing. Accessed
+2026-11-17.
