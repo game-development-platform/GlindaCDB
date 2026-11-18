@@ -4,7 +4,11 @@
 **Researched:** 2026-10-06 (re-researched 2026-11-08 against the full current
 checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
 see the new Agronomic data lines on photoperiod, salinity, and rootstock
-CTV risk, added that date)
+CTV risk, added that date; re-researched again 2026-11-17 against the full
+current checklist — see Findings 6 and 7 and the new Agronomic data lines on
+first bearing, composition, establishment, weather response, water regime,
+harvest stages, soil biology, invasiveness/biosecurity, and controlled
+environment, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -90,8 +94,10 @@ from these other growing regions is explicitly described as not
 comparable in quality to oil from the main protected-origin area [1][3].
 At least one source describes this crop's flowering as occurring in
 winter, which would be unusual timing relative to most other citrus
-crops — this is noted here as reported but not independently confirmed
-[1].
+crops [1]. Two Calabrian sources instead put the main bloom in spring:
+one from late March through April with a second bloom from late May to
+late June, the other from March to April depending on cultivar, with no
+second bloom mentioned [9]. The conflict is kept open here.
 
 **Finding 5 — the main growing region's traditional rootstock carries a
 documented virus risk that is actively driving rootstock-replacement
@@ -112,6 +118,35 @@ specific to the bergamot scion itself, as opposed to its traditional
 rootstock — the risk, as currently sourced, is a rootstock-choice
 question rather than a scion trait.
 
+**Finding 6 — the rules that bind this crop are written for its oil.**
+The protected-origin specification for the essential oil, as found in an
+older copy, caps planting at 450 trees per hectare and fruit yield at 400
+quintals (40 t) per hectare, and limits the oil to cold-pressed fruit of
+three named cultivars [8]. That copy may predate later amendments. A
+separate effort to protect the fresh fruit under its own designation was
+underway in 2021; whether it was granted was not found [8]. Downstream,
+the perfume industry's own standard (IFRA, amendment 49, 2020) restricts
+expressed bergamot oil as a furocoumarin-containing oil: total bergapten
+in consumer products for UV-exposed skin should not exceed 15 ppm
+(0.0015%), excluding rinse-off products [14]. A furocoumarin-free oil is
+produced for this reason (Uses and processing) [14]. On plant health,
+mal secco (*Plenodomus tracheiphilus*), a vascular fungal disease mainly
+of lemon, has also been reported on bergamot. It is on the EPPO A2 list
+and is a regulated non-quarantine pest under EU Regulation 2019/2072 [13].
+EPPO notes that rankings of citrus susceptibility to it rest mostly on
+field observation, not pathogenicity tests, and that the rootstock
+influences the scion's susceptibility [13].
+
+**Finding 7 — a one-district crop is exposed to that district's bad
+years.** Reggio Calabria province produces about 95% of Italy's bergamot
+from about 486 farms, so a local weather shock is a world-supply shock
+[10]. Producers reported a 70% fall in production in 2023, attributed to
+heat [10]. In August 2026 the farmers' organisation Coldiretti listed
+bergamot among Italian specialities put at risk by heat and drought,
+without a figure [10]. One cultivar, Fantastico, is reported to supply
+about 75% of production [9], so the crop's genetic base in practice is
+also narrow.
+
 ## Agronomic data
 
 - **Life form / season:** An evergreen perennial citrus tree, harvested
@@ -123,9 +158,45 @@ question rather than a scion trait.
   cultivar rather than being modeled as distinct harvest stages.
 - **Climate:** Mediterranean, frost-free coastal climate in the main
   growing region; also grown in subtropical and tropical climates
-  elsewhere.
-- **Food status:** Raw-edible but bitter-sour; the fruit is mainly
-  processed rather than eaten fresh.
+  elsewhere [1][2].
+- **Days/years to first bearing:** Nursery sources for grafted trees
+  give fruit within about one to three years; the FAO EcoCrop entry
+  gives a first harvest after 6-7 years [15]. The gap is large and not
+  reconciled (likely different propagation or a commercial-crop
+  threshold, but that is a guess). See also Estimates.
+- **Establishment:** Budded nursery trees on a rootstock, traditionally
+  sour orange in Calabria (Finding 5) [5]. Planting density capped at 450
+  trees/ha under the oil's protected-origin rules (Finding 6) [8].
+  Spacing figures from orchard practice: Not sourced.
+- **Weather response:** Frost is a hazard only: nursery sources put first
+  damage near 0 °C, with mature trees significantly damaged around -2 °C
+  (approximate) and young trees needing protection [15]. Heat and drought
+  are the main documented field risk (Finding 7) [10]. No quality benefit
+  from weather stress was found.
+- **Water regime:** Ordinary; no flooded requirement. Irrigation figures
+  for this crop: Not sourced (Water use, below).
+- **Harvest stages / windows:** One picking per fruit, but the oil changes
+  with picking date. Sampled November to January, limonene stayed fairly
+  constant while monoterpene alcohols and esters fell and monoterpenes and
+  aldehydes rose [12]. A 2025 study instead found alcohols fell while
+  acetate esters rose [12]; the two disagree on esters. A producer's
+  specification sheet puts linalool highest in November-December and
+  linalyl acetate highest in February-March [12]. Oil content varied from
+  2.11% to 2.99% by harvest time in a Turkish study [12], against about
+  0.5% per fruit weight from Calabrian output figures (Finding 1) — the
+  bases probably differ (peel versus whole fruit), not checked. Juice
+  acidity and vitamin C fall as fruit ripens [11]. Harvest is staggered by
+  cultivar across several months (Finding 2) [2][4].
+- **Edibility:** Raw-edible but bitter-sour; the fruit is mainly
+  processed rather than eaten fresh [1].
+- **Composition:** Juice from three cultivars: titratable acidity about
+  35-60 g/L (as citric acid), soluble solids 7.9-10.0 °Brix and pH
+  2.2-2.8 [11]. Ascorbic acid 341-867, reported in mg/L in the methods
+  but g/L in the abstract — a unit error in the source; mg/L (about 34-87
+  mg per 100 mL) is the plausible reading [11]. A retail bergamot juice
+  label gives 8.7 g carbohydrate, 3.5 g sugars and 44 mg vitamin C per
+  100 g, for a processed product [11]. Fresh whole-fruit composition:
+  Not sourced.
 - **Pollination:** Not independently researched for this crop; assumed
   insect- (bee-) pollinated by analogy to related citrus crops.
 - **Photoperiod sensitivity:** Not independently sourced for this crop.
@@ -139,8 +210,9 @@ question rather than a scion trait.
   thousands of kg/ha, with the protected-origin scheme's own documented
   yield cap representing the exceptional tier (see Estimates below).
 - **Propagation:** Vegetative (budded cultivars), as is standard for
-  citrus generally; rootstock choice for this specific crop was not
-  researched.
+  citrus generally; the traditional Calabrian rootstock is sour orange,
+  with alternatives under trial (Finding 5) [5]. Nursery trees abroad are
+  also sold on *Poncirus trifoliata* for cold hardiness [15].
 - **Water use:** Assumed by analogy to a related citrus crop (steady
   moisture through fruit growth, no standing water) rather than
   independently researched for this crop specifically.
@@ -157,10 +229,13 @@ question rather than a scion trait.
   review cites a soil-solution threshold near roughly 1.4 dS/m before
   adverse effects appear), with tolerance strongly rootstock-dependent
   — no source identifies which rootstock(s) bergamot is typically grown
-  on with respect to salinity specifically.
+  on with respect to salinity specifically [3][7].
+- **Soil biology:** Mal secco, a vascular fungal disease mainly of
+  lemon, has been reported on bergamot (Finding 6) [13].
+  Mycorrhizal association and soil-pathogen suppression: Not sourced.
 - **Stand life:** At least one major cultivar has documented limited
   tree longevity despite fast early growth; overall productive
-  lifespan was not independently researched for this crop.
+  lifespan was not independently researched for this crop [2].
 - **Disease/pest profile:** General pest and disease susceptibility was
   not independently researched for this crop, but a specific rootstock-
   linked virus risk was found (Finding 5): bergamot in the main growing
@@ -169,10 +244,27 @@ question rather than a scion trait.
   which is present in that region, motivating active alternative-
   rootstock trials. Certified virus-free budwood as a control measure
   is documented only at the citrus-genus level; no bergamot-specific
-  certification program was found.
+  certification program was found [5]. Mal secco has been reported on
+  bergamot (Finding 6) [13]; a book chapter notes only three reports in
+  40 years on the phytosanitary status of Calabrian bergamot and names
+  gummosis as a further disease [13].
+- **Invasiveness / biosecurity:** A grafted cultivated citrus of hybrid
+  origin, grown almost entirely in one district [1][10]. No record of it
+  naturalising or being listed as a weed anywhere was found (searched as
+  part of this pass, not a confirmed absence). *Legal restrictions:*
+  protected-origin planting and yield caps (Finding 6) [8]; mal secco is a
+  regulated non-quarantine pest in the EU [13]; EU plant-health rules
+  (Regulation 2019/2072) require phytosanitary certificates for plants
+  entering the EU, but whether citrus plants for planting are prohibited
+  outright was not confirmed in this pass [16]. Phototoxicity limits on
+  the oil apply to products, not the crop (Finding 6) [14].
+- **Controlled environment:** Sold as a container plant for indoor
+  overwintering in cold climates, with frost protection for the first
+  few years [15]. Commercial protected cultivation: Not sourced.
 - **Cultivars:** Three named commercial cultivars, differing in fruit
   shape, skin thickness, harvest timing, tree size, bearing pattern
-  (one is distinctly alternate-bearing), and tree longevity.
+  (one is distinctly alternate-bearing), and tree longevity [2]. One,
+  Fantastico, is reported to give about 75% of production [9].
 
 ## Hazards
 
@@ -207,11 +299,22 @@ kind of health/safety data.
   the oil industry in detail but not general orchard practice for this
   crop specifically — a dedicated orchard-management source for this
   crop would be the main gap to fill.
-- Rootstock choice for this crop specifically was not researched (a
-  commonly used citrus rootstock is traditional for related crops, but
-  this was not confirmed for this crop).
-- Winter bloom timing reported in one source is unusual for citrus
-  generally and was not independently confirmed.
+- Rootstock: sour orange is documented as traditional in Calabria
+  (Finding 5), but its performance against alternatives on salinity or
+  vigour was not sourced.
+- Bloom timing conflicts: one source says winter, two Calabrian sources
+  say spring (March-April), and they disagree about a second bloom
+  (Finding 4).
+- The 2026-11-17 additions (Findings 6 and 7 and the new Agronomic data
+  lines) rest on search-snippet reading only. In particular: the
+  protected-origin planting and yield caps come from an older copy of the
+  specification that may have been amended; time to first bearing
+  conflicts sharply (one to three years versus 6-7 years); frost
+  thresholds come from nurseries; the juice vitamin C unit is ambiguous
+  in the source; the oil-content percentages and the Calabrian oil-yield
+  figure are on different bases, not reconciled; the two oil-chemistry
+  studies disagree on esters; and whether EU rules prohibit importing
+  citrus plants for planting was not confirmed.
 - This project currently has no way to model the documented fact that
   product (oil) quality depends specifically on the microclimate and
   soils of one particular growing region, with oil from elsewhere
@@ -320,3 +423,60 @@ saline-irrigation rootstock study. Supplied: a soil-solution salinity
 threshold figure and documented rootstock-dependent variation in
 salinity tolerance. Accessed 2026-11-08, search snippets only, none
 opened directly, none species-specific to this crop.
+
+[8] Search-snippet-level material on the bergamot protected designation
+of origin: an older copy of the production specification for Bergamotto
+di Reggio Calabria essential oil (hosted by spaghettitaliani.com),
+Reggio Calabria Chamber of Commerce pages on the oil designation and on
+the 2021 effort to protect the fresh fruit, and a Calabria regional
+council resolution. Accessed 2026-11-17, search snippets only; the
+specification copy may predate amendments.
+
+[9] Search-snippet-level material on bergamot flowering and cultivar
+shares: a 2020 *Gazzetta del Sud* article (archived by the Accademia del
+Profumo) and the Reggio Calabria metropolitan city's 2020 report mapping
+bergamot farms. Accessed 2026-11-17, search snippets only.
+
+[10] Search-snippet-level material on bergamot production losses: a
+*Gambero Rosso* report of October 2023 (70% fall in production, 486
+farms, 95% of Italian output), a Teleborsa report of a Coldiretti
+statement of 14 August 2026, and a FreshPlaza headline reporting 80% of
+produce destroyed (text not seen, not used for figures). Accessed
+2026-11-17, search snippets only.
+
+[11] Search-snippet-level material on bergamot juice composition: a 2019
+*Antioxidants* study of cultivar and harvest-date effects on juice
+(Universita Mediterranea di Reggio Calabria), its preprint, a 2024 study
+of juice acids, and a UK retail label for organic bergamot juice.
+Accessed 2026-11-17, search snippets only.
+
+[12] Search-snippet-level material on bergamot oil and harvest time: a
+2019 *Flavour and Fragrance Journal* study (Marzocchi and others) on
+harvest time and oil volatiles, a 2025 study of harvest timing and
+cultivar effects on juice and oil, a 2020 study of harvest times and peel
+oil quality (Golukcu and others), and a producer's technical data sheet
+for bergamot oil. Accessed 2026-11-17, search snippets only.
+
+[13] Search-snippet-level material on bergamot diseases: the EPPO Global
+Database datasheet and Italy distribution page for *Plenodomus
+tracheiphilus*, a review in *Phytopathologia Mediterranea*, a 2023
+*Journal of Plant Pathology* paper, and a book chapter on the
+phytosanitary status of Calabrian bergamot. Accessed 2026-11-17, search
+snippets only.
+
+[14] Search-snippet-level material on bergamot oil phototoxicity limits:
+IFRA Standard (amendment 49, 2020) on citrus and other
+furocoumarin-containing oils, and supplier IFRA statements for bergamot
+and furocoumarin-free bergamot oil. Accessed 2026-11-17, search snippets
+only.
+
+[15] Search-snippet-level material on bergamot tree growing: the FAO
+EcoCrop entry, nursery and grower pages (Logee's, Dutch Wasabi, Promesse
+de Fleurs, Madison Citrus Nursery, Plantura). Accessed 2026-11-17,
+search snippets only; mostly commercial, non-peer-reviewed sources.
+
+[16] Search-snippet-level material on EU plant-health import rules: the
+European Commission's plant-health rules pages, Implementing Regulation
+(EU) 2019/2072 (versions on legislation.gov.uk), and AGRINFO summaries.
+Accessed 2026-11-17, search snippets only; citrus-specific Annex VI
+entries were not seen.
