@@ -4,7 +4,11 @@
 **Researched:** 2026-11-08 (checked again the same day against the full
 current checklist in `skills/crop-research/SKILL.md` and
 `templates/research-doc.md` — see the new Agronomic data lines on
-photoperiod and rootstock salinity ranking)
+photoperiod and rootstock salinity ranking; re-researched again 2026-11-17
+against the full current checklist — see Finding 7 and the new Agronomic
+data lines on first bearing, weather response, water regime, harvest
+stages, soil biology, invasiveness/biosecurity, and controlled
+environment, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -164,6 +168,21 @@ counters that roughly 30 human studies found no cardiovascular effect at
 commonly used doses [6] — the primary literature is genuinely split, not
 settled.
 
+**Finding 7 — the best-known "Seville" crop is a city's street trees, not
+an orchard.** Seville's streets are planted with tens of thousands of
+bitter orange trees; counts in press coverage range from about 14,000 to
+about 50,000, with about 48,000 the most repeated figure [26]. The fruit
+falls in winter and is collected by hand by about 200 workers; accounts
+disagree on whether the city council or the municipal water company,
+Emasesa, runs the collection [26]. One season's harvest was reported as
+5.7 million kg, up 37.5% on 2019/2020 [26]. Some of the fruit is shipped
+to Britain, Ireland and Scandinavia for marmalade or used for liqueurs,
+but most has historically been left to rot or taken away as waste [26].
+Since about 2021 Emasesa has run a pilot turning the fruit into biogas
+for electricity [26]. The city's trees are therefore an ornamental
+planting whose fruit is a by-product with a disposal problem, rather
+than a managed fruit crop.
+
 ## Agronomic data
 
 - **Life form / season:** Evergreen perennial tree; needs little
@@ -178,6 +197,28 @@ settled.
   researched: whether all three are routinely harvested from the same
   trees in commercial practice, or whether operations specialize in one
   product.
+- **Harvest stages / windows:** Several organ-specific harvests rather
+  than one: blossom in spring, fallen unripe fruit in May-June, ripe
+  fruit in winter (Harvest pattern, above) [12][16]. The ripe fruit falls
+  in winter in Seville and is collected from the ground or the tree by
+  hand [26]. Juice chemistry changes sharply with ripeness (Composition)
+  [31].
+- **Days/years to first bearing:** Not sourced for this species. For
+  citrus generally, seedling trees take about 8-15 years to bear, while
+  budded or grafted trees typically reach the adult phase in three to six
+  years [29]. This matters here because rootstock seedlings are raised
+  from seed (Propagation, below).
+- **Weather response:** Frost is a hazard only. No sour-orange-specific
+  frost threshold was found. General citrus figures put mature oranges
+  at about 24 °F (-4 °C), with properly hardened bearing trees surviving
+  around 20 °F (-7 °C), and damage depending on duration and tree age
+  [29]. Cold-hardiness claims conflict (Climate zones, below) [17]. No
+  quality benefit from weather stress was found.
+- **Water regime:** Ordinary; no flooded requirement. The Florida
+  rootstock guide rates rootstocks for wet and flooded soils, but the
+  rating for sour orange was not seen in this pass [28]. The same
+  source says few rootstocks handle suboptimal soils as well as sour
+  orange [28].
 - **Climate zones:** Subtropical/Mediterranean-type climates generally;
   one agronomic database describes tolerance across steppe, semi-arid,
   subtropical, and tropical wet-and-dry climates, though its figures
@@ -199,7 +240,12 @@ settled.
   rough reference point, not a substitute figure, since this is a
   different hybrid. No authoritative primary database (USDA FoodData
   Central or equivalent) entry specific to this species was located in
-  this pass.
+  this pass. Green fruit has the highest juice ascorbic acid and
+  acidity, and vitamin C, polyphenols, flavonoids and acidity all fall
+  as the fruit ripens (a Syrian maturity study, figures not in the
+  snippet read) [31]. A French nutrition table that labels its orange
+  entry *Citrus aurantium* (47.5 mg vitamin C per 100 g) appears to
+  describe sweet orange and is not used here [31].
 - **Edibility:** Not generally eaten raw as food; valued for
   flowers/peel/rootstock rather than fresh fruit (Finding 1).
 - **Pollination:** Not sourced specifically for this species. General
@@ -259,11 +305,39 @@ settled.
   roughly 4 dS/m — though one Jordanian trial found Volkamer lemon more
   salt-tolerant than sour orange at salinity up to 15 dS/m, so this
   ranking is not universal across studies [24]. No nutrient-uptake or
-  removal figures sourced.
+  removal figures sourced. Sour orange is also noted for tolerance of
+  high-pH calcareous soils, the reason it remains the main rootstock in
+  Texas's Lower Rio Grande Valley [28].
+- **Soil biology:** Phytophthora tolerance needs splitting by disease:
+  the Florida rootstock guide gives sour orange good foot-rot tolerance
+  but only mediocre root-rot tolerance [28]. One Florida inoculation study
+  classed sour orange among the susceptible rootstocks at high inoculum
+  density [28]. That is consistent with Finding 2's history, which was
+  about foot rot. Sour orange is rated tolerant of the citrus nematode
+  (*Tylenchulus semipenetrans*), but the Gou Tou selection supported
+  higher soil nematode numbers without apparent feeder-root loss, so
+  "tolerant" here means little damage, not low nematode populations
+  [28]. Mycorrhizal association: searched for but not sourced.
 - **Disease/pest profile:** Besides citrus tristeza virus (Finding 2),
   documented viral diseases include crinkly leaf virus and xyloporosis;
   documented fungal diseases include anthracnose, dieback, and heart rot
   [1]. Not independently verified beyond this single summary source.
+- **Invasiveness / biosecurity:** Native to South-east Asia/South China
+  [1][2]. In Florida, UF/IFAS lists sour orange as non-native and found
+  throughout the peninsula, with no documented negative impacts. It
+  still rates it a "caution" species and advises preventing escape from
+  gardens and farms [27]. It is reported growing wild around coastal
+  shell middens and hammocks there and in Georgia and Texas [27]. No
+  Hawaii-Pacific weed risk assessment for sour orange itself was found;
+  one for sweet orange rates it low risk [27]. *Legal restrictions:* no
+  weed listing was found. Supplement-related rules (Germany's proposed
+  synephrine cap, US rules on synthetic amines) apply to products, not
+  the crop (Finding 6) [6][15].
+- **Controlled environment:** Grown in containers and overwintered
+  indoors in European orangeries from the 17th century. Versailles keeps
+  more than a thousand boxed trees indoors in winter and outdoors from
+  May to October; historical counts of 1,200-3,000 come from weaker
+  sources [30]. Commercial protected cultivation: Not sourced.
 - **Storage (postharvest):** Not sourced. Processing for all three main
   products (distillation, drying, peeling) appears to begin promptly
   after harvest in the sources reviewed, but no specific storage-life or
@@ -373,6 +447,13 @@ settled.
 - No soil nutrient-uptake/removal figures were sourced.
 - No labor-hour figures were sourced for any operation (flower picking,
   fruit collection, peeling, distillation).
+- The 2026-11-17 additions (Finding 7 and the new Agronomic data lines)
+  rest on search-snippet reading only. In particular: Seville tree counts
+  vary about 3.5-fold between press sources, and who runs the
+  collection is disputed; years to first bearing and frost thresholds
+  are general-citrus figures; the Florida flooding rating for sour orange
+  was not seen; the juice composition study's figures were not in the
+  snippet; and the Florida "caution" assessment is not a legal listing.
 - Photoperiod sensitivity for flowering has no clean, species-specific
   answer; the one source found gives an ambiguous "long day, short day
   and day neutral" classification rather than a definite one.
@@ -586,3 +667,45 @@ directly), and drinks-trade pages at search-snippet depth (35 vs. about
 45 trees, the lower dried-peel figure). Searches for a taxonomic,
 genetic or peel-oil study specific to laraha returned nothing. Accessed
 2026-11-17.
+
+[26] Search-snippet-level material on Seville's street orange trees:
+*The Guardian* (February 2021) on turning the fruit into electricity,
+*The Local* Spain, Devour Tours' history of the trees, andalucia.com,
+and bioenergy and sustainability trade reports on Emasesa's biogas
+pilot. Accessed 2026-11-17, search snippets only; tree counts and
+harvest figures vary between sources.
+
+[27] Search-snippet-level material on sour orange as a naturalised
+plant: the UF/IFAS Assessment of Non-native Plants (via its plant
+directory and EDIS), a Florida wildflower photo database, and the
+Hawaii-Pacific Weed Risk Assessment (PlantPono) entry for sweet orange.
+Accessed 2026-11-17, search snippets only; no weed risk assessment for
+sour orange itself was found.
+
+[28] Search-snippet-level material on sour orange rootstock traits: the
+UF/IFAS Florida Citrus Rootstock Selection Guide (EDIS and the CREC
+rootstock site, including its trait notes), the 2021-2022 Florida Citrus
+Production Guide, a *Plant Disease* (1990) Phytophthora inoculation
+study, a Texas rootstock screen, and a *Proceedings of the Florida State
+Horticultural Society* paper on Gou Tou sour orange and the citrus
+nematode. Accessed 2026-11-17, search snippets only; per-rootstock
+flooding ratings were not seen.
+
+[29] Search-snippet-level material on citrus juvenility and cold
+damage: UF/IFAS EDIS publications on seedling citrus bearing age, a
+*HortScience* rootstock paper, a University of California cold-
+hardiness publication, and Texas A&M AgriLife (Galveston County) notes
+on cold damage. Accessed 2026-11-17, search snippets only; none is
+specific to sour orange.
+
+[30] Search-snippet-level material on orangeries: general encyclopedia
+articles on the Versailles Orangerie and orangeries generally, and
+Britannica's orangery entry; boxed-tree counts beyond "more than a
+thousand" come from weaker blog-style sources. Accessed 2026-11-17,
+search snippets only.
+
+[31] Search-snippet-level material on *C. aurantium* fruit composition: a
+2018/2019 *Nutrition & Food Science* (Emerald) study of nutritional
+composition during maturity, a Bangladesh pulp-quality study, and
+Aprifel's orange nutrition sheet. Accessed 2026-11-17, search snippets
+only.
