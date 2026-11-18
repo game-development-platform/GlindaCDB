@@ -3,7 +3,11 @@
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/black-raspberry.md`
 **Researched:** 2026-09-29 (re-researched 2026-11-09 against the full current
 checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
-see the new Agronomic data lines on photoperiod and salinity, added that date)
+see the new Agronomic data lines on photoperiod and salinity, added that date;
+re-researched again 2026-11-17 against the full current checklist — see
+Finding 5 and the new Agronomic data lines on first bearing, composition,
+establishment, weather response, water regime, harvest stages, soil biology,
+invasiveness/biosecurity, and controlled environment, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -23,7 +27,11 @@ separate crop entry in this project — though notably, most commercial
 Korean fields, wine, and juice marketed under that Korean name are
 actually documented to be this same species rather than the nominally
 distinct Korean species, so Korean fruit-liqueur products made from
-cultivated fruit properly belong to this crop's product list.
+cultivated fruit properly belong to this crop's product list. That identification is
+not universal: Korean festival and press sources name bokbunja as *R.
+coreanus* and describe it only as "often compared" with the North
+American species [18]. The conflict is kept open (Open research
+questions).
 
 A closely related red-fruited crop this project has also researched is
 the much better-studied sibling crop; many values in this entry are
@@ -82,6 +90,21 @@ cancer-related health benefits of this fruit has raised its profile,
 though this is noted here only as an area of research interest, not
 treated as an established food-safety or nutritional claim.
 
+**Finding 5 — the soil decides where it can be planted, and the field
+does not recover.** Verticillium wilt is described as particularly
+serious in black raspberry and more severe than in red raspberry [17].
+The fungus survives in soil for many years, is described as virtually
+impossible to eradicate once in a field, and has no resistant cultivars
+or effective fungicide treatment [17]. Guidance is therefore to plant
+black raspberry only on well-drained land that has never grown it or
+other susceptible crops (Soil, below), with preplant fumigation the
+expensive chemical alternative [17]. Phytophthora root rot, the main
+soil disease of red raspberry, is generally less damaging in black
+raspberry and blackberry [17], although black raspberry cultivars are
+still documented as susceptible (Water use, below) [2]. Together with the
+viruses in Finding 1, this makes site history and clean planting stock
+the main controls on stand life.
+
 ## Agronomic data
 
 - **Life form / season:** A perennial crown producing biennial canes,
@@ -89,14 +112,47 @@ treated as an established food-safety or nutritional claim.
   [1][4].
 - **Harvest pattern:** Perennial bearing; a single short early-summer
   crop on second-year canes under standard management, though at least
-  one cultivar instead fruits on first-year canes in early autumn.
+  one cultivar instead fruits on first-year canes in early autumn
+  [1][3][11].
+- **Days/years to first bearing:** A small "baby crop" in the second
+  year after planting, with full cropping from the following season;
+  planting-to-first-harvest timelines from two university trials are in
+  Estimates [3][7].
+- **Establishment:** Tip-layered plants or laboratory plugs set out in
+  spring, at documented row and in-row spacings, on raised beds with
+  synthetic ground cover in at least one trial [4][7]. Virus-free stock
+  and a site without a history of Verticillium hosts are the key choices
+  (Finding 5) [4][17].
 - **Climate:** Temperate, native to eastern North America; documented
-  as less cold-hardy overall than the related red-fruited crop.
-- **Food status:** Raw-edible.
+  as less cold-hardy overall than the related red-fruited crop [1][6].
+- **Weather response:** All hazards, no documented quality benefit. Late
+  frost can kill blossoms, with differences between cultivars [7].
+  Winter cold damages at least one major cultivar [3]; a crop-insurance
+  feasibility study calls winter injury the most serious production
+  peril for brambles in general [16]. Heat at harvest is a hazard: in an
+  Oregon trial during the June 2021 heat wave, fruit dried on the plant
+  between the first and second machine-harvest passes [16]. Sunscald in
+  hot years and small fruit in dry years are also documented [3].
+- **Water regime:** Ordinary irrigation; no flooded requirement. Wet,
+  poorly drained soil favours root rot (Water use, below) [2][17].
+- **Harvest stages / windows:** A single fruit stage, picked ripe. In
+  an Oregon trial, 'Munger' was first machine harvested on June 22 with a
+  second pass on June 28-29 [16]. Fruit on a cane ripens over a short
+  window, and machine-harvested fruit goes mainly to processing [1][2].
+- **Edibility:** Raw-edible [1].
+- **Composition:** Anthocyanins are the defining trait. The Oregon
+  Raspberry and Blackberry Commission's fact sheet gives 214-589 mg per
+  100 g [13]. USDA-ARS germplasm work measured juice, not fruit: 39-996 mg
+  per 100 mL across wild clones, and cultivar averages of 350.6 ('Munger'),
+  387.3 ('Jewel') and 405.9 ('Mac Black') mg per 100 mL [13]. A
+  commercial ingredient encyclopedia gives about 57 kcal, 13.6 g
+  carbohydrate, 6.5 g fibre, 4.4 g sugars and 1.5 g protein per 100 g,
+  without stating its source; it is not relied on [13]. Vitamin C: Not
+  sourced. Red-raspberry values remain the analogy in Estimates [10].
 - **Pollination:** Required, bee-pollinated by analogy to the related
   red-fruited crop (not independently researched for this species);
   pollinating insects are also the vector for at least one serious
-  pollen-borne virus affecting this crop (Finding 1).
+  pollen-borne virus affecting this crop (Finding 1) [2].
 - **Photoperiod sensitivity:** Not directly studied for this species.
   By analogy to the related red-fruited crop (not confirmed species-
   specific): standard biennial-cane floral initiation is linked to
@@ -107,7 +163,7 @@ treated as an established food-safety or nutritional claim.
   cultivars acquired that trait through introgression from red-
   raspberry breeding lines, paralleling the mechanism rather than
   arising independently. Not applicable to tuberization/bulbing — a
-  cane crop with no storage organ.
+  cane crop with no storage organ [11].
 - **Yield / composition:** See Finding 2 and Estimates below for the
   range between typical, good, and exceptional yields.
 - **Propagation:** Exclusively vegetative — tip layering (the standard
@@ -115,7 +171,7 @@ treated as an established food-safety or nutritional claim.
   propagated from root suckers the way its red-fruited relative can,
   since canes arise only from the crown (Finding 3). Using virus-free
   planting stock is important, since conventional propagation from
-  infected plants passes viral disease on to new plantings.
+  infected plants passes viral disease on to new plantings [2][4][8].
 - **Water use:** A standard international crop-coefficient curve for
   berry bushes is used by analogy; a detailed university trial
   documented a specific weekly irrigation schedule that roughly doubles
@@ -123,11 +179,12 @@ treated as an established food-safety or nutritional claim.
   rest of the season, and noted that fruit remains notably small in dry
   years even with irrigation. Most cultivars are documented as quite
   susceptible to a water-mold root rot, making raised beds a common
-  practice in at least one growing region.
+  practice in at least one growing region [2][3][7][9].
 - **Labor:** No dedicated labor study was found for this crop
   specifically; figures here are estimated from the related red-
   fruited crop's labor pattern, adjusted for this crop's smaller fruit
-  size and the additional labor demand of multi-pass summer tipping.
+  size and the additional labor demand of multi-pass summer tipping
+  (see Estimates).
 - **Soil:** Well-drained soil is important, with raised beds and
   synthetic ground cover used in at least one detailed trial; soils
   with a history of certain solanaceous crops (which host the same
@@ -142,25 +199,50 @@ treated as an established food-safety or nutritional claim.
   documented on this point: one source rates it "poor," while at least
   one cultivar study found tolerance to high NaCl concentrations and
   even a growth benefit under mild saline-alkali stress, suggesting
-  cultivar-level variation may apply to both species.
+  cultivar-level variation may apply to both species [3][4][7][12].
+- **Soil biology:** Verticillium wilt persists in soil for many years
+  and is more severe in black than red raspberry; no resistant
+  cultivars; Phytophthora root rot is less damaging than in red
+  raspberry (Finding 5) [17]. Root-lesion nematodes are named alongside
+  Verticillium as a reason for preplant fumigation [17]. Mycorrhizal
+  association: searched for but not sourced.
 - **Stand life:** Productivity can begin declining after as few as two
   production seasons due to disease pressure, though some sources
   suggest a longer four-to-eight-year typical productive life under
   better disease management; fields in at least one major growing
   region become mostly infected with a specific pollen-borne virus
-  within two to three years.
+  within two to three years [2][3][8].
 - **Disease/pest profile:** A pollen-borne virus (causing crumbly
   fruit), a separate species-specific necrosis virus, an aphid-spread
   viral mosaic complex, a soil-borne fungal wilt disease, a fungal
   anthracnose disease (with meaningful cultivar-level resistance
   differences), general fruit rots, sunscald in hot years, and winter
   cold-damage susceptibility in at least one major cultivar are all
-  documented.
+  documented [2][3][4].
+- **Invasiveness / biosecurity:** Native to eastern North America, from
+  New Brunswick and Quebec to Mississippi [1][15]. Within North America
+  it is weedy in places: Missouri's conservation department reports it
+  treated as an invasive non-native in some states, forming thickets, and
+  introduced populations in Iowa possibly spreading into native prairie
+  and savanna [15]. No record of naturalisation outside North America was
+  found, nor any listing (searched, not a confirmed absence). The
+  well-known weedy *Rubus* of Australia and New Zealand is the European
+  blackberry aggregate, not this species [15]. *Legal restrictions:* none
+  found for this species. Virus and planting-stock certification are the
+  practical biosecurity controls (Finding 1) [2][4].
+- **Controlled environment:** Grown under high tunnels in New York
+  trials: a high-density system yielded 15.8 t/ha ('Jewel') and 17.4 t/ha
+  ('Bristol') cumulatively over three harvest seasons, equal to or above
+  standard spacing every year [14]. That is from a conference abstract
+  without an open-field control in the same trial [14]. An Ohio extension
+  page calls black raspberry very productive in high tunnels, without
+  figures [14].
 - **Cultivars:** Several named cultivars exist, differing in fruit
   size, ripening time, cold hardiness, anthracnose resistance, and
   Verticillium-wilt susceptibility; purple raspberries (hybrids with
   the red-fruited relative) form a distinct cultivar group within this
-  crop, valued for vigor, large soft fruit, and processing suitability.
+  crop, valued for vigor, large soft fruit, and processing suitability
+  [2][3][7].
 
 ## Hazards
 
@@ -201,6 +283,17 @@ not treated as a hazard.
   is much more limited. A composition analysis and dedicated labor-cost
   study specific to this crop would be the most valuable replacements.
 - Nutrient uptake per tonne of fruit was not researched.
+- Whether Korean commercial bokbunja is mostly this species (Naming and
+  scope) or *R. coreanus*, as Korean popular sources say, is not
+  reconciled [18].
+- The 2026-11-17 additions (Finding 5 and the new Agronomic data lines)
+  rest on search-snippet reading only. In particular: the high-tunnel
+  yields come from one conference abstract with no open-field control;
+  the per-100 g energy and sugar figures come from an unsourced
+  commercial page and are not relied on; the anthocyanin ranges are on
+  different bases (fruit versus juice); the harvest dates come from one
+  heat-wave year at one trial site; and the Missouri note on weediness
+  was not checked against state weed lists.
 - Overall productive lifespan estimates remain only roughly bounded
   rather than precisely sourced.
 - Photoperiod sensitivity for flower bud initiation has not been
@@ -371,3 +464,45 @@ study (Neocleous & Vasilakakis, cv. 'Autumn Bliss') on NaCl/chloride
 toxicity, and a 2023 Chinese study (cv. 'Qiuping') on saline-alkali
 stress response. Accessed 2026-11-09; the third-party index was fetched
 and opened directly, the rest at search-snippet depth only.
+
+[13] Search-snippet-level material on black raspberry composition: the
+Oregon State University Berry Health fact sheet on black raspberries
+(Oregon Raspberry and Blackberry Commission data), a 2012 *Acta
+Horticulturae* 946 paper from USDA-ARS on anthocyanin content of wild
+black raspberry germplasm and cultivars, a 2011 ASHS abstract on
+seedling populations, and a commercial ingredient encyclopedia
+(Hermetica). Accessed 2026-11-17, search snippets only.
+
+[14] Search-snippet-level material on high-tunnel black raspberry: a
+2019 ASHS annual conference abstract on high-density planting under
+high tunnels in western New York, the related USDA NIFA project page,
+an Ohio State South Centers raspberry page, and a Colorado SARE report
+on high-tunnel brambles. Accessed 2026-11-17, search snippets only.
+
+[15] Search-snippet-level material on black raspberry range and
+weediness: a general encyclopedia entry on the species, the Missouri
+Department of Conservation field guide, a PMC-hosted study of Western US
+*Rubus* hybridisation, and the Hawaii-Pacific Weed Risk Assessment for
+*R. fruticosus*. Accessed 2026-11-17, search snippets only.
+
+[16] Search-snippet-level material on weather and harvest: a 2021
+USDA-ARS Corvallis state report to the NCCC-212 small-fruit committee
+(trial harvest dates and heat damage), Oregon State University's PNW 655
+raspberry cultivar guide, a USDA Risk Management Agency bramble
+crop-insurance feasibility study, and Oregon Raspberry and Blackberry
+Commission research report books. Accessed 2026-11-17, search snippets
+only.
+
+[17] Search-snippet-level material on bramble soil diseases: Ohio State
+University fact sheets (Verticillium wilt and root rots of brambles),
+the Pacific Northwest Plant Disease Management Handbook entry on
+raspberry Verticillium wilt, University of Connecticut IPM on root
+diseases of brambles, a Washington State University small-fruit update
+on soilborne disease, and Missouri IPM. Accessed 2026-11-17, search
+snippets only.
+
+[18] Search-snippet-level material on Korean bokbunja: Korea JoongAng
+Daily and Korea Herald reports on the Gochang bokbunja festival, an
+Asia Economy report, *The Nation* (Thailand), and a Korea travel site
+comparing bokbunja with *R. occidentalis*. Accessed 2026-11-17, search
+snippets only; no cultivated-area figures were found.
