@@ -3,7 +3,11 @@
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/banana-passionfruit.md`
 **Researched:** 2026-10-04 (re-researched 2026-11-08 against the full current
 checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
-see the new Agronomic data lines on photoperiod and salinity, added that date)
+see the new Agronomic data lines on photoperiod and salinity, added that date;
+re-researched again 2026-11-17 against the full current checklist — see
+Finding 6 and the new Agronomic data lines on first bearing, composition,
+establishment, weather response, water regime, harvest stages, soil biology,
+invasiveness/biosecurity, and controlled environment, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -72,7 +76,7 @@ documented harvest peaks following seasonal rains in at least one major
 growing region, with fruit actually available more or less year-round;
 in a different introduced growing region, fruiting instead runs across
 roughly half the year. A well-managed planting can remain productive
-for roughly a decade.
+for roughly a decade [1][3].
 
 **Finding 3 — documented yields range widely, roughly threefold
 between traditional and intensively managed plantings.** Traditional
@@ -117,6 +121,31 @@ longer, and that cold storage combined with a ripening-inhibitor
 treatment preserved firmness and quality for roughly a month [5][6].
 The fruit is noted as shipping well overall [1].
 
+**Finding 6 — the same plant is legally a crop in the Andes and a banned
+pest elsewhere, and the bans are written under older or broader names.**
+In New Zealand, banana passionfruit is an unwanted organism under the
+National Pest Plant Accord: it may not be sold, offered for sale or
+propagated, bred, released or otherwise spread [24]. Regional pest plans
+add control programmes; Otago's 2019-2029 plan, for example, lists it as
+a site-led pest around Dunedin's West Harbour and the Otago Peninsula
+without extra rules [24]. The New Zealand listings deliberately cover a
+group of taxa: *P. tripartita* var. *mollissima*, var. *azuayensis*, *P.
+tarminiana*, *P. pinnatistipula*, *P. × rosea* and others [24]. In
+Hawaii, banana poka is on the state noxious weed list (Hawaii-Pacific
+weed risk score 24, high risk). State law allows noxious weeds to be
+imported only for research under permit and bars their sale, and the
+agriculture department's seed rules list *P. mollissima* seed as a
+prohibited noxious weed seed [23]. The Hawaii lists use the older name
+*P. mollissima*, while the plant actually invading Hawaiian forest is now
+identified as *P. tarminiana* [23]. The searches did not confirm in
+law that the older name covers both taxa. Kauai's do-not-plant list and
+voluntary nursery agreements add a non-legal layer [23]. In Australia,
+banana passionfruit (mostly identified as *P. tarminiana*) is treated as
+an environmental weed in Victoria, Tasmania and New South Wales. It is
+not declared noxious by any state; New South Wales applies only a
+regional recommended measure on the North Coast [25]. Some nurseries
+there still sell it as *P. mollissima* [25].
+
 ## Agronomic data
 
 - **Life form / season:** A vigorous, hairy perennial climbing vine,
@@ -127,11 +156,44 @@ The fruit is noted as shipping well overall [1].
   at least one major growing region (two seasonal peaks); fruit is
   always picked at the first sign of color change and ripened off the
   vine (Finding 2, Finding 5).
-- **Climate:** Tropical highland elevations in its native Andean range;
-  subtropical uplands and light-frost temperate climates where
-  introduced elsewhere.
-- **Food status:** Raw-edible (ripe pulp); notably vitamin-C-rich,
-  modest in calories and protein.
+- **Climate:** Tropical highland elevations in its native Andean range
+  (commercially about 2,000-3,200 m in Colombia); subtropical uplands
+  and light-frost temperate climates where introduced elsewhere
+  [2][3][4][28].
+- **Days/years to first bearing:** About 12-14 months from transplanting
+  in a Colombian monograph, versus the second year after planting in an
+  older reference — a conflict kept open (Finding 2; Estimates) [1][3].
+- **Establishment:** Transplanted from nursery seedlings after one to two
+  months in bags, onto a trellis (espalier or similar) built at planting
+  [3]. Planting-hole size and spacing figures specific to this crop were
+  not found in this pass beyond the density in the cost budget [3].
+- **Weather response:** Frost damages buds, flowers and fruit set (a
+  yield hazard; Finding 1) [1][4]. Strong wind drops flowers and breaks
+  young shoots [3][4]. Prolonged rain during flowering and fruit
+  ripening causes flower loss, fruit splitting and fruit rot [3]. A
+  Colombian review of passion-flower ecophysiology lists prolonged rain,
+  severe drought, strong wind and hail as damaging to the group [28]. No
+  quality benefit from weather stress was found.
+- **Water regime:** Ordinary, rain-fed or irrigated; no flooded
+  requirement. Poorly drained, waterlogged soil favours nematodes and
+  wilt disease (Water use, below) [3].
+- **Harvest stages / windows:** Picked at the first colour change and
+  ripened off the vine (Finding 5) [3]. The Brix-to-acid ratio is used as
+  a maturity index in Colombian postharvest work, without stage
+  thresholds in the material read [28]. Ripening is asynchronous across
+  the vine, with flowering recurring about every three months and fruit
+  available nearly year-round (Finding 2) [3].
+- **Edibility:** Raw-edible (ripe pulp); notably vitamin-C-rich,
+  modest in calories and protein [1]. Contains a cyanogenic glycoside at
+  a low documented concentration (Hazards) [14].
+- **Composition:** The classic reference [1] gives a per-100 g table,
+  but its figures were not carried into this doc and could not be
+  re-checked in this pass. A generic food-database entry gives about 26
+  kcal per 100 g of curuba (species not confirmed) [27]. A Colombian
+  study of curuba larga reports carotenoids, total phenols and
+  flavonoids, but per 100 g of dried fruit, so not comparable with fresh
+  fruit [27]. Fruit pH, soluble solids and acidity: [15]. A vitamin C
+  figure for fresh pulp: Not sourced in this pass.
 - **Pollination:** Required; specifically adapted to hummingbird
   pollination in its native range (including at least one documented
   long-billed hummingbird species), with introduced honeybees and
@@ -151,24 +213,24 @@ The fruit is noted as shipping well overall [1].
   species are reportedly short-day instead, and a photoperiod-
   insensitive mutant line exists within *P. edulis* itself, showing the
   trait varies even within the genus. Not applicable to tuberization/
-  bulbing, since this is a vine with no such storage organ.
+  bulbing, since this is a vine with no such storage organ [19].
 - **Propagation:** Grown from seed via nursery seedlings (the standard
   commercial method); cuttings root poorly, air-layering is used more,
   and grafting and laboratory propagation are experimental or costly
-  alternatives.
+  alternatives [1][3].
 - **Water use:** A comparatively shallow, weak root system; good
   drainage is essential, with nematodes and a fungal wilt disease
   favored in wet, poorly drained sites; water stress is particularly
   damaging during flowering (both drought and prolonged rain cause
   problems) and during fruit growth and ripening (drought drops
   developing fruit; heavy rain splits ripening fruit and favors fruit
-  rot diseases).
+  rot diseases) [3].
 - **Labor:** A detailed cost budget (derived from a related crop's
   input-cost guide, flagged as an imperfect analogy) documents
   substantial annual labor for pruning/tying, irrigation, weeding,
   fertilization, and trellis upkeep, plus harvest, grading, and packing
   labor, on an espalier trellis system at a specific documented vine
-  density.
+  density [3].
 - **Soil:** Well-drained loam with substantial organic matter, low
   aluminum, and a specific fertility profile is preferred; a moderately
   acidic soil pH is optimal; boron deficiency is linked to fruit
@@ -185,19 +247,38 @@ The fruit is noted as shipping well overall [1].
   "moderately sensitive" instead — a direct conflict with the original
   study's own framing, not reconciled here. Tolerance in mature,
   established plants (as opposed to seedlings) is not established
-  either way.
+  either way [3][20][21][22].
+- **Soil biology:** Root-knot nematodes and a wilt disease are favoured
+  in wet soils (Disease/pest profile) [3]. In commercial passion-flower
+  crops generally, *Fusarium oxysporum* and *F. solani* cause vascular
+  wilt and stem rot. Root-knot nematodes (*Meloidogyne* spp.) worsen
+  Fusarium damage by wounding roots, and grafting onto resistant
+  rootstocks is the main management approach studied, in other species
+  [26]. Whether this applies to curuba itself was not confirmed.
+  Mycorrhizal association: searched for but not sourced.
 - **Stand life:** First harvest roughly one to two years after
   transplanting (sources conflict on the exact timing); productive life
   of roughly a decade under good management, with renewal pruning used
-  when yield declines.
+  when yield declines [1][3].
 - **Disease/pest profile:** A root-knot nematode (favored in wet
   soils), several leafhopper and caterpillar pests, mites, a bud-
   boring insect, stem borers, and fruit flies are documented pests;
   powdery mildew, anthracnose, a bacterial leaf-spot disease, a fungal
-  wilt disease, and gray mold are documented diseases.
+  wilt disease, and gray mold are documented diseases [1][3].
+- **Invasiveness / biosecurity:** Native to the Andes (Venezuela to
+  Bolivia) [1][2]. Naturalised and invasive in New Zealand, Hawaii and
+  south-eastern Australia, spread by introduced mammals, pigs and birds
+  (Finding 4) [8][9][12][24]. *Legal restrictions:* New Zealand National
+  Pest Plant Accord ban on sale and propagation; Hawaii noxious-weed
+  listing with sale ban and prohibited-seed listing; no state
+  declaration in Australia (Finding 6) [23][24][25].
+- **Controlled environment:** Not sourced for this species. A 1991
+  Colombian journal account of covered *P. edulis* in Mississippi (vines
+  survived winter but were killed by late April frosts) is the closest
+  analogue found [28].
 - **Cultivars:** No formally registered cultivars exist; local types
   differ in fruit size and color, with a smaller-fruited type documented
-  in one country compared to fruit from two neighboring countries.
+  in one country compared to fruit from two neighboring countries [1].
 
 ## Hazards
 
@@ -259,6 +340,15 @@ sedative; this is not considered a food-safety hazard.
   crop.
 - Seed viability duration, cyanogen content of leaves and unripe fruit,
   and a detailed regional cost study were not accessed or found.
+- The 2026-11-17 additions (Finding 6 and the new Agronomic data
+  lines) rest on search-snippet reading only. In particular: whether
+  Hawaii's legal listings under *P. mollissima* cover *P. tarminiana* in
+  law was not confirmed; the per-100 g composition table in Source [1]
+  was not re-read, so no vitamin C or energy figure from it is recorded;
+  the 26 kcal figure comes from a generic food database; soil-biology
+  statements are genus-level, from other *Passiflora* species; and
+  greenhouse growing, Colombian harvest colour standards and planting-
+  hole dimensions were not found.
 - Photoperiod response of this species itself is not sourced; the
   genus-level analogy to *P. edulis*'s long-day flowering requirement
   is suggestive only, not confirmed for this species.
@@ -473,3 +563,49 @@ seedling salinity data as "moderately sensitive," conflicting with
 Source [20]'s own framing; and a genus-level note on a related Andean
 *Passiflora* species' salt tolerance via sodium excretion, cited only
 as context. Accessed 2026-11-08, search snippets only.
+
+[23] Search-snippet-level material on banana poka's legal status in
+Hawaii: the Hawaii Invasive Species Council species page, Hawaii Revised
+Statutes §150A-6, Hawaii Administrative Rules on noxious weed seed (§4-67-3)
+and the noxious weed list (ch. 4-68), the Hawaii-Pacific Weed Risk
+Assessment for *P. tarminiana*, a University of Hawaii CTAHR weed sheet,
+the Kauai Invasive Species Committee do-not-plant list, and a 2024 Hawaii
+House bill noting the noxious weed list had not been updated in over
+thirty years. Accessed 2026-11-17, search snippets only.
+
+[24] Search-snippet-level material on banana passionfruit in New
+Zealand: Otago Regional Council pest fact sheets (April 2025, January and
+February 2026), Waikato and Hawke's Bay regional council pest pages,
+Auckland Council's pest search entry, New Zealand Plant Conservation
+Network profiles for *P. tripartita* var. *mollissima* and *P.
+tarminiana*, and the Department of Conservation weeds database. Accessed
+2026-11-17, search snippets only.
+
+[25] Search-snippet-level material on banana passionfruit in Australia:
+the Lucid weeds key entry for *P. tarminiana*, NSW WeedWise and the North
+Coast regional priority weed list, Weeds of Melbourne, Tasmania's common
+environmental weeds page, and the Tasmanian Herbarium flora account.
+Accessed 2026-11-17, search snippets only.
+
+[26] Search-snippet-level material on Fusarium wilt and root-knot
+nematodes in *Passiflora*: a 2025 *Frontiers in Plant Science* paper on
+*P. maliformis* that lists curuba among commercial species affected, a
+University of São Paulo thesis on passion fruit resistance to
+*Meloidogyne incognita* and *F. oxysporum* f. sp. *passiflorae*, and an
+Ecuadorian study of rootstocks against wilt in granadilla (*P.
+ligularis*). Accessed 2026-11-17, search snippets only; none of these is
+a curuba study.
+
+[27] Search-snippet-level material on curuba composition: a 2014
+*Perspectivas en Nutrición Humana* (Universidad de Antioquia) article on
+nutritional and antioxidant characteristics of curuba larga, and a
+generic food-database (FatSecret) entry for curuba. Accessed 2026-11-17,
+search snippets only.
+
+[28] Search-snippet-level material on curuba growing conditions and
+postharvest: a 2021 *Revista Facultad Nacional de Agronomía* review of
+passion-flower ecophysiology in Colombia, a 1991 *Agronomía Colombiana*
+article on covered passion fruit in Mississippi, a 2008 *Revista U.D.C.A*
+postharvest study of curuba using the Brix-to-acid ratio, and a 2024
+study of 1-MCP and temperature on curuba. Accessed 2026-11-17, search
+snippets only.
