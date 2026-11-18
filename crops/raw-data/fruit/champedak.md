@@ -3,7 +3,11 @@
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/champedak.md`
 **Researched:** 2026-10-03 (re-researched 2026-11-09 against the full current
 checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
-see the new Agronomic data lines on photoperiod and salinity, added that date)
+see the new Agronomic data lines on photoperiod and salinity, added that date;
+re-researched again 2026-11-17 against the full current checklist — see
+Finding 7 and the new Agronomic data lines on harvest pattern, first
+bearing, establishment, composition, weather response, water regime, soil
+biology, and invasiveness / biosecurity)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -38,8 +42,8 @@ bulbs and seeds are eaten), but differs enough to merit its own crop
 entry: champedak is strictly tropical with no tolerance for a dry season,
 while the related crop can tolerate several months of drought and even
 light frost; champedak prefers a high water table and tolerates periodic
-flooding (with one conflicting source on this point, see Research
-findings), while the related crop can die if its roots stand in water for
+flooding (with one conflicting source and a conflicting seedling study
+on this point, see Findings 3 and 7), while the related crop can die if its roots stand in water for
 even a day or two; champedak's fruit is considerably smaller and far
 more perishable (a 2-3 day shelf life, versus weeks for the related
 crop); champedak has a documented fungus-mediated gall-midge pollination
@@ -101,7 +105,7 @@ Taken together, this suggests a tree that cannot tolerate an extended dry
 season but that specifically needs a short dry spell to trigger bloom —
 a pattern also documented in some other tropical fruit trees this project
 has researched. The flooding-tolerance conflict between sources is not
-resolved here.
+resolved here (see also Finding 7).
 
 **Finding 4 — an unusual fungus-mediated gall-midge pollination system.**
 In one forest study, a specific fungus species was found infecting the
@@ -150,23 +154,56 @@ lattice pattern on the ripened fruit), with insecticide sprays applied
 roughly every 10 days until fruit is wrapped [1][10]. Monkeys can take up
 to 10% of an orchard's crop [10].
 
+**Finding 7 — a seedling flooding trial points the opposite way from the
+reference works.** A 1992 Kasetsart University MSc thesis flooded
+jackfruit and champedak seedlings for 3 to 72 hours: 95% of jackfruit
+seedlings survived against only 17% of champedak [24]. Champedak showed
+stem hypertrophy (swelling) after just 3 hours of flooding, jackfruit
+after about 12; jackfruit built up more proline in every plant part and
+showed less leaf epinasty, which the author links to its greater flood
+tolerance; chlorophyll loss (up to 25%) did not differ between the two
+[24]. This contradicts both the regional reference's description of
+champedak as tolerating periodic, even acid-swamp, flooding [1][3] and
+this project's scope claim that jackfruit is the less flood-tolerant of
+the two — while agreeing with the extension blog's 4-hour submersion
+limit [8]. Possible reconciliations (seedlings vs. established trees;
+standing water vs. a high water table) are not tested by any source
+found, so all three positions are kept visible.
+
 ## Agronomic data
 
 - **Life form / season:** A long-lived, cauliflorous, monoecious,
   latex-bearing tree reaching roughly 12-20 m under cultivation (one
   source describes the species as evergreen, another as deciduous — not
   resolved here); bears one to two crops a year depending on local
-  dry-season pattern.
+  dry-season pattern [1][2][3][5].
+- **Harvest pattern:** Perennial bearing; one or two crops a year
+  depending on the number of local dry seasons, each with a harvest
+  season of roughly six weeks (Finding 3) [1][4][10].
+- **Days/years to first bearing:** 2-4 years for budded trees, 3-6 years
+  for seedlings in one source, with other sources differing [1][3][8]
+  (see Estimates below).
+- **Establishment:** Seedlings raised in containers and optionally budded
+  to a named clone; young trees need shade and are susceptible to wind
+  damage [1][4][5]. Spacing figures vary considerably between sources
+  [1][8][17].
 - **Climate:** Strictly tropical, requiring year-round moisture with no
   distinct dry season — markedly more climate-restricted than the
   related crop in the same genus this project has also researched
-  (Finding 1, 3).
-- **Food status / composition:** Ripe bulbs are raw-edible; young fruit
-  is not raw-edible and is cooked as a vegetable (unripe fruit is
-  astringent); seeds are likewise not raw-edible and are roasted or
-  boiled. Composition figures conflict somewhat between a fresh-weight
-  regional food-composition table and a dry-weight regional reference
-  source once converted to a fresh basis (see Estimates below).
+  (Finding 1, 3) [1][3].
+- **Edibility:** Ripe bulbs are raw-edible; young fruit is not raw-
+  edible and is cooked as a vegetable (unripe fruit is astringent);
+  seeds are likewise not raw-edible and are roasted or boiled [1][4].
+- **Composition:** Figures conflict between a fresh-weight regional
+  food-composition table [15] and a dry-weight regional reference
+  converted to a fresh basis [1] (see Estimates below). The regional
+  reference gives, per 100 g ripe pulp, carbohydrate 18.9-25.4 g,
+  protein 1.3-2 g, fibre 0.8-1.1 g, vitamin C 8-10 mg and 395-410 kJ
+  (about 94-98 kcal) [25]; consumer nutrition sites give about 115-117
+  kcal, 2.5 g protein and 17.7-18 mg vitamin C, without a clear primary
+  source [25]. Malaysia's official food-composition database has a
+  champedak *seed* entry (163 kcal, 17.2 mg vitamin C per 100 g), not a
+  flesh entry, in what was found [25].
 - **Pollination:** Required; pollinated by a specific gall midge that
   depends on a fungal infection of the male flowers for its own life
   cycle, an unusual fungus-mediated mutualism (Finding 4).
@@ -189,13 +226,15 @@ to 10% of an orchard's crop [10].
   are rough estimates. The tree prefers a consistently high water table
   and (per most sources) tolerates periodic flooding, though this
   conflicts with one source describing a short flood-tolerance limit
-  (Finding 3); drought tolerance is low.
+  and a seedling trial showing poor flood survival (Findings 3, 7);
+  drought tolerance is low [1][3][8][24] (see Estimates below).
 - **Propagation:** Mainly by seedling, though budded or suckle-grafted
   clones on champedak, jackfruit-type, or other same-genus rootstock are
   also used commercially; seed is recalcitrant and must be sown almost
-  immediately, spoiling within a few weeks of removal from the fruit.
+  immediately, spoiling within a few weeks of removal from the fruit
+  [1][2][3][4].
 - **Soil:** Prefers fertile, well-drained soil (sandy loam per one
-  source); a moderately acid pH range is preferred. Nutrient-uptake
+  source); a moderately acid pH range is preferred [4][8]. Nutrient-uptake
   figures are derived rather than directly sourced (see Estimates).
   Salinity tolerance is low: the FAO EcoCrop database lists both the
   optimal and absolute soil-salinity range as under 4 dS/m, consistent
@@ -205,15 +244,17 @@ to 10% of an orchard's crop [10].
 - **Labor:** No sourced labor-hour budget exists for this crop; rough
   estimates suggest harvest, fruit wrapping/spraying against fruit flies,
   and general orchard maintenance (fertilizing, weeding, dieback
-  monitoring) are the main labor components.
+  monitoring) are the main labor components [1][10] (see Estimates
+  below).
 - **Storage:** Ripe fruit keeps only about 2-3 days at ambient
   temperature; cool-room storage is reported to extend life somewhat,
-  though no specific temperature was sourced (Finding 1).
+  though no specific temperature was sourced (Finding 1) [3][4].
 - **Stand life:** First fruiting is reported at 2-4 years for budded
   trees versus 3-6 years for seedlings by one source, though other
   sources give somewhat different figures for both routes; one source's
   "productive lifespan of 6-10 years" is ambiguous as to whether it means
-  years-to-maturity or total productive life, and is not resolved here.
+  years-to-maturity or total productive life, and is not resolved here
+  [1][3][8].
 - **Disease/pest profile:** A serious bacterial dieback disease, a
   fungal pink disease, fruit flies (managed by wrapping or bagging young
   fruit), bark-boring beetles, and monkey predation on ripening fruit
@@ -224,14 +265,39 @@ to 10% of an orchard's crop [10].
   flavor, fruit size, and productivity; a wild variety with thinner,
   less flavorful pulp also exists as a genetic reservoir; hybrids with
   the related crop in the same genus are also grown commercially,
-  producing notably larger fruit.
-- **Harvest stages:** Two harvest stages — young fruit, cut while small,
+  producing notably larger fruit [1][9][19].
+- **Harvest stages / windows:** Two harvest stages — young fruit, cut while small,
   green, and firm, used as a cooked vegetable; and mature fruit, cut by
   hand with its stalk once fully ripe, over a harvest season of roughly
-  six weeks per crop.
-- **Controlled-environment viability:** Not researched in depth, but
-  judged a poor fit for hydroponic or enclosed cultivation given its
-  mature size as a 12-20 m forest tree.
+  six weeks per crop [1][4]. Fruit is cut on maturity cues (dull hollow
+  sound, green-to-yellow colour, smoother skin, yellowing stalk) and
+  keeps only 2-3 days ripe (Finding 1) [3][4].
+- **Controlled environment:** Not sourced. Judged a poor fit for
+  hydroponic or enclosed cultivation given its mature size as a 12-20 m
+  forest tree — an unsourced inference.
+- **Weather response:** Drought: low tolerance; no distinct dry season
+  tolerated, though a short dry spell triggers flowering (Finding 3)
+  [1][10]. Cold: strictly tropical; no frost or cold limit was found
+  [1][3]. Wind: young trees are susceptible to wind damage [4].
+  Flooding: disputed — see Water regime.
+- **Water regime:** Ordinary rain-fed; no flooded requirement. A high
+  water table (about 0.5-2 m) is preferred and periodic flooding is
+  tolerated per the regional reference [1][3], against a 4-hour
+  submersion limit in an extension blog [8] and 17% seedling survival
+  under 3-72 h flooding in a 1992 trial (Finding 7) [24].
+- **Soil biology:** Not sourced — no mycorrhizal, replant or allelopathy
+  finding was found for this species; inoculation studies found were on
+  durian and jackfruit [26].
+- **Invasiveness / biosecurity:** Native to Peninsular Thailand and
+  Malaysia through the Malay Archipelago [1][3]. The Hawaii-Pacific weed
+  risk assessment summary says it has been introduced to other tropical
+  regions without showing significant invasive tendencies, while noting
+  shade tolerance and seed reproduction as weedy traits for the genus;
+  its score was not seen [27]. Jackfruit scores 1 (low risk) on the
+  Hawaii assessment [27]. *Legal restrictions:* none found in this pass
+  for movement of fruit or planting material.
+
+## Hazards
 
 ## Hazards
 
@@ -239,7 +305,7 @@ Documented pests and diseases include a serious bacterial dieback
 disease, a fungal pink disease, fruit flies, and bark-boring beetles;
 monkeys are also a documented source of crop loss. Unripe fruit is
 described as astringent, and ripe fruit is noted by one compiled source
-as having a mild laxative effect.
+as having a mild laxative effect [1][4][8][10].
 
 **TO BE ADDRESSED** — no allergy case reports specific to this crop were
 found in a dedicated search, but a documented latex-fruit-syndrome
@@ -259,7 +325,7 @@ project has a place for this kind of health/safety data.
   fermented product keeping up to a year; seeds → roasted or boiled in
   salted water; young fruit → peeled, sliced, and boiled into a curry or
   soup; young leaves eaten as a vegetable; seed → raised as a container
-  seedling → optionally budded into a named clone.
+  seedling → optionally budded into a named clone [1][4][12][14][16].
 - Not covered in detail by this research: the frying process for the
   battered-bulb street food; frozen pulp or spray/freeze-dried powder
   products (laboratory-scale only in the sources reviewed); fruit-
@@ -270,8 +336,10 @@ project has a place for this kind of health/safety data.
 
 - Flooding tolerance is directly disputed between sources — most
   describe good tolerance of periodic or even swamp-water flooding,
-  while one source gives a specific short submersion limit — not
-  reconciled here.
+  while one source gives a specific short submersion limit and a 1992
+  seedling trial found 17% champedak survival against 95% for jackfruit
+  (Finding 7) — not reconciled here. If the trial generalises, the scope
+  section's contrast with jackfruit on flooding is backwards.
 - Whether the species is evergreen or deciduous is disputed between
   sources.
 - Planting density/spacing figures vary considerably across sources.
@@ -300,6 +368,10 @@ project has a place for this kind of health/safety data.
   modeled parameter, not a controlled study, and is not reconciled with
   the dry-spell rainfall-trigger framing documented in Finding 3; no
   direct test of photoperiod sensitivity was found for this species.
+- 2026-11-17 pass caveats: the 1992 flooding thesis was read at
+  abstract level (opened directly); other new material is search-snippet
+  level. Open: a flesh entry in an official food-composition database;
+  the Hawaii WRA score; any legal restriction on movement; soil biology.
 - Salinity tolerance is sourced only from the same EcoCrop database
   entry plus genus-level analogy to jackfruit and breadfruit seedling
   studies; no champedak-specific controlled salinity trial was found.
@@ -526,3 +598,31 @@ Sri Lankan jackfruit pot study on tsunami-affected land, whose
 tabulated thresholds were flagged as internally inconsistent and not
 independently verified. Accessed 2026-11-09; the EcoCrop page was
 opened directly, the rest at search-snippet depth only.
+
+[24] Ishak Bin Pandak, "Physiological and Morphological Changes of
+Jackfruit (*Artocarpus heterophyllus* Lamk.) and Champedak (*A. integer*
+Merr.) Seedlings Under Flooding Condition," MSc thesis, Kasetsart
+University, 1992 (SEARCA thesis abstract database). Supplied: flooding
+durations (3-72 h), survival (jackfruit 95%, champedak 17%), proline,
+epinasty, stem-hypertrophy timing, and chlorophyll-loss results.
+Accessed 2026-11-17, abstract opened directly.
+
+[25] Search-snippet-level composition material: the PROSEA *Edible
+fruits and nuts* champedak chapter as reproduced on growables.org
+(ripe-pulp carbohydrate, protein, fibre, vitamin C and energy ranges),
+consumer nutrition pages (Medindia, Alodokter, Netmeds), and the
+Malaysian Food Composition Database (MyFCD) 1997 entry for champedak
+seed. Accessed 2026-11-17, search snippets only.
+
+[26] Search-snippet-level material on mycorrhizal and Trichoderma
+inoculation in Indonesian nursery and reclamation work (IPB repository
+and journals), covering durian, jackfruit and a champedak seedball
+Trichoderma study; no champedak mycorrhizal study. Accessed 2026-11-17,
+search snippets only.
+
+[27] Search-snippet-level material from the Hawaii-Pacific Weed Risk
+Assessment (plantpono.org entry for *Artocarpus integer*; legacy HPWRA
+assessment list) and the University of Hawaii CTAHR page for jackfruit
+(score 1). Supplied: the "no significant invasive tendencies" summary
+and genus weedy traits; the champedak score itself was not seen.
+Accessed 2026-11-17, search snippets only.
