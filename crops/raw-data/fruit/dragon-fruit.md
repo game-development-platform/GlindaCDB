@@ -1,7 +1,12 @@
 # Dragon Fruit / Pitaya (*Selenicereus undatus* and red-fleshed relatives)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/dragon-fruit.md`
-**Researched:** 2026-09-30
+**Researched:** 2026-09-30 (re-researched 2026-11-17 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see Findings 6 and 7 and the new Agronomic data lines on harvest pattern,
+first bearing, edibility, photoperiod, salinity, establishment, weather
+response, water regime, harvest stages, soil biology, invasiveness /
+biosecurity, and controlled environment)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -97,20 +102,76 @@ major Vietnamese growing province documented roughly 26,000 hectares and
 a provincial average yield around 21.6 t/ha in a recent year, accounting
 for nearly half the country's total growing area [4].
 
+**Finding 6 — an escaped garden cactus listed as invasive in South
+Africa and Hawaii, and a fruit-fly host traded under irradiation.**
+Hawaii's Plant Pono weed risk assessment rates *H. undatus* High Risk,
+invasive; it is not native to Hawaii [12]. In South Africa it invades
+mesic, low-lying areas of KwaZulu-Natal, Mpumalanga and the Eastern
+Cape; current sources list it under NEMBA as Category 2 (growing,
+selling or transport only under permit) or Category 1b, which conflict
+and were not checked against the official list, and an older SANBI-
+linked chapter predates any listing [12]. In south Florida, naturalised
+stands in 10 parks and preserves across six counties were treated, and
+it was moved from the Category II invasive list to "to be watched"
+(Burks 2001, as cited in a 2006 USDA document) [12]. In trade, US
+imports of Thai dragon fruit must be irradiated at a minimum 400 Gy
+under 7 CFR part 305, and Vietnamese shipments need a phytosanitary
+certificate certifying the APHIS treatment [16]. Australia's import
+review for Vietnam found irradiation could not be used until Food
+Standards Australia New Zealand approved it, and a 2023 final report
+permits Philippine imports with fruit-fly measures such as pest-free
+areas, irradiation or vapour heat [16].
+
+**Finding 7 — long-day flowering is real but conditional, and the crop
+now grows under cover far north of its range.** Taiwanese work classes
+red pitaya as a long-day plant: shortening the summer photoperiod to 8
+hours stopped flowering entirely, and a 4-hour night break from mid-
+September gave flower buds on 28% of shoots by mid-November while
+controls stopped forming buds on 1 October [15]. Four weeks of night
+break sufficed in late autumn, but three months were needed in winter
+and early spring in southern Taiwan, and response to lighting was
+temperature-sensitive; an Israeli review instead reported no flowering
+effect even from 9 hours of light after sunset, possibly because of the
+cooler subtropical climate [15]. Under cover, a Shandong grower reports
+2,000-3,000 kg per mu (about 30-45 t/ha) of red-fleshed fruit from
+greenhouses, a Shaanxi college reports about 4.2 kg/m² at peak in the
+second year, and Xinjiang greenhouses give fruit from July with up to
+seven flushes by the following May; southern fruits now cover over
+10,000 mu in northern China, with temperature control and soil pH the
+main constraints [13].
+
 ## Agronomic data
 
 - **Life form / season:** A climbing, hemiepiphytic cactus trained
   vertically on posts; perennial, with several flowering waves per
-  season plus an optional light-forced off-season crop.
+  season plus an optional light-forced off-season crop [2][3][6].
+- **Harvest pattern:** Perennial bearing in several flowering waves
+  through the long-day season (March-September in Vietnam), plus an
+  optional light-forced off-season crop (Finding 1) [3][4].
+- **Days/years to first bearing:** 6-9 months from cuttings, up to seven
+  years from seed; full production after up to five years [2][6].
+- **Establishment:** Stem cuttings of about 12-38 cm, rooted in 4-6
+  months, planted against strong posts 10-15 cm in diameter at about
+  1,100-1,350 plants/ha, with about 30% shade for the first 3-4 months;
+  trench planting with amended soil improves shallow stony sites
+  [2][6][7].
 - **Climate:** Tropical, frost-free subtropical, or semiarid with
-  irrigation.
-- **Food status / composition:** Raw-edible (halved and scooped).
-  Roughly 570 kcal/kg and 3.6 g protein/kg, with notable water content
-  and modest fiber.
+  irrigation [2][6]; grown in heated greenhouses in northern China
+  (Finding 7) [13].
+- **Edibility:** Raw-edible (halved and scooped); flowers and unopened
+  buds are cooked as a vegetable or dried into tea [2][6].
+- **Composition:** Roughly 570 kcal/kg and 3.6 g protein/kg, with
+  notable water content and modest fiber [2].
+- **Photoperiod sensitivity:** Long-day flowering: an 8-hour photoperiod
+  stopped flowering, and night-break lighting induces off-season buds,
+  with a temperature-dependent response; one Israeli review found no
+  effect from extended lighting (Findings 1, 7) [3][4][15]. No critical
+  daylength was found. Not applicable to tuberization/bulbing — a cactus
+  with no storage organ.
 - **Pollination:** Required for self-incompatible cultivars (hand
   pollination between compatible clones at night or early morning); the
   main Vietnamese commercial cultivar is self-compatible and needs no
-  managed pollination. Natural pollinators are moths and bats.
+  managed pollination. Natural pollinators are moths and bats [1][2][6].
 - **Yield:** A world-average figure (roughly 17,000 kg/ha) is derived
   from averaging two documented regional yield figures; good,
   exceptional, and poor tiers are derived from a documented full-
@@ -124,36 +185,67 @@ for nearly half the country's total growing area [4].
   documented "fairly high" practical water requirement despite its
   CAM water-use efficiency. Drought tolerance is judged high (a
   water-storing cactus), while waterlogging tolerance is judged low,
-  since excess soil moisture promotes bacterial and fungal disease.
+  since excess soil moisture promotes bacterial and fungal disease
+  [5][6][9] (see Estimates below).
 - **Propagation:** Almost always vegetative, by stem cuttings; true
   seed propagation is used only in breeding, since seedlings take up
-  to seven years to first fruit versus 6-9 months for cuttings.
+  to seven years to first fruit versus 6-9 months for cuttings [6].
 - **Soil:** A wide tolerance range, including sandy and calcareous
   soils; good drainage is essential, and shallow, stony soils can be
   substantially improved through a trench-planting technique with
-  amended soil.
+  amended soil [6][7]; pH: Not sourced (see Estimates below). Salinity:
+  described as moderately to highly salt-tolerant and suited to seaside
+  sites [6][9]; one source gives red pitaya as moderately tolerant at an
+  irrigation-water EC of 4.0-6.0 dS/m, seedlings irrigated at 5.0 dS/m
+  had shorter roots and fewer side stems, and four *Hylocereus* species
+  kept shoot production steady to 50 mM NaCl with a slight drop at 100
+  mM [14]. The FAO drainage reference has no entry for the genus [11].
 - **Labor:** No comprehensive labor-cost budget was found. Training and
   tying stems to posts, and pruning surplus stems after each flowering
   wave, are documented as frequent, recurring tasks; hand pollination is
-  needed only for self-incompatible cultivars.
+  needed only for self-incompatible cultivars [6] (see Estimates
+  below).
 - **Storage:** Standard storage is 10°C for about two weeks (up to five
   weeks in modified-atmosphere packaging); the fruit will not ripen
   further once removed from the plant, and storage below about 6°C
-  causes chilling injury.
+  causes chilling injury [1].
 - **Stand life:** Plantings remain productive for about 20 years; full
-  production is reached only after up to five years.
+  production is reached only after up to five years [2][6].
 - **Disease/pest profile:** A stem and fruit canker fungal disease,
   anthracnose, a fungal rot, and a bacterial soft rot; mites, thrips,
   ants, scale insects, and mealybugs; birds and rodents also damage
-  ripening fruit.
+  ripening fruit [1][6].
 - **Cultivars:** Spans the baseline Vietnamese white-fleshed type
   (self-compatible, pink skin, green scales), red-fleshed types from
   Nicaragua and Israel (self-incompatibility varies, red flesh from a
   betalain pigment also responsible for a documented harmless red-urine
   effect), and a yellow-skinned clone group of the same white-fleshed
-  species documented in Mexico.
-- **Controlled-environment viability:** Not specifically researched in
-  the sources reviewed.
+  species documented in Mexico [1][10].
+- **Harvest stages / windows:** One stage: skin colours about 25-30 days
+  after flowering, eating quality peaks at about 33-37 days, with a
+  recommended window of 32-35 days and an outer limit near 45 days;
+  fruit left beyond about 35 days splits after rain or heavy irrigation
+  (Finding 4) [1].
+- **Weather response:** Frost: damage below about -2 °C, with quick
+  recovery from light freezes [6]. Heat: growth stalls above about 38 °C,
+  with stem sunburn in dry or high sites [6]. Drought: high tolerance (a
+  water-storing CAM cactus) [5][6]. Rain: fruit splitting late in the
+  window [1]. Waterlogging: low tolerance [6].
+- **Water regime:** Rain-fed or drip-irrigated; no flooded requirement;
+  good drainage essential [6][9].
+- **Soil biology:** Not sourced in this pass.
+- **Invasiveness / biosecurity:** Native to southern Mexico and Pacific
+  Central America [2]. Rated High Risk invasive in Hawaii; invasive in
+  parts of South Africa; naturalised in south Florida, then treated and
+  delisted to "to be watched" (Finding 6) [12]. *Legal restrictions:*
+  South Africa NEMBA Category 2 or 1b (sources conflict); US fruit
+  imports irradiated at a minimum 400 Gy (Thailand) or certified to
+  APHIS treatment (Vietnam); Australian imports subject to fruit-fly
+  measures (Finding 6) [12][16].
+- **Controlled environment:** Grown commercially in heated greenhouses
+  in northern China, at about 30-45 t/ha in one Shandong report and
+  about 4.2 kg/m² at peak in a Shaanxi trial; costs are high
+  (Finding 7) [13].
 
 ## Hazards
 
@@ -161,13 +253,13 @@ Documented pests and diseases include a stem and fruit canker fungal
 disease, anthracnose, a fungal rot, and a bacterial soft rot, along
 with mites, thrips, ants, scale insects, and mealybugs; the fruit is
 also a documented host for fruit flies, subject to quarantine treatment
-by irradiation.
+by irradiation [1][6][16].
 
 **TO BE ADDRESSED** — red-fleshed cultivars contain a betalain pigment
 that harmlessly colors urine and stool red after consumption, a
 documented but benign effect worth noting to avoid alarming consumers;
 spines occur on the stems, and the related yellow pitaya species' fruit
-is also spiny. Deferred until this project has a place for this kind of
+is also spiny [1][6][10]. Deferred until this project has a place for this kind of
 health/safety data.
 
 ## Uses and processing
@@ -176,7 +268,7 @@ health/safety data.
   weight → stored cold; lower-grade or surplus fruit → scooped pulp →
   juice, natural colorant, preserves, or candy; flowers and unopened
   buds → used as a cooked vegetable or dried into tea; stem prunings →
-  new propagation cuttings.
+  new propagation cuttings [1][2][6].
 - Not covered in detail by this research: frozen pulp production in
   detail; the lighting and post infrastructure itself as a modeled farm
   system; dedicated colorant extraction or wine production from the
@@ -184,6 +276,11 @@ health/safety data.
 
 ## Open research questions
 
+- 2026-11-17 pass caveats: Findings 6 and 7 and the new lines are
+  search-snippet-level only. Open: South Africa's actual NEMBA category;
+  whether FSANZ has approved irradiation for Vietnamese dragon fruit; a
+  critical daylength for *H. undatus* (the Taiwanese work is on red
+  pitaya); salinity data for mature, fruiting plants; soil biology.
 - Self-compatibility status is reported somewhat inconsistently: the
   main Vietnamese commercial cultivar is clearly self-compatible, but
   sources differ on how many other commercial cultivars require
@@ -270,6 +367,12 @@ world-average yield figure by this plateau length. Standing-crop
 duration on the plant (about 10 days) and its decay rate are derived
 from the documented 25-45 day total harvest window, after which fruit
 left unharvested faces rising splitting risk.
+
+The northern-China greenhouse yield of about 30-45 t/ha (Finding 7) is a
+unit conversion of the reported 2,000-3,000 kg per mu at 15 mu per
+hectare (1 mu ≈ 667 m²); the Shaanxi 4.2 kg/m² peak figure equals about
+42 t/ha by the same arithmetic. Both are single-grower or single-trial
+reports, not regional averages.
 
 ## Sources
 
@@ -366,3 +469,50 @@ reference work, consulted for a possible salinity-tolerance listing
 for this crop. Supplied: confirmation that no entry for this species or
 genus, or for cacti generally, exists in its salinity-tolerance
 reference table. Accessed 2026-09-30.
+
+[12] Search-snippet-level material on invasiveness: the Plant Pono
+(Hawaii-Pacific Weed Risk Assessment) *Hylocereus undatus* assessment
+(High Risk, invasive), Garden Explorer and Gouritz (2026) pages (NEMBA
+Category 2), African Legacy's *Selenicereus undatus* page (NEMBA
+Category 1b), an older SANBI-linked *Abc Taxa* vol. 11 chapter
+(proposed for listing; KwaZulu-Natal, Mpumalanga and Eastern Cape
+invasion), a 2006 USDA-APHIS pathway assessment citing Burks (2001) on
+south Florida stands and their reclassification, and the Lucid weeds key
+(invasive in Hawaii and the Florida Keys). Accessed 2026-11-17, search
+snippets only.
+
+[13] Search-snippet-level trade-press material on greenhouse dragon
+fruit in northern China: Produce Report (a Jinxiang, Shandong grower;
+2,000-3,000 kg/mu of red-fleshed fruit, about 80% exported, high costs),
+FreshPlaza articles on Xinjiang greenhouse pitaya and on over 10,000 mu
+of southern fruits grown in the north, EastFruit (temperature control
+and soil pH as constraints), an El Debate report, and Chinese patents
+CN102047809B and others on solar-greenhouse methods (claims not
+treated as trial data). The Shaanxi 4.2 kg/m² figure is from a college
+report quoted in this coverage. Accessed 2026-11-17, search snippets
+only.
+
+[14] Search-snippet-level material on salinity: a 2021 Brazilian study
+on saline water and shading in *H. undatus* seedlings (5.0 dS/m), a
+study of four *Hylocereus* species at 0-200 mM NaCl, a pre-germination
+study finding *H. costaricensis* more tolerant than *H. undatus*, and a
+*Revista Ciência Agronômica* (2022) source giving red pitaya as
+moderately tolerant at ECw 4.0-6.0 dS/m. Accessed 2026-11-17, search
+snippets only.
+
+[15] Search-snippet-level material on photoperiod: Jiang and Lin (2012,
+*HortScience*) on red pitaya as a long-day plant and night-break timing,
+a Jiang conference abstract (8-hour photoperiod; 4-hour night break, 28%
+of shoots), a 2014 National Pingtung University dissertation (100 W
+incandescent lamps 22:00-02:00), a Taiwan-focused review, a Taiwanese
+study on temperature-sensitive response to 28 W fluorescent lighting,
+and a review citing Israeli work with no response to 9 hours of
+extended lighting. Accessed 2026-11-17, search snippets only.
+
+[16] Search-snippet-level material on import requirements: a USDA-APHIS
+Federal Register notice (2011) on Thai dragon fruit (minimum 400 Gy
+under 7 CFR part 305), a 2008 APHIS notice and FreightWaves report on
+Vietnamese shipments, and Australian Department of Agriculture
+biosecurity import risk analysis documents for Vietnamese dragon fruit
+(irradiation pending FSANZ approval) and the 2023 Philippines final
+report. Accessed 2026-11-17, search snippets only.
