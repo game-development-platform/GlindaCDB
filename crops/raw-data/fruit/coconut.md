@@ -3,7 +3,11 @@
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/coconut.md`
 **Researched:** 2026-10-10 (re-researched 2026-11-09 against the full current
 checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
-see the new Agronomic data line on photoperiod, added that date)
+see the new Agronomic data line on photoperiod, added that date; re-researched
+again 2026-11-17 against the full current checklist — see Finding 6 and the
+new Agronomic data lines on harvest pattern, first bearing, establishment,
+composition, weather response, water regime, soil biology, and invasiveness /
+biosecurity)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -101,16 +105,48 @@ Guinea) [1]. Climbing is a genuinely dangerous occupation, and at least
 one major growing region faces a chronic, worsening shortage of workers
 willing to do it [1][12].
 
+**Finding 6 — a palm that still cannot be cloned at scale, so germplasm
+moves as embryos and storm losses take years to replace.** With a single
+growing point and no grafting or cuttings (see Propagation), coconut
+depends on seed. Somatic embryogenesis is described in a 2021 University
+of Queensland review as the most promising route to large-scale clonal
+palms, but the low rate at which somatic embryos convert to seedlings
+outside the lab still prevents large-scale clonal propagation, and
+varies by genotype; 2024-2025 papers on temporary-immersion culture and
+embryo maturation were seen only as titles [16]. For moving germplasm
+between countries and genebanks, the 2012 COGENT/Bioversity technical
+guidelines use zygotic-embryo culture (embryos or endosperm discs
+containing them), but a COGENT validation project found efficiency
+generally low because of contamination and poor germination [17]. The
+practical result shows after typhoons: after Haiyan (Yolanda, 2013) one
+Philippine region lost about 26% of coconut production and Eastern
+Visayas lost about a quarter of its bearing trees; the FAO noted
+replanted palms take six to eight years to return to full production,
+and recovery estimates ranged from one to two years (a farmer) to three
+to five years (a regional coconut authority) or more [18].
+
 ## Agronomic data
 
 - **Life form / season:** A single-stemmed palm reaching roughly 30 m;
-  evergreen, flowering continuously year-round with no dormant season.
+  evergreen, flowering continuously year-round with no dormant season
+  [1].
+- **Harvest pattern:** Perennial, continuous bearing: up to about 15
+  flower clusters a year, bunches harvested every 30-45 days (about
+  eight times a year) (Finding 1) [1][4][12].
+- **Days/years to first bearing:** 6-10 years for Tall palms; Dwarf
+  sooner (Finding 3) [1]; replanted palms take 6-8 years to full
+  production [18].
+- **Establishment:** Seed nuts raised in nursery beds and transplanted
+  at about 9-12 months by documented seedling criteria [5][7]; field
+  spacing and density for Tall and hybrid plantings are documented
+  regionally, with an alternative spacing from a second country [6][7].
 - **Climate:** Strictly tropical, humid lowlands up to about 600 m
-  elevation; intolerant of cold and shade (Finding 3).
-- **Food status / composition:** Raw-edible. A detailed composition
-  source gives roughly 3,500 kcal/kg and 33 g protein/kg for raw
+  elevation; intolerant of cold and shade (Finding 3) [1].
+- **Edibility:** Raw-edible: tender-nut water and mature meat; sap is
+  drunk fresh or processed [1][2][8].
+- **Composition:** Roughly 3,500 kcal/kg and 33 g protein/kg for raw
   coconut meat specifically (not the whole nut including husk and
-  shell).
+  shell) [1]; tender-nut composition is in the postharvest handbook [2].
 - **Photoperiod sensitivity:** Not directly confirmed day-neutral by a
   species-specific induction study; the documented year-round
   continuous flowering pattern strongly implies day-neutral induction,
@@ -125,7 +161,7 @@ willing to do it [1][12].
   varieties are self-pollinating, and Tall-variety plantations commonly
   set fruit without any managed pollination system; insect and wind
   pollination are both presumed to play a role, though this was not
-  directly researched.
+  directly researched [1].
 - **Yield:** A world-average figure (roughly 6,000 kg/ha of dehusked
   nuts) is derived from a major producing country's documented
   per-hectare nut count and an estimated per-nut dehusked weight; good,
@@ -137,57 +173,82 @@ willing to do it [1][12].
   (near-constant, high crop coefficient year-round, consistent with
   continuous evergreen growth); documented site requirements specify a
   maximum dry-season length that varies by soil type, and sap yield is
-  known to fall sharply during drought.
+  known to fall sharply during drought [1][3][8].
 - **Propagation:** Entirely by seed nut raised in nursery beds; the
   species has a single growing point and no sourced method of clonal or
   grafted propagation. Tall-variety seed must be sown within a few
   months of harvest; Dwarf and hybrid seed nuts are sown much sooner
   (within about two weeks). Nursery seedlings are typically
-  transplanted at around 9-12 months of age.
+  transplanted at around 9-12 months of age [1][5][7]. Clonal propagation
+  by somatic embryogenesis is not yet possible at scale (Finding 6) [16].
 - **Soil:** A notably wide pH tolerance (roughly 4.5-8, best around
   5.5-7); very high salt tolerance, including tolerance of seawater
   irrigation — a genuinely unusual trait among crops this project has
-  researched.
+  researched [1][3].
 - **Labor:** Harvest is dominated by manual climbing, a documented
   dangerous and increasingly labor-constrained task in at least one
   major growing region; other labor components (land preparation,
   weeding, post-harvest dehusking and copra-making) are rough estimates,
-  since no comprehensive cost study covering every operation was found.
+  since no comprehensive cost study covering every operation was found
+  [1][12] (see Estimates below).
 - **Soil nutrients:** Nitrogen, phosphorus, and potassium uptake per
   tonne of yield are derived from a documented regional per-palm
   fertilizer-application guideline rather than directly measured crop
-  removal (see Estimates below).
+  removal (see Estimates below) [6].
 - **Storage:** Mature nuts in the husk keep roughly 3-5 months at
   ambient shaded conditions; dehusked mature nuts keep about two months
   refrigerated; tender (immature) nuts keep only three to four weeks
   even refrigerated. A sudden temperature change of about 8°C or more
-  can crack stored nuts.
+  can crack stored nuts [2][4].
 - **Stand life:** Tall-variety palms first bear at 6-10 years and live
   60-100 years; Dwarf varieties bear sooner but have shorter total
   lifespans (Finding 3).
 - **Disease/pest profile:** A lethal insect-vectored phytoplasma disease,
   a mite causing yield losses up to 60% in affected plantings, a leaf
-  beetle, and armyworms.
+  beetle, and armyworms [1].
 - **Cultivars:** Tall (outcrossing, longer-lived, more nuts per palm at
   maturity), Dwarf (self-pollinating, earlier-bearing, shorter-lived,
   often preferred for tender-nut/water production), and Tall × Dwarf
   hybrids (combining higher nut counts with somewhat earlier bearing);
   the wild-type and domesticated fruit forms are also recognized as a
-  further cultivar-level distinction.
-- **Harvest stages:** Three distinct harvest stages from the same
+  further cultivar-level distinction [1][4].
+- **Harvest stages / windows:** Three distinct harvest stages from the same
   palm — sap (tapped from an unopened flower spadix, which then bears
   no nuts), tender (harvested 6-9 months after flowering, for coconut
   water), and mature (harvested 11-13 months after flowering, for meat,
-  copra, oil, and fiber products).
-- **Controlled-environment viability:** Not viable as a hydroponic or
-  enclosed crop, given its need for full sun and very large mature
-  size.
+  copra, oil, and fiber products) [1][4][8].
+- **Controlled environment:** Not viable as a hydroponic or enclosed
+  crop, given its need for full sun and very large mature size — an
+  unsourced inference. Laboratory embryo culture is used for germplasm
+  exchange, and somatic-embryo cloning is under development (Finding 6)
+  [16][17].
+- **Weather response:** Cold and shade: intolerant [1]. Drought: tolerates
+  at most about one dry month on sandy soil or three on heavier soil
+  [1]; sap yield falls sharply in drought [8]; farmers report smaller
+  harvests in drought and El Niño years, without a quantified lag [18].
+  Wind: typhoons cause major losses (about 26% of a Philippine region's
+  production after Haiyan), with recovery taking years (Finding 6) [18].
+  Salt: very high tolerance (Finding 3) [1].
+- **Water regime:** Rain-fed or irrigated; no flooded requirement;
+  tolerates seawater irrigation [1][3].
+- **Soil biology:** Not sourced in this pass — no mycorrhizal, replant or
+  allelopathy finding was found.
+- **Invasiveness / biosecurity:** Wild and domesticated fruit forms are
+  recognised, and the palm was spread across the tropics by people [1].
+  Hawaii's weed risk assessment scores it -4 (low risk); it was
+  introduced to Hawaii by Polynesians [19]. No invasive listing was
+  found. *Legal restrictions:* germplasm exchange between genebanks
+  follows the COGENT/Bioversity embryo-culture guidelines (Finding 6)
+  [17]; national quarantine rules on seed nuts and seedlings (for
+  example over lethal yellowing) were not found in this pass.
+
+## Hazards
 
 ## Hazards
 
 Documented pests and diseases include a lethal insect-vectored
 phytoplasma disease, a mite causing severe yield losses where present,
-a leaf beetle, and armyworms.
+a leaf beetle, and armyworms [1].
 
 **TO BE ADDRESSED** — harvest by climbing carries genuine occupational
 fall risk, and falling nuts themselves are also a physical hazard;
@@ -196,8 +257,8 @@ toxin, a food-safety concern for both human consumption and use as
 animal feed; a traditional distilled coconut-sap spirit carries the
 same general methanol-related processing-residue considerations as
 other traditional fruit spirits; and coconut oil's high saturated-fat
-content is noted by health authorities as a dietary consideration.
-Deferred until this project has a place for this kind of health/safety
+content is noted by health authorities as a dietary consideration
+[1][10][11][12]. Deferred until this project has a place for this kind of health/safety
 data.
 
 ## Uses and processing
@@ -211,7 +272,7 @@ data.
   shells → charcoal; flower spadix → tapped for sap → used fresh, boiled
   into sugar the same day, fermented into toddy, or further distilled
   into a traditional spirit; fronds → thatch and weaving material; seed
-  nuts → nursery seedlings.
+  nuts → nursery seedlings [1][2][4][8][9][10][11].
 - Not covered in detail by this research: coconut vinegar and a
   fermented coconut-water food product; heart-of-palm harvest; canned
   coconut milk/cream and frozen grated coconut in detail; virgin versus
@@ -250,6 +311,11 @@ mythology and oral tradition, sometimes described as a "tree of life."
 - World-average nut-count-to-yield conversion rests on an estimated
   per-nut dehusked weight rather than a directly measured figure for
   every producing region.
+- 2026-11-17 pass caveats: Finding 6 and the new lines are search-
+  snippet-level only. Open: whether somatic-embryo cloning has reached
+  commercial use (only titles of 2024-2025 papers seen); national
+  quarantine rules on seed nuts and seedlings; a quantified drought-to-
+  yield lag; soil biology.
 - No species-specific study directly confirms coconut flower induction
   as day-neutral/photoperiod-insensitive; this is currently an
   inference from the documented continuous year-round flowering
@@ -427,3 +493,36 @@ yield bunching without invoking photoperiod-controlled induction. No
 direct species-specific statement confirming day-neutral induction was
 found, and no cross-latitude comparison study was located. Accessed
 2026-11-09, search snippets only; none opened in full.
+
+[16] Search-snippet-level material on coconut somatic embryogenesis
+from the University of Queensland: a 2021 *Plants* review ("Cloning
+Coconut via Somatic Embryogenesis: A Review of the Current Status and
+Future Prospects"), a 2019-2020 cell-suspension-culture abstract
+(*Proceedings* 36), and UQ listings of 2024 (temporary immersion
+culture) and 2025 (somatic-embryo maturation in Asian varieties) papers
+seen as titles only. Supplied: somatic embryogenesis as the most
+promising clonal route and the embryo-to-seedling conversion bottleneck.
+Accessed 2026-11-17, search snippets only.
+
+[17] Cueto et al. (2012), *Technical guidelines for the safe movement
+and duplication of coconut germplasm using embryo culture transfer
+protocols*, COGENT/Bioversity International (CIRAD and Alliance
+Bioversity-CIAT records), plus a COGENT project page on validating the
+embryo-culture protocol and a SciELO review. Supplied: embryo/endosperm-
+disc exchange as the recommended route, and low efficiency from
+contamination and poor germination. Accessed 2026-11-17, search
+snippets only.
+
+[18] Search-snippet-level news coverage of Philippine typhoon damage to
+coconut: PTV News, Philstar/SEARCA, the Inquirer, PressReader (The
+Freeman, Cebu), FoodNavigator, CNBC and Solar Daily (AFP). Supplied:
+the 26% regional production loss and quarter of bearing trees lost after
+Haiyan/Yolanda, FAO's six-to-eight-year replanting lag, recovery-time
+estimates, and farmer reports of lower drought and El Niño harvests.
+Accessed 2026-11-17, search snippets only.
+
+[19] Search-snippet-level material on weed risk: the University of
+Hawaii CTAHR forestry page for *Cocos nucifera* (WRA score -4, low risk;
+Polynesian introduction), an EPPO reporting article on Hawaii biofuel-
+crop invasiveness assessments (same score), and BIISC material on the
+HPWRA scoring scale. Accessed 2026-11-17, search snippets only.
