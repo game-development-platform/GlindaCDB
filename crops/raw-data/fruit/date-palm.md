@@ -5,7 +5,11 @@
 current checklist in `skills/crop-research/SKILL.md` and
 `templates/research-doc.md` — see the new Agronomic data lines on
 chill-hours, photoperiod, elevation, and clonal/viral degeneration risk,
-and the new Hazards line on mycotoxin contamination, added that date)
+and the new Hazards line on mycotoxin contamination, added that date;
+re-researched again 2026-11-17 against the full current checklist — see
+Finding 6 and the new Agronomic data lines on harvest pattern, first bearing,
+establishment, edibility, weather response, soil biology, and
+invasiveness / biosecurity)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -128,21 +132,61 @@ months receives under about 50 mm of rain, and very poor when all three
 exceed that [8]. Growers commonly protect ripening bunches with paper,
 cotton, or shade-net bags, tied down against wind damage [4][5].
 
+**Finding 6 — the offshoot is the biosecurity problem: bayoud and the
+weevil travel with planting stock, and the palm itself escapes in
+deserts.** Bayoud, the vascular wilt caused by *Fusarium oxysporum* f.
+sp. *albedinis*, is present in Morocco, Algeria and Mauritania; it
+survives as chlamydospores in dead palm tissue, especially roots, and
+spreads mainly through offshoots, palm fragments, manure, infected soil
+and artefacts made from palm material, and FAO guidance recommends
+banning offshoots and all other plant material from infected countries
+[35]. EPPO lists it as an EU A1 quarantine pest (Annex II A) and EFSA's
+pest categorisation found it meets the criteria for a Union quarantine
+pest; in 1993 Spain intercepted date-palm material from Egypt in which
+18 plants died of the pathogen, and the consignment was incinerated
+[35]. Gulf states regulate the trade directly: Bahrain (2004) bans
+date-palm, coconut and ornamental-palm trees, cuttings and fronds from
+bayoud-infected countries; the UAE (2019) bars imports without a
+phytosanitary certificate from countries with red palm weevil, bayoud
+or lethal yellowing; Oman (2020) sets conditions on offshoot imports;
+and California's plant-quarantine code has a date palm disease section
+[35]. In soil biology, arbuscular mycorrhizal inoculation reduced bayoud
+symptoms in Mejhoul seedlings (1991), mitigated the bayoud sensitivity
+of a Figuig cultivar (2025), and improved seedling performance under
+drought and salt stress in 2020 studies — all at seedling or pot scale
+as far as the snippets show [36]. Separately, the palm escapes: USGS
+describes it as marginally naturalising in southern California riparian
+areas and able to draw on rare desert-spring aquifers, the Hawaii-Pacific
+weed risk assessment lists it as an environmental weed in Australia,
+Hawaii and New Zealand and reports it invasive in the Grand Canyon
+(dense stands drying springs; original source not verified), and about
+105 naturalised palms are reported on Cedros Island, Baja California;
+an Arizona State University flora calls it seemingly noninvasive [34].
+
 ## Agronomic data
 
 - **Life form / season:** A single-stemmed palm reaching 20-30 m;
   evergreen, flowering in spring with fruit ripening unevenly over
-  several harvest rounds from summer into late autumn.
+  several harvest rounds from summer into late autumn [1][3].
+- **Harvest pattern:** One season a year, picked over several rounds as
+  fruit ripens unevenly from summer into late autumn [3][6].
+- **Days/years to first bearing:** First fruit in year 4-5, full bearing
+  around year 10 (a general reference gives 4-8 and 7-10 years; see Open
+  research questions) [1][5].
+- **Establishment:** Offshoots 3-5 years old cut from mature palms, or
+  tissue-culture plants, planted at a standard orchard density, with a
+  small fraction of male pollinizers (Findings 1, 3) [3][4][5][26].
 - **Climate:** Arid and semiarid, requiring hot desert or oasis
   conditions with irrigation; grown at the edge of viability in some
-  Mediterranean locations.
-- **Food status / composition:** Raw-edible, though astringent until
-  the soft-ripe stage in most cultivars (only low-tannin cultivars are
-  eaten at the earlier crisp stage). Cured dried fruit gives roughly
-  2,820 kcal/kg and 24 g protein/kg.
+  Mediterranean locations [1][8].
+- **Edibility:** Raw-edible, though astringent until the soft-ripe stage
+  in most cultivars (only low-tannin cultivars are eaten at the earlier
+  crisp stage) [3][6][7].
+- **Composition:** Cured dried fruit gives roughly 2,820 kcal/kg and 24 g
+  protein/kg [1].
 - **Pollination:** Required — dioecious, wind-pollinated in nature but
   hand-pollinated as standard commercial practice, with pollen itself
-  treated as a genuine farm input (Finding 1).
+  treated as a genuine farm input (Finding 1) [4][5].
 - **Yield:** A world-average figure (roughly 6,500 kg/ha) is taken
   directly from a documented global area-and-production calculation;
   good, exceptional, and poor tiers are derived from a detailed orchard
@@ -169,7 +213,8 @@ cotton, or shade-net bags, tied down against wind damage [4][5].
   points toward heat-driven rather than photoperiod-driven floral
   induction (see Chill-hours/vernalization, above), but this remains an
   acknowledged literature gap, not a confirmed day-neutral finding [29].
-- **Flooded/paddy water requirement:** None — this is an oasis/desert
+- **Water regime:** Irrigated (flood or drip); no flooded/paddy
+  requirement — this is an oasis/desert
   species with no flood or standing-water requirement, consistent with
   the Agronomic data Water-use note that standing water can kill mature
   palms. A seedling-stage physiology study found genuine tolerance of
@@ -214,49 +259,74 @@ cotton, or shade-net bags, tied down against wind damage [4][5].
   fruit yield and quality require consistent full water supply; late or
   inadequate irrigation can cause outright crop failure. Waterlogging
   tolerance is more moderate — standing water can kill palms outright,
-  though oasis plantings often tolerate high water tables.
+  though oasis plantings often tolerate high water tables [2][8].
 - **Propagation:** Mainly by offshoots (small plantlets removed from
   the base of mature palms) or increasingly by tissue culture; true seed
   propagation is used only for breeding and for producing male
   pollinizer palms, since seedlings are roughly half male and rarely
-  bear good fruit.
+  bear good fruit [3]. Offshoots are the main pathway for bayoud
+  (Finding 6) [35].
 - **Soil:** Deep, well-drained soil preferred, but the species tolerates
   markedly alkaline and saline desert soils; documented pH guidance
-  varies considerably between sources (see Open research questions).
+  varies considerably between sources (see Open research questions)
+  [1][8]. Salinity: full yield to a moderate threshold, falling toward
+  zero only at high salinity (Finding 3) [2][8].
 - **Labor:** Documented regional labor studies show pollination,
   bunch-thinning, tie-down, bagging, dethorning, and harvest as the
   dominant labor operations, together substantially exceeding labor
   requirements for most other tree-fruit crops this project has
   researched, given the sheer number of manual, climbing-dependent
-  operations required per palm per season.
+  operations required per palm per season [4][5].
 - **Storage:** Varies enormously by harvest stage — cured, fully dried
   fruit keeps about a year refrigerated and years at room temperature
   for the driest cultivars, while fresh fruit at the earlier harvestable
-  stages keeps only days to a few weeks even refrigerated.
+  stages keeps only days to a few weeks even refrigerated [6][7][9].
 - **Stand life:** First fruit in year 4-5, full bearing around year 10,
   yield decline possible from around year 40 in intensively managed
-  orchards, though palms can live well over a century.
+  orchards, though palms can live well over a century [1][5].
 - **Disease/pest profile:** A lethal vascular wilt fungal disease that
   has killed millions of palms across North Africa with no cure; a
   major weevil pest that has caused severe regional outbreaks; an
   inflorescence rot disease that destroyed the large majority of one
   country's harvest in a documented historical outbreak; plus several
-  further fungal diseases, scale insects, a mite, and a moth.
+  further fungal diseases, scale insects, a mite, and a moth [3][8][35].
 - **Cultivars:** Spans soft cultivars (eaten crisp at an early stage or
   soft and rich when fully ripe), semi-dry cultivars (firm, widely used
   for both fresh sale and processing), and dry "bread date" cultivars
   (very low moisture, long shelf life); specific named cultivars differ
   substantially in rain sensitivity, frost tolerance, fruit size, and
-  suitability for each processing path.
-- **Harvest stages:** Four distinct harvestable stages from the same
+  suitability for each processing path [1][3][8][25].
+- **Harvest stages / windows:** Four distinct harvestable stages from the same
   palm — sap (tapped from the crown, costing years of subsequent
   fruiting), an early hard/crisp stage (eaten fresh only in low-tannin
   cultivars), a soft/browning stage, and a fully cured stage (the
-  default commercial product).
-- **Controlled-environment viability:** Not viable as a greenhouse or
-  hydroponic crop, given its need for full sun, summer heat, and very
-  large mature size; tissue culture and nursery propagation are the only
-  controlled-environment applications.
+  default commercial product) (Finding 2); good harvest seasons have
+  under about 50 mm of rain in each of the three main harvest months
+  (Finding 5) [3][6][8][14].
+- **Weather response:** Rain and humidity at ripening: the dominant risk,
+  causing checking, souring and rot, with 10-50% harvest losses
+  (Finding 5) [8]. Heat: growth optimal near 32 °C, slowing above
+  38-40 °C, survives 56 °C under irrigation [8]. Frost: leaflet damage
+  near -6 °C, canopy damage at -9 to -15 °C [8]. Wind: bunches tied down
+  against wind damage [4][5]. Drought: palms survive it but yield and
+  quality need full water [2][8].
+- **Soil biology:** Arbuscular mycorrhizal inoculation reduced bayoud
+  symptoms and improved drought and salt tolerance in seedling studies
+  (Finding 6) [36]; bayoud survives in soil and dead roots [35].
+- **Invasiveness / biosecurity:** Marginally naturalising in southern
+  California riparian areas, an environmental weed in Australia, Hawaii
+  and New Zealand per the Hawaii-Pacific assessment, and reported
+  invasive in the Grand Canyon; one Arizona flora calls it seemingly
+  noninvasive (Finding 6) [34]. *Legal restrictions:* bayoud is an EU A1
+  quarantine pest; Bahrain bans palm material from bayoud-infected
+  countries; the UAE and Oman regulate offshoot imports; California has
+  a date palm disease quarantine section (Finding 6) [35]. Current EU
+  rules on palm plants for planting were not found in this pass.
+- **Controlled environment:** Not viable as a greenhouse or hydroponic
+  crop, given its need for full sun, summer heat, and very large mature
+  size — an inference, not sourced; tissue culture and nursery
+  propagation are the only controlled-environment applications
+  [3][31].
 
 ## Hazards
 
@@ -264,7 +334,7 @@ Documented pests and diseases include a lethal vascular wilt fungal
 disease that has killed millions of palms with no cure, a major weevil
 pest responsible for severe regional outbreaks, an inflorescence rot
 disease, several further fungal diseases, scale insects, a mite, and a
-moth.
+moth [3][8].
 
 **Postharvest mycotoxin contamination** — distinct from the field
 pathogens above. No source found documents ergot (*Claviceps*)
@@ -343,6 +413,11 @@ tradition, the date palm itself symbolizes the cosmic tree.
 
 ## Open research questions
 
+- 2026-11-17 pass caveats: Finding 6 and the new lines are search-
+  snippet-level only. Open: the operative EU rules on palm plants for
+  planting and red palm weevil; the original source for the Grand
+  Canyon invasive report and current Australian weed status; whether
+  mycorrhizal protection against bayoud holds in field-scale trials.
 - Per-palm yield figures conflict substantially across sources (ranging
   from roughly 60-140 kg per palm in general references up to 200-500
   kg per palm for a high-yielding cultivar in favorable conditions,
@@ -734,3 +809,34 @@ mycotoxin-survey journal article, a Qatari market-survey study, and an
 Egyptian fungal-metabolite survey. Supplied: ochratoxin A and fumonisin
 B2 contamination rates in sampled commercial dates. Accessed 2026-11-09,
 search snippets only.
+
+[34] Search-snippet-level material on date palm naturalisation: a USGS
+National Vegetation Classification unit report (marginal riparian
+naturalisation in southern California, drawing on desert-spring
+aquifers), the Hawaii-Pacific Weed Risk Assessment pages for *Phoenix
+dactylifera* and *P. canariensis* at plantpono.org (environmental weed in
+Australia, Hawaii and New Zealand; Grand Canyon invasive report; gut-
+passage seed survival and a persistent seed bank), a 2025 UC ANR
+PalmArbor paper on Cedros Island palms (about 105 naturalised date
+palms), and an Arizona State University SEINet flora treatment
+("seems noninvasive"). Accessed 2026-11-17, search snippets only.
+
+[35] Search-snippet-level material on bayoud and palm biosecurity: the
+EPPO Global Database datasheet for *Fusarium oxysporum* f. sp.
+*albedinis* (distribution; EU A1, Annex II A) and EPPO reporting
+articles, EFSA's 2018 pest categorisation, an FAO date palm manual page
+on spread pathways and recommended bans, the 1993 Spanish interception
+report, FAOLEX/UNEP LEAP records of Bahrain Resolution No. 4 of 2004,
+UAE Ministerial Decree No. 417 of 2019 and Oman Ministerial Resolution
+No. 87 of 2020, California Code of Regulations Title 3 section 3419
+(date palm disease), and an Egyptian validation of the EPPO diagnostic
+protocol. Accessed 2026-11-17, search snippets only.
+
+[36] Search-snippet-level material on arbuscular mycorrhizal fungi in
+date palm: Oihabi (1991) on *Glomus mosseae* and bayoud in Mejhoul
+seedlings, a 2011 *Open Horticulture Journal* study on root phenols and
+peroxidase, a 2025 Figuig (Morocco) study on an indigenous AMF
+consortium in Boufeggous Gharas, and 2020 *Frontiers in Plant Science*
+(Anli et al., drought) and *Frontiers in Sustainable Food Systems*
+(Ait-El-Mokhtar et al., salinity) studies. Accessed 2026-11-17, search
+snippets only.
