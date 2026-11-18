@@ -3,7 +3,11 @@
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/coyo.md`
 **Researched:** 2026-10-05 (re-researched 2026-11-09 against the full current
 checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
-see the new Agronomic data lines on photoperiod and salinity, added that date)
+see the new Agronomic data lines on photoperiod and salinity, added that date;
+re-researched again 2026-11-17 against the full current checklist — see
+Finding 5 and the new Agronomic data lines on harvest pattern, first bearing,
+establishment, edibility, weather response, water regime, harvest stages,
+soil biology, and invasiveness / biosecurity)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -111,21 +115,57 @@ rootstocks [4]. Frost tolerance itself is contested between sources: one
 1952 source describes "some degree of frost resistance compared to the
 surrounding flora" — not reconciled here.
 
+**Finding 5 — an Endangered wild species with no commercial plantings,
+whose fat content may run nearly double Hass on a comparable basis.**
+The species is listed as Endangered on the IUCN Red List (2017
+assessment, as cited by secondary sources), attributed to forest
+clearing for agriculture; one trade article instead calls it
+Vulnerable, and the IUCN page itself was not opened [1][10]. A 2007
+Mexican study stated there were no commercial plantations [12]. A 2018
+study of selections from Veracruz coffee plantings found several above
+the 15.4% fat of Hass, with one selection (IXPE) at 28.1% — almost
+double — and a negative correlation between fat and moisture, which
+suggests (but does not confirm) these are fresh-weight figures [11]. A
+separate study reports 50.29 ± 2.03% fat in one region with the basis
+not stated in the snippet, a 2011 study extracted 12% oil per pulp
+(v/w), and pulp crude fibre ran 18-32% in a Los Tuxtlas study [11].
+Fruit growth from set to harvest in the Coscomatepec region follows a
+simple sigmoid curve totalling about 1,635 heat units above 6 °C [12].
+"Martín Grande"-type trees topworked with avocado cultivars cropped
+poorly because of excessive vigour, and in some seasons the fruit has
+sold above Hass avocado prices in regional markets of Veracruz and
+Tabasco [12].
+
 ## Agronomic data
 
 - **Life form / season:** A large evergreen-to-briefly-deciduous forest
   tree, 15-45 m tall; a single annual fruiting season, strongly biennial
-  in bearing pattern.
+  in bearing pattern [1][2].
+- **Harvest pattern:** One season a year, May-August in Oaxaca or
+  July-August in Veracruz (Finding 3), strongly biennial [2][7].
+- **Days/years to first bearing:** About 9 years (± about 4) from seed
+  [2]; grafted bearing age: Not sourced (see Estimates below).
+- **Establishment:** Seed sown directly where the tree is wanted, or
+  nursery-raised and grafted in December-January after a June-July
+  sowing [2][7]; planting spacing: Not sourced (agroforestry trees are
+  scattered as coffee shade) [2].
 - **Climate:** Tropical highlands and humid lowlands, roughly 100-2,800
   m elevation (mostly 250-1,400 m in the core surveyed range);
-  frost-sensitive, with conflicting detail on degree (Finding 4).
-- **Food status / composition:** Raw-edible (ripe flesh). Caloric and
+  frost-sensitive, with conflicting detail on degree (Finding 4)
+  [1][2][4].
+- **Edibility:** Raw-edible (ripe flesh), eaten fresh — several fruits a
+  day in season in surveyed villages [2].
+- **Composition:** Flesh oil 25-36% [2][5]; a 2018 study gives up to
+  28.1% fat against 15.4% for Hass, probably fresh weight, and another
+  gives 50.29% with basis unstated; pulp crude fibre 18-32% (Finding 5)
+  [11]. Caloric and
   protein content are carried over by analogy from its better-known
   cultivated relative, since no direct proximate analysis of fresh flesh
   was found; this analogy is treated as uncertain given the fruit's much
   higher measured oil content, which may put its true energy density
   well above the analogy figure if that oil content is expressed on a
-  fresh-weight basis (an open question — see below).
+  fresh-weight basis (an open question — see below; see Estimates
+  below).
 - **Photoperiod sensitivity:** Not directly studied for this species.
   By genus-level analogy to its better-known cultivated relative —
   where floral induction is understood as temperature-driven
@@ -141,7 +181,8 @@ surrounding flora" — not reconciled here.
 - **Pollination:** Not directly researched for this species; presumed
   insect-pollinated by analogy by its better-known cultivated relative,
   which displays a two-day flower-opening pattern across individual
-  trees; this species' own flowering mechanism was not studied.
+  trees; this species' own flowering mechanism was not studied (see
+  Estimates below).
 - **Yield:** No per-tree or per-hectare yield figures have been
   published for this species. All yield tiers here are rough estimates
   derived from an assumed average on-year fruit count and weight,
@@ -149,7 +190,8 @@ surrounding flora" — not reconciled here.
   assumed orchard-equivalent planting density (see Estimates below);
   actual agroforestry plantings have far lower effective per-hectare
   yield, since trees are scattered as coffee shade rather than densely
-  planted.
+  planted [2]. Fruit weight varies widely by tree (111-473 g averages
+  between two trees in one year) [12].
 - **Water use:** Crop-coefficient curve and related water-use parameters
   are carried over by analogy from its better-known cultivated relative,
   since no species-specific water-use study was found. The species is
@@ -160,11 +202,13 @@ surrounding flora" — not reconciled here.
   waterlogging tolerance is judged moderate — notably higher than its
   cultivated relative — based on documented survival of two weeks of
   flooding on heavy clay soil, and an observation of healthy trees
-  growing in a permanently saturated ravine bottom.
+  growing in a permanently saturated ravine bottom [2][4][5] (see
+  Estimates below).
 - **Propagation:** Mainly by direct seeding of selected superior-tree
   seed, sown where the tree is wanted; grafting has been proposed and
   demonstrated as feasible but remains essentially unresearched as a
-  commercial practice. Seed is recalcitrant and cannot be stored.
+  commercial practice. Seed is recalcitrant and cannot be stored
+  [2][7].
 - **Soil:** Documented growing in dark, organic-rich soils in its core
   surveyed region, and tolerant of heavy clay soils; pH tolerance is
   carried over by analogy from its cultivated relative in the absence of
@@ -177,27 +221,27 @@ surrounding flora" — not reconciled here.
   source [4]'s clay/chloride-tolerance note; by genus-level analogy,
   the cultivated relative's own salt tolerance is understood to work
   via root-level sodium/chloride exclusion, not yet tested in this
-  species [9].
+  species [2][4][9] (see Estimates below for pH).
 - **Labor:** No labor-cost study was found for this species. Harvest
   labor is a rough estimate based on an assumed hand-harvest rate by
   climbing and cutting or gathering fallen fruit; establishment and
   cultural-care labor (chiefly clearing competing vegetation) are
   likewise rough estimates by analogy to low-input tree-crop
-  establishment.
+  establishment (see Estimates below).
 - **Storage:** Very short — fruit ripens two to three days after
   harvest and spoils within about a week, markedly shorter than its
   cultivated relative, which can be held on the tree for months before
-  harvest.
+  harvest [2][5][6].
 - **Stand life:** Trees to 100 years have been recorded; juvenility
   (seed to first bearing) is documented at roughly 9 years, plus or
-  minus about 4 years.
+  minus about 4 years [2].
 - **Disease/pest profile:** A specific weevil species that bores into
   young fruit from fruit-set onward, documented destroying up to 80% of
   a crop in affected trees; the same major root-rot pathogen that
   affects its cultivated relative has also been recovered from old trees
   of this species, with most tested collections found susceptible.
   Gritty "stone cells" and excess fiber are noted as quality defects in
-  some individual trees.
+  some individual trees [1][3][4][5][6].
 - **Cultivars:** No named commercial cultivars exist. Documented types
   include the average self-sown baseline tree, farmer-selected planted
   seedlings (better flavor and pulp content but also more fiber), trees
@@ -205,16 +249,37 @@ surrounding flora" — not reconciled here.
   candidates, a long-necked light-green type documented in Guatemala,
   two numbered rootstock-selection lines with possible significant
   root-rot resistance, and the named natural hybrid rootstock selection
-  discussed in Finding 4.
-- **Controlled-environment viability:** Not viable — this is a forest
-  tree reaching up to 45 m in height.
+  discussed in Finding 4 [2][4]; a Veracruz selection named IXPE was
+  noted for high fat content [11].
+- **Harvest stages / windows:** One mature-fruit stage; physiological
+  maturity about 91-97 days after fruit set (reference event unclear in
+  one source), about 1,635 heat units above 6 °C, then ripening 2-3
+  days after harvest [5][6][12].
+- **Weather response:** Frost: sensitive, degree contested (Finding 4)
+  [4]. Drought: low tolerance, an inference from its moist-site habit
+  (see Estimates below) [2]. Waterlogging: survived two weeks of
+  flooding on heavy clay [4]. Heat and wind: Not sourced.
+- **Water regime:** Rain-fed in humid montane forest and coffee
+  plantings (about 1,700 mm at one site); no flooded requirement
+  [2][5][7].
+- **Soil biology:** The root-rot pathogen *Phytophthora* (as for its
+  cultivated relative) has been recovered from old trees, most
+  collections being susceptible [3][4]. Mycorrhizal or allelopathy
+  findings: Not sourced.
+- **Invasiveness / biosecurity:** Not invasive in any source found; it is
+  instead IUCN Endangered in the wild (Finding 5) [1][10]. *Legal
+  restrictions:* Not sourced for this species; as a *Persea* host,
+  avocado-type import rules may apply but were not researched.
+- **Controlled environment:** Not viable — this is a forest tree
+  reaching up to 45 m in height [1][2].
 
 ## Hazards
 
 No hazards to people were found in the sources reviewed. Documented
 pests and diseases include a specific fruit-boring weevil species
 (destroying up to 80% of a crop in affected trees) and the same major
-root-rot pathogen affecting its better-known cultivated relative.
+root-rot pathogen affecting its better-known cultivated relative
+[3][4][5][6].
 
 **TO BE ADDRESSED** — given how closely related this species is to a
 cultivated relative whose leaves, seed, and fruit skin are documented to
@@ -245,6 +310,11 @@ this species.
 
 ## Open research questions
 
+- 2026-11-17 pass caveats: Finding 5 and the new lines are search-
+  snippet-level only. Open: the IUCN category (Endangered vs. a trade
+  article's Vulnerable) on the IUCN page itself; the fresh- vs. dry-
+  weight basis of the 28.1% and 50.29% fat figures; grafted bearing age;
+  per-tree yield; import rules for *Persea* fruit and plants.
 - Whether the documented 25-36% flesh oil content is measured on a
   fresh-weight or dry-weight basis is unclear from the sources reviewed;
   this materially affects the fruit's true caloric density, which the
@@ -443,3 +513,28 @@ rootstock/nursery stock, with documented grafting success of 100% and
 this species, though it measures nursery graft-union success rather
 than a direct salt-stress or soil-EC trial. Accessed 2026-11-09, search
 snippets only; underlying PDF could not be opened.
+
+[10] Search-snippet-level material on conservation status: the English
+Wikipedia article (Endangered, IUCN 3.1, 2017 assessment; habitat loss
+to agricultural clearing), World Flora Online (Endangered), and a
+Fructidor trade article ("Chinin, almost unknown fruit from Mexico")
+calling it Vulnerable. The IUCN Red List page itself was not opened.
+Accessed 2026-11-17, search snippets only.
+
+[11] Search-snippet-level material on chinene fruit composition: a 2018
+*Revista Agroproductividad* article on selections from Veracruz coffee
+plantings (fat above Hass's 15.4%, IXPE at 28.1%, negative fat-moisture
+correlation), a Dialnet article (50.29 ± 2.03% fat, basis not stated),
+a 2011 oil-extraction study (12% oil/pulp v/w with isopropanol and
+hexane), and a Los Tuxtlas study (pulp crude fibre 18-32%; oleic acid
+39-76% of pulp oil). Accessed 2026-11-17, search snippets only.
+
+[12] Search-snippet-level material from Mexican journals on chinene
+(Redalyc-hosted *Revista Chapingo* 2007 and *Revista Fitotecnia
+Mexicana* articles, and a Coscomatepec fruit-growth study). Supplied: no
+commercial plantations as of 2007, poor cropping of avocado topworked
+onto vigorous "Martín Grande"-type trees, a sigmoid fruit-growth curve
+of about 1,635 heat units above 6 °C from set to harvest, per-tree mean
+fruit weights of 111.1 g and 472.6 g in one year, and prices above Hass
+in some seasons in Veracruz and Tabasco markets. Accessed 2026-11-17,
+search snippets only.
