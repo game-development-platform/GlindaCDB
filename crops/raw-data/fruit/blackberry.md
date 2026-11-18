@@ -5,7 +5,11 @@
 checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
 see the new Agronomic data lines on photoperiod, and the salinity figure now
 written into the Soil bullet from a citation that already existed but was
-never used, added that date)
+never used, added that date; re-researched again 2026-11-17 against the full
+current checklist — see Finding 7 and the new Agronomic data lines on first
+bearing, composition, establishment, weather response, water regime, harvest
+stages, soil biology, invasiveness/biosecurity, and controlled environment,
+added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -146,6 +150,27 @@ survey found a considerably smaller total world growing area, with a
 southeastern European country then holding the largest single growing
 area [11].
 
+**Finding 7 — the same genus is a protected crop and a banned weed, and
+the law has to draw the line.** In Australia, the European blackberry
+aggregate (at least 14 closely related naturalised species) is a Weed of
+National Significance, estimated to infest about 8.8 million hectares
+[25]. In New South Wales it must not be sold anywhere in the state, and in
+South Australia it is a declared plant under the Landscape South
+Australia Act 2019 [25]. A rust fungus, *Phragmidium violaceum*, is now
+present across the southern Australian blackberry range as a biological
+control [25]. Whether named commercial cultivars are exempt from the NSW
+sale ban was not found. In the US Pacific Northwest, the region that
+grows most processed trailing blackberries (Finding 1), Himalayan
+blackberry (*R. armeniacus*, syn. *R. bifrons*, *R. discolor*) is a Class
+B noxious weed in Oregon and on its quarantine list, which bans sale,
+purchase and transport of plants, seeds and plant parts except fruit for
+eating [26]. Washington has listed it and evergreen blackberry (*R.
+laciniatus*) as Class C noxious weeds since 2009, without a sale ban in
+the sources read [26]. A California pest rating notes that the plant was
+commercially distributed by Luther Burbank in the 1800s before becoming
+widely naturalised [26]. The cultivated crop and the weed are thus
+separated mainly by species name and by state rules, not by biology.
+
 ## Agronomic data
 
 - **Life form / season:** A perennial crown and root system with
@@ -156,12 +181,49 @@ area [11].
   crop once in summer over a multi-week window per cultivar;
   primocane-fruiting cultivars also or instead crop from late summer
   until frost; Mexico's forced system produces multiple shrinking crops
-  across autumn through spring.
+  across autumn through spring [2][6][9][10].
+- **Days/years to first bearing:** Same season for primocane-fruiting
+  types; a partial crop in the second year and full production by about
+  the third year for trellised floricane systems; Mexican plantings
+  become commercially viable in their third year [2][5][8][10]. See
+  Estimates.
+- **Establishment:** Root cuttings, tip layers, rooted plants or plugs
+  (Propagation, below), planted at documented spacings that differ by
+  habit (Finding 1), with trellises built for trailing and semi-erect
+  types and raised beds on poorly drained sites [2][5][8][9].
+- **Harvest stages / windows:** A single fruit stage, picked over a
+  multi-week window per cultivar, with fruit ripening asynchronously and
+  picked every few days (hand) or on a set interval (machine) [2][8][9].
+  Arkansas research harvests at the "shiny-black" stage; North Carolina
+  extension advises waiting until the fruit turns dull black for local and
+  pick-your-own sales, to maximise flavour [28]. Oklahoma extension notes
+  that fully mature fruit has the best flavour but can be too soft to
+  handle commercially [28]. Picking above about 77 °F (25 °C) is one
+  suspected cause of poor flavour, and rapid cooling is the most
+  important postharvest control (Finding 4) [4][28].
 - **Climate:** Temperate, warm-temperate, Mediterranean, and
   subtropical highland climates, depending on cultivar group; trailing
   types are limited by cold, heat, and wind; low-chill erect cultivars
-  exist for warm subtropical growing regions.
-- **Food status:** Raw-edible.
+  exist for warm subtropical growing regions [2][6].
+- **Weather response:** Hazards only; no quality benefit found. Winter
+  cold and premature dehardening in warm spells (Finding 2) [2][3][18];
+  heat above about 29-30 °C cuts pollen germination and fruit set in
+  primocane cultivars [20]; rain and weather affect Mexican production
+  [10]. Storm Kristin (date not confirmed in the material read) damaged tunnel and greenhouse
+  structures over an estimated 300-400 ha of soft fruit in Spain's Huelva
+  province, with blackberries among the crops hit and some plantations
+  flooded [30].
+- **Water regime:** Ordinary irrigation (drip or overhead), or
+  unirrigated on some farms; no flooded requirement; good drainage
+  essential (Water use, below) [2][5].
+- **Edibility:** Raw-edible [1].
+- **Composition:** USDA FoodData Central's raw blackberry record
+  (#173946) gives 43 kcal per 100 g [27]. The same record, opened
+  directly in the original pass, also supplied protein, water, fibre and
+  sugar values that were not transcribed into this doc [12]. Fibre
+  values of 5.0-5.1 g per 100 g seen this pass are from branded records,
+  not the raw reference food [27]. Vitamin C and potassium: Not sourced
+  in this pass.
 - **Pollination:** Required; self-fertile overall, but each individual
   fruit segment (drupelet) only forms if its own flower part receives
   insect-moved pollen, so poor pollination produces small, crumbly,
@@ -171,7 +233,7 @@ area [11].
   major growing region, with bumblebees filling in during cool, rainy
   weather; a documented heat effect reduces pollen germination and
   fruit set above roughly 29-30°C in at least two primocane-fruiting
-  cultivars.
+  cultivars [20][22][23].
 - **Photoperiod sensitivity:** Floricane (biennial) cultivars initiate
   flower buds via a short-day autumn response, but temperature control
   is at least as strong as photoperiod and the short-day timing shifts
@@ -186,40 +248,50 @@ area [11].
 - **Yield / composition:** World-average yield sits in the high
   thousands of kg/ha, with tiers spanning roughly a fivefold range
   because growth habit, farming system, and region differ substantially
-  (see Estimates below).
+  (see Estimates below) [2][10][11].
 - **Propagation:** Entirely vegetative — root cuttings (standard for
   thorny erect cultivars), rooted plants or laboratory-grown plugs
   (standard for most thornless cultivars, which sucker less from
   roots), or tip layering (standard for trailing types, and the only
   method, along with stem cuttings, that keeps chimeral thornless
-  cultivars thornless).
+  cultivars thornless) [3][5][23].
 - **Water use:** A standard international crop-coefficient curve for
   berry bushes applies broadly; measured studies on one major trailing
   cultivar found actual seasonal water-use coefficients below the
   standard reference curve's typical mid-season value, possibly
   reflecting incomplete canopy cover in wide-row hedgerow plantings.
   Good soil drainage is explicitly described as essential; poorly
-  drained sites use raised beds.
+  drained sites use raised beds [5][13][15][16].
 - **Labor:** Detailed grower-panel-based labor budgets exist by
   operation (establishment, pruning/training, weeding, harvesting,
   post-harvest handling); machine-harvested systems use dramatically
-  less harvest labor per hectare than hand-picked fresh-market systems.
+  less harvest labor per hectare than hand-picked fresh-market systems
+  [7][8][9].
 - **Soil:** Wide pH tolerance (roughly 4.5-7.5), with a somewhat
   narrower preferred range; many soil types are workable provided
   drainage is good; organic matter is particularly valuable in
-  unirrigated plantings. Salinity: rated sensitive — the FAO salinity-
+  unirrigated plantings [2][5]. Salinity: rated sensitive — the FAO salinity-
   tolerance table (Ehlig 1964) gives an ECe threshold of 1.5 dS/m with
   a 22%-per-dS/m yield-decline slope above that threshold, identical
   for blackberry and the closely related hybrid-berry type [14]; a
   secondary, non-FAO source gives a lower threshold (1.0-1.3 dS/m) for
   the same two crops, not reconciled here.
+- **Soil biology:** Phytophthora root rot, the main soil disease of red
+  raspberry, is described by UC IPM as not causing economic damage to
+  blackberries, and by other extension sources as less damaging than in
+  red or purple raspberry [29]. Verticillium wilt is the more serious soil
+  problem: no resistant cultivars are available, and sites that grew
+  tomato, pepper or other Verticillium hosts should be avoided [29].
+  Crown gall (a soil bacterium) and its biological control are
+  documented (Disease/pest profile, below) [21]. Mycorrhizal association
+  and nematode-borne viruses: searched for but not sourced.
 - **Stand life:** Commonly cited as 15-20 years under good management,
   though commercial budgets in some regions assume shorter productive
   lives (as short as 6 years in at least one fresh-market budget, and
   6-8 years in the dominant Mexican system) reflecting economic rather
   than strictly biological limits; time to first harvest ranges from
   the same year (primocane-fruiting types) to roughly two to three
-  years (some trellised systems in full establishment).
+  years (some trellised systems in full establishment) [2][5][8][9][10].
 - **Disease/pest profile:** A fungal cane-rosette disease (manageable
   by removing infected laterals, and reduced by every-other-year
   cropping), a systemic fungal orange rust (requiring whole-plant
@@ -228,13 +300,31 @@ area [11].
   blackberry-specific aphid are all documented. Clean, virus-free
   planting stock is important since nursery-propagated plants can
   carry the rosette fungus (root-piece propagation does not transmit
-  it).
+  it) [2][21][23].
+- **Invasiveness / biosecurity:** Wild and escaped blackberries are
+  serious weeds: the European aggregate in Australia (a Weed of National
+  Significance, about 8.8 million ha) and Himalayan blackberry in the US
+  Pacific Northwest and California (Finding 7) [3][25][26]. Wild forms
+  can be apomictic [23]; dispersal routes: Not sourced in this pass. *Legal restrictions:* sale banned in New South Wales,
+  declared in South Australia; Himalayan blackberry under quarantine in
+  Oregon (no sale of plants) and Class C in Washington (Finding 7)
+  [25][26]. Growers are advised to keep plantings isolated from wild
+  brambles because of shared diseases [21].
+- **Controlled environment:** Grown under macro-tunnels with drip
+  irrigation in the dominant producing country (Finding 6) [10], and in
+  tunnels and greenhouses in Spain's Huelva province [30]. Extension
+  sources say tunnels protect against hail, reduce disease and lower
+  spring-frost risk, but cultivars bred for tunnels are still at an early
+  stage [30]. A cold-climate tunnel study lost all canes and the whole
+  crop in one extreme winter, for the first time in eight years, but still
+  judged tunnel production economical [30]. Tunnel use in the Pacific
+  Northwest is also noted [3].
 - **Cultivars:** Numerous named cultivars span the three growth habits,
   a wide chill-requirement range, thorny versus thornless (via two
   distinct genetic mechanisms), and fresh-market versus processing
   suitability; a hybrid-berry cultivar group (several well-known named
   hybrids between this crop and a related raspberry-type crop) is
-  managed identically to trailing types.
+  managed identically to trailing types [2][3][5][6].
 
 ## Hazards
 
@@ -292,6 +382,14 @@ several regions — an ecological rather than a food-safety concern.
   contamination brushing treatment, and manual suppression of unwanted
   early-season new-cane growth) have no corresponding modeled activity
   in this project yet.
+- The 2026-11-17 additions (Finding 7 and the new Agronomic data
+  lines) rest on search-snippet reading only. In particular: whether
+  named cultivars are exempt from the NSW sale ban was not found; the
+  Washington and Oregon rules were read at summary depth; composition
+  beyond energy was not transcribed from Source [12] and was not
+  re-checked; the "shiny-black" versus "dull-black" harvest advice is for
+  different markets, not a contradiction; and mycorrhizae and nematode-
+  borne viruses were searched for but not found.
 - Photoperiod/temperature control of flower-bud initiation is sourced
   only at search-snippet depth, with the primary paper on floricane
   short-day-plus-temperature control not independently opened.
@@ -553,3 +651,40 @@ plus-temperature floricane mechanism, the day-neutral/cane-age-driven
 primocane mechanism, and the chilling-response note for some primocane
 genotypes. Accessed 2026-11-09, search snippets only, none opened
 directly.
+
+[25] Search-snippet-level material on blackberry as a weed in
+Australia: the NSW WeedWise profile and NSW council weed guides, a
+South Australian blackberry fact sheet, a *Australian Systematic Botany*
+paper on *Rubus anglocandicans*, Atlas of Living Australia profile
+attachments (including a national brochure), and a Flinders University
+thesis. Accessed 2026-11-17, search snippets only.
+
+[26] Search-snippet-level material on Himalayan blackberry as a noxious
+weed in the US Pacific Northwest and California: Washington State
+University HortSense, the Washington State Noxious Weed Control Board
+and county weed lists, a conservation-district WeedWise page, and the
+California Department of Food and Agriculture pest rating for *Rubus
+bifrons*. Accessed 2026-11-17, search snippets only.
+
+[27] Search-snippet-level material on blackberry composition: mirrors of
+the USDA FoodData Central record for raw blackberries (#173946) and
+branded blackberry records. Accessed 2026-11-17, search snippets only.
+
+[28] Search-snippet-level material on blackberry harvest maturity: NC
+State Extension's harvesting and postharvest management publication,
+an Oklahoma State University fact sheet, University of Arkansas
+research and extension publications, and a USDA NIFA project on
+blackberry firmness and red drupelet reversion. Accessed 2026-11-17,
+search snippets only.
+
+[29] Search-snippet-level material on bramble soil diseases: UC IPM
+caneberry guidelines on Phytophthora root rot, Missouri IPM, University
+of Connecticut IPM on root diseases of brambles, and an NCAT organic
+bramble production guide. Accessed 2026-11-17, search snippets only.
+
+[30] Search-snippet-level material on protected blackberry growing and
+storm damage: FreshPlaza and HortiDaily reports on Storm Kristin in
+Huelva, UC IPM caneberry tunnel culture guidelines, Alabama Cooperative
+Extension's guide to fruit crops for high tunnels, and an *Acta
+Horticulturae* 1133 paper on tunnel brambles in a cold climate.
+Accessed 2026-11-17, search snippets only.
