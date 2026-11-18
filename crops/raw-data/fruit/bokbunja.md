@@ -4,7 +4,11 @@
 **Researched:** 2026-10-05 (re-researched 2026-11-09 against the full current
 checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
 see the new Agronomic data lines on photoperiod, salinity, and viral risk,
-added that date)
+added that date; re-researched again 2026-11-17 against the full current
+checklist — see Finding 5 and the new Agronomic data lines on first
+bearing, establishment, composition, weather response, water regime,
+harvest stages, storage, soil biology, invasiveness / biosecurity, and
+controlled environment)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -114,24 +118,57 @@ slow and more variable), detailed planting density and trellis design,
 a repeated-pinching cane-training schedule, typical time to first and
 peak production, and a documented list of pests and diseases [3].
 
+**Finding 5 — the monsoon ends the season, and rain shelters are
+partial.** Jeollabuk-do's Gochang, Sunchang and Jeongeup hold about 77%
+of Korea's "bokbunja" area, and about 20% of the area is under
+rain-shelter (vinyl) houses, typically covered only for about three
+months (May-July) and uncovered from after harvest until the next April
+[17]. A 2008 newspaper report says the season mostly ends with the
+monsoon (jangma), with fruit left on the canes "melting" in the rain,
+and that even sheltered fruit goes mouldy and unsaleable in persistent
+wet weather [17]. A 2006 report describes growers missing the right
+picking time through labour shortage [17]. Gochang's product is
+legally protected: "Gochang Bokbunja" is on the Korea-EU FTA
+geographical-indication list, and Gochang black raspberry wine is a
+protected name under the UK-Korea agreement [20]. As throughout this
+entry, these are fields sold as "bokbunja", which Finding 1 shows are
+mostly the North American sibling species, not confirmed as the true
+species [1].
+
 ## Agronomic data
 
 - **Life form / season:** A perennial crown with biennial, thorny canes
   reaching one to three meters, whose tips can root naturally where
-  they touch soil.
+  they touch soil [1][2][3].
 - **Harvest pattern:** Perennial bearing, one summer crop per year on
   second-year canes, with two distinct harvest stages: an earlier
   unripe-fruit harvest (for the crude-drug product) and a later ripe-
-  fruit harvest (for fresh eating, wine, and juice).
+  fruit harvest (for fresh eating, wine, and juice) [3][6].
 - **Climate:** Temperate to warm-temperate and montane subtropical,
   depending on growing region and elevation; notably weak in extreme
-  winter cold.
-- **Food status:** Ripe fruit is raw-edible; unripe fruit is not eaten
-  raw and is used only as a processed crude drug.
+  winter cold [2][3][5].
+- **Days/years to first bearing:** First crop in the first or second
+  year after planting, peak around year four [3] (see Estimates below).
+- **Establishment:** Tip-layered or root-cutting plants set out at a
+  documented Korean commercial spacing on a trellis, in deep, composted,
+  limed soil, followed by repeated pinching of new canes [3]; the
+  per-hectare density is a unit conversion (see Estimates below).
+- **Edibility:** Ripe fruit is raw-edible; unripe fruit is not eaten
+  raw and is used only as a processed crude drug [6][7]. Leaves and
+  stems are eaten as a folk side dish and tea [10].
+- **Composition:** No per-100 g table for authenticated true-species
+  fruit was found [18]. A 2008 Korean cultivar study measured vitamin C
+  and cyanidin-3-glucoside (numbers not seen) and lists 'Jungkeuam 1' at
+  10.43 °Brix [18]. A 2025 study of 15 Korean *Rubus* accessions found
+  high anthocyanin in *R. coreanus* (about 471 mg/g of extract, not
+  fresh fruit) and total phenolics of 1.03-7.54 mg/g frozen fruit across
+  the accessions [18]. A genus-wide review gives 9-38 mg/100 g vitamin C
+  for *Rubus* berries generally [18]. Energy and protein are carried
+  over by analogy (see Estimates below).
 - **Pollination:** Required, bee-pollinated by analogy to related
   bramble crops (not independently researched for this species
   specifically); flower clusters contain many individual flowers per
-  cluster.
+  cluster [2]. Bee pollination itself: Not sourced for this species.
 - **Photoperiod sensitivity:** Not sourced for this species specifically.
   By genus-level Rubus analogy only (floricane-type red raspberry
   literature, untested for this species): floral initiation in
@@ -142,7 +179,7 @@ peak production, and a documented list of pests and diseases [3].
   fruiting type, so the day-neutral pattern this project found in some
   sibling-crop types likely does not apply here. Not applicable to
   tuberization/bulbing.
-- **Yield / composition:** See Estimates below; a national yield figure
+- **Yield:** See Estimates below; a national yield figure
   exists but mixes in the commercially dominant, botanically distinct
   sibling species, so it should be read as a general regional-
   conditions bramble-fruit figure rather than a true-species-specific
@@ -150,22 +187,22 @@ peak production, and a documented list of pests and diseases [3].
 - **Propagation:** Vegetative — tip layering and root cuttings are the
   standard, high-success methods; true seed is used only in breeding
   programs, with a documented moderate germination rate after cold
-  stratification but a slow overall nursery timeline.
+  stratification but a slow overall nursery timeline [3].
 - **Water use:** A standard international crop-coefficient curve for
   berry bushes is used by direct analogy to the related North American
   sibling crop, since this true species has no dedicated water-use
   study of its own; moist, deep, well-drained soil is explicitly
   recommended, with the plant kept watered through fruit swell but
-  never allowed to stand in water.
+  never allowed to stand in water [3] (see Estimates below).
 - **Labor:** No dedicated labor-cost study was found for this species;
   figures are estimated largely by analogy to the related sibling crop,
   adjusted for a repeated cane-pinching schedule and for the added
-  unripe-fruit harvest pass.
+  unripe-fruit harvest pass (see Estimates below).
 - **Soil:** Deep (cultivated well below typical tillage depth), organic,
   well-drained soil; substantial compost and lime amendment is standard
   Korean practice to counter soil acidity; late-season nitrogen
   fertilization is specifically avoided, since it is linked to winter
-  injury. Salinity tolerance as a plant trait is still not sourced
+  injury [3]. Salinity tolerance as a plant trait is still not sourced
   species-specifically and remains carried over from the sibling crop
   by analogy; a 2008 Korean soil survey of commercial "bokbunja" fields
   (species identity not confirmed as the true species, the same
@@ -179,13 +216,14 @@ peak production, and a documented list of pests and diseases [3].
   year after planting, with peak production reached around the fourth
   year; overall long-term productive lifespan was not documented,
   though the species' strong disease resistance suggests a longer
-  productive life than its more disease-prone North American sibling.
+  productive life than its more disease-prone North American sibling
+  [1][3] (see Estimates below).
 - **Disease/pest profile:** A clearwing moth borer (the main documented
   pest), a swift moth, a longhorn beetle, a fungal leaf spot, fungal
   anthracnose, a bacterial disease, and a witches'-broom disorder are
   documented — though these are documented for mixed fields of both
   this species and its commercially dominant sibling, not confirmed
-  specifically for the true species alone. No virus or clonal-
+  specifically for the true species alone [3]. No virus or clonal-
   degeneration risk documentation specific to this species was found,
   despite dedicated Korean-language searches. By genus-level Rubus
   analogy only: vegetatively propagated planting material (tip layers,
@@ -198,7 +236,47 @@ peak production, and a documented list of pests and diseases [3].
   spans a wild baseline form, a densely hairy-leaved botanical variety
   adapted to higher elevation, a named Korean botanical form, several
   Korean breeding-program selections chosen for fruit size and yield,
-  and naturally occurring orange/bicolored fruit-color variants.
+  and naturally occurring orange/bicolored fruit-color variants
+  [1][2][4][7].
+- **Weather response:** Cold: qualitatively weak in extreme winter cold,
+  needing shelter from winter wind and sites without sharp temperature
+  swings; no numeric threshold found [3]. A 2008 report from Gochang
+  describes cold damage (naengdae) cutting that year's crop sharply —
+  the reported percentages are ambiguous in the snippet (15% to under
+  50%, unclear whether loss or remaining crop) [17]. Heat/humidity:
+  adapted to hot, humid conditions in part of its native range [5].
+  Rain at harvest: monsoon rain ends the season and moulds fruit even
+  under rain shelters (Finding 5) [17]. Drought: Not sourced.
+- **Water regime:** Ordinary irrigation; moist, well-drained soil, never
+  standing in water [3]. No flooded requirement; flooding tolerance not
+  sourced.
+- **Harvest stages / windows:** Two stages: unripe green-to-greenish-
+  yellow fruit in early summer for the crude drug [6], then ripe fruit
+  over the following weeks; fruit colours green → red → black [5].
+  Ripening is later than the sibling species in the same region [1].
+  Timely picking is a recognised labour problem [17]; the season mostly
+  ends at the monsoon [17].
+- **Storage (postharvest):** Ripe fruit: brief cold storage only;
+  figures carried by analogy (see Estimates below). Dried unripe fruit:
+  a pharmacopoeial maximum drying-loss limit exists [13], with drying
+  and storage practice in [3].
+- **Soil biology:** Not sourced for this species — no mycorrhizal,
+  replant or allelopathy finding was found. Accumulating soil salinity
+  under repeated rain-shelter cultivation (see Soil) is a soil-chemistry
+  finding, not soil biology [15].
+- **Invasiveness / biosecurity:** Native to Korea, Japan and China [1][2].
+  No naturalisation record or invasive listing for this species outside
+  that range was found in this pass [19]. Related evidence only: a
+  Queensland risk assessment concludes all non-native *Rubus* pose some
+  weed risk, and Hawaii rates the related Japanese *R. sieboldii* high
+  risk, flagging prickly thicket-forming, cane-rooting, bird-dispersed
+  traits — traits this species shares (cane-rooting tips, prickles) [1]
+  [19]. *Legal restrictions:* none found on the plant; the Gochang name
+  is protected as a geographical indication (Finding 5) [20].
+- **Controlled environment:** Rain-shelter (seasonal vinyl) houses cover
+  about 20% of Korean "bokbunja" area, mixed species (Finding 5) [17];
+  salinity builds up in their soils over time [15]. Greenhouse,
+  substrate or closed-system growing of the true species: Not sourced.
 
 ## Hazards
 
@@ -207,7 +285,7 @@ toxicology study of this crop's leaves and stems (eaten as a folk food
 and tea ingredient) found no adverse effects in repeated-dose animal
 testing even at a high dose well above typical consumption levels,
 though the material is not currently registered in Korea's official
-food-safety standards codex. Thorny canes present an ordinary physical
+food-safety standards codex [10]. Thorny canes present an ordinary physical
 handling hazard during cultivation and harvest, as with other bramble
 crops.
 
@@ -218,7 +296,7 @@ crops.
   market. Ripe fruit → fermented → traditional fruit liquor. Ripe fruit
   steeped with sugar and a distilled spirit → home-style infused
   liquor. Ripe fruit → juice. Leaves and stems (harvested in late
-  spring) → dried and milled → tea.
+  spring) → dried and milled → tea [1][3][6][8][10][12].
 - **Propagation chain:** Tip layering or root cuttings → new plants.
 - Not covered by this research in detail: factory-scale freeze-dried
   unripe-fruit extract production, industrial frozen-berry processing,
@@ -264,6 +342,14 @@ crops.
   controlled plant-tolerance trial, and even that survey's "bokbunja"
   fields are not confirmed as the true species rather than the
   commercially dominant sibling.
+- 2026-11-17 pass caveats: Finding 5 and the new lines are search-
+  snippet-level only; the Korean rain-shelter and weather material comes
+  from 2006-2008 reports and mixed-species fields. Open: a fresh-fruit
+  composition table for authenticated true-species fruit (the 2008
+  cultivar study's vitamin C values were not seen); the ambiguous 2008
+  cold-damage percentages; no invasiveness record either way outside the
+  native range; no soil-biology, flooding or drought finding; no
+  protected-cultivation data specific to the true species.
 - Virus/clonal-degeneration risk in vegetatively propagated planting
   material was not documented for this species specifically, despite
   dedicated Korean-language searches; genus-level Rubus concern and
@@ -481,3 +567,35 @@ Rubus germplasm survey finding viruses in a documented share of
 received Rubus clones. Supplied: genus-level virus-risk and clean-stock
 context; no finding specific to this species. Accessed 2026-11-09,
 search snippets only, none opened directly.
+
+[17] Search-snippet-level Korean-language material on "bokbunja"
+(species identity not confirmed) fields: a KoreaScience paper on
+rain-shelter cultivation in Jeollabuk-do, a 2008 Seoul Shinmun article
+on the monsoon and the season's end, a 2006 Jeonbuk Ilbo (jjan.kr)
+article on labour shortage at harvest, and a 2008 report of cold damage
+in Gochang. Supplied: the 77% Gochang/Sunchang/Jeongeup area share,
+~20% rain-shelter area and the May-July covering practice, monsoon rain
+and mould losses even under shelter, missed picking time, and the 2008
+cold-damage report. Accessed 2026-11-17, search snippets only.
+
+[18] Search-snippet-level material on fruit composition: a 2025 PMC
+study of anthocyanins, phenolics and flavonoids in 15 Korean *Rubus*
+accessions, a 2008 KoreaScience study of *R. coreanus* cultivars
+(vitamin C, cyanidin-3-glucoside, 'Jungkeuam 1' at 10.43 °Brix), and a
+Hort Innovation (Australia) literature review on *Rubus* health claims
+(genus-wide vitamin C 9-38 mg/100 g). Accessed 2026-11-17, search
+snippets only.
+
+[19] Search-snippet-level material on *Rubus* weed risk: a Queensland
+Department of Primary Industries blackberry risk assessment, and Hawaii
+Pacific Weed Risk Assessment (plantpono.org) and Kauaʻi Invasive Species
+Committee entries for *R. sieboldii*. Supplied: genus-level weed-risk
+conclusions and high-risk traits; nothing specific to *R. coreanus*.
+Accessed 2026-11-17, search snippets only.
+
+[20] Search-snippet-level material on geographical-indication status:
+the Korea-Peru FTA and EU Council document annexes listing Gochang
+Bokbunja, the UK government protected food and drink names entry for
+Gochang black raspberry wine (UK-Korea FTA), and an Asia Business Daily
+report (2024) on Gochang's bokbunja special zone and production share.
+Accessed 2026-11-17, search snippets only.
