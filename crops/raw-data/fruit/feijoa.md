@@ -1,7 +1,12 @@
 # Feijoa / Pineapple Guava (*Acca sellowiana*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/feijoa.md`
-**Researched:** 2026-09-30
+**Researched:** 2026-09-30 (re-researched 2026-11-17 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see Findings 5 and 6 and the new Agronomic data lines on harvest pattern,
+first bearing, edibility, photoperiod, salinity, establishment, weather
+response, water regime, harvest stages, soil biology, invasiveness /
+biosecurity, and controlled environment)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -99,24 +104,69 @@ American growing country, most of the fruit goes to processed products
 such as yogurt and a traditional fermented beverage, with fresh sale
 representing the smallest market share [8].
 
+**Finding 5 — in New Zealand the pest is an Australian moth, while
+myrtle rust has so far spared the crop.** The Australian guava moth
+(*Coscinoptycha improbana*), first found in Northland in 1997 and now
+recorded in Northland, Auckland, Waikato and Coromandel, has larvae that
+tunnel into fruit (and breed in flowers), filling the tunnels with frass
+and letting in rots; it is reported to have limited commercial feijoa
+production around Auckland, no insecticides are registered against it,
+and netting is advised while the value of garden pheromone traps is
+disputed [13]. Myrtle rust (*Austropuccinia psidii*), a pathogen of the
+feijoa's own family, arrived in New Zealand in 2017: the Ministry for
+Primary Industries first concluded that feijoa did not appear
+susceptible (controlled inoculations gave no symptoms, and over 5,000
+plants surveyed beside infected myrtles were clean), noted limited
+overseas evidence of feijoa as a host in 2018, and confirmed the first
+feijoa infection in 2021; the growers' association said in 2022 that
+the industry had been taken off the at-risk list [12]. In Hawaii, the
+species scores 5 ("Evaluate", uncertain risk) on the weed risk
+assessment, and a population spreading in Hawaii Volcanoes National
+Park was controlled with herbicide and manual removal [11].
+
+**Finding 6 — in its native Brazil, domestication is only now under
+way.** The Brazilian state agency Epagri, with the Federal University of
+Santa Catarina, released the first Brazilian cultivars, SCS 411
+'Alcântara' and SCS 412 'Helena', after about 20 years of breeding, then
+SCS 414 'Mattos' and SCS 415 'Nonante' to spread the season, with
+advanced selections still under evaluation [14]. Epagri describes
+domestication as incipient and notes that most Brazilian planting
+material traces to an early introduction back from France based on few
+plants — a narrow genetic base — while fruit size and peel thickness
+vary widely enough to promise large breeding gains [14].
+
 ## Agronomic data
 
 - **Life form / season:** An evergreen shrub or small tree, typically
   1-7 m (often kept to around 2.5 m by pruning in commercial settings);
   perennial, with a single autumn crop over roughly six weeks in
   temperate growing regions, or year-round harvest flushes in tropical
-  highland growing regions.
+  highland growing regions [1][2][3][4][5].
+- **Harvest pattern:** A single autumn crop over about six weeks,
+  touch-picked in several passes, in seasonal climates; year-round
+  flushes in tropical highlands (Findings 2, 3) [4][5].
+- **Days/years to first bearing:** 2-4 years for cutting-grown trees
+  [1][3] (see Estimates below); full canopy by about year 5 and full production around years 8-10
+  [3][4].
+- **Establishment:** Cuttings, layers or grafts of clonal cultivars,
+  planted at documented regional spacings and densities with two or
+  more compatible cultivars for cross-pollination [3][4][5].
 - **Climate:** Subtropical, mild coastal temperate, or Mediterranean
   climates, and tropical highlands at substantial elevation; requires
-  genuine winter chilling (Finding 2).
-- **Food status / composition:** Raw-edible (halved and scooped).
-  Composition figures conflict modestly between sources, but broadly
-  fall around 600 kcal/kg and 7-9 g protein/kg, with notable fiber and
-  vitamin C content.
+  genuine winter chilling (Finding 2) [2][3][5].
+- **Edibility:** Raw-edible (halved and scooped); the flower petals are
+  also eaten fresh [1][2].
+- **Composition:** Figures conflict modestly between sources, but
+  broadly fall around 600 kcal/kg and 7-9 g protein/kg, with notable
+  fiber and vitamin C content [2][9].
+- **Photoperiod sensitivity:** Not sourced; flower-bud formation is tied
+  instead to chilling and a pre-flowering dry period (Finding 2)
+  [3][5]. Not applicable to tuberization/bulbing — a shrub with no
+  storage organ.
 - **Pollination:** Required for most cultivars (self-incompatible or
   only partly self-fertile); primarily bird-pollinated (petal-eating
   birds), with bees and bumblebees as a secondary, less effective
-  pollination source.
+  pollination source (Finding 1) [1][2][3][5].
 - **Yield:** A world-average figure (roughly 9,000 kg/ha) is derived
   from a documented national area-and-production ratio for one major
   growing country; good and exceptional tiers are derived from
@@ -131,48 +181,78 @@ representing the smallest market share [8].
   flowering actually helps induce flower buds, but once fruit is
   developing, water shortage causes fruit drop. Drought tolerance is
   judged moderate, and waterlogging tolerance is judged low, since free
-  drainage is explicitly required.
+  drainage is explicitly required [3][4][5][10] (see Estimates below).
 - **Propagation:** Clonal cultivars are propagated by hardwood cuttings
   (with rooting hormone and bottom heat), air- or ground-layering, or
   grafting (reported with low success in at least one source); true
   seed is used mainly for producing seedling trees and rootstocks, and
   sources disagree on whether seedlings come fairly true to type or
-  not (see Open research questions).
+  not (see Open research questions) [1][3].
 - **Soil:** Deep, organic, alluvial soils are preferred, though sandy to
   clay loam soils are tolerated; performance is poor on light sandy
   soils. A documented calcium-to-magnesium ratio imbalance in the soil
   causes a specific fruit disorder (brown pigmentation, cracking, and
-  chlorosis), correctable with dolomitic lime.
+  chlorosis), correctable with dolomitic lime [3][4][5]. Salinity:
+  tolerant of salt spray [1][3]; a Colombian eight-month pot trial
+  concluded plants tolerated NaCl salinity under greenhouse conditions
+  (concentrations not seen) [15].
 - **Labor:** No comprehensive labor-cost study was found. Harvest
   (touch-picking over several passes across a roughly six-week window)
   is documented as the dominant labor component; pruning is modest on
-  hedged or branch-bent trees.
+  hedged or branch-bent trees [4][5] (see Estimates below).
 - **Storage:** Roughly four weeks refrigerated near 4°C, followed by
   about five to seven days at room temperature; some sources give a
   shorter post-cold-storage shelf life, and documented regimes vary
-  somewhat (see Open research questions).
+  somewhat (see Open research questions) [1][2][3][6].
 - **Stand life:** Documented productive lifespan runs roughly 30-40
   years, with full production reached around 8-10 years and full
-  canopy development by around year 5.
+  canopy development by around year 5 [3][4].
 - **Disease/pest profile:** Generally described as remarkably
   pest-resistant, with only minor documented issues: scale insects,
   fruit flies (a documented elevation-related risk threshold in at
   least one growing region), thrips, leaf spots, and an anthracnose
-  fungal disease.
+  fungal disease [1][3][5]; in New Zealand, guava moth and a first
+  myrtle rust infection (Finding 5) [12][13].
 - **Cultivars:** Spans a modern, reliably self-fertile commercial
   baseline cultivar and several older selections differing in
   self-fertility percentage, fruit size and shape, flavor, and growth
   habit; at least one cultivar is specifically used in detailed
-  thermal-requirement research in a South American growing region.
-- **Controlled-environment viability:** Not specifically researched in
-  the sources reviewed.
+  thermal-requirement research in a South American growing region
+  [1][2][3][5]. Brazilian cultivars: SCS 411 'Alcântara', SCS 412
+  'Helena', SCS 414 'Mattos' and SCS 415 'Nonante' (Finding 6) [14].
+- **Harvest stages / windows:** One mature stage, judged by touch since
+  the skin stays green: fruit picked when it parts from the stem under
+  light pressure, slightly before natural drop, about 120-150 days after
+  full bloom; windfalls are gathered daily (Finding 3) [1][3][4][5][6].
+- **Weather response:** Frost: mature trees to about -10 °C, with fruit,
+  flowers and small fruit damaged at milder thresholds [1][4][5]. Heat:
+  above about 32 °C harms flowering and fruit set, above about 38 °C
+  damages plants, especially in dry air [2][3][5]. Drought: water
+  shortage during fruiting causes fruit drop [3][5]. Wind: documented
+  sensitivity [4]. Waterlogging: low tolerance [4].
+- **Water regime:** Rain-fed or irrigated; no flooded requirement; free
+  drainage required [4][5][10].
+- **Soil biology:** Not sourced; no feijoa mycorrhizal study was found
+  in this pass.
+- **Invasiveness / biosecurity:** Native to the Brazilian and Uruguayan
+  highlands [2]. Hawaii weed risk score 5 ("Evaluate"), with a spreading
+  population controlled in Hawaii Volcanoes National Park; listed as
+  exotic in New Zealand, weed status not confirmed (Finding 5) [11].
+  *Legal restrictions:* Not sourced. Myrtle rust, a host-range concern
+  for the family, is regulated in New Zealand, and feijoa's low
+  susceptibility is documented there (Finding 5) [12].
+- **Controlled environment:** Not sourced as a production system; the
+  Colombian salinity trial grew plants in a greenhouse (pots) for eight
+  months [15].
 
 ## Hazards
 
 Documented pests and diseases include scale insects, fruit flies (with
 a documented elevation-related risk threshold in at least one growing
 region), thrips, leaf spots, and an anthracnose fungal disease; the crop
-is otherwise described as remarkably pest-resistant.
+is otherwise described as remarkably pest-resistant [1][3][5]. In New
+Zealand, guava moth larvae tunnel into fruit and let in rots, making it
+inedible (Finding 5) [13].
 
 No further specific health/safety hazards beyond ordinary produce
 handling were found in the sources reviewed for this crop.
@@ -184,7 +264,7 @@ handling were found in the sources reviewed for this crop.
   of total fruit weight, with skins as a byproduct) → jam, jelly, or
   chutney; pulp → juice → further fermented into wine; flower petals →
   eaten fresh; leaves → infusions; seed from ripe fruit → seedling
-  trees.
+  trees [1][4][5][10].
 - Not covered in detail by this research: frozen pulp and fruit
   production in detail; dairy-based processed products such as yogurt
   and a traditional fermented beverage; spray-dried powder, vodka, and
@@ -192,6 +272,11 @@ handling were found in the sources reviewed for this crop.
 
 ## Open research questions
 
+- 2026-11-17 pass caveats: Findings 5 and 6 and the new lines are
+  search-snippet-level only. Open: whether feijoa is a listed or
+  naturalised weed in New Zealand; myrtle rust impact after the 2021
+  infection; the NaCl concentrations in the Colombian trial; mycorrhizal
+  and photoperiod data.
 - Self-fertility reporting conflicts meaningfully between sources: one
   classic reference describes an older cultivar as fully self-fertile,
   while more recent regional sources describe a different, newer
@@ -360,3 +445,43 @@ annual rainfall/irrigation figure for one major growing country,
 irrigation-timing guidance, a documented fruit-to-pulp conversion
 ratio, and fermentation-process detail. Accessed 2026-09-30, search
 snippets only.
+
+[11] Search-snippet-level material on weed risk: the legacy Hawaii-
+Pacific Weed Risk Assessment archive (*Acca sellowiana*, score 5,
+"Evaluate"), Plant Pono entries (spreading in Hawaii Volcanoes National
+Park, controlled with herbicide and manual methods; definition of
+"Evaluate"), and the NZ Flora factsheet (biostatus exotic). Accessed
+2026-11-17, search snippets only.
+
+[12] Search-snippet-level material on myrtle rust and feijoa in New
+Zealand: Kiwifruit Vine Health newsroom items and an MPI document
+(2017 conclusion of low susceptibility, controlled inoculations, over
+5,000 plants surveyed; 2021 first confirmed feijoa infection), the
+Waitomo District Council's April 2018 myrtle rust information sheet,
+NZ Herald coverage (2022, quoting the NZ Feijoa Growers Association),
+and NZ Farm Forestry Association material. Accessed 2026-11-17, search
+snippets only.
+
+[13] Search-snippet-level material on the Australian guava moth
+(*Coscinoptycha improbana*): Wikipedia, RNZ (2016, 2019), NZ Geographic,
+NZ Herald (The Country), Newstalk ZB, Kings Plant Barn, Rural Delivery,
+Kiwifruit Vine Health, and an Australian guava moth IPM guide (2022).
+Supplied: 1997 arrival in Northland, distribution, fruit and flower
+damage, limits on Auckland commercial production, netting advice, the
+dispute over pheromone traps, and no registered insecticides. Accessed
+2026-11-17, search snippets only.
+
+[14] Search-snippet-level material on Brazilian goiabeira-serrana
+breeding: Epagri technical publications (including technical bulletin
+153 and *Agropecuária Catarinense* articles on SCS 411 'Alcântara', SCS
+412 'Helena', SCS 414 'Mattos' and SCS 415 'Nonante'), UDESC and UFFS
+papers, and an Embrapa bulletin. Supplied: release history, about 20
+years of breeding, incipient domestication, the narrow genetic base from
+an early French introduction, and fruit-size and peel-thickness
+variation. Accessed 2026-11-17, search snippets only.
+
+[15] Casierra-Posada and Rodríguez, *Agronomía Colombiana* (Universidad
+Nacional de Colombia), on NaCl salinity in pot-grown pineapple guava
+(*Acca sellowiana*) under greenhouse conditions for eight months.
+Supplied: the conclusion of NaCl tolerance; concentrations not seen.
+Accessed 2026-11-17, search snippet only.

@@ -35,7 +35,7 @@
 | dragon_fruit | Selenicereus undatus and red-fleshed relatives | dragon-fruit.md |  | 2026-11-17 | RESEARCHED |
 | durian | Durio zibethinus | durian.md |  | 2026-11-17 | RESEARCHED |
 | dwarf_sour_cherry | Prunus cerasus × P. fruticosa; P. × kerrasis | dwarf-sour-cherry.md |  | 2026-11-17 | RESEARCHED |
-| feijoa | Acca sellowiana | feijoa.md |  | 2026-09-30 | OUT-OF-DATE |
+| feijoa | Acca sellowiana | feijoa.md |  | 2026-11-17 | RESEARCHED |
 | fig | Ficus carica | fig.md |  | 2026-10-11 | OUT-OF-DATE |
 | finger_lime | Citrus australasica | finger-lime.md |  | 2026-10-05 | OUT-OF-DATE |
 | giant_granadilla | Passiflora quadrangularis | giant-granadilla.md |  | 2026-10-04 | OUT-OF-DATE |
