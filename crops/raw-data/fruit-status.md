@@ -29,7 +29,7 @@
 | citron_melon | Citrullus amarus | watermelon.md | `seed_watermelon`, `watermelon` | 2026-11-17 | RESEARCHED |
 | coconut | Cocos nucifera | coconut.md |  | 2026-11-17 | RESEARCHED |
 | coyo | Persea schiedeana | coyo.md |  | 2026-11-17 | RESEARCHED |
-| cranberry | Vaccinium macrocarpon | cranberry.md |  | 2026-11-09 | OUT-OF-DATE |
+| cranberry | Vaccinium macrocarpon | cranberry.md |  | 2026-11-17 | RESEARCHED |
 | daidai | Citrus × aurantium, daidai group (kabusu and kaiseitō; var. *daidai*) | daidai.md | `bitter_orange`, `hetsuka_daidai`, `natsudaidai` | 2026-11-16 | RESEARCHED |
 | date_palm | Phoenix dactylifera | date-palm.md |  | 2026-11-09 | OUT-OF-DATE |
 | dragon_fruit | Selenicereus undatus and red-fleshed relatives | dragon-fruit.md |  | 2026-09-30 | OUT-OF-DATE |

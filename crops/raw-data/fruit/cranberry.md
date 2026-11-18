@@ -3,7 +3,11 @@
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/cranberry.md`
 **Researched:** 2026-10-01 (re-researched 2026-11-09 against the full current
 checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
-see the new Agronomic data lines on photoperiod and salinity, added that date)
+see the new Agronomic data lines on photoperiod and salinity, added that date;
+re-researched again 2026-11-17 against the full current checklist — see
+Finding 7 and the new Agronomic data lines on harvest pattern, first bearing,
+establishment, edibility, weather response, water regime, harvest stages /
+windows, soil biology, and invasiveness / biosecurity)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -128,17 +132,45 @@ measurement, suggesting a real but dose- and concentration-dependent
 pharmacodynamic effect that ordinary juice consumption may not trigger
 [10].
 
+**Finding 7 — naturalised and partly invasive in northwest Europe, and
+under documented heat pressure at home.** Outside North America the
+species has escaped and naturalised in Britain, Germany, Switzerland and
+the Netherlands [15]. On Terschelling in the Dutch Wadden Islands it
+grows wild in dune valleys among heaths, and a Belgian alien-flora
+source cites Weeda (2009) as considering it invasive on the Wadden
+Isles, while the Dutch crop-wild-relative database rates its national
+status "least concern", stable or increasing since 1950 — different
+measures rather than a direct contradiction [15]. The Netherlands
+agency RVO published a 2026 single document and product dossier for a
+"Cranberry van Terschelling en Vlieland" protected geographical
+indication application (contents not read) [15]. At home, USDA-ARS
+reports heat stress lowers yield and fruit quality and raises disease
+pressure, notes New Jersey and Massachusetts are among the fastest-
+warming producing states, and runs a project on fruit damage and rot at
+about 35-45 °C; a University of Massachusetts specialist links later
+arrival of cool autumn nights to more fruit rot [16]. Wisconsin overtook
+Massachusetts as the leading producer in the 1990s (a dated share
+figure only) [16].
+
 ## Agronomic data
 
 - **Life form / season:** A low, trailing, evergreen woody vine forming
   a continuous mat; a single annual harvest, typically mid-September to
-  early November.
+  early November [2][3][17].
+- **Harvest pattern:** One concentrated harvest a year, usually within
+  eight weeks or less (Finding 2) [17].
+- **Days/years to first bearing:** First harvestable crop in year 2-3,
+  full production in years 4-6 [6].
+- **Establishment:** Unrooted vine cuttings mowed from existing beds at
+  about 1-2 tons per acre, or rooted plugs, set into diked, laser-
+  levelled, sand-capped beds (Findings 1, 3) [1][3].
 - **Climate:** Cool temperate to temperate, requiring genuine winter
   chilling; documented commercial production in the US Northeast and
-  Upper Midwest, the Pacific Northwest, Canada, and Chile.
-- **Food status / composition:** Raw-edible but very tart, and mostly
-  consumed cooked or processed. Roughly 460 kcal/kg and 5 g protein/kg
-  raw, with notable vitamin C and potassium content.
+  Upper Midwest, the Pacific Northwest, Canada, and Chile [1][3][4].
+- **Edibility:** Raw-edible but very tart, and mostly consumed cooked or
+  processed [1][2].
+- **Composition:** Roughly 460 kcal/kg and 5 g protein/kg raw, with
+  notable vitamin C and potassium content [1].
 - **Photoperiod sensitivity:** Flower-bud initiation (early July) appears
   driven primarily by heat accumulation rather than day length: field
   studies tie initiation dates to growing-degree-days (roughly 290-322
@@ -155,7 +187,7 @@ pharmacodynamic effect that ordinary juice consumption may not trigger
   insect (bee) pollination is needed for adequate fruit set, and managed
   honey bee hives are standard practice at roughly 1-2 colonies per
   acre, with cross-pollination also documented to produce larger fruit
-  with more seeds than self-pollination alone.
+  with more seeds than self-pollination alone [3][6].
 - **Yield:** A world-average figure (roughly 25,500 kg/ha) and good,
   exceptional, and poor tiers are derived directly from documented
   official barrel-per-acre yield statistics for recent harvest years
@@ -168,10 +200,11 @@ pharmacodynamic effect that ordinary juice consumption may not trigger
   low, given the crop's notably shallow, hairless root system; dormant-
   season waterlogging tolerance is high (vines are deliberately flooded
   for months), but summer waterlogging tolerance of the ripening fruit
-  itself is low, since prolonged immersion causes fruit breakdown.
+  itself is low, since prolonged immersion causes fruit breakdown
+  [2][3] (see Estimates below).
 - **Propagation:** Entirely vegetative, by unrooted vine cuttings or
   rooted plugs; seed propagation is used only in formal breeding
-  programs, never for commercial planting.
+  programs, never for commercial planting [3].
 - **Soil:** Strongly acid soil preference (roughly pH 4-5), grown on a
   sand cap over peat or mineral soil with a documented moderate organic
   matter content. Salt-sensitive: a documented irrigation-water
@@ -185,42 +218,75 @@ pharmacodynamic effect that ordinary juice consumption may not trigger
   bed-maintenance, and post-harvest labor figures here are rough
   estimates, since harvest itself is highly mechanized (water reels,
   booms, and pumps) and most ongoing labor goes into frost-watch,
-  flooding, and periodic sanding rather than conventional field work.
+  flooding, and periodic sanding rather than conventional field work
+  [3] (see Estimates below).
 - **Storage:** Fresh, dry-harvested fruit keeps 2-4 months at 2-5°C and
   90-95% relative humidity; it is chilling-sensitive, turning rubbery
   and dull after roughly four weeks held near 0°C. Water-harvested fruit
   is bruised and must be frozen or processed promptly rather than
-  stored fresh.
+  stored fresh [1][2].
 - **Stand life:** First harvestable crop in year 2-3, full production
   reached in years 4-6; beds over 100 years old remain productive, with
   periodic renovation (replanting with improved hybrid cultivars) as
-  the main alternative to indefinite continued production of old beds.
+  the main alternative to indefinite continued production of old beds
+  [3][6].
 - **Disease/pest profile:** A leafhopper-spread phytoplasma disease
   affecting the vines, a documented virus, and several distinct fruit
   rot diseases (affecting fruit quality and storage life rather than
-  the vine itself).
+  the vine itself) [2][3].
 - **Cultivars:** Spans older native selections (generally smaller fruit,
   earlier harvest, somewhat lower yield but often better spring frost
   hardiness) and newer large-fruited hybrid cultivars (higher yield,
   larger fruit, but in some cases reduced frost tolerance); several
   specific hybrid cultivars bred for disease resistance or higher yield
-  are also documented.
-- **Controlled-environment viability:** Not viable — a flood-managed
-  field crop requiring genuine winter chilling, fundamentally
-  incompatible with controlled-environment production.
+  are also documented [3].
+- **Harvest stages / windows:** One mature stage: harvested at full
+  maturity with good anthocyanin colour but before over-ripeness,
+  colour mattering for "no colour added" processed products and for
+  fresh-market fruit; berries mature about 80 days after full bloom
+  [3][17]. Dry harvest for fresh market needs firmer adherence to
+  ripeness signs and suffers in wet weather; drought can delay water
+  harvest until water is available [17]. Shading by weeds such as
+  dewberry or dodder reduces colour [17].
+- **Weather response:** Frost: stage-specific bud and fruit thresholds,
+  from about -7.8 °C dormant to -1.1 °C at bloom (Finding 4) [3].
+  Winter desiccation: prevented by winter flooding [3]. Heat: lowers
+  yield and quality and raises fruit rot; fruit damage studied at about
+  35-45 °C (Finding 7) [16]. Drought: low tolerance (shallow, hairless
+  roots) [3]. Waterlogging: tolerated dormant, damaging to fruit in
+  summer [2][3].
+- **Water regime:** Deliberately flooded several times a year (winter,
+  late-water, harvest floods) and sprinkler-irrigated; about 5.4-6.0
+  acre-feet per acre per year in total, much of it reused (Finding 1)
+  [3].
+- **Soil biology:** No root hairs [3]; ericoid mycorrhizal colonisation
+  is ubiquitous in cultivated beds (about 37% on average in Wisconsin),
+  falling weakly as soil ammonium rises [14]. Isotope evidence suggests
+  the fungi mediate nitrogen uptake, and a Rutgers ¹⁵N study found they
+  raised total uptake while plants still preferred inorganic nitrogen —
+  the size of the fungal contribution is unsettled [14].
+- **Invasiveness / biosecurity:** Naturalised in Britain, Germany,
+  Switzerland and the Netherlands; considered invasive on the Dutch
+  Wadden Isles by one source (Finding 7) [15]. *Legal restrictions:*
+  Not sourced for import or planting; a Terschelling/Vlieland
+  geographical-indication application exists (Finding 7) [15].
+- **Controlled environment:** Not viable — a flood-managed field crop
+  requiring genuine winter chilling, fundamentally incompatible with
+  controlled-environment production (an inference; no source tested
+  it) [3].
 
 ## Hazards
 
 Documented diseases include a leafhopper-spread phytoplasma disease
 affecting the vines, a virus, and several distinct fungal fruit rots
-affecting harvested and stored fruit.
+affecting harvested and stored fruit [2][3].
 
 **TO BE ADDRESSED** — a genuinely disputed interaction between
 cranberry juice or concentrate and a common blood-thinning medication:
 an early regulatory warning rested on poorly documented case reports,
 a controlled trial using ordinary juice found no effect, but a separate
 trial using a concentrated preparation did find a measurable
-pharmacodynamic effect. Deferred until this project has a place for
+pharmacodynamic effect [7][8][9][10]. Deferred until this project has a place for
 this kind of health/safety data.
 
 ## Uses and processing
@@ -230,13 +296,18 @@ this kind of health/safety data.
   sauce, or sliced, sugar-infused, and dried into sweetened dried
   cranberries; dry-harvested fruit → cleaned → graded to a fresh-market
   quality standard → stored cold for 2-4 months; bog trash and culled
-  fruit → organic matter returned to the bed.
+  fruit → organic matter returned to the bed [1][2][3].
 - Not covered in detail by this research: bulk freezing and canned sauce
   production in detail; juice-drink blending; bog construction in
   detail (beyond the basic sand-cap and diking description above).
 
 ## Open research questions
 
+- 2026-11-17 pass caveats: Finding 7 and the new lines are search-
+  snippet-level only. Open: the contents of the Terschelling/Vlieland
+  geographical-indication dossier; current Dutch invasive status beyond
+  Weeda (2009); measured 2020s yield declines from heat; current state
+  production shares; import or planting restrictions.
 - Standard storage-temperature and humidity recommendations conflict
   somewhat between sources (a 2-5°C range versus a single alternative
   7°C recommendation; a 90-95% relative humidity figure versus lower
@@ -437,3 +508,44 @@ and a Vaccinium corymbosum soil-solution EC recommendation, both
 roughly consistent in direction with the cranberry-specific figures.
 Accessed 2026-11-09; the UMass report and Samson et al. 2017 at
 search-snippet/abstract depth, neither opened in full.
+
+[14] Search-snippet-level material on cranberry ericoid mycorrhizae: a
+Rutgers undergraduate-research journal article ("Ericoid mycorrhizae
+influence nitrogen acquisition by *Vaccinium macrocarpon*", ¹⁵N tracer
+study), a 2007 Ecological Society of America abstract and a USGS
+publication on Wisconsin cultivated beds (average 37% colonisation,
+leaf and root δ15N evidence, a weak negative relation to soil ammonium,
+plant uptake exceeding fertilizer inputs), and a SARE project overview.
+Accessed 2026-11-17, search snippets only.
+
+[15] Search-snippet-level material on European naturalisation: Alien
+Plants of Belgium (naturalised in Germany, the British Isles and the
+Netherlands; invasive on the Wadden Isles per Weeda 2009), i-flora,
+Botanische Tuinen Nederland (widely planted and escaping, e.g. on
+Terschelling), an IVN nature-guide page on Terschelling dune valleys,
+CWRnl (least concern, stable or increasing since 1950), 1930s
+Natuurtijdschriften articles (titles only), and RVO's 2026 single
+document and product dossier for the "Cranberry van Terschelling en
+Vlieland" geographical-indication application (not read). Accessed
+2026-11-17, search snippets only.
+
+[16] Search-snippet-level material on heat and climate: a 2021 USDA-ARS
+research news release (heat stress lowering yield and quality, raising
+disease; New Jersey and Massachusetts warming fastest) and the related
+ARS project record (fruit damage and rot at about 35-45 °C), a Rutgers
+pinelands presentation on cranberry and the changing climate, and 2020
+press coverage quoting a University of Massachusetts specialist on
+later cool nights and fruit rot and on Wisconsin overtaking
+Massachusetts in the 1990s. Accessed 2026-11-17, search snippets only.
+
+[17] Search-snippet-level material on harvest timing: the University of
+Massachusetts *Harvest and Post-harvest Management* best-management-
+practice guide (2000) and its cranberry chart book on fruit quality
+management, a *HortScience* 41(3) article, and the US cranberry
+industry's cultivation page. Supplied: harvest at full maturity with
+good anthocyanin colour before over-ripeness, the importance of colour
+for "no colour added" products, the dry-for-fresh and water-for-
+processing split, weather constraints on each method, light and weed-
+shading effects on colour, a September to early November window, and a
+harvest period of usually eight weeks or less. Accessed 2026-11-17,
+search snippets only.
