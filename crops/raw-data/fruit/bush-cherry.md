@@ -3,7 +3,11 @@
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/bush-cherry.md`
 **Researched:** 2026-10-05 (re-researched 2026-11-09 against the full current
 checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
-see the new Agronomic data lines on photoperiod and salinity, added that date)
+see the new Agronomic data lines on photoperiod and salinity, added that date;
+re-researched again 2026-11-17 against the full current checklist — see
+Finding 4 and the new Agronomic data lines on harvest pattern, first
+bearing, establishment, composition, weather response, water regime,
+harvest stages, soil biology, and invasiveness / biosecurity)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -101,25 +105,59 @@ gall. Named selections include 'Black Beauty' and a selection from an
 early-20th-century American plant breeder, who also used this species as
 the parent of a line of cold-hardy cherry-plum hybrids [2][5][8].
 
+**Finding 4 — one species is an introduced shrub that naturalises; the
+other is a protected native in parts of its range.** Nanking cherry is
+introduced in North America, where it is planted in hedges and is said
+to naturalise in the landscape without being considered invasive
+(NC State Extension); one horticultural database nonetheless tags it
+"invasive", so the sources conflict [11]. Sand cherry runs the other
+way: it is native, has no US federal listing, but is state-listed as
+threatened in Arkansas and Tennessee, eastern sand cherry is threatened
+in Massachusetts and New York, Great Lakes sand cherry is endangered in
+New York and presumed extirpated in Ohio, Iowa lists sand cherry among
+its endangered or threatened plants, Montana ranks it a species of
+concern, and Saskatchewan rates var. *besseyi* provincially endangered
+[12]. Listings vary by variety and date, and some are old [12]. Wild
+collection of seed or plants could therefore be legally restricted in
+some jurisdictions — an inference from the listings, not a sourced
+rule. Separately, a Japanese composition study found Nanking cherry
+vitamin C below 1 mg/100 g and Brix about half that of cherries, which
+fits its use for jam, juice and wine rather than fresh eating [13].
+
 ## Agronomic data
 
 - **Life form / season:** Deciduous shrubs — Nanking cherry
   multi-stemmed, 2.4-3.7 m; sand cherry smaller and suckering, 0.6-1.8 m.
   Nanking cherry blooms very early (with apricots) and ripens in June in
   one documented trial region; sand cherry blooms in May, with ripening
-  timing not independently sourced.
+  timing not independently sourced [1][2][3][5].
+- **Harvest pattern:** Perennial bearing, one summer crop; Nanking
+  cherry ripens all at once and holds on the bush 2-3 weeks [3][6][8].
+- **Days/years to first bearing:** Nanking cherry bears from year 3-4
+  [3]. Sand cherry: Not sourced.
+- **Establishment:** Seedlings from stratified seed (Nanking cherry about
+  100 days cold-moist; fall sowing stratifies naturally) set 1.8-3 m
+  apart in hedges or 2.4-4.6 m as single shrubs, irrigated through the
+  first summer [3][4]. A Chinese nursery note instead says Nanking
+  cherry seed sown fresh at harvest, without removing flesh or storing,
+  emerges at over 90% — at odds with the stratification advice, and
+  not reconciled [14].
 - **Climate:** Cool-temperate to temperate, continental, and semi-arid
   climates across a wide cold-hardiness range; both species perform
-  poorly in hot, humid climates (Finding 1).
-- **Food status / composition:** Raw-edible. Caloric and protein content
-  are carried over by analogy from a related cherry crop this project
-  has also researched, since no direct composition figure was found for
-  either species specifically.
+  poorly in hot, humid climates (Finding 1) [1][3][5][6].
+- **Edibility:** Raw-edible; both fruits are also used for jam, jelly,
+  juice, pies and wine, and sand cherry can be dried [3][4][5].
+- **Composition:** Nanking cherry: vitamin C below 1 mg/100 g fresh
+  weight, Brix about half that of cherries, malic acid exceeding citric
+  [13]; glucose and fructose the main sugars, high total phenolics and
+  antioxidant activity [7][13]. Caloric and protein content are carried
+  over by analogy from a related cherry crop (see Estimates below).
+  Sand cherry: Not sourced.
 - **Pollination:** Nanking cherry's pollination requirement is disputed
   between sources — one source states two or more plants are required,
   while others describe it as partly self-fertile; both are
   insect-pollinated. Sand cherry is insect-pollinated, with
-  self-fertility not stated in the sources reviewed.
+  self-fertility not stated in the sources reviewed [3][4][6].
 - **Photoperiod sensitivity:** Not sourced specifically for either
   species. By Prunus-genus analogy only (not confirmed species-
   specific): as with other stone-fruit Prunus crops this project has
@@ -139,17 +177,18 @@ the parent of a line of cold-hardy cherry-plum hybrids [2][5][8].
   downward to reflect both species' documented high drought tolerance
   once established — both need regular irrigation through their first
   summer, but become notably drought-tolerant afterward, and both
-  dislike waterlogged soil, preferring well-drained, often sandy ground.
+  dislike waterlogged soil, preferring well-drained, often sandy ground
+  [3][5] (see Estimates below).
 - **Propagation:** Both are typically grown from seed (seedlings);
   cuttings and layering are also possible, and sand cherry also spreads
   by root sprouts. Nanking cherry seed needs about 100 days of
   cold-moist stratification; sand cherry needs 2-3 months, with
   germination sometimes taking up to 18 months. Neither has a hybrid
   seed system — the sand-cherry × plum hybrids are separate clonal
-  cultivars, not an F1 seed trade.
+  cultivars, not an F1 seed trade [2][3][4][5].
 - **Soil:** Well-drained soil is strongly preferred, sandy for both
   species; Nanking cherry tolerates alkaline soil to around pH 8 or
-  higher, though another source gives a narrower range. Nutrient-uptake
+  higher, though another source gives a narrower range [3][5][8]. Nutrient-uptake
   figures were not found for either species. Salinity, by contrast, is
   now sourced species-specifically for both from the same controlled
   trial: Nanking cherry was rated severely susceptible to soil-applied
@@ -164,30 +203,60 @@ the parent of a line of cold-hardy cherry-plum hybrids [2][5][8].
 - **Labor:** No sourced labor-hour study exists for either species; hand
   harvest of the soft, easily damaged fruit is explicitly identified as
   the main obstacle to commercial production, and is assumed to dominate
-  total labor hours.
+  total labor hours [3][8] (see Estimates below).
 - **Storage:** Both species have a very short shelf life — the fruit is
   soft and tears at the stem — with freezing the usual preservation
-  method; no formal cold-storage regime was sourced for either.
+  method; no formal cold-storage regime was sourced for either [3][8].
 - **Stand life:** Not directly sourced for either species; old canes are
   renewed yearly in Nanking cherry, and a related ornamental sand-cherry
-  hybrid is reported to live up to 20 years.
+  hybrid is reported to live up to 20 years [2][3].
 - **Cultivars:** Nanking cherry is mostly seed-grown with few named
   forms (a white-fruited form, and several further named forms whose
   traits were not researched in detail); the sand cherry group includes
-  two named selections and the western sand cherry species group itself.
+  two named selections and the western sand cherry species group itself
+  [1][2][5][8].
 - **Controlled-environment viability:** Not researched in depth; container
   and bonsai use is noted for Nanking cherry in at least one general
-  reference source.
+  reference source [1]. Chinese protected-cultivation material found in
+  this pass covers sweet and Chinese cherry, not these species [14].
+- **Weather response:** Cold: among the hardiest (Finding 1) — Nanking
+  cherry about -40 °C, sand cherry about -50 °C dormant [1][3][5][6].
+  Spring frost: Nanking cherry blooms with apricots and carries similar
+  bloom-frost risk [3]. Heat and humidity: both do poorly [1]. Drought:
+  very tolerant once established [3][5]. Rain: Nanking cherry fruit
+  resists rain-cracking [6]. Waterlogging: both dislike it [3][5]; no
+  duration figure found.
+- **Water regime:** Ordinary irrigation in the first summer, little
+  afterward; no flooded requirement [3][5].
+- **Harvest stages / windows:** One ripe-fruit stage, ripening
+  synchronously in Nanking cherry and holding 2-3 weeks on the bush
+  [3][6][8]; unripe Nanking cherry fruit is pickled in at least one
+  source, so a minor green stage may exist (see Open questions) [4].
+- **Soil biology:** Not sourced for either species.
+- **Invasiveness / biosecurity:** Nanking cherry is native to northern
+  and western China, Korea and Mongolia, introduced in North America,
+  and naturalises without an invasive listing found, with one database
+  tagging it invasive (Finding 4) [11]. Sand cherry is a North American
+  native with state threatened/endangered listings (Finding 4) [12].
+  *Legal restrictions:* in Canada, the CFIA's current fruit-tree
+  nursery-stock directive (third revision, effective April 1, 2026;
+  directive number not confirmed) governs *Prunus* fruit-tree nursery stock and requires
+  plum-pox-virus-susceptible material not to be produced where the virus
+  occurs or is under eradication, and moving regulated nursery material
+  out of the Niagara plum pox regulated area (expanded February 2025) is
+  prohibited [15]. Whether either species is on the susceptible-species
+  list was not confirmed [15]. State conservation listings for sand
+  cherry are a separate kind of restriction (Finding 4) [12].
 
 ## Hazards
 
 Documented pests and diseases include spider mites, a cherry fruit fly,
 a black cherry aphid, a fungal shoot-blight disease, and — under stress
-— borers and brown rot.
+— borers and brown rot [1][3].
 
 **TO BE ADDRESSED** — like other stone-fruit species in the genus
 *Prunus*, the leaves and seeds of both species contain cyanogenic
-glycosides (a bitter taste signaling the toxicity). Deferred until this
+glycosides (a bitter taste signaling the toxicity) [4][5]. Deferred until this
 project has a place for this kind of health/safety data.
 
 ## Uses and processing
@@ -195,7 +264,7 @@ project has a place for this kind of health/safety data.
 - **Chains:** hand-picked fruit → same-day sorting → eaten fresh, or made
   into juice, jam, jelly, preserves, pies, or wine; sand cherries can
   also be dried for storage; stones → stratified → grown on as seedlings
-  for hedges or rootstock; prunings → cuttings.
+  for hedges or rootstock; prunings → cuttings [1][3][4][5].
 - Not covered in detail by this research: frozen-fruit handling in
   detail; pickled unripe Nanking cherry fruit (noted in sources but not
   independently researched); the sand-cherry × plum hybrid cultivars;
@@ -224,6 +293,13 @@ project has a place for this kind of health/safety data.
 - Photoperiod sensitivity for flowering is carried over by Prunus-
   genus analogy only; no species-specific study was found for either
   species.
+- 2026-11-17 pass caveats: Finding 4 and the new lines are search-
+  snippet-level only. Open: the conflicting "naturalises, not invasive"
+  vs. "invasive" labels for Nanking cherry; which sand cherry listings
+  are current; whether either species is on Canada's plum-pox-
+  susceptible list; the fresh-sowing vs. 100-day-stratification
+  conflict; no sand cherry composition, first-bearing or soil-biology
+  data; no protected-cultivation data for either species.
 - Nanking cherry's salinity tolerance conflicts between a controlled
   seedling trial (severely susceptible) and a separate source noting
   the species is often field-planted on saline/saline-alkali soils in
@@ -350,3 +426,41 @@ saline/saline-alkali soils in China, and a 2008 Chinese stone-fruit
 salt-resistance comparison rating it weakest of five species tested.
 Accessed 2026-11-09; the Dirr paper was opened directly, the
 supplementary material at search-snippet depth only.
+
+[11] Search-snippet-level material on Nanking cherry's status outside
+its native range: Flora of North America (introduced; hedge and
+background planting), NC State Extension plant toolbox (naturalises,
+not considered invasive), a Horticopia entry (tagged "invasive"), and
+general reference on native range. Accessed 2026-11-17, search snippets
+only.
+
+[12] Search-snippet-level material on sand cherry conservation status:
+the USDA Forest Service Fire Effects Information System (FEIS) species
+review (state listings in Arkansas, Tennessee, Massachusetts, New York,
+Ohio), Iowa Administrative Code 571-77.3, the Massachusetts Natural
+Heritage page, the Montana Field Guide (S1S3), and the University of
+Saskatchewan rare-plants page (var. *besseyi* provincially endangered).
+Accessed 2026-11-17, search snippets only.
+
+[13] Shimizu & Yoshida, *Trace Nutrients Research* 39 (J-STAGE), on
+downy cherry (*P. tomentosa*) composition, and Cao et al. (2014), *Food
+Chemistry*, comparing four cherry species in China (via a Sigma-Aldrich
+paper listing). Supplied: vitamin C below 1 mg/100 g, Brix about half
+that of cherries, malic over citric acid, glucose and fructose as main
+sugars, and high phenolics. Accessed 2026-11-17, abstracts at search-
+snippet depth only.
+
+[14] Search-snippet-level Chinese-language material: a nursery note on
+sowing Nanking cherry (毛樱桃) seed fresh at harvest with over 90%
+emergence, and protected-cultivation articles and patents for sweet
+and Chinese cherry (Shandong, Weihai, Jinhua). Accessed 2026-11-17,
+search snippets only.
+
+[15] Canadian Food Inspection Agency: the fruit-tree nursery-stock directive
+for Malus, Pyrus, Chaenomeles, Cydonia and Prunus (third revision,
+effective April 1, 2026; its directive number was not confirmed from
+the snippet), the plan to replace
+D-99-07, the 2022 notice on the plum pox management program, and the
+February 2025 notice expanding the Niagara plum pox regulated area.
+Accessed 2026-11-17, search snippets only; the susceptible-species
+appendix was not seen.
