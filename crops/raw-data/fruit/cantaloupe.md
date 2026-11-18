@@ -5,7 +5,11 @@
 checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
 see the new Agronomic data line on photoperiod/sex-expression and the
 numeric salinity figure now written into Soil from a citation that already
-existed but was never used, added that date)
+existed but was never used, added that date; re-researched again 2026-11-17 against the full
+current checklist — see Finding 6 and the new Agronomic data lines on
+days to first harvest, establishment, composition, weather response,
+water regime, harvest stages, soil biology, invasiveness / biosecurity,
+and an expanded controlled-environment line)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -113,22 +117,48 @@ carrier of two notable foodborne bacterial pathogens; a well-known 2011
 outbreak (147 cases and 33 deaths) was traced to contamination at a
 packing facility rather than in the field [1][3][15].
 
+**Finding 6 — a heat-favoured soil fungus collapses whole fields just
+before harvest, and grafting is the main workaround.** Monosporascus
+root rot / vine decline causes sudden, generally uniform canopy
+collapse of entire fields 1-2 weeks before harvest; it is most severe
+in hot, semi-arid regions, melon is (with watermelon) its most
+susceptible host, and the fungus is native to the south-western US
+[24]. Symptoms are worse at higher temperatures, so soil solarization
+is not promising; preplant fumigation reduces soil populations [24].
+Unlike Fusarium wilt, which resistant cultivars handle, vine decline
+has resisted breeding, though resistance exists in a Korean subsp.
+*agrestis* accession ('Pat 81') and in the wild relative *Cucumis
+metuliferus*, proposed as a rootstock [24]. Grafting onto *Cucurbita*
+hybrid rootstocks is the promising route; the rootstocks are not
+resistant, but their vigour lets the crop finish, with variable results
+[24]. This is the disease behind the vine-collapse and sunburn exposure
+noted under Hazards [5][21].
+
 ## Agronomic data
 
 - **Life form / season:** An annual, seed-grown running vine; warm-season
   crop, performing best in a moderate warm range and slowing above or
-  below that range; frost-tender.
+  below that range; frost-tender [6][21].
 - **Harvest pattern:** Indeterminate/continuous — fruit sets at
   different times across the vine and is picked over several passes at
   the correct slip stage, with crown-set fruit (near the base of the
   vine) typically the earliest, largest, and highest quality (Finding
-  1, 3).
+  1, 3) [3][5].
+- **Days/years to first bearing:** About 120 days from sowing to harvest
+  for winter-planted desert-region and Indian crops [5][14]; 75-120 days
+  across cultivars and climates is an estimate (see Estimates below).
+- **Establishment:** Direct-seeded in most major US production, or
+  transplanted onto plastic mulch with drip where soils are cool, at a
+  documented soil temperature, transplant age and plant population [5]
+  [6][7]; Indian guidance gives sowing season, seed rate and spacing
+  [14].
 - **Climate:** Arid, semi-arid, Mediterranean, subtropical, warm
   temperate, and (with plastic mulch and transplants) temperate climates
-  all support production.
-- **Food status / composition:** Raw-edible; a detailed public food-
-  composition database entry gives roughly 340 kcal/kg and 8.4 g
-  protein/kg for raw fruit.
+  all support production [5][6][7][14].
+- **Edibility:** Raw-edible; the rind should be washed before cutting
+  (Finding 5) [3]. Dried seed is eaten as a snack in some markets [1].
+- **Composition:** A detailed public food-composition database entry
+  gives roughly 340 kcal/kg and 8.4 g protein/kg for raw fruit [12].
 - **Pollination:** Requires insect (bee) pollination; most cultivars are
   andromonoecious, with some monoecious and gynoecious lines used
   specifically in hybrid-seed breeding (Finding 3).
@@ -156,22 +186,24 @@ packing facility rather than in the field [1][3][15].
   early-season withholding strategy and a hard pre-harvest irrigation
   cutoff are both well documented in commercial practice; drought
   tolerance is judged moderate and waterlogging tolerance low (Finding
-  4).
+  4) [5][9][19] (see Estimates below).
 - **Propagation:** Direct-seeded in most major US production (though
   transplants on plastic mulch are used in some growing regions); a seed
   rate in the low single digits of kg/ha is derived from sourced
-  seeding-rate figures; germination is fastest at warm soil temperatures.
+  seeding-rate figures; germination is fastest at warm soil temperatures
+  [5][6][7][14][18] (see Estimates below).
 - **Labor:** Harvest is the dominant labor component, since fruit must
   be hand-picked at the correct slip stage and is often field-packed
   directly onto harvest-aid platforms; sourced figures come from a
   documented regional cost-study budget's hand-labor hours and harvest
-  crew productivity rate, with other operations estimated by comparison.
+  crew productivity rate, with other operations estimated by comparison
+  [5][6] (see Estimates below).
 - **Soil:** A fairly narrow near-neutral pH range is preferred; nitrogen,
   phosphorus, and potassium uptake per tonne of fruit are derived from a
   California fertilization guideline's nutrient-removal figures; heavier
   soils are preferred early in the season for moisture retention, while
-  well-drained sandy loam rich in organic matter is generally preferred.
-  Salinity tolerance is rated moderately sensitive, with an ECe threshold
+  well-drained sandy loam rich in organic matter is generally preferred
+  [7][8][14]. Salinity tolerance is rated moderately sensitive, with an ECe threshold
   of 1.0 dS/m and yield declining roughly 8.4% per additional dS/m above
   that threshold (FAO Irrigation & Drainage Paper 29 salt-tolerance
   table); the same table lists watermelon alongside muskmelon but without
@@ -181,18 +213,59 @@ packing facility rather than in the field [1][3][15].
   chilling injury below a specific temperature threshold; the netted rind
   is a documented carrier of foodborne bacterial pathogens and should be
   washed before cutting (Finding 5).
-- **Harvest:** Hand-picked at "half slip" (for shipping durability) or
+- **Harvest stages / windows:** Hand-picked at "half slip" (for shipping durability) or
   "full slip" (for local sale, better flavor, shorter shelf life); fruit
   quality (sugar content) is fixed at harvest and does not improve
-  afterward (Finding 1).
+  afterward (Finding 1) [3][6]. Fruit sets successively across the vine,
+  so a planting is picked daily or every other day over several passes,
+  crown-set fruit first [3][5].
 - **Cultivars:** Spans netted and non-netted market groups, US shipping
   versus local types, open-pollinated versus F1 hybrid seed, and European
   and Indian cultivar types; F1 hybrid seed now dominates commercial
   production, having become widespread in the 1980s (Finding 3; cultivar
-  detail below).
-- **Controlled-environment viability:** Plastic mulch and low tunnels are
-  common in commercial production; dedicated greenhouse melon production
-  and hydroponic viability were not researched in depth for this crop.
+  detail below) [7][14][16].
+- **Controlled environment:** Plastic mulch and low tunnels are common
+  in commercial production [6]. A full glasshouse system exists in Japan:
+  Shizuoka "Crown" melons, descended from the English netted melon
+  'Earl's Favourite' first planted in Fukuroi in 1924, are grown in
+  three-quarter-span glasshouses in isolated beds with stage-managed
+  water, pruned to one fruit per plant [25]. Hydroponic melon trials
+  exist (Thai deep-flow technique; Japanese perlite substrate), but no
+  yield figure for the Crown system was found [25].
+- **Weather response:** Frost: tender [21]. Cool weather: poor fruit
+  set, with a plant-hormone treatment labelled for cool-weather set
+  [21]. Heat: sunburn/solar injury and vein-tract browning from heat at
+  harvest [3]; heat also worsens Monosporascus vine decline (Finding 6)
+  [24]. Rain or wet soil at harvest: ground spotting, rot and soft fruit,
+  hence the pre-harvest irrigation cutoff (Finding 4) [5]. Hail injury
+  is a documented disorder [3]. Drought: deficit irrigation cuts
+  marketable yield about 30%, worst at bloom (Finding 4) [19].
+- **Water regime:** Ordinary furrow or drip irrigation with early-season
+  withholding and a pre-harvest cutoff; no flooded requirement, and
+  excess soil water at harvest damages fruit [5][6].
+- **Soil biology:** Soil-borne pathogens dominate: a water-mould wilt,
+  Fusarium wilt (managed by resistant cultivars), and Monosporascus vine
+  decline (managed by grafting and fumigation, Finding 6) [5][24].
+  Mycorrhizal association: Not sourced in this pass.
+- **Invasiveness / biosecurity:** Cultivated melon is not listed as
+  invasive in any source found. Wild and weedy forms of the same species
+  are: var. *dudaim* (smellmelon) is reported as a weed of cotton,
+  soybean and other crops in parts of North America, and subsp. *agrestis*
+  as a weed in Africa and Asia [26]. Flora of North America says wild US
+  *C. melo* populations are usually assumed to be escapes of var. *chito*
+  or *dudaim*, and records a possibly naturalised *dudaim* collection in
+  Santa Cruz County, Arizona [26]. A state noxious-weed listing for these
+  forms was not confirmed [26]. Since all *C. melo* types cross (see
+  [20]), weedy melon can contaminate seed crops — an inference, not
+  sourced. *Legal restrictions:* Australia requires *Cucumis melo* seed
+  for sowing to be certified or tested free of cucumber green mottle
+  mosaic virus and melon necrotic spot virus, with mandatory ELISA
+  testing (2020 industry advice) for host seed of these and related
+  viruses; the onshore-only vs. offshore testing rules differ between
+  the 2016 and later documents [27]. EU rules were not found in this
+  pass.
+
+## Hazards
 
 ## Hazards
 
@@ -208,7 +281,7 @@ vein-tract browning from heat at harvest, a "wet slip" disorder with
 liquid in the seed cavity, ground-contact spotting, growth cracks, and
 hail injury; poor fruit netting and small, low-sugar fruit are linked to
 nitrogen deficiency, and triangular or otherwise misshapen fruit is
-harder to pack commercially.
+harder to pack commercially [3][5][8][21].
 
 **TO BE ADDRESSED** — the rough, netted rind of this crop is a documented
 carrier of two notable foodborne bacterial pathogens, which can be
@@ -226,7 +299,8 @@ this kind of health/safety data.
   into seed (the dried seed is also eaten as a snack in some markets); F1
   hybrid seed production: female and male parent lines grown in rows,
   hand-pollinated (a specialized, labor-intensive activity), with the
-  resulting crossed fruit scooped, cleaned, and dried into F1 seed.
+  resulting crossed fruit scooped, cleaned, and dried into F1 seed
+  [1][3][5][12][16][20].
 - Not covered in detail by this research: fresh-cut processing (chlorine
   rinsing and cold storage of cut cubes); plastic-mulch and beehive
   logistics in detail. No canned or frozen product was identified in the
@@ -263,6 +337,11 @@ this kind of health/safety data.
   cucurbit crop (gynoecious-line maintenance via a specific plant
   hormone treatment) applies directly to this crop was not confirmed by
   a melon-specific source.
+- 2026-11-17 pass caveats: Finding 6 and the new lines are search-
+  snippet-level only. Open: no mycorrhizal finding; no confirmed state
+  noxious-weed listing for smellmelon or wild melon; Australian seed-
+  testing rules conflict between dates and EU rules were not found; no
+  yield figure for Japanese glasshouse Crown melon.
 - Sex-expression photoperiod/temperature sensitivity relies partly on
   cucumber (a congener) evidence rather than melon-specific
   quantitative studies; a direct melon sex-expression trial would
@@ -491,3 +570,36 @@ male-to-female flower ratio (short days/low temperature favoring
 female flowers, long days/high temperature favoring male flowers), with
 melon-specific quantitative data noted as thin. Accessed 2026-11-09,
 search snippets only, none opened directly.
+
+[24] Search-snippet-level material on Monosporascus root rot / vine
+decline and grafting: an APS education-center lesson, a HortScience
+(2008) grafting article, a Ben Salem et al. (2015) crop-sequence study,
+an *Annals of Applied Biology* resistance study (subsp. *agrestis* 'Pat
+81'), and the UC IPM cucurbit pest-management guidelines. Supplied:
+pre-harvest field collapse, hot semi-arid severity, host range, native
+range, temperature effect, fumigation and solarization notes, resistance
+sources, and *Cucurbita* rootstock vigour as the grafting mechanism.
+Accessed 2026-11-17, search snippets only.
+
+[25] Search-snippet-level material on Japanese glasshouse "Crown"
+melon: Nippon.com articles on Japanese fruit, Google Arts & Culture
+entries, and a Japanese Ministry of Agriculture (MAFF) heritage record,
+plus hydroponic melon trials (a 2025 Thai deep-flow-technique study and
+a Japanese low-potassium perlite study). Supplied: the 'Earl's
+Favourite' origin and 1924 Fukuroi planting, one fruit per plant,
+three-quarter-span glasshouses, isolated beds and stage-managed water.
+Accessed 2026-11-17, search snippets only.
+
+[26] Search-snippet-level material on weedy *Cucumis melo*: the
+Pestinfo wiki entry "Cucumis melo (weed)", Flora of North America on
+subsp. *agrestis* and wild US populations, and USDA GRIN-Global taxonomy
+pages (citing the Federal Seed Act state noxious-weed seed list as a
+reference, without a confirmed listing). Accessed 2026-11-17, search
+snippets only.
+
+[27] Australian Department of Agriculture material: the MICOR import
+condition page for *Cucumis melo* seed (CGMMV and MNSV endorsements and
+testing for lots of 10,000+ seeds), industry advice 66-2020 (mandatory
+ELISA testing), the cucurbitaceous crop seeds risk analysis and fact
+sheet, and 2016-2017 biosecurity advice memos. Accessed 2026-11-17,
+search snippets only.
