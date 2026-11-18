@@ -3,7 +3,11 @@
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/citron.md`
 **Researched:** 2026-10-02 (re-researched 2026-11-09 against the full current
 checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
-see the new Agronomic data lines on photoperiod and salinity, added that date)
+see the new Agronomic data lines on photoperiod and salinity, added that date;
+re-researched again 2026-11-17 against the full current checklist — see
+Finding 6 and the new Agronomic data lines on harvest pattern, first
+bearing, establishment, composition, weather response, water regime, soil
+biology, and invasiveness / biosecurity)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -88,20 +92,59 @@ peel oil contains the same photosensitizing furanocoumarin compounds
 found in lemon and lime peel oil, a documented skin-contact hazard when
 combined with sunlight exposure [11].
 
+**Finding 6 — in Calabria the crop is trained flat on a two-tier
+pergola under winter cover, and the industry has shrunk about 90%.**
+A 2011 bulletin from the Calabrian regional agricultural agency (ARSSA)
+describes the "Riviera dei Cedri" (Diamante, Buonvicino, Santa Maria
+del Cedro), whose promontory microclimate suits a crop "very sensitive
+to temperature swings"; riverside sites (fiumare) are favoured for loose
+soil and shelter from cold winds [15]. Regional Law 13/89, a law to
+safeguard citron growing, limited citron-growing areas to below 300 m
+because frost risk rises sharply above that [15]. Traditional
+plantings are 2.5 × 2.5 m under a low pergola with branches forced
+onto two tiers (90-100 cm and 170-180 cm), covered in winter with cane,
+brush, ferns or mats, with all work done by hand, often kneeling [15].
+ARSSA's experimental system instead uses 3 × 3 m rows trained as a
+"palmetta libera" on two wires (80-90 cm and 130-150 cm) under a
+permanent, whole-field 50-60% dark shade/hail net on a pergola at least
+2.2 m high, sides closed to the ground in winter (a slight greenhouse
+effect against frost) and raised in summer for ventilation and shade
+[15]. Production peaked in 1930-1940 at about 85,000 quintals (8,500 t)
+from about 400 ha, over half exported to the USA and northern Europe,
+then fell to about 35,000 q in the 1970s, 25,000 q in the 1980s and
+4,000-7,000 q (400-700 t) from about 60-70 ha by 2011, largely through
+competition from cheaper Puerto Rican diced citron [15]. Implied yields
+are derived under Estimates below.
+
 ## Agronomic data
 
 - **Life form / season:** A thorny, evergreen shrub or small tree
   (roughly 2.4-4.5 m), blooming several times a year with no dormant
-  season.
+  season [1][2][6].
+- **Harvest pattern:** Perennial bearing with several bloom flushes a
+  year [2]; harvests are split by product — green candying fruit,
+  ritual fruit in late summer to early autumn, then yellow ripe fruit
+  (see Harvest stages / windows) [1][3][4][5].
+- **Days/years to first bearing:** 2-3 years (Finding 4) [1][6] (see
+  Estimates below).
+- **Establishment:** Own-rooted cuttings of 2-4-year-old wood (ritual
+  trees) or budded trees (peel orchards) [1][6]; in Calabria, 2.5 ×
+  2.5 m traditionally or 3 × 3 m in the ARSSA system, trained onto a
+  two-tier pergola or wires with winter cover (Finding 6) [15].
 - **Climate:** Subtropical and frost-free Mediterranean coastal climates,
   and tropical conditions below roughly 1,300 m elevation — the
   narrowest climate tolerance of any citrus species researched for this
-  project (Finding 3).
-- **Food status / composition:** Raw-edible (pith and zest; pulp is
-  often minimal and acidic). Detailed caloric and protein composition
-  figures were not confidently sourced; one source's moisture and
-  vitamin-C figures were flagged by the source itself as needing
-  rechecking.
+  project (Finding 3) [1][6]. Calabrian growing is legally limited to
+  below 300 m (Finding 6) [15].
+- **Edibility:** Raw-edible (pith and zest; pulp is often minimal and
+  acidic) [1][2].
+- **Composition:** Detailed caloric and protein figures were not
+  confidently sourced; one source's moisture and vitamin-C figures were
+  flagged by the source itself as needing rechecking [1]. A 2018 review
+  (*Food & Function*) lists iso-limonene, citral, limonene, phenolics,
+  flavanones, vitamin C and pectin as the main bioactive constituents,
+  with the thick albedo the pectin-rich part; its per-100 g tables were
+  not seen [16].
 - **Photoperiod sensitivity:** No citron-specific day-length study was
   found; by citrus-genus analogy, flowering is considered
   "autoinductive" — driven by cold and water-deficit stress rather than
@@ -109,7 +152,7 @@ combined with sunlight exposure [11].
   dormancy-free bloom flushes [13]. Not applicable to tuberization/
   bulbing — a tree crop with no storage organ.
 - **Pollination:** Not required; the species is self-pollinating, though
-  insects do visit the flowers.
+  insects do visit the flowers [1][2].
 - **Yield:** A world-average figure (roughly 7,000 kg/ha) is derived
   from a documented total peel-crop output and growing area; good and
   exceptional tiers are derived from per-tree yield figures and an
@@ -121,14 +164,15 @@ combined with sunlight exposure [11].
   detailed citrus water-use discussion these figures are drawn from).
   Drought tolerance is judged low, consistent with documented heat/
   drought damage to foliage and fruit, and waterlogging tolerance is
-  also low, since the species needs good soil aeration.
+  also low, since the species needs good soil aeration [1][7] (see
+  Estimates below).
 - **Propagation:** Mainly by rooted cuttings of 2-4-year-old wood, or by
   budding for non-ritual peel orchards; budding/grafting is explicitly
   forbidden for trees intended to produce ritual fruit. Seed propagation
   is also an accepted route for ritual trees, since seedlings grow
-  true-to-type due to the species' high homozygosity.
+  true-to-type due to the species' high homozygosity [1][2][9][10].
 - **Soil:** Deep, well-drained loam with good aeration is preferred; a
-  near-neutral to mildly alkaline pH range is tolerated. Citron is
+  near-neutral to mildly alkaline pH range is tolerated [1][6]. Citron is
   documented as salt-sensitive at the species level: an Etrog citron
   accession showed markedly poorer chloride exclusion than Rangpur lime
   rootstock in one study, and the FAO EcoCrop database rates its soil
@@ -144,34 +188,64 @@ combined with sunlight exposure [11].
   labor components. Ritual-fruit orchards are likely considerably more
   labor-intensive per kilogram than peel orchards, given the
   fruit-by-fruit inspection and grading required, though this was not
-  quantified in any source.
+  quantified in any source [1][9] (see Estimates below). The traditional
+  Calabrian pergola requires all work by hand, often kneeling; ARSSA's
+  wire-trained system is claimed to cut labour costs considerably and
+  allow some mechanisation (Finding 6) [15].
 - **Storage:** Fresh fruit keeps best cool (around 10°C) for one to two
   weeks; at room temperature it loses weight and yellows quickly. Ritual
   fruit can be held for several months under refrigeration with specific
   plant-hormone and fungicide dips, a specialized storage protocol
-  distinct from ordinary peel-crop storage.
+  distinct from ordinary peel-crop storage [4][5].
 - **Stand life:** Bearing begins at 2-3 years, peak production is
   reached between roughly 8 and 15 years, commercial orchards are
   typically kept productive for about 12-14 years, and trees generally
   die around 25-30 years of age (Finding 4).
 - **Disease/pest profile:** Citrus bud mite, rust mite, and scale insects;
   gummosis and dieback; a branch-knot fungal disease in at least one
-  growing region.
+  growing region [1].
 - **Cultivars:** Spans acidic peel-crop types (several named regional
   cultivars), non-acidic peel-crop types, and several named ritual
   ("etrog") strains tied to different Jewish communities' traditional
   preferences, each with slightly different fruit shape, aroma, and
-  seediness.
-- **Harvest:** Green fruit for candying is picked at a specific target
+  seediness [1][2][3][9][12].
+- **Harvest stages / windows:** Green fruit for candying is picked at a specific target
   length; ritual fruit is cut over a narrow late-summer-to-early-autumn
   window and inspected fruit by fruit; fully ripe yellow fruit (used for
   zest, culinary use, and essential-oil extraction) follows later in the
-  season.
-- **Controlled-environment viability:** Own-rooted trees grow well in
+  season [1][3][4][5].
+- **Controlled environment:** Own-rooted trees grow well in
   containers and greenhouses, as is also documented for the related
   fingered-citron crop this project has also researched; whether
   container or soilless cultivation affects a fruit's ritual
-  acceptability was not researched in any source reviewed.
+  acceptability was not researched in any source reviewed [8]. ARSSA's
+  permanent whole-field shade/hail net is a semi-protected open-field
+  system rather than a greenhouse (Finding 6) [15].
+- **Weather response:** Cold: the most cold-tender citrus — growth
+  stops below about 13 °C, fruit killed at about -2 °C (Finding 3) [6];
+  the January 2017 Calabrian frost killed much of the crop or trees
+  [9][10]. Temperature swings: singled out as harmful, more than for
+  other citrus [15]. Heat and drought: damage foliage and fruit, and
+  growth stops above about 35 °C [1][6]; ARSSA's shade net is meant
+  partly to cool hotter, sunnier modern sites [15]. Wind and hail: the
+  net also protects against them [15].
+- **Water regime:** Ordinary irrigation; no flooded requirement; poor
+  aeration and waterlogging are harmful [1][6]. Irrigation detail: Not
+  sourced beyond general guidance [6].
+- **Soil biology:** Not sourced — no mycorrhizal, replant or allelopathy
+  finding for citron was found in this pass.
+- **Invasiveness / biosecurity:** Probably native to north-eastern India
+  and nearby, where wild and semi-wild populations are reported [2][10];
+  no naturalisation or invasive listing was found. *Legal restrictions:*
+  ritual-fruit trees must be ungrafted under religious rules, and the
+  Santa Maria del Cedro geographical indication permits grafting
+  (Finding 2) [1][9][10]. Plant-health rules: Israel lets travellers
+  bring in one etrog for personal use, declared and inspected, while
+  the other three of the four species need authorisation or are
+  confiscated; Australia requires an import permit for etrog from
+  Israel but exempts a single personal religious fruit from the
+  phytosanitary-certificate requirement [17]. US import conditions for
+  etrog were not found in this pass [17].
 
 ## Hazards
 
@@ -179,7 +253,7 @@ Documented pests and diseases include citrus bud mite, rust mite, scale
 insects, gummosis, dieback, and a branch-knot fungal disease in at least
 one growing region. Thorns on the plant are also a handling hazard,
 particularly relevant since scarring from thorns can ruin fruit intended
-for the ritual market.
+for the ritual market [1].
 
 **TO BE ADDRESSED** — like other citrus, the peel oil is phototoxic (the
 same furanocoumarin compounds found in lemon and lime peel oil),
@@ -235,6 +309,13 @@ destined for export to dozens of countries.
   flowering-trigger note here relies entirely on citrus-genus analogy.
 - Planting density (trees per hectare) is an estimate based on assumed
   spacing rather than a sourced orchard-planning figure.
+- 2026-11-17 pass caveats: the ARSSA bulletin [15] was opened and its
+  text extracted; the other new material is search-snippet level. Open:
+  the bulletin's 400-700 t from 60-70 ha (2011) sits against the
+  doc's other Calabrian area/production figures and a news figure of
+  85,000 q from 400 ha that is actually the 1930s peak, so press figures
+  may be quoting the historical peak as current; per-100 g composition;
+  soil biology; US etrog import conditions.
 - Whether container or soilless cultivation of a tree intended for
   ritual fruit affects that fruit's ritual acceptability was not
   addressed in any source reviewed.
@@ -266,6 +347,16 @@ this is treated as a reasonable approximation rather than a
 species-specific measurement, since citron may transpire somewhat more
 than other citrus under heat stress (a documented sensitivity not
 otherwise quantified).
+
+Calabrian per-hectare yields implied by the ARSSA bulletin [15]: about
+85,000 q ÷ 400 ha = 212 q/ha ≈ 21 t/ha at the 1930s peak, and 4,000-
+7,000 q ÷ 60-70 ha ≈ 57-117 q/ha ≈ 6-12 t/ha around 2011 (range from
+pairing the low and high ends). The 2011 range brackets the doc's
+world-average tier of about 7 t/ha. ARSSA's 3 × 3 m spacing implies
+about 1,111 trees/ha and the traditional 2.5 × 2.5 m about 1,600 —
+both well above the 500 trees/ha assumed below, so the per-tree-based
+good and exceptional tiers are likely understated for Calabrian-style
+plantings.
 
 Planting density (roughly 500 trees/ha) is estimated from the species'
 documented shrubby growth habit and typical mature size, absent any
@@ -389,3 +480,30 @@ general citrus yield-loss threshold of roughly 1.2-1.5 dS/m soil EC
 used here as genus-level context. Accessed 2026-11-09; all at
 title/abstract or database-page/search-snippet depth, none opened in
 full.
+
+[15] Perrone, F. (ed.), *Il Cedro nel Tirreno Cosentino: innovazioni
+all'insegna delle tradizioni*, ARSSA (Agenzia Regionale per lo Sviluppo
+e per i Servizi in Agricoltura, Calabria), Centro di Divulgazione
+Agricola n. 24, Collana informativa 2011 (hosted by ARSAC). Supplied:
+the Riviera dei Cedri microclimate and riverside siting, Regional Law
+13/89's 300 m altitude limit, production history (about 85,000 q from
+about 400 ha in 1930-1940; about 35,000 q in the 1970s; 25,000 q in the
+1980s; 4,000-7,000 q from 60-70 ha by 2011) and causes of decline,
+traditional 2.5 × 2.5 m two-tier pergola and winter-cover practice, and
+ARSSA's 3 × 3 m "palmetta libera" system under a permanent 50-60% shade/
+hail net. Accessed 2026-11-17, PDF downloaded and text extracted.
+
+[16] Chhikara, N. et al. (2018), "Citrus medica: nutritional,
+phytochemical composition and health benefits – a review," *Food &
+Function* 9(4), plus related search results on citrus albedo pectin.
+Supplied: the list of main bioactive constituents and the albedo as
+the pectin-rich tissue; per-100 g tables not seen. Accessed 2026-11-17,
+search snippets only.
+
+[17] Search-snippet-level material on etrog plant-health rules: Israeli
+Agriculture Ministry guidance as reported by JNS, the Jewish Press,
+Israel National News and the Times of Israel (one personal etrog,
+declared and inspected; the other three of the four species need
+authorisation), and the Australian MICOR import-condition page for
+etrog from Israel. Accessed 2026-11-17, search snippets only; no US
+APHIS etrog rule was found.
