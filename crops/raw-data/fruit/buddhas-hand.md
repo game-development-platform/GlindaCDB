@@ -3,7 +3,11 @@
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/buddhas-hand.md`
 **Researched:** 2026-10-03 (re-researched 2026-11-09 against the full current
 checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
-see the new Agronomic data lines on photoperiod and salinity, added that date)
+see the new Agronomic data lines on photoperiod and salinity, added that date;
+re-researched again 2026-11-17 against the full current checklist — see
+Finding 5 and the new Agronomic data lines on harvest pattern, first
+bearing, establishment, composition, weather response, water regime, soil
+biology, and invasiveness / biosecurity)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -93,21 +97,52 @@ documented clonal line used in a California growing region was cleaned of
 a separate viroid disease (exocortis) by shoot-tip grafting before
 distribution through a certified-budwood program [1][2].
 
+**Finding 5 — summer heat, not only frost, limits the crop; misting cut
+fruit drop from 80% to 30% on one farm.** On a 570-mu (about 38 ha)
+Buddha's hand base in Mianyang, Sichuan, the manager describes the crop
+as flowering and fruiting continuously, with fruit set in April-May
+meeting the hot season and dropping heavily [15]. A mist system with a
+nozzle at every tree lowers the air temperature around the tree by
+about 10 °C within 3-5 minutes; summer fruit drop fell from about 80%
+before installation to about 30% [15]. Misting runs in the cooler
+morning and evening, not at midday [15]. This is a single farm's own
+account in a news report, not a trial. It fits the general-reference
+description of the crop as sensitive to intense heat as well as frost
+[1].
+
 ## Agronomic data
 
 - **Life form / season:** A thorny, evergreen perennial shrub or small
   tree; potted plants reach 60-100 cm, field trees around 150 cm and over
   2 m wide. Flowers and fruits three times a year rather than on a single
-  annual cycle (Finding 2).
+  annual cycle (Finding 2) [3].
+- **Harvest pattern:** Perennial bearing with three flowering flushes a
+  year (Finding 2) [3]; a green medicinal harvest in summer or autumn
+  [4][6] and ripe fruit November-January in a California growing
+  region, holding moderately on the tree [2].
+- **Days/years to first bearing:** First fruit in the third year after
+  planting; potted plants about a year later (see Estimates below) [3].
+- **Establishment:** Rooted summer cuttings are planted out in mid-to-
+  late March at about 2 × 2-2.5 m, with a few weeks of half-shade after
+  transplanting (Finding 4) [3]; potted plants go into perlite, coir and
+  peat substrate mixes [3][8].
 - **Climate:** Subtropical (frost-free) to tropical-highland climates
   suit the crop without protection; warm-temperate cultivation is
   possible only with winter protection, as practiced in the Jinhua
-  growing region (Finding 3).
-- **Food status / composition:** Not a staple food; eaten mainly as pith
-  and zest, with dried slices used medicinally and as tea. Caloric and
-  protein composition were not sourced.
-- **Pollination:** Not required by hand; flowers are thinned rather than
-  hand-pollinated, and the species self-pollinates like citron.
+  growing region (Finding 3) [1][2][3].
+- **Edibility:** Not a staple food; eaten mainly as pith and zest,
+  candied, or as dried medicinal slices and roasted tea shreds; the
+  fruit has little or no pulp [1][2][4][5].
+- **Composition:** Caloric, protein and vitamin C figures per 100 g were
+  not found; sources call it high in vitamin C without a number, and one
+  retail listing gives about 29 kcal per roughly 100 g serving, unchecked
+  [16]. Fruit essential oil: one study gives d-limonene 51.2%,
+  γ-terpinene 33.7%, α-pinene 3.4% and β-pinene 2.9%, with limonene
+  48-56% across chemotypes [16]. Hesperidin is the Pharmacopoeia quality
+  marker for the dried slices [5].
+- **Pollination:** Flowers are thinned heavily rather than
+  hand-pollinated [3]. Self-pollination "like citron" is an analogy:
+  Not sourced for this variety.
 - **Photoperiod sensitivity:** Not independently sourced for this
   species. By analogy with citrus-genus physiology, consistent with
   this project's findings for other citrus crops: flowering is likely
@@ -130,13 +165,14 @@ distribution through a certified-budwood program [1][2].
   sources describe this crop as less drought-tolerant than other citrus.
   Potted plants are instead managed by a "do not water until dry, then
   water thoroughly" rule, with watering timing shifted seasonally, and
-  pots tilted during the rainy season to shed excess water (Finding 3).
+  pots tilted during the rainy season to shed excess water (Finding 3)
+  [3] (see Estimates below).
 - **Propagation:** Vegetative only — summer cuttings, grafting, and air
   layering; many forms are seedless and there is no seed crop or hybrid
-  seed system (Finding 4).
+  seed system (Finding 4) [1][3][11].
 - **Soil:** Fertilized lightly and frequently (nitrogen during growth;
   phosphorus and potassium at flowering and fruiting), with organic
-  fertilizer preferred; pH tolerance is assumed by analogy to citron
+  fertilizer preferred [3]; pH tolerance is assumed by analogy to citron
   (roughly 5.5-8.0, optimum 6.5), since no dedicated soil study was found
   for this crop. Salinity tolerance was not sourced for this species
   specifically either. By citrus-rootstock-level analogy only (strongly
@@ -151,30 +187,59 @@ distribution through a certified-budwood program [1][2].
 - **Storage:** Ripe fruit keeps roughly one to two weeks cool and dry, or
   two to four weeks refrigerated, but molds easily; green fruit intended
   for the medicinal product is sliced and dried immediately, and the
-  dried slices then keep for years.
+  dried slices then keep for years [5][12].
 - **Labor:** No per-hectare labor study was found; rough estimates
   suggest harvesting, flower/fruit thinning, pruning, and post-harvest
   slicing or cleaning/buffing are all substantial labor components, with
   hand-cleaning required because the fruit cannot go through standard
-  packing-line equipment. Per-pot labor in the potted-plant production
+  packing-line equipment [2] (see Estimates below). Per-pot labor in the potted-plant production
   system was not researched in detail.
 - **Harvest stages:** Two harvest stages from the same tree — a green
   medicinal stage (full-size, green to turning, intended for slicing and
   drying) and a ripe fragrance stage (yellow, fully fragrant, hand-cut,
   cleaned, and buffed) — plus a third product, the fruiting potted plant
-  itself, sold as a whole specimen rather than harvested as fruit.
+  itself, sold as a whole specimen rather than harvested as fruit
+  [2][3][4][6]. Because the plant flowers three times a year, fruit at
+  different stages hangs on one tree at once [3][15].
 - **Cultivars:** Several named regional types tied to particular uses
   (potted ornamentals and tea in the Jinhua type; medicinal slices in the
   Guangdong, Sichuan/Chongqing, and Fujian types), open-hand versus
   closed-hand fruit-shape forms, several small-fruited thornless clones
   bred specifically for miniature potted culture, and at least one
-  documented California clonal introduction.
+  documented California clonal introduction [2][3][4][9].
 - **Controlled-environment viability:** Notably good, for a tree fruit
   crop — the species has a real, documented container/substrate
   production system (perlite, coir, and peat substrates; miniature pots
   grown in greenhouse facilities) used commercially for the ornamental
   potted-plant product, which substantially shortens the production cycle
-  compared with soil culture.
+  compared with soil culture [8][9].
+- **Weather response:** Frost: damaged below 0 °C, killed below -8 °C
+  (Finding 3) [3]. Heat: heavy summer fruit drop, cut from about 80% to
+  30% with misting on one Sichuan farm (Finding 5) [15]; described as
+  sensitive to intense heat [1]. Drought: weaker drought tolerance than
+  other citrus [1][3]. Waterlogging: potted plants are tilted in the
+  rainy season to shed water [3]; no field waterlogging figure found.
+- **Water regime:** Ordinary irrigation; no flooded requirement.
+  Irrigation is given about 10 days before frost as winter protection
+  [3]; misting is used for summer cooling (Finding 5) [15].
+- **Soil biology:** Not sourced for this crop — no mycorrhizal, replant
+  or allelopathy finding was found in this pass.
+- **Invasiveness / biosecurity:** Probably native to north-east India or
+  China [1]. No naturalisation record or weed risk assessment for
+  *Citrus medica* was found [18]. Related evidence only: Hawaii's weed
+  risk assessments rate 'Meyer' lemon (-10.5) and Tahiti lime (-12.0) as
+  low risk, and pummelo as low risk though able to persist from seed
+  [18]; many Buddha's hand forms are seedless, which would lower escape
+  risk further — an inference, not sourced. *Legal restrictions:* as a
+  citrus, it falls within citrus-wide pest rules; in California the
+  huanglongbing interior quarantine (3 CCR § 3439) bars moving citrus
+  nursery stock or plant parts out of quarantine areas, nursery stock
+  moving within Asian citrus psyllid zones must be treated with systemic
+  and foliar pesticides, and federal rules bar interstate shipment of
+  host nursery stock from psyllid-regulated areas to other citrus-
+  producing states [17]. No source names Buddha's hand specifically, so
+  whether a potted fruiting plant counts as regulated nursery stock was
+  not confirmed [17].
 
 ## Hazards
 
@@ -182,7 +247,7 @@ Documented pests and diseases include anthracnose, canker, and scab, as
 well as citrus greening disease; pest pressure includes leaf miners,
 spider mites, swallowtail caterpillars, scale insects, and beetles.
 Harvested fruit is also prone to mould if not handled promptly. The plant
-itself is thorny.
+itself is thorny [1][2][3].
 
 **TO BE ADDRESSED** — like other citrus, the peel oil is expected to be
 phototoxic (by analogy with citron's bergapten/citropten content), though
@@ -193,7 +258,7 @@ In traditional Chinese medicine, this crop's dried fruit slices carry a
 use caution that patients with a specific traditional diagnostic pattern
 ("yin deficiency and excess heat without qi stagnation") should avoid
 prolonged use — a traditional-medicine caution rather than a
-toxicological finding.
+toxicological finding [4].
 
 ## Uses and processing
 
@@ -203,7 +268,7 @@ toxicological finding.
   oven-roasted into tea shreds; ripe fruit → hand-cleaned and buffed →
   sold fresh for fragrance, offerings, and zest, or candied; prunings →
   summer cuttings → rooted plants → grown on as field trees or
-  container-grown fruiting potted plants.
+  container-grown fruiting potted plants [3][4][5][7][8].
 - Not covered in detail by this research: factory products made from the
   fruit (a fruit wine, crackers, and a yoghurt product reported in one
   source); volatile-oil yield; detailed per-pot labor and production
@@ -240,6 +305,12 @@ longevity."
   chilling-sensitivity study for this specific crop (as opposed to
   citron) were not found.
 - The dried-slice yield (fresh-to-dry mass ratio) was not found.
+- 2026-11-17 pass caveats: Finding 5 and the new lines are search-
+  snippet-level only. Open: no per-100 g composition from a food
+  database or lab analysis; the misting result is one farm's account;
+  no field waterlogging, soil-biology or invasiveness record for this
+  variety; whether California's citrus quarantines treat a potted
+  fruiting Buddha's hand as regulated nursery stock is unconfirmed.
 - Photoperiod sensitivity and salinity tolerance were not sourced for
   this species specifically; both are carried over as citrus-genus- or
   rootstock-level analogies only, flagged as such rather than treated
@@ -379,3 +450,37 @@ dependent tolerance ranking, and the Citrange-rootstock note (without
 salinity data for that specific pairing). Accessed 2026-11-09, search
 snippets only except the grower listing, which was opened directly;
 none species-specific to this crop.
+
+[15] A Sichuan news report (川观新闻 Mianyang bureau, cbgc.scol.com.cn)
+on a Buddha's hand base in Mianyang. Supplied: the 570-mu planted area,
+continuous flowering and fruiting, April-May fruit set meeting summer
+heat, the per-tree mist system lowering temperature about 10 °C in 3-5
+minutes, summer fruit drop falling from about 80% to about 30%, and
+morning/evening (not midday) misting. Accessed 2026-11-17, search
+snippet only.
+
+[16] Search-snippet-level material on composition: StuartXchange
+(Philippine medicinal plants) entry on Buddha's hand (fruit essential
+oil d-limonene 51.24%, γ-terpinene 33.71%, α-pinene 3.40%, β-pinene
+2.88%; 21 GC-MS components; 48-56% limonene across chemotypes), and
+retail/consumer pages (vitamin C described without a figure; about 29
+kcal per ~3.5 oz serving on one grocery listing). Accessed 2026-11-17,
+search snippets only; the original oil study's title and journal were
+not confirmed.
+
+[17] Search-snippet-level material on California citrus quarantines:
+Cal. Code Regs. tit. 3, § 3439 (Huanglongbing Disease Interior
+Quarantine) via Cornell LII and CDFA, § 3435 (Asian citrus psyllid)
+via the CDFA Plant Quarantine Manual, and Fresno and San Diego County
+agricultural-commissioner guidance. Supplied: the ban on moving citrus
+nursery stock and plant parts out of quarantine areas, treatment
+requirements within psyllid zones, and the federal interstate
+restriction. Accessed 2026-11-17, search snippets only; none mention
+Buddha's hand by name.
+
+[18] Search-snippet-level material on citrus weed risk: Hawaii-Pacific
+Weed Risk Assessment entries on plantpono.org for Citrus 'Meyer'
+(-10.5, low risk), *C. latifolia* (-12.0, low risk), *C. hystrix*, and
+*C. maxima* (low risk; can persist from seed). Supplied: related-
+species weed-risk context only; no *C. medica* assessment was found.
+Accessed 2026-11-17, search snippets only.
