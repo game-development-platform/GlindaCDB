@@ -1,7 +1,10 @@
 # Watermelon (*Citrullus lanatus*), Seed Watermelon (Zigua, Egusi) and Citron Melon (*C. amarus*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/watermelon.md`
-**Researched:** 2026-10-10
+**Researched:** 2026-10-10 (citron-melon profile re-reviewed 2026-11-09, and
+re-researched again 2026-11-17 against the full current checklist — see
+Finding 6 and the new citron-melon Agronomic data lines; the dessert- and
+seed-watermelon profiles were not re-researched on either pass)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -116,9 +119,27 @@ traditional cooked fruit preserve), pickles, and cattle feed. It grows
 wild across the Kalahari region, where it serves as a documented dry-
 season water source for both wildlife and people; it was cultivated in
 ancient Egypt several millennia ago and is documented as invasive in
-parts of western Mexico today. Certain accessions of this species show
-resistance to a specific fungal wilt disease and to root-knot nematodes,
-making them useful as a watermelon rootstock option.
+parts of western Mexico today [11]. Certain accessions of this species
+show resistance to a specific fungal wilt disease and to root-knot
+nematodes, making them useful as a watermelon rootstock option [8].
+Pectin content and preserve use are also supported by [12].
+
+**Finding 6 — "camel melon": a widespread introduced weed in Australia,
+and a rootstock that out-yields ungrafted plants but not commercial
+stocks.** Australia's Plant Census treats the name *C. lanatus* as
+misapplied there to *C. amarus*, the camel melon; the name is still
+contested, with some authors using *C. lanatus* var. *citroides* [19].
+It is widely distributed across Australia, probably introduced in the
+1800s and thought to have come with Afghan camel-train operators in
+the 1860s, and is grouped with other summer-growing invasive cucurbit
+weeds; an older secondary source lists it as a noxious weed in Victoria
+and Western Australia, which was not verified against current state
+declarations [19]. A 2017 *Crop Protection* review of its biology and
+management exists but was not read [19]. As a rootstock, a 2025
+two-season trial in Adana, Türkiye, grafted watermelon onto 11 *C.
+amarus* genotypes: total yield beat ungrafted controls but fell short of
+commercial rootstocks, and fruit sugar rose while lycopene and
+carotenoids did not [20].
 
 ## Agronomic data (dessert watermelon, *C. lanatus*)
 
@@ -240,21 +261,36 @@ seed-watermelon profiles above are unaffected by this pass.)*
 
 - **Life form / season:** Warm-season annual trailing vine, harvested as
   a single end-of-season crop; notably drought-hardy given its origin in
-  one of the driest inhabited regions on Earth.
+  one of the driest inhabited regions on Earth [11].
+- **Harvest pattern:** Single end-of-season harvest of hard fruit, which
+  can then be held into the dry season (see Storage) [11][12].
+- **Days/years to first bearing:** Not sourced (see Estimates below for
+  the dessert-watermelon analogy).
+- **Establishment:** Direct-seeded (see Propagation); plant spacing:
+  Not sourced.
 - **Climate:** Arid and semiarid climates; native to the Kalahari region
   of southern Africa, and historically naturalized as a "pie melon" or
-  preserving melon in dry regions of the southern United States.
-- **Composition:** Not independently researched; the flesh is hard and
-  white and rarely eaten raw, though at least one documented indigenous
-  culinary tradition eats it both raw and cooked.
+  preserving melon in dry regions of the southern United States [11][12].
+- **Edibility:** The flesh is hard and white and rarely eaten raw, though
+  at least one documented indigenous culinary tradition eats it both raw
+  and cooked [11]. In South Africa and Botswana it is cooked in water and
+  mixed with maize meal into a porridge ("kgodu"), and ripe seeds are
+  sun-dried and roasted as a snack [21].
+- **Composition:** Fruit composition not sourced; high pectin content
+  [11][12]. A University of KwaZulu-Natal thesis analysed seed nutrient
+  composition, noting little is known about the food-quality attributes
+  of citron watermelon; its figures were not seen [21].
+- **Pollination:** Not sourced for this species (genus-level: see the
+  dessert-watermelon profile).
 - **Yield:** No dedicated yield data were found; figures here are rough
   estimates scaled down from dessert watermelon, reflecting this crop's
   typically low-input, low-care cultivation in dry regions (see Estimates
-  below).
+  below). A 2025 South African thesis reports wide yield variation among
+  genotypes, without a figure seen [21].
 - **Water use:** Estimated by analogy to dessert watermelon, but with
   notably higher drought tolerance reflecting this species' Kalahari
   origin and documented ability for harvested fruit biomass to remain
-  viable unrooted for many months.
+  viable unrooted for many months [11][12] (see Estimates below).
 - **Photoperiod:** Not independently researched for this species.
   Genus-level sources on dessert watermelon conflict (one database
   calling it day-neutral/"indifferent to photoperiodism," another
@@ -273,15 +309,41 @@ seed-watermelon profiles above are unaffected by this pass.)*
   Kalahari origin does not by itself establish salt tolerance [18].
 - **Propagation:** By direct seeding; red- and green-seeded types exist,
   and the species readily persists as a volunteer or weedy plant outside
-  cultivation.
+  cultivation [11][12].
 - **Storage:** Hard fruit can be stored for an extended period into the
   dry season, consistent with its documented ability to persist unrooted
   for many months; a specific dry-storage duration figure here is a rough
-  estimate.
+  estimate [12] (see Estimates below).
 - **Uses:** Preserves and a traditional cooked fruit preserve (reflecting
   high pectin content), pickles, cattle fodder, roasted seeds in at least
   one named traditional type, and use as a disease-resistant watermelon
-  rootstock.
+  rootstock [8][11][12][20].
+- **Labor:** Not sourced.
+- **Soil:** Not sourced for this species.
+- **Weather response:** Drought: highly tolerant, the defining trait
+  (Kalahari origin; a wild water source in the dry season) [11]; a USDA-
+  ARS project (2025-2028) plans to map drought-tolerance loci from
+  desert and citron watermelon, and a 2022 drought-screening study of
+  accessions exists (findings not seen) [22]. Frost, heat and
+  waterlogging: Not sourced for this species.
+- **Water regime:** Rain-fed or low-input in dry regions; no flooded
+  requirement [11].
+- **Harvest stages / windows:** One mature-fruit stage for preserves,
+  fodder and seed [11][12]; no separate green stage found.
+- **Soil biology:** Some accessions resist a fungal wilt (Fusarium) and
+  root-knot nematodes, the basis of rootstock use [8]. Mycorrhizal or
+  allelopathy findings: Not sourced.
+- **Invasiveness / biosecurity:** Native to the Kalahari; documented as
+  invasive in part of western Mexico [11]; a widespread introduced weed
+  ("camel melon") in Australia, with an unverified noxious-weed listing
+  in Victoria and Western Australia (Finding 6) [19]. *Legal
+  restrictions:* the possible Victorian and Western Australian noxious
+  listings are the only ones found [19].
+- **Controlled environment:** Not sourced as a fruit crop; as a rootstock
+  it is used in grafted watermelon transplant production (Finding 6)
+  [20].
+- **Cultivars:** Red- and green-seeded types and a named red-seeded
+  heritage type [12]; 11 genotypes were trialled as rootstocks [20].
 
 ## Hazards
 
@@ -350,6 +412,13 @@ seed-watermelon profiles above are unaffected by this pass.)*
 - No dedicated yield, storage, or detailed composition data were found
   for citron melon; figures here are rough estimates scaled from dessert
   watermelon.
+- 2026-11-17 pass caveats (citron melon): Finding 6 and the new lines
+  are search-snippet-level only. Open: current Australian state weed
+  declarations for camel melon; the unresolved *C. amarus* vs. *C.
+  lanatus* var. *citroides* naming in Australian sources; fruit
+  composition, yield, spacing, labour and soil data; the findings of the
+  2022 drought-screening study and the 2017 camel-melon management
+  review.
 - No citron-melon-specific photoperiod or salinity data was found;
   despite its documented use as a disease-resistant rootstock, no
   rootstock-salinity trial naming *C. amarus* specifically was located,
@@ -586,3 +655,36 @@ re-confirms (direct fetch) that the FAO reference underlying citation
 yield-decline slope. Accessed 2026-11-09; the FAO page was opened
 directly, the rest at search-snippet depth only. No citron-melon-
 specific photoperiod or salinity data was found.
+
+[19] Search-snippet-level material on camel melon in Australia: the
+Australian Plant Census (APC/APNI) name records treating *C. lanatus* as
+misapplied to *C. amarus*, VicFlora on the contested name (Chomicki &
+Renner 2015 vs. Shaik et al. 2016), Florabase (Western Australia),
+HerbiGuide's camel melon page (noxious in Victoria and Western
+Australia; older secondary source), Weedscan, a Weed Science Society of
+Pakistan paper on Australian invasive cucurbits, and a title-level
+reference to a 2017 *Crop Protection* 98 review of camel melon biology
+and management. Supplied: naming, Australian distribution, 1860s camel-
+train introduction, weed grouping and the unverified noxious listing.
+Accessed 2026-11-17, search snippets only.
+
+[20] Tarim et al. (2025), Turkish journal article (DergiPark) on 11 *C.
+amarus* genotypes as watermelon rootstocks over two seasons in Adana,
+Türkiye. Supplied: yield above ungrafted controls but below commercial
+rootstocks, higher fruit sugar, unchanged lycopene and carotenoids, and
+the porridge ("kgodu") and roasted-seed uses. Accessed 2026-11-17,
+search snippet only.
+
+[21] University of KwaZulu-Natal ResearchSpace theses on citron
+watermelon (including Mandizvo 2022 and a 2025 yield-genetics thesis),
+and a Great Zimbabwe University record on yield genetic parameters in
+citron watermelon. Supplied: food-and-feed use, wide genotype yield
+variation in South Africa, and seed-composition study scope (figures not
+seen). Accessed 2026-11-17, search snippets only.
+
+[22] Search-snippet-level material on drought research: a USDA-ARS
+project record (2025-2028) on mapping drought-tolerance loci from desert
+and citron watermelon, a 2022 drought-screening study title for citron
+watermelon accessions, and Guzzon et al. (2017), *South African Journal
+of Botany*, on drought avoidance in *C. amarus* landraces (title only).
+Accessed 2026-11-17, search snippets only.
