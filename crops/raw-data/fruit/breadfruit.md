@@ -5,7 +5,11 @@
 checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
 see the new Agronomic data line on photoperiod and the salt-spray tolerance
 now written into Soil from a citation that already existed but was never
-used, added that date)
+used, added that date; re-researched again 2026-11-17 against the full
+current checklist — see Finding 5 and the new Agronomic data lines on
+first bearing, establishment, composition, weather response, water
+regime, harvest stages, storage, soil biology, invasiveness /
+biosecurity, and controlled environment)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -108,38 +112,73 @@ quarter) can drop prematurely early in the fruiting season [3][4][6].
 No international agricultural statistics agency tracks this crop
 separately, so no standard world-production figure exists.
 
+**Finding 5 — tissue culture turned a hard-to-move clone into a
+globally shipped crop.** Because seedless varieties cannot be grown from
+seed (Finding 3), spreading them historically meant moving live root
+material. Micropropagation developed with the National Tropical
+Botanical Garden's Breadfruit Institute now ships disease-indexed,
+rooted plugs in soil-free media, which the Institute says survive
+better than traditionally propagated plants [14]. The Institute reports
+more than 100,000 trees shipped to 44 countries (an earlier article
+gave over 73,000 to 37), mostly to Central America, the Caribbean and
+Africa; the Samoan 'Ma'afala' and Tahitian 'Otea' were chosen for vigour
+and suitability for mass micropropagation [14]. The Institute's own
+head has said only a few varieties micropropagate successfully so far
+[14]. A 2022 *PLOS Climate* modelling study found breadfruit's suitable
+area in the tropics and subtropics shrinks only about 4.4-4.5% under
+two emissions scenarios, with room to expand in sub-Saharan Africa
+[15].
+
 ## Agronomic data
 
 - **Life form / season:** A large evergreen (or, in regions with a long
   dry season, briefly deciduous) perennial tree, typically 12-15 meters
-  tall with buttressed roots and latex throughout all plant parts.
+  tall with buttressed roots and latex throughout all plant parts
+  [1][3][4].
 - **Harvest pattern:** Perennial bearing; typically one or two crops
   per year, a main crop in the hot rainy season and often a smaller
-  secondary crop a few months later.
+  secondary crop a few months later [3][4][6].
+- **Days/years to first bearing:** Two to three years for grafted trees,
+  under three years for early Caribbean cultivars, three to six years
+  for other clonal material, six to ten years for seedlings [1][3][6]
+  (see Stand life).
 - **Climate:** Tropical, within roughly 17 degrees of the equator in
   maritime and continental tropical climates, performing best at lower
-  elevations though tolerated to over 1,000 meters in some regions.
-- **Food status:** Mature green fruit is not raw-edible (purgative in
+  elevations though tolerated to over 1,000 meters in some regions
+  [1][2][3]. A 2018 agroforestry guide gives an optimum of 17°N-17°S
+  (cultivated to 23.5°), daytime 21-32 °C (productive from 15 to 40 °C),
+  1,500-2,500 mm rain optimal (regular yields above 1,000 mm), and a dry
+  season of 3-6 months tolerated depending on cultivar [10].
+- **Edibility:** Mature green fruit is not raw-edible (purgative in
   most varieties); cooked fruit is edible and is the primary food use;
   fully ripe fruit of some varieties is sweet and raw-edible as a
-  dessert.
+  dessert [1]. The fruit is edible at every stage of development; very
+  young fruit is likened to artichoke [10].
+- **Composition:** Raw fruit, about 103 kcal, 29 mg vitamin C and 490 mg
+  potassium per 100 g (USDA FDC 171714 / SR 09059, read through
+  nutrition aggregators, not USDA itself) [12]. The breadfruit-seed
+  entry (191 kcal) is a different food [12]. Protein and vitamin C
+  figures conflict somewhat between the doc's original sources [1][2][3]
+  (see Open questions).
 - **Pollination:** Not required for seedless fruit, which forms without
   pollination (parthenocarpic); seeded cultivar groups require cross-
   pollination by wind or insects (bees collect pollen from male flower
-  spikes).
+  spikes) [4][6].
 - **Photoperiod sensitivity:** No day-length dependence for flowering
   was found for this species or at the genus level; flowering timing
   is consistently described across sources as driven by temperature
   and rainfall seasonality (a main wet-season crop plus a smaller crop
   several months later, Finding 4), not photoperiod. Not applicable to
   tuberization/bulbing — a tree crop with no storage organ.
-- **Yield / composition:** See Finding 4 and Estimates below for the
+- **Yield:** See Finding 4 and Estimates below for the
   range between traditional agroforestry, unfertilized export-orchard,
   and theoretical intensive-planting yield tiers.
 - **Propagation:** Entirely vegetative for seedless varieties — root
   cuttings, root shoots, air-layering, or grafting onto seeded
   rootstock; true seed (in seeded varieties only) has no dormancy,
-  cannot be dried or stored, and loses viability within weeks.
+  cannot be dried or stored, and loses viability within weeks [3][4].
+  Tissue-cultured plugs are now the main route for long-distance
+  distribution (Finding 5) [14].
 - **Water use:** No dedicated crop-coefficient study exists for this
   crop; a coefficient is estimated by analogy to another humid-tropical
   evergreen fruit tree this project has also researched, informed by a
@@ -147,12 +186,12 @@ separately, so no standard world-production figure exists.
   several months of drought without dying but respond by dropping
   fruit, while young trees need consistently moist soil; the crop
   tolerates waterlogged soil only briefly, with prolonged excess
-  moisture killing roots and young trees.
+  moisture killing roots and young trees [4][6] (see Estimates below).
 - **Labor:** A documented multi-year household labor budget from one
   Pacific export-orchard model gives a total labor figure per hectare
   per year, though the split between specific operations (harvest,
   pruning, post-harvest handling) is estimated rather than directly
-  sourced.
+  sourced [3] (see Estimates below).
 - **Soil:** Neutral to slightly alkaline soil preference; light to
   medium, freely draining soils (sands, sandy loams, loams, sandy clay
   loams) are preferred, though some traditional varieties grow
@@ -170,21 +209,80 @@ separately, so no standard world-production figure exists.
   around the ninth or tenth year; trees remain productive for roughly
   50 years or more, with documented tree decline on some atoll and
   Caribbean sites attributed to storms, drought, age, or salinity
-  rather than any single identified pathogen.
+  rather than any single identified pathogen [1][3][6].
 - **Disease/pest profile:** Mealybugs, a fruit-spotting bug (a
   significant pest in at least one Pacific growing region), a leaf-
   feeding sharpshooter insect, and fruit flies on ripe fruit are
   documented pests; a root-rot fungus, a water-mold fruit and root rot,
   a separate fungal fruit rot, and a fungal leaf spot are documented
   diseases, along with a historical disease outbreak that killed
-  thousands of trees on one Micronesian atoll in the late 1950s.
+  thousands of trees on one Micronesian atoll in the late 1950s
+  [1][3][5].
 - **Cultivars:** Numerous named Pacific and Caribbean varieties exist
   (a major germplasm collection holds well over a hundred), differing
   in fruit size, flesh color, tree size, seededness, atoll-salinity
   adaptation, and bearing age; two named Caribbean cultivars are
   particularly well documented for their distinct culinary use (one
   preferred roasted, the other preferred boiled or fried) and yield-
-  by-age pattern.
+  by-age pattern [1][3][6].
+- **Establishment:** Nursery stock is started 8-16 weeks before field
+  planting and hardened to full sun for at least 2-4 weeks in the
+  nursery; young trees prefer 20-50% shade [10]. Monoculture spacing of
+  8 m × 8-10 m for trees pruned to a 6 m canopy, or 12 m × 12 m with a
+  broader canopy, has been recommended [10]. Nursery trees go to the
+  field after six to nine months in the older sources [3][6].
+- **Weather response:** Cold: yield and quality suffer when nights are
+  consistently below 10 °C; minimum tolerated 5-10 °C, with leaf and
+  shoot drop, no fruit, and dieback [10]. Frost causes loss of all
+  fruit and leaves, branch dieback and sometimes death [10]. Drought:
+  withstands a few months but drops fruit prematurely [10]; press
+  summaries of the 2022 modelling study say 3-4 months [15]. Wind:
+  branches break in heavy wind, especially under fruit load, but regrow
+  quickly [10]; after Hurricane Maria many breadfruit trees in Puerto
+  Rico were reportedly left standing (anecdote) [15]. Fire: resprouts
+  from roots after a small fire; trunk not fire-tolerant [10].
+- **Water regime:** Ordinary rain-fed or irrigated; no flooded
+  requirement. Waterlogging tolerated only briefly — trees have
+  declined and died after standing in water only a few days [10].
+- **Harvest stages / windows:** Multiple maturity stages, each with its
+  own use: immature (0-16 weeks after flowering) used as a vegetable;
+  full-size green (12-16 weeks) with longer shelf life but not starchy;
+  mature (16-18 weeks), the preferred starchy stage with longer shelf
+  life; late mature (18-20 weeks) with the best eating quality but
+  shorter shelf life; then half-ripe (sweet-potato-like) and ripe
+  (dessert, raw) [10]. The timings come from a single study of one
+  triploid Polynesian cultivar [10]. A Hawaii study of 'Ma'afala' put
+  maturity at 15 weeks, with early, mid and late phases at weeks 5-9,
+  11-13 and 15-19, and a 2023 study found earlier picking (13-17 weeks)
+  delayed softening and skin discoloration [11]. Maturity cues are skin
+  colour, scabbing around fruit sections, skin texture and, less
+  reliably, dried latex on the surface [10]. Main and secondary crops
+  per year: see Harvest pattern.
+- **Storage (postharvest):** 12-16 °C with plastic film wrap extends
+  firm mature fruit to about 2 weeks [10]; the doc's other sources give
+  up to about 3 weeks, chilling injury near the threshold, and room-
+  cooling rather than hydrocooling (Finding 2) [1][5][7].
+- **Soil biology:** Not sourced — no mycorrhizal, replant or allelopathy
+  finding was found in this pass (the 2018 agroforestry guide was
+  searched for mycorrhizae without a hit) [10].
+- **Invasiveness / biosecurity:** Native to the western Pacific (the
+  seedless forms domesticated from the seeded wild ancestor) and spread
+  across the Pacific and tropics by people [1][3]. Hawaii's weed risk
+  assessment scores it -12 ("OK", low risk; high risk is 7 or more),
+  and it was introduced to Hawaii before Western contact [13]. A 2006
+  species profile rates it as having very little invasive potential,
+  since most varieties are seedless and need human propagation, and
+  root shoots spread only a short distance [13]. *Legal restrictions:*
+  fresh breadfruit cannot move from Hawaii to the US mainland without
+  irradiation under 7 CFR part 305, and later rule versions add an
+  inspection for specified scale and whitefly pests; the Breadfruit
+  Institute describes fresh-fruit shipping as very difficult for this
+  reason [16]. Propagation-material rules for other destinations were
+  not consolidated in this pass [16].
+- **Controlled environment:** Laboratory micropropagation and
+  greenhouse weaning are the commercial nursery route (Finding 5) [14].
+  Fruit production under glass or in containers: Not sourced — and
+  unlikely given the 12-15 m tree size, an unsourced inference.
 
 ## Hazards
 
@@ -195,7 +293,7 @@ plant sterol compound have been proposed); mitigated entirely by
 cooking, and in some traditional practice by double-boiling with the
 water discarded. A few named cultivars can be eaten raw even unripe.
 Deferred until this project has a place for this kind of health/safety
-data.
+data [1].
 
 The plant's latex is used in folk medicine (including a diluted
 preparation for diarrhea and topical use for skin ailments) and has a
@@ -218,7 +316,7 @@ crop feeds.
   flower spikes → boiled as a vegetable, candied, or dried and burned
   as a mosquito repellent. Latex → caulk, adhesive, and birdlime. Inner
   bark → traditional bark cloth and cordage. Leaves, peel, cores, and
-  culls → livestock feed. Old wood → fuel.
+  culls → livestock feed. Old wood → fuel [1][3][4][7][8].
 - Not covered by this research in detail: commercial canning and
   freezing, fried chips and extruded snack production, vacuum-pouch
   pasteurization, timber and boat-building use, and detailed folk-
@@ -262,6 +360,14 @@ crop feeds.
   synchronous flowering near the equator, cited in passing in a
   breadfruit seasonality review) was not opened and its relevance to
   this species specifically is unconfirmed.
+- 2026-11-17 pass caveats: the 2018 agroforestry guide [10] was opened
+  and its text extracted; everything else new is from search snippets
+  only. Open: USDA composition figures were read through aggregators,
+  not USDA; the harvest-stage week ranges rest on single-cultivar
+  studies; the 3-4-month drought figure is from press summaries; the
+  Hurricane Maria wind-firmness claim is anecdotal; no soil-biology
+  finding; propagation-material import rules beyond the Hawaii-to-
+  mainland fruit rule were not consolidated.
 - The salt-spray and saline-soil tolerance figures now written into
   the Soil bullet are qualitative only; no numeric salinity threshold
   exists in any source consulted for this crop.
@@ -438,3 +544,62 @@ product. Accessed 2026-10-01, search snippets only.
 reference work's salinity-tolerance annex. Supplied: confirmation that
 no entry for this crop or its genus exists in the standard salinity-
 tolerance tables. Accessed 2026-10-01, opened directly (page searched).
+
+[10] Elevitch, C.R. & Ragone, D., *Breadfruit Agroforestry Guide:
+Planning and implementation of regenerative organic methods* (2018),
+web edition hosted by SARE. Supplied: latitude, temperature, rainfall,
+dry-season and minimum-temperature figures (section 2.2 and its
+climate table), the environmental-tolerance table (drought, shade, fire, frost,
+waterlogging, salt spray, wind; Table 2.2), the fruit-development and
+maturity-stage table (Table 2.5) and maturity cues, film-wrapped
+storage at 12-16 °C, nursery timing and hardening, and monoculture
+spacing. Accessed 2026-11-17, PDF downloaded and text extracted.
+
+[11] Search-snippet-level material on harvest maturity: a University of
+Hawaii study and CTAHR publication on 'Ma'afala' maturity (15 weeks;
+skin colour and intersegment spacing as indicators), an ISHS study
+(early/mid/late maturity phases, weeks 5-9/11-13/15-19), a 2023
+HortScience study (harvests at 13, 15 and 17 weeks), and a Guyana
+Ministry of Agriculture guide (about 3 months after flowering, latex
+stains). Accessed 2026-11-17, search snippets only.
+
+[12] Nutrition aggregator pages reproducing USDA FoodData Central
+records for raw breadfruit (FDC 171714 / SR 09059; triagemethod.com,
+foodstruct.com, recipetips.com) and breadfruit seeds (FDC 170144).
+Supplied: 103 kcal, 29 mg vitamin C and 490 mg potassium per 100 g, and
+the separate 191 kcal seed entry. Accessed 2026-11-17, search snippets
+only; USDA itself not opened.
+
+[13] Search-snippet-level material on weed risk: the University of
+Hawaii CTAHR forestry/agroforestry tree page for *A. altilis* (Hawaii
+WRA score -12, "OK"; pre-Western introduction), Big Island Invasive
+Species Committee material on the HPWRA scoring scale, and Ragone's
+2006 species profile as reproduced in a University of Florida IFAS
+assessment (very little invasive potential, and why). Accessed
+2026-11-17, search snippets only.
+
+[14] Search-snippet-level material from the National Tropical Botanical
+Garden (Breadfruit Institute pages, "A Global Partnership That Feeds",
+2012-2013 progress reports) and related reporting. Supplied:
+micropropagation with Global Breadfruit, disease indexing and
+greenhouse weaning, rooted plugs in soil-free media, distribution
+totals (100,000+ trees to 44 countries; earlier 73,000+ to 37), the
+'Ma'afala' and 'Otea' choice, main recipient regions, and the caveat
+that only a few varieties micropropagate successfully. Accessed
+2026-11-17, search snippets only.
+
+[15] Search-snippet-level material on climate: Yang, Horton & Zerega
+(2022), *PLOS Climate*, via press releases (EurekAlert, Newswise),
+and Mausio, Miura & Lincoln (2020), *PLOS ONE*, on Hawaii-calibrated
+suitability. Supplied: the 4.4-4.5% suitable-area decrease, the
+sub-Saharan Africa expansion potential, the press-reported 3-4-month
+drought tolerance, and the Hurricane Maria anecdote. Accessed
+2026-11-17, search snippets only.
+
+[16] Search-snippet-level material on US quarantine rules: 7 CFR
+318.13-25/26 (2012-2014 editions, via GPO) requiring irradiation under
+part 305 and inspection for specified pests for breadfruit moving from
+Hawaii, the 2009 Federal Register revision of the Hawaiian and
+territorial fruits and vegetables regulations, and the Breadfruit
+Institute FAQ on fresh-fruit shipping. Accessed 2026-11-17, search
+snippets only.
