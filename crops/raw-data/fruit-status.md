@@ -33,7 +33,7 @@
 | daidai | Citrus × aurantium, daidai group (kabusu and kaiseitō; var. *daidai*) | daidai.md | `bitter_orange`, `hetsuka_daidai`, `natsudaidai` | 2026-11-16 | RESEARCHED |
 | date_palm | Phoenix dactylifera | date-palm.md |  | 2026-11-17 | RESEARCHED |
 | dragon_fruit | Selenicereus undatus and red-fleshed relatives | dragon-fruit.md |  | 2026-11-17 | RESEARCHED |
-| durian | Durio zibethinus | durian.md |  | 2026-09-30 | OUT-OF-DATE |
+| durian | Durio zibethinus | durian.md |  | 2026-11-17 | RESEARCHED |
 | dwarf_sour_cherry | Prunus cerasus × P. fruticosa; P. × kerrasis | dwarf-sour-cherry.md |  | 2026-10-05 | OUT-OF-DATE |
 | feijoa | Acca sellowiana | feijoa.md |  | 2026-09-30 | OUT-OF-DATE |
 | fig | Ficus carica | fig.md |  | 2026-10-11 | OUT-OF-DATE |

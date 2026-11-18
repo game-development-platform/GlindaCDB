@@ -1,7 +1,12 @@
 # Durian (*Durio zibethinus*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/durian.md`
-**Researched:** 2026-09-30
+**Researched:** 2026-09-30 (re-researched 2026-11-17 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see Finding 6 and the new Agronomic data lines on harvest pattern, first
+bearing, edibility, photoperiod, salinity, establishment, weather response,
+water regime, harvest stages, soil biology, invasiveness / biosecurity, and
+controlled environment)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -93,21 +98,61 @@ country's documented recent-year import volume and value underline just
 how large and fast-growing international demand for this fruit has
 become [2].
 
+**Finding 6 — China's dye-and-cadmium testing rules reshaped the trade
+in 2025, while China starts growing its own.** After inspectors found
+the dye Basic Yellow 2 (auramine O) in some Thai durian shipments in
+late 2024, China required laboratory reports for Basic Yellow 2 (limit
+2 ppb) and cadmium and tightened inspections from January 2025; reports
+of the inspection rate differ (over 50% of shipments randomly, versus
+100%), with clearance taking up to seven days [13]. China approved a
+growing list of testing laboratories — six in Thailand by mid-January
+2025 and ten by April; Vietnamese counts differ by source (12 for
+cadmium and 8 or 9 for auramine O) [13]. China's fresh durian imports
+fell by about a third in the first five months of 2025, and Vietnam's
+export volume and value to China each fell 61.6% year on year [13].
+These are 2025 rules; whether they still apply was not checked.
+Domestically, Hainan's first commercial harvest (Qionghai, 2023,
+including Musang King and Monthong) came in at about 50 tonnes against
+much higher forecasts; Hainan harvested about 2,000 tonnes in 2025, under
+0.1% of China's fresh imports, with autumn typhoons a constraint, and
+Yunnan trial plantations entered large-scale fruiting in 2026 [14].
+
 ## Agronomic data
 
 - **Life form / season:** A large, buttressed evergreen tree, reaching
   up to 45 m in the wild but typically kept to 10-15 m in orchards;
   perennial, bearing once or twice a year with a documented tendency
-  toward alternate (biennial) bearing.
+  toward alternate (biennial) bearing [3][4][5].
+- **Harvest pattern:** Perennial bearing, one or two seasons a year,
+  with fruit cut over several weeks or windfalls gathered daily
+  (Finding 3) [1][4][5]. In the Mekong Delta the natural flowering is
+  December-January, with off-season production November-March [15].
+- **Days/years to first bearing:** Grafted trees flower in years 4-8,
+  peaking in years 12-15 [2][3][4].
+- **Establishment:** Grafted trees on seedling (including Phytophthora-
+  resistant) rootstocks, planted at documented regional spacings and
+  shaded when young [4][6]; Mekong Delta growers plant on raised beds
+  with drainage ditches [15].
 - **Climate:** Strictly tropical, humid, within roughly 16-18 degrees of
-  the equator, generally below about 800 m elevation.
-- **Food status / composition:** Raw-edible (the aril/pulp). Composition
-  figures vary somewhat by source but broadly fall around 1,470 kcal/kg
-  and roughly 15-27 g protein/kg, with notable fat content for a fruit.
+  the equator, generally below about 800 m elevation [4][5]; now grown
+  at the margin in Hainan and Yunnan (Finding 6) [14].
+- **Edibility:** Raw-edible (the aril/pulp); seeds are boiled or roasted
+  before eating [1][3].
+- **Composition:** Figures vary somewhat by source but broadly fall
+  around 1,470 kcal/kg and roughly 15-27 g protein/kg, with notable fat
+  content for a fruit [1][3][9].
+- **Photoperiod sensitivity:** Not sourced as a daylength effect;
+  flowering is triggered by a dry spell (Finding 2) [4][5][6]. The
+  growth retardant paclobutrazol gives mixed results: Thai studies on
+  'Chanee' and 9-year-old 'Monthong' found it did not induce flowering,
+  whereas a study on juvenile 'Monthong' found December treatment worked
+  better than November; Mekong Delta growers combine plastic mulch,
+  ditch drainage and paclobutrazol sprays at 1,000-1,500 ppm [15]. Not
+  applicable to tuberization/bulbing — a tree with no storage organ.
 - **Pollination:** Required — most commercial cultivars are self-
   incompatible, and hand pollination between compatible cultivars is
   widely practiced where natural nocturnal bat pollination is
-  insufficient or inconsistent.
+  insufficient or inconsistent [1][4][5][6].
 - **Yield:** A world-average figure (roughly 4,500 kg/ha) and good tier
   are derived from documented peak-production per-hectare ranges; an
   exceptional tier is derived from a documented optimal-conditions
@@ -120,46 +165,82 @@ become [2].
   Drought tolerance is judged low (the tree needs substantial,
   well-distributed rainfall and supplemental irrigation in dry months),
   while waterlogging tolerance is judged very low, given this crop's
-  marked susceptibility to a major soilborne root-rot pathogen.
+  marked susceptibility to a major soilborne root-rot pathogen [4][5][6]
+  (see Estimates below).
 - **Propagation:** Almost entirely by grafting (side-veneer, approach,
   wedge, or a modified budding technique) onto seedling rootstocks,
   including specifically Phytophthora-resistant rootstock species in at
   least one major production region; true seedlings are variable and
-  notably slow to bear, so are used mainly for rootstock production.
+  notably slow to bear, so are used mainly for rootstock production
+  [3][4][5].
 - **Soil:** Deep, well-drained sandy-to-clay loam soils, favoring
   lighter rather than heavier textures; excellent drainage is essential
-  given this crop's susceptibility to root rot.
+  given this crop's susceptibility to root rot [4][5]; pH guidance
+  conflicts between sources [4][10]. Salinity: Not sourced — no entry in
+  the FAO drainage reference [12], and no study of salt intrusion in
+  Mekong Delta orchards was found in this pass.
 - **Labor:** No comprehensive labor-cost study was found. Harvest
   (cutting fruit with the stalk, or daily gathering of windfalls),
   evening hand pollination, and pruning are documented as the main
-  recurring labor tasks.
+  recurring labor tasks [4][6] (see Estimates below).
 - **Storage:** Varies sharply by harvest method and storage temperature:
   cut fruit keeps 7-8 days at ambient conditions and up to about two
   weeks at 15°C, while windfalls keep only 2-4 days; storage below
   15°C causes chilling injury (husk blackening) in whole fruit, while
   separated pulp keeps considerably longer (up to four weeks) under
-  refrigeration.
+  refrigeration [1][4].
 - **Stand life:** Grafted trees typically begin flowering in years 4-8
   after planting, reaching peak production around years 12-15; the
   species is long-lived in the wild, though a specific commercial
-  productive lifespan was not found in the sources reviewed.
+  productive lifespan was not found in the sources reviewed [2][3][4].
 - **Disease/pest profile:** A major soilborne pathogen causing patch
   canker and root rot (the dominant disease concern), plus further
   fungal pathogens, leaf spots, beetles, borers, mealybugs, scale
-  insects, and nematodes.
+  insects, and nematodes [3][4][5].
 - **Cultivars:** A range of named Thai, Malaysian, and Singaporean
   cultivars differing in fruit size, aroma strength, ripening speed,
   eating-stage duration, and self-incompatibility status; one premium
   Malaysian export cultivar now accounts for roughly half that
-  country's total plantings.
-- **Controlled-environment viability:** Not specifically researched in
-  the sources reviewed.
+  country's total plantings [1][2][4][8].
+- **Harvest stages / windows:** Cut at about 85% maturity, judged by days
+  since flowering and a hollow sound when tapped, keeping 7-8 days; or
+  collected as fully ripe windfalls, keeping 2-4 days (Finding 3)
+  [1][4]. Fruit matures about three months after flowering, with a wider
+  range in one detailed source [2][3][4].
+- **Weather response:** Frost and cold: leaves drop below about 8 °C and
+  juvenile trees die below about 5 °C [4]. Drought: a moderate dry spell
+  is needed for flowering, but strong drought inhibits it (Finding 2)
+  [6][7]. Rain: extreme rainfall lowers yields [6]. Waterlogging: very
+  low tolerance (root rot) [4][5]. Wind: typhoons constrain Hainan
+  growing [14].
+- **Water regime:** Rain-fed with supplemental irrigation, switched to
+  heavy irrigation once flower buds appear; no flooded requirement
+  [4][6].
+- **Soil biology:** *Phytophthora* root rot is the main soil problem
+  [3][4][5]. *Trichoderma* biocontrol is established: *T. harzianum*
+  persisted in durian orchard soil, a Rayong trial combining *Trichoderma*
+  with metalaxyl held disease steady while the untreated control's
+  disease index rose to 34.7%, 92% of 50 *Trichoderma* isolates from
+  healthy orchard soil inhibited *Phytophthora* in culture, and a 2026
+  study found *T. asperellum* compatible with dimethomorph but inhibited
+  by fluazinam [16]. Mycorrhizal findings: Not sourced.
+- **Invasiveness / biosecurity:** Native to Borneo, Sumatra and the Malay
+  Peninsula [1][3]. The Hawaii weed risk assessment scores it -2 (low
+  risk), with no evidence of weed status, though it notes the tree is
+  widely naturalised in parts of Asia and that animals disperse the
+  seeds [17]. *Legal restrictions:* China's 2025 Basic Yellow 2 and
+  cadmium testing rules for imports (Finding 6) [13]; Australia has a
+  final import risk analysis for durian and a supplement (contents not
+  read) [17]; the US handbook notes a quarantine status [1].
+- **Controlled environment:** Not sourced — no greenhouse or protected
+  production was found; a large tree to 45 m [3]. Hainan and Yunnan
+  production is in the open (Finding 6) [14].
 
 ## Hazards
 
 Documented pests and diseases include a major soilborne pathogen
 causing patch canker and root rot, further fungal pathogens, leaf spots,
-beetles, borers, mealybugs, scale insects, and nematodes.
+beetles, borers, mealybugs, scale insects, and nematodes [3][4][5].
 
 **TO BE ADDRESSED** — sulfur-containing volatile compounds in the fruit
 are documented to inhibit a liver enzyme involved in alcohol
@@ -168,8 +249,10 @@ is eaten together with alcohol; falling fruit itself (sharp-spined and
 weighing several kilograms) is a plausible physical injury risk beneath
 fruiting trees, though this was not directly sourced; and a folk belief
 holds that raw seeds cause shortness of breath, with the documented
-practice being to cook seeds before eating rather than eat them raw.
-Deferred until this project has a place for this kind of health/safety
+practice being to cook seeds before eating rather than eat them raw
+[2][3][11]. The 2025 Chinese import findings of the dye Basic Yellow 2
+(auramine O) on some shipments are a food-safety concern in trade
+(Finding 6) [13]. Deferred until this project has a place for this kind of health/safety
 data.
 
 ## Uses and processing
@@ -181,7 +264,7 @@ data.
   pickled product, or boiled with sugar into a traditional sweet paste,
   or dried into a snack product or powder; seeds → boiled or roasted
   before eating; husk → fuel and ash; prunings and wood → fuel and
-  interior construction material.
+  interior construction material [1][3][4][5].
 - Not covered in detail by this research: frozen fruit and arils or
   canned aril production in detail; artificial ethylene-based ripening
   practice in detail; durian honey; fruit-propping and tying practice
@@ -189,6 +272,11 @@ data.
 
 ## Open research questions
 
+- 2026-11-17 pass caveats: Finding 6 and the new lines are search-
+  snippet-level only. Open: whether China's 2025 testing rules still
+  apply in late 2026; the true inspection rate; Mekong Delta salt-
+  intrusion effects; mycorrhizal associations; the contents of
+  Australia's durian import risk analysis.
 - Protein-content figures for the raw fruit conflict meaningfully
   across sources (a US food-composition database figure notably lower
   than two other reference sources' figures) — not reconciled here.
@@ -369,3 +457,44 @@ reference work, consulted for a possible salinity-tolerance listing for
 this crop. Supplied: confirmation that no entry for this species or
 genus exists in its salinity-tolerance reference table. Accessed
 2026-09-30, opened.
+
+[13] Search-snippet-level news coverage of China's durian import
+testing: Khaosod English (January 2025), Tridge, VnExpress International
+(imports down about a third in the first five months of 2025; Vietnam
+down 61.6%), South China Morning Post, VietNamNet, The Star, Viet Nam
+News, Fruitnet, Asia News Network, China Daily, Produce Report and The
+Nation Thailand (six, then ten approved Basic Yellow 2 testing labs).
+Supplied: the late-2024 Basic Yellow 2 (auramine O) findings, the 2 ppb
+limit, cadmium testing, inspection rates and clearance times, and
+laboratory counts. Accessed 2026-11-17, search snippets only.
+
+[14] Search-snippet-level news coverage of durian growing in China: South
+China Morning Post (2023, Hainan's first domestic harvest and its
+forecast), The Star, Eurofresh Distribution, Produce Report, China
+Services Info, and a 2026 FreshPlaza article (about 2,000 tonnes in
+2025, under 0.1% of imports; autumn typhoons; Yunnan trial plantations
+fruiting in 2026). Accessed 2026-11-17, search snippets only.
+
+[15] Search-snippet-level material on flower induction: Thai studies on
+paclobutrazol in 'Chanee' (Kasetsart, 1998, via AGRIS), 9-year-old
+'Monthong' in central Thailand, and juvenile 'Monthong' (*International
+Journal of Agricultural Technology*), a *Journal of Agriculture and
+Development* (Nong Lam University) article on Mekong Delta off-season
+practice and paclobutrazol soil residues in Tien Giang and Ben Tre, a
+JIRCAS *JARQ* 58(2) article, and an ISHS paper. Accessed 2026-11-17,
+search snippets only.
+
+[16] Search-snippet-level material on *Trichoderma* biocontrol of
+*Phytophthora* in durian orchards: Kasetsart University AGRIS records
+(1994-1997) on *T. harzianum* establishment and a Rayong orchard trial,
+a Thai study of 50 *Trichoderma* isolates from disease-free orchard soil
+(top isolate *T. reesei*), and a 2026 study on *T. asperellum*
+fungicide compatibility (Thai Journals Online). Accessed 2026-11-17,
+search snippets only.
+
+[17] Search-snippet-level material on weed risk and import policy: the
+Hawaii-Pacific Weed Risk Assessment for *Durio zibethinus* at
+plantpono.org (score -2, low risk; 2009 questionnaire; naturalised in
+parts of Asia; animal seed dispersal), and the Australian Department of
+Agriculture's final import risk analysis for durian and its supplement
+(titles only). Accessed 2026-11-17, search snippets only.
