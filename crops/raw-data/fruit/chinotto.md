@@ -3,7 +3,11 @@
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/chinotto.md`
 **Researched:** 2026-11-08 (re-researched 2026-11-09 against the full current
 checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
-see the new Agronomic data lines on photoperiod and salinity, added that date)
+see the new Agronomic data lines on photoperiod and salinity, added that date;
+re-researched again 2026-11-17 against the full current checklist — see
+Finding 6 and the new Agronomic data lines on first bearing, weather
+response, water regime, harvest stages, soil biology, invasiveness /
+biosecurity, and controlled environment)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -42,7 +46,9 @@ is treated here as a cultivar/landrace note, not a further row split.**
 "Chinotto di Savona," the specific Ligurian landrace behind the Slow Food
 Presidium and the historic candying industry, was long considered simply
 *Citrus myrtifolia*, but a 2020 genetic study found DNA markers that
-distinguish the two [3]. Since this doesn't change the product or market
+distinguish the two [3]. The same study's genetic analysis supports an
+origin by somatic mutation of sour (bitter) orange, which agrees with
+USDA GRIN's 2020 folding of chinotto back into *C.* × *aurantium* [1][11]. Since this doesn't change the product or market
 identity — both are "chinotto" in the market sense — this stays a
 cultivar-level note (Cultivars, below) rather than a fourth proposed row.
 
@@ -109,6 +115,20 @@ specifically [1]; and marmalade and candied-peel use (e.g. in panettone)
 [5]. Few fruit entries in this project supply this many distinct,
 named commercial product categories from one small, barely-edible fruit.
 
+**Finding 6 — the Savona crop fell below 100 producing trees, and the
+revival is land-limited and EU-rule-bound.** By the 1990s Savona's
+chinotto production had fallen to fewer than 100 plants in production;
+the Slow Food Presidium's rules require locally grown, high-quality
+fruit for the candied product [11]. In 2017 Savona's municipality
+planned to put about 18,000 m² of municipal land into chinotto
+cultivation [11]. One source describes the crop as niche and artisanal
+with "incredibly low" yield, still without a figure [11]. Because new
+plants cannot simply be imported — EU Regulation 2019/2072 Annex VI
+prohibits introducing *Citrus* plants for planting (other than seed)
+from third countries other than Switzerland and Liechtenstein [12] —
+expansion depends on European nursery stock, an inference from the rule
+rather than a sourced statement about chinotto growers.
+
 ## Agronomic data
 
 - **Life form / season:** Evergreen perennial shrub/small tree, compact,
@@ -119,6 +139,7 @@ named commercial product categories from one small, barely-edible fruit.
   harvest window: mid-September through late November, during which the
   fruit changes from green to orange; once harvested it is processed
   for consumption year-round rather than sold fresh [2].
+- **Days/years to first bearing:** Not sourced.
 - **Climate zones:** Found growing in Malta, Libya, southern France, and
   Italy (mainly Liguria/Savona, also Tuscany, Sicily, and Calabria) [1].
   The documented Savona growing area is narrowly confined to the coast
@@ -132,7 +153,7 @@ named commercial product categories from one small, barely-edible fruit.
 - **Composition:** Thin sourcing; see Finding 4. No calorie, sugar,
   protein, or fiber figures located.
 - **Edibility:** Not eaten fresh (bitter); always processed (brined,
-  candied, juiced, or distilled for oil) before consumption.
+  candied, juiced, or distilled for oil) before consumption [1][2][5].
 - **Photoperiod sensitivity:** Not sourced for this species specifically.
   By citrus-genus analogy (consistent with this project's other citrus
   entries, e.g. `buddhas-hand.md`): flowering is understood to be
@@ -170,7 +191,9 @@ named commercial product categories from one small, barely-edible fruit.
 - **Storage (postharvest):** Not sourced for fresh fruit. Processed forms
   (candied, liqueur-preserved) are implicitly long-lived by nature of the
   preservation method, but no shelf-life figure was found.
-- **Establishment:** Not sourced.
+- **Establishment:** Not sourced for orchards. As a pot plant: drainage
+  layer of expanded clay or gravel, sunny position outdoors in summer, a
+  sheltered spot and reduced watering in winter [13].
 - **Cultivars:** "Chinotto di Savona," the Ligurian landrace behind the
   historic candying industry and the current Slow Food Presidium, is
   genetically distinguishable from the broader species by DNA markers per
@@ -178,7 +201,33 @@ named commercial product categories from one small, barely-edible fruit.
   myrtifolia* [3] (Naming and scope, above). A "foliis variegatis"
   (variegated-leaf) form is also documented, used as a scion in at least
   one grafting study, apparently grown partly for its ornamental
-  variegation rather than fruit [8].
+  variegation rather than fruit [8]. An Italian garden source names
+  'Chinotto Piccolo' as the best-known cultivar, plus 'Chinotto Grande'
+  and 'Crispifolia' [13].
+- **Weather response:** Frost-sensitive: winter frosts contributed to
+  the Savona decline (Finding 2) [2][5], and a garden guide says it
+  suffers particularly from cold and needs winter frost protection [13].
+  No numeric cold limit was found. Heat, drought and waterlogging: Not
+  sourced.
+- **Water regime:** Ordinary irrigation; no flooded requirement. Potted
+  plants are watered less in winter, when the plant is semi-dormant
+  [13]. Field water requirement: Not sourced.
+- **Harvest stages / windows:** One annual window, mid-September to late
+  November, during which fruit turns green to orange [2]; the essential
+  oil differs with the ripeness stage harvested (Finding 3), so the
+  stage picked depends on the product [6].
+- **Soil biology:** Not sourced.
+- **Invasiveness / biosecurity:** Grown in Malta, Libya, southern France
+  and Italy [1]; no naturalisation or invasive record was found in this
+  pass. *Legal restrictions:* EU Regulation 2019/2072 Annex VI prohibits
+  introducing *Citrus* plants for planting other than seed from third
+  countries other than Switzerland and Liechtenstein (2020 consolidated
+  text; current version not checked) [12]. Movement rules within the EU
+  (plant passports, regulated non-quarantine pests) exist under Annexes
+  IV-V, but their citrus-specific detail was not found [12].
+- **Controlled environment:** Widely grown as a container ornamental,
+  overwintered under shelter [1][13]; no protected-cropping data for
+  fruit production was found.
 
 ## Hazards
 
@@ -236,6 +285,10 @@ present, but this wasn't confirmed and is not asserted here.
 - Exact historical production volumes for the Savona candying industry
   (at its 19th/20th-century peak) were not found — only qualitative
   "flourished" / "many businesses" language.
+- 2026-11-17 pass caveats: Finding 6 and the new lines are search-
+  snippet-level only. Open: still no yield, bearing-age, water, soil-
+  biology or disease figures; no numeric cold limit; the current Annex
+  VI text and EU internal-movement rules for citrus were not checked.
 - Photoperiod sensitivity and salinity tolerance are both sourced only
   by citrus-genus analogy; no species-specific data on either was
   found for this species.
@@ -316,3 +369,27 @@ threshold of roughly 1.4-2 dS/m soil salinity and confirmation that
 tolerance is strongly rootstock-dependent across citrus; no
 chinotto-specific figure found. Accessed 2026-11-09, search snippets
 only.
+
+[11] Search-snippet-level material on the Savona revival and genetics:
+the Slow Food Foundation's Italian "Chinotto di Savona" presidium page
+(fewer than 100 plants in production in the 1990s; presidium rules), a
+2017 Liguria BizJournal report on Savona municipal land for chinotto
+(about 18,000 m²), the University of Milan repository record of the
+2020 genetic study (somatic-mutation origin from sour orange), and
+travel/food press calling the yield "incredibly low". Accessed
+2026-11-17, search snippets only.
+
+[12] Commission Implementing Regulation (EU) 2019/2072, Annex VI (via
+legislation.gov.uk 2020 text and the IPPC-hosted Annex VI PDF), with
+EUR-Lex consolidated-version listings. Supplied: the prohibition on
+introducing *Citrus* plants for planting, other than seeds, from third
+countries other than Switzerland and Liechtenstein, and the Annex IV-V
+framework for internal movement. Accessed 2026-11-17, search snippets
+only; the current consolidated text was not opened.
+
+[13] Italian garden-press material on chinotto as a pot plant: GreenMe
+("Come coltivare l'albero di chinotto") and Cose di Casa (citrus in
+pots). Supplied: cold sensitivity and winter frost protection, winter
+semi-dormancy with reduced watering, pot drainage, summer siting, and
+the named forms 'Chinotto Piccolo', 'Chinotto Grande' and
+'Crispifolia'. Accessed 2026-11-17, search snippets only.
