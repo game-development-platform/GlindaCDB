@@ -4,7 +4,11 @@
 **Researched:** 2026-10-01 (re-researched 2026-11-09 against the full current
 checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
 see the new Agronomic data line on photoperiod and the confirmed salinity
-figure in Soil, added that date)
+figure in Soil, added that date; re-researched again 2026-11-17 against the
+full current checklist — see Finding 7 and the new Agronomic data lines on
+first bearing, composition, establishment, weather response, water regime,
+harvest stages, soil biology, invasiveness/biosecurity, and controlled
+environment, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -133,25 +137,77 @@ a natural yellow dye [4]. Vitamin C content is notably high compared to
 most fruit, with wild-collected fruit documented at several times the
 typical cultivated level [2].
 
+**Finding 7 — mild winters are now the main climate threat in the UK,
+and a single machine pass magnifies it.** A 2018 British Ecological
+Society study of 20 cultivars found that each needed a different amount
+of winter chilling, and that warmer UK winters may not supply enough.
+Too little chill delays the start of growth and cuts yield and fruit
+quality [20]. James Hutton Institute researchers report that mild winters
+make the crop flower later and set fewer fruit, and over repeated years
+shorten plant life [20]. They also note that a warm winter brings very
+uneven bud break, hence uneven flowering and ripening — a serious
+problem for a crop harvested once by machine (Finding 1) [20]. The UK
+crop, worth about £10 million a year and grown mostly for Ribena, is
+the subject of a breeding programme between the Blackcurrant Foundation
+and the James Hutton Institute selecting for lower chill requirement.
+A new cultivar takes at least 13 years, and 'Ben Lawers' is described as
+the newest climate-resilient release [20]. This adds to the
+chill-requirement limit already described (Finding 3) [3].
+
 ## Agronomic data
 
 - **Life form / season:** A deciduous perennial shrub with a plant life
-  of roughly 15-30 years, renewed from the crown.
+  of roughly 15-30 years, renewed from the crown [3].
 - **Harvest pattern:** Perennial bearing; one harvest per year, either
   as a single machine pass (for juice) or one to two hand pickings (for
   fresh market); a separate winter dormant-bud harvest path exists for
-  perfumery use.
+  perfumery use [2][3][16].
+- **Days/years to first bearing:** No crop is normally taken in the first
+  year; a light crop in year two and full cropping by about years three
+  to four (Stand life, below) [3]. See Estimates.
+- **Establishment:** Rooted hardwood cuttings planted in bush rows or
+  close hedgerows at documented spacings, on deep, well-drained soil,
+  sited several hundred metres from susceptible five-needle pines where
+  blister rust matters (Finding 4) [2][3][4][5].
 - **Climate:** Cool temperate to temperate, with a substantial chill
-  requirement.
-- **Food status:** Raw-edible but astringent; mostly cooked or juiced
-  rather than eaten fresh.
+  requirement [2][3].
+- **Weather response:** Hazards only; no quality benefit found. Spring
+  frost on open flowers is the classic cause of poor crops (Finding 3)
+  [3][4]; foliage is damaged at about 30 °C [2][3]; and mild winters
+  give too little chill, uneven bud break and ripening, and lower yield
+  (Finding 7) [20]. Drought during flowering and fruiting cuts flowers
+  and causes fruit abortion [24].
+- **Water regime:** Ordinary irrigation; no flooded requirement. On very
+  light sandy soil in Poland the crop could be grown only with
+  irrigation, using on average 197 mm a season under micro-sprinklers and
+  116 mm under drip [24]. Waterlogging is described as poorly tolerated
+  (Water use, below) [3][4], but no flooding study was found.
+- **Harvest stages / windows:** One fruit stage, but timing within it
+  matters. A Wisconsin trial machine-harvested once about 95% of berries
+  were black and before more than 5% had softened, then hand-picked what
+  the machine missed; the flat-fan trellis gave the best machine take,
+  about 87.5% averaged over three years [22]. A Chinese study of 12
+  cultivars found vitamin C fell steadily across five successive harvest
+  dates while sugar peaked at different times by cultivar, and suggested
+  picking processing fruit 4-8 days after 90% of berries turn black [22].
+  An older UK study found machine-harvest yield highest about a week
+  before full ripeness and about half lost after 17 days [22]. The
+  Wisconsin and UK timings point opposite ways and were not reconciled.
+- **Edibility:** Raw-edible but astringent; mostly cooked or juiced
+  rather than eaten fresh [1][2][4].
+- **Composition:** USDA FoodData Central (European black currants, raw,
+  #173963) gives 63 kcal per 100 g [19]. Vitamin C is reported at 50-280
+  mg per 100 g in a French nutrition table [19]; the doc's existing
+  statement that it is high and cultivar-dependent stands [2]. The
+  USDA vitamin C and potassium values were not seen in this pass.
 - **Pollination:** Required, insect-pollinated (bumblebees, wild bees,
   hoverflies, and honeybees, though honeybees are documented as less
   active during early bloom). Sources conflict on self-fertility: one
   source describes most cultivars as partly self-sterile, requiring a
   meaningful share of cross-pollinating companion plants for optimal
   yield, while another describes most modern cultivars as self-
-  pollinating and typically grown without separate pollinizers.
+  pollinating and typically grown without separate pollinizers
+  [2][3][5].
 - **Photoperiod sensitivity:** Floral initiation is photoperiod-
   dependent (a short-day response) but temperature-modulated: at
   moderate temperatures (roughly 12-16°C) flowering requires day
@@ -165,24 +221,26 @@ typical cultivated level [2].
   organ.
 - **Yield / composition:** World-average yield sits in the low
   thousands of kg/ha, with wide regional variation (see Estimates
-  below); vitamin C content is notably high and variable by cultivar.
+  below); vitamin C content is notably high and variable by cultivar
+  [2][9][11][12].
 - **Propagation:** Entirely vegetative — hardwood stem cuttings (the
   standard method, and this species is documented as rooting
   considerably more easily than its red/white-fruited relative),
-  layering, or softwood tip cuttings under mist.
+  layering, or softwood tip cuttings under mist [2][3].
 - **Water use:** A standard international crop-coefficient curve for
   berry bushes is used by analogy, since no crop-specific coefficient
   study was found. A documented guideline irrigation rate applies from
   bloom through the end of harvest; shallow rooting and a documented
-  intolerance of both drought and waterlogging are notable constraints.
+  intolerance of both drought and waterlogging are notable constraints
+  [3][4][6].
 - **Labor:** Harvest accounts for a large majority of total labor in
   hand-picked systems; machine harvest reduces per-hectare labor by well
-  over an order of magnitude compared to hand picking.
+  over an order of magnitude compared to hand picking [2][3].
 - **Soil:** A moderate pH preference (documented ranges cluster around
   neutral to slightly acidic, with some conflict between sources);
   deep, organic, well-drained soils with good water-holding capacity
   are preferred; the crop is described as a heavy feeder, and boron
-  deficiency has been noted in at least one growing region. Salinity:
+  deficiency has been noted in at least one growing region [2][3][4][5]. Salinity:
   confirmed directly against the FAO salinity-tolerance table — *Ribes*
   sp. is listed there with only a qualitative "sensitive" (estimated)
   rating, with no numeric ECe threshold or yield-decline slope given
@@ -190,24 +248,49 @@ typical cultivated level [2].
   the related blackberry crop in the same table. Source [7]'s original
   "no specific numeric threshold" description is therefore confirmed
   correct, not an unfilled gap [7].
+- **Soil biology:** Soil nematodes carry viruses into the crop: a 1996
+  Irish case linked severe crop loss to arabis mosaic virus and its soil
+  vector, the dagger nematode *Xiphinema diversicaudatum* [23]. A UK list
+  also gives *Longidorus elongatus* as a vector of raspberry ringspot
+  virus to blackcurrant [23]. *Verticillium dahliae* and *V. albo-atrum*
+  cause Verticillium wilt in blackcurrant, and suppressive soils are
+  discussed as a possible strategy in a Dutch report, without
+  blackcurrant data [23]. Currants are listed among woody crops that
+  form arbuscular mycorrhizal associations, but no blackcurrant-specific
+  study was found [23]. Replant problems: Not sourced.
 - **Stand life:** No crop is typically allowed in the first year after
   planting; a light crop arrives in year two, full cropping by roughly
   year three to four; overall productive life is commonly at least 8-10
   years, with total plant longevity of roughly 15-30 years — somewhat
-  shorter than its close red/white-fruited and spiny-fruited relatives.
+  shorter than its close red/white-fruited and spiny-fruited relatives
+  [2][3]. Repeated mild winters may shorten plant life (Finding 7) [20].
 - **Disease/pest profile:** A fungal forest-pathogen relationship
   (white pine blister rust, a plant-health regulatory concern rather
   than a food-safety one), a specific gall mite and its associated
   reversion virus (serious in Europe and New Zealand, absent from North
   America under quarantine), powdery and a related gooseberry-specific
   mildew, leaf spot, gray mold, a borer, a fruit fly, aphids, sawfly,
-  leaf midge, and earwigs are all documented.
+  leaf midge, and earwigs are all documented [1][2][3][4].
+- **Invasiveness / biosecurity:** Native to temperate Eurasia [4][21].
+  Naturalised in New Zealand since 1922 but not classed as a weed there
+  [21], and naturalised in parts of North America and China after
+  cultivation without being regarded as an aggressive invader [21].
+  *Legal restrictions:* white pine blister rust planting bans and limits
+  in parts of North America (Finding 4) [2][5][8]. One encyclopedia entry
+  says *Ribes* is still a listed noxious weed in Michigan [21]; this was
+  not checked against Michigan's current list. The gall mite and
+  reversion virus are excluded from North America by quarantine
+  (Finding 5) [2][4].
+- **Controlled environment:** Not sourced; no protected or soilless
+  commercial production of blackcurrant was found.
 - **Cultivars:** Numerous named cultivars exist, differing in flowering
   time (bred specifically to manage frost risk), chill requirement,
   mildew and rust susceptibility, gall-mite and reversion-virus
   resistance, berry size and color stability, and suitability for
   machine versus hand harvest; a green-fruited cultivar group exists as
-  a milder, sweeter alternative to standard black-fruited types.
+  a milder, sweeter alternative to standard black-fruited types
+  [2][3][4]. Breeding for lower chill requirement is under way in the UK
+  (Finding 7) [20].
 
 ## Hazards
 
@@ -265,6 +348,14 @@ established finding.
   crop-specific international figure.
 - Detailed dormant-bud perfumery-oil data rely entirely on search-
   snippet-level sources rather than a primary study.
+- The 2026-11-17 additions (Finding 7 and the new Agronomic data
+  lines) rest on search-snippet reading only. In particular: the USDA
+  vitamin C and potassium values were not seen; the harvest-timing
+  studies disagree (harvest before versus after full colour) and were
+  not reconciled; the Michigan noxious-weed listing is from a secondary
+  encyclopedia; the nematode-virus evidence is one Irish case plus a UK
+  vector list; and waterlogging tolerance, replant problems and
+  protected cultivation were searched for but not found.
 - Photoperiod/temperature control of flower initiation is sourced only
   at search-snippet depth; the primary Heide/Sønsteby-group papers were
   not independently opened, and sources disagree somewhat on the exact
@@ -477,3 +568,42 @@ study), plus an older 1960s Nature paper on cultivar 'Baldwin'.
 Supplied: the short-day, temperature-modulated floral-initiation
 mechanism and the critical-day-length figure. Accessed 2026-11-09,
 search snippets only, none opened directly.
+
+[19] Search-snippet-level material on blackcurrant composition: a mirror
+of the USDA FoodData Central record for European black currants, raw
+(#173963), Aprifel's blackcurrant nutrition sheet, a Latvian nutrition
+site, and patient.info food entries. Accessed 2026-11-17, search
+snippets only.
+
+[20] Search-snippet-level material on warm winters and UK blackcurrant:
+the British Ecological Society's 2018 press release on the study (via
+EurekAlert, ScienceDaily and Phys.org), *The Press and Journal*,
+FarmingUK, Seed World, and the James Hutton Institute's case study on
+breeding resilient blackcurrants for Ribena. Accessed 2026-11-17, search
+snippets only.
+
+[21] Search-snippet-level material on blackcurrant naturalisation: the
+New Zealand Department of Conservation weeds database, the New Zealand
+Plant Conservation Network profile, and the Encyclopedia of Life species
+page. Accessed 2026-11-17, search snippets only.
+
+[22] Search-snippet-level material on blackcurrant harvest timing: a
+University of Wisconsin (Bayfield) research bulletin on black currant
+trellis and machine-harvest trials, an older UK machine-harvest timing
+study, a Chinese study of 12 cultivars over five harvest dates, and an
+Estonian genotype-stability study (*Zemdirbyste-Agriculture*). Accessed
+2026-11-17, search snippets only.
+
+[23] Search-snippet-level material on blackcurrant soil biology: a 1996
+*Annals of Applied Biology* paper on arabis mosaic virus and
+*Xiphinema diversicaudatum* in Ireland (via PestInfo), an SRUC technical
+note on soil nematodes, a Wageningen report on soil-borne pathogens of
+small fruit, and a 2018 *Frontiers in Microbiology* paper on arbuscular
+mycorrhizal fungi in fruit crops. Accessed 2026-11-17, search snippets
+only.
+
+[24] Search-snippet-level material on blackcurrant water use: a Polish
+drip versus micro-sprinkler irrigation trial on light sandy soil, an
+Aalborg University study of drought stress at flowering in 'Narve Viking'
+and 'Ben Gairn', and a press release on blackcurrant genome research
+and drought. Accessed 2026-11-17, search snippets only.
