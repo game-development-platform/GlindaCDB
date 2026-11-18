@@ -4,7 +4,10 @@
 **Researched:** 2026-10-06 (re-researched 2026-11-09 against the full current
 checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
 see the new Agronomic data lines on photoperiod/chilling and salinity, added
-that date)
+that date; re-researched again 2026-11-17 against the full current checklist
+— see Finding 5 and the new Agronomic data lines on harvest pattern, first
+bearing, establishment, composition, weather response, water regime, soil
+biology, and invasiveness / biosecurity)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -77,22 +80,56 @@ both green and hardwood cuttings; less formal sources report
 cold-hardiness to around -30°C, first fruiting in year 2-3, and average
 per-tree yields around 10 kg (up to 50 kg for the best trees) [9][11].
 
+**Finding 5 — an environmental weed in Australia and New Zealand.**
+Australia's Weedscan (Centre for Invasive Species Solutions) classes
+cherry plum as an environmental, invasive garden escapee growing to
+12 m, and it is described as a mildly invasive bushland weed near
+urban centres in south-eastern Australia, where the Hawaii-Pacific
+weed risk summary says it inhibits natural regeneration [14]. In New
+Zealand it is on Howell's (2008) consolidated list of environmental
+weeds and is recorded as an exotic, casual weed [14]. The California
+Invasive Plant Council assessed it in 2005 (Plant Assessment Form), but
+the rating itself was not seen [14]. This fits the traits already
+documented here: suckering, spiny wild forms, abundant seed and early,
+heavy flowering (Agronomic data) [1][3][4]. The weediness belongs to the
+species as a whole, including the purple-leaf ornamental forms this
+entry scopes out, not specifically to fruit orchards — an inference,
+not sourced.
+
 ## Agronomic data
 
 - **Life form / season:** A deciduous tree or large shrub, wild forms
   reaching 8-12 m and often spiny and suckering; hybrid cultivars are
   much smaller (roughly 2.5-3 m). One of the first European trees to
   flower each year (as early as mid-February in parts of its naturalized
-  range), carrying real frost risk at bloom.
+  range), carrying real frost risk at bloom [1][3][4].
+- **Harvest pattern:** Perennial bearing with two pickings from one
+  tree: green fruit in spring over several passes (five pickings at
+  12-day intervals in one trial), then ripe fruit from midsummer into
+  early autumn (Finding 1) [1][5]. Large crops come only every four
+  years or so under naturalised conditions in one cool region [4].
+- **Days/years to first bearing:** Hybrid alycha cultivars bear from
+  year 2-3 [11] (see Estimates below); seedling trees: Not sourced.
+- **Establishment:** Named cultivars budded onto seedling or clonal
+  myrobalan rootstock, or rooted from hardwood or green cuttings (one
+  clonal selection roots 92% from hardwood) [8][9][10]. Orchard spacing:
+  Not sourced (assumed by plum analogy; see Estimates below).
 - **Climate:** Temperate, Mediterranean, continental, and semi-arid
   climates across its native range (the Balkans through Turkey, the
   Caucasus, Iran, and Central Asia); tolerant of drought, strong wind,
-  and frost.
-- **Food status / composition:** Raw-edible at both harvest stages
-  (green fruit eaten with salt; ripe fruit eaten out of hand). Caloric
-  and protein content are carried over by analogy from the related plum
-  crop this project has also researched, since no dedicated composition
-  analysis for this species was found.
+  and frost [3][4].
+- **Edibility:** Raw-edible at both harvest stages (green fruit eaten
+  with salt; ripe fruit eaten out of hand); sour ripe fruit goes to jam
+  [1][5][6].
+- **Composition:** Green Turkish cultivars are rich in sugars and
+  phenolics, differing by cultivar [5]; the Russian hybrid's sugar and
+  acid content is documented [9]. No per-100 g table was found: one
+  fitness website gives about 80 kcal per 100 g with no method, and a
+  Romanian study of *P. cerasifera* biotypes measured vitamin C and
+  malic-acid-equivalent acidity (values not seen) [15]. Malic acid is
+  the main organic acid in plums generally [15]. Caloric and protein
+  content are carried over by analogy from the related plum crop (see
+  Estimates below).
 - **Photoperiod sensitivity:** Not directly sourced for this species.
   By analogy with deciduous *Prunus* generally (sweet cherry, apricot,
   almond), dormancy release and flowering timing are driven by
@@ -106,7 +143,7 @@ per-tree yields around 10 kg (up to 50 kg for the best trees) [9][11].
   another describes it as an outbreeding diploid; the Russian hybrid
   alycha cultivars are documented as partly self-fertile. Insect (bee)
   pollinated regardless, and notable as one of the first spring nectar
-  sources available to pollinators.
+  sources available to pollinators [1][3][9].
 - **Yield:** No per-hectare production statistics exist for this species
   specifically, since international agricultural statistics typically
   lump it together with plums and sloes as a combined category; yield
@@ -116,14 +153,15 @@ per-tree yields around 10 kg (up to 50 kg for the best trees) [9][11].
   the related plum crop this project has also researched, likely
   overstating this species' actual needs given its documented strong
   drought tolerance; waterlogging tolerance is at least moderate, since
-  the main rootstock selection specifically tolerates waterlogged soil.
+  the main rootstock selection specifically tolerates waterlogged soil
+  [3][10] (see Estimates below).
 - **Propagation:** By seedling (variable, since the species is an
   outbreeder), by named cultivars budded onto seedling or clonal
   rootstock, or by rooted hardwood or green cuttings; seed needs 2-3
   months of cold stratification and can take up to 18 months to
-  germinate.
+  germinate [4][8][9][10].
 - **Soil:** Tolerates light, medium, and heavy soils, with well-drained
-  soil preferred; pH range is carried over by analogy from the related
+  soil preferred [4]; pH range is carried over by analogy from the related
   plum crop, since no direct figure was found for this species.
   Salinity tolerance is directly sourced at the species level but
   inconsistent: in vitro trials on the Myrobalan 29C and Myrobolan B
@@ -138,41 +176,76 @@ per-tree yields around 10 kg (up to 50 kg for the best trees) [9][11].
 - **Labor:** No sourced labor-hour budget exists for this crop; rough
   estimates are carried over by analogy from the related plum crop,
   adjusted for smaller fruit size, with an added allowance for the
-  extra selective hand-picking passes needed for the green-fruit market.
+  extra selective hand-picking passes needed for the green-fruit market
+  (see Estimates below).
 - **Storage:** No dedicated storage study was found for this species;
   green fruit is eaten crisp within about a week of picking, while ripe
   fruit softens quickly and is generally sold, cooked into condiments or
   jam, or (when overripe) mashed for brandy, rather than stored for any
-  length of time.
+  length of time [4][6] (see Estimates below).
 - **Stand life:** Not well researched; one source notes that large
   crops occur only "every four years or so" under wild/naturalized
   conditions in at least one cool-climate region, suggesting irregular
-  bearing outside intensive cultivation.
+  bearing outside intensive cultivation [4].
 - **Disease/pest profile:** A specific plum-virus disease is a
   documented threat to wild populations; rootstock seedlings are prone
   to vigorous suckering; one named cultivar shows reduced fruit size
-  under unusually heavy crop loads.
+  under unusually heavy crop loads [3][8][9].
 - **Cultivars:** Includes a wild baseline type, several named Turkish
   green-plum cultivars (differing in sugar and phenolic content at the
   green stage), at least one named Russian hybrid-alycha cultivar bred
   with Chinese plum, a specific clonal rootstock selection, and several
   purely ornamental purple-leaf forms (noted here only because their
-  fruit can be used for intensely colored jam).
-- **Harvest stages:** Two harvest stages from the same tree — green
+  fruit can be used for intensely colored jam) [1][5][6][9][10].
+- **Harvest stages / windows:** Two harvest stages from the same tree — green
   (picked over several passes in spring, used fresh with salt, in
   cooking, or pickled) and ripe (picked later in the season, used
-  fresh, for jam, or for the Georgian condiment products).
-- **Controlled-environment viability:** Not researched in depth; one
-  source notes ornamental bonsai use of the species.
+  fresh, for jam, or for the Georgian condiment products) [1][5][6][7].
+- **Controlled environment:** Greenhouse "plums" from Silifke (Mersin,
+  Turkey) are harvested from early March and sold out of season, with
+  harvest moving from greenhouses to open fields later; producers there
+  farm about 800-900 ha and normally harvest 8-9 thousand tonnes,
+  halved in one cold year [16]. Whether these are cherry plum (green
+  "can erik") or another plum species was not confirmed [16]. One source
+  notes ornamental bonsai use of the species.
+- **Weather response:** Frost: very early bloom (from mid-February in
+  parts of its range) carries real spring-frost risk [1]; Turkey's 2025
+  April frost cut national fruit output by over 30%, with plum-specific
+  losses not reported [16]. Cold: hybrid alycha cultivars hardy to about
+  -30 °C with high winter hardiness [9][11]. Drought and wind: tolerant
+  [3]. Waterlogging: see Water regime.
+- **Water regime:** Ordinary irrigation or rain-fed; no flooded
+  requirement. Myrobalan rootstock is the waterlogging-tolerant *Prunus*
+  stock: in Spanish trials Myrobalan 'P.2175' and 'P.2980' were tolerant
+  against a sensitive almond × peach hybrid ('Felinem'), and a Myrobalan
+  somaclonal variant ('S.4') grafted with peach had the highest survival
+  after 21 days of flooding [17]. A 2018 transcriptome study found the
+  tolerant Myrobalan represses secondary-metabolism genes under hypoxia
+  [17].
+- **Soil biology:** The clonal rootstock selection tolerates root-knot
+  nematode [10]. Mycorrhizal, replant and allelopathy findings: Not
+  sourced in this pass.
+- **Invasiveness / biosecurity:** Native from the Balkans through
+  Turkey, the Caucasus, Iran and Central Asia [3]; an environmental weed
+  in south-eastern Australia and New Zealand, with a 2005 California
+  assessment (Finding 5) [14]. *Legal restrictions:* no cultivation ban
+  found for the fruit crop; as a *Prunus*, its nursery stock falls under
+  stone-fruit plant-health rules elsewhere (e.g. plum pox virus), which
+  were not checked for this species in this pass. The plum-virus threat
+  to wild populations is noted under Disease/pest profile [3].
+
+## Hazards
 
 ## Hazards
 
 Documented disease pressure includes a specific plum-virus disease that
 threatens wild populations; rootstock seedlings commonly sucker
-vigorously, a management nuisance rather than a toxicological hazard.
+vigorously, a management nuisance rather than a toxicological hazard
+[3][8].
 
 **TO BE ADDRESSED** — like other stone fruit in the genus *Prunus*, the
-seeds (kernels) and leaves are cyanogenic; the fruit flesh itself is not.
+seeds (kernels) and leaves are cyanogenic; the fruit flesh itself is not
+[4].
 Deferred until this project has a place for this kind of health/safety
 data.
 
@@ -185,7 +258,8 @@ data.
   ripe fruit → juice and compote; overripe fruit → mashed → fermented
   and distilled into a fruit brandy; stones → stratified → grown on as
   seedling rootstock trees (for the crop itself or for other stone-fruit
-  rootstock use); prunings → hardwood cuttings → clonal rootstock.
+  rootstock use); prunings → hardwood cuttings → clonal rootstock
+  [1][4][6][7][8][10].
 - Not covered in detail by this research: canned and frozen fruit;
   purely ornamental purple-leaf cultivation; a reported traditional
   flower-remedy use.
@@ -216,6 +290,11 @@ data.
 - No peer-reviewed, species-specific chilling-requirement study was
   found; the ~300-500 chill-hour figure used here comes from a
   commercial nursery source only.
+- 2026-11-17 pass caveats: Finding 5 and the new lines are search-
+  snippet-level only. Open: the Cal-IPC rating; a per-100 g composition
+  table; whether Silifke greenhouse plums are this species; plum-specific
+  2025 frost losses; soil biology; stone-fruit nursery-stock rules as
+  they apply to this species.
 - Spacing and planting-density figures used to derive per-hectare yield
   tiers are assumed by analogy to typical plum-orchard spacing, not
   directly sourced for this species.
@@ -358,3 +437,32 @@ hybrid Mariana 2624, and a 2023 University of Tehran trial of eight
 conflicting salt-tolerance ratings showing strong genotype-dependent
 variation within the species. Accessed 2026-11-09, search snippets
 only; none opened in full.
+
+[14] Search-snippet-level material on weed status: Weedscan (Centre for
+Invasive Species Solutions) profile for *Prunus cerasifera*, Canberra
+and NSW South Coast NatureMapr records, the Hawaii-Pacific Weed Risk
+Assessment summary (plantpono.org), Flora of New Zealand and NZOR
+records (Howell 2008 consolidated environmental-weed list), Landcare
+Research BioTaNZ, and the Cal-IPC 2005 Plant Assessment Form page.
+Accessed 2026-11-17, search snippets only; the Cal-IPC rating was not
+seen.
+
+[15] Search-snippet-level material on composition: a fitness-website
+nutrition page (about 80 kcal/100 g, no method), a Romanian *Revista de
+Chimie* study of *P. cerasifera* biotypes (vitamin C and acidity; values
+not seen), and plum organic-acid reviews (malic acid dominant).
+Accessed 2026-11-17, search snippets only.
+
+[16] Search-snippet-level trade-press material: FreshPlaza and
+HortiDaily reports on Turkish green plums and Silifke greenhouse plums
+(area, normal output, early-March greenhouse harvest, a halved cold
+year), a Tridge report on Mut district plums, and FreshPlaza/Bianet
+reports on the April 2025 Turkish frost (fruit output down over 30%).
+Accessed 2026-11-17, search snippets only.
+
+[17] Search-snippet-level material on Myrobalan waterlogging tolerance
+from CITA Aragón (Spain): Amador et al. (2012) physiological trials of
+Myrobalan 'P.2175' and 'P.2980' vs. 'Felinem', a 2018 transcriptome
+study of hypoxia response, and Zega et al. (2013) on the somaclonal
+variant 'S.4' grafted with peach 'Suncrest' (21-day flooding). Accessed
+2026-11-17, search snippets only.
