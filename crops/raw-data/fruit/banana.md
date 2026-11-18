@@ -4,7 +4,11 @@
 **Researched:** 2026-10-10 (re-researched 2026-11-08 against the full current
 checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
 see Finding 8 and the new Agronomic data lines on flowering photoperiod and
-salinity, added that date)
+salinity, added that date; re-researched again 2026-11-17 against the full
+current checklist — see Findings 9 and 10 and the new Agronomic data lines on
+first bearing, composition, establishment, weather response, water regime,
+harvest stages, soil biology, invasiveness/biosecurity, and controlled
+environment, added that date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -180,6 +184,44 @@ stock certification, which works well against ordinary externally
 transmitted viruses, cannot by itself guarantee virus-free planting
 material for B-genome cultivars specifically.
 
+**Finding 9 — the soil fungus that ended one export cultivar is now
+moving through the regions that grow its replacement, and Australia
+regulates where banana plants may go.** Fusarium wilt tropical race 4
+(TR4), the strain that threatens the Cavendish subgroup (Finding 5), was
+first confirmed in Queensland in March 2015 on a Cavendish farm in the
+Tully Valley. All banana plants on the property were destroyed, access was
+restricted and animal-exclusion fencing put up. Further properties close
+by were confirmed in July 2017 and February 2018 [27]. The fungus is not
+considered technically feasible to eradicate, and it spreads over long
+distances in infected planting material and soil and on tools, machinery,
+footwear and clothing [27]. In Latin America, TR4 was detected in Colombia in 2019, with
+Peru and Venezuela also affected and outbreaks reported in Peru's Piura
+region in 2022 and 2023 [26]. Ecuador reported a suspected case in El Oro
+in September 2025, confirmed it in December 2025 and confirmed a second
+case in July 2026, placing farms under strict quarantine with plant
+destruction and limits on moving machinery and people [26]. Queensland's
+plant-protection rules and biosecurity zones cover banana bunchy top,
+black Sigatoka, TR4, banana freckle and Cavendish-competent race 1. They
+restrict bringing banana plants into the state, moving them within pest
+quarantine areas, and moving soil and equipment into the TR4 quarantine
+area [28]. Banana bunchy top, first found near the New South Wales-
+Queensland border in 1913, has been held to a small area of south-east
+Queensland and northern New South Wales for more than a century. Infected
+plants must be destroyed, since there is no cure [28].
+
+**Finding 10 — a tropical crop grown under plastic at the edge of its
+range.** Outside the tropics, bananas are grown at scale in protected
+cultivation. In the Canary Islands, about 3,000 ha of 9,614 ha of
+plantations were under greenhouse in 2002, and a 2010 account put
+greenhouses at slightly over a third of about 9,000 ha. The plastic
+cover also cuts UV exposure and keeps out whitefly [30]. On Turkey's
+Mediterranean coast, banana greenhouses in Anamur grew from about 3,000 ha
+in 2018 to about 5,000 ha in a more recent report, with another 2,000-
+2,500 ha in Manavgat. They are generally unheated [30]. A frequently
+repeated claim that Iceland is Europe's largest banana producer is not
+supported: its geothermal greenhouse bananas are a University of Iceland
+planting of roughly 600-700 m² that sells nothing abroad [30].
+
 ## Agronomic data
 
 **Shared across all three crops** (family-level biology):
@@ -208,7 +250,21 @@ material for B-genome cultivars specifically.
   pathogens, but B-genome cultivars (plantain and some hybrids) carry a
   distinct clonal-degeneration risk from an infectious virus integrated
   directly into their own genome, which tissue culture itself can
-  trigger into activity (Finding 8) [23].
+  trigger into activity (Finding 8) [23]. TR4 also travels in infected
+  planting material and soil (Finding 9) [27].
+- **Days/years to first bearing:** For plantain, about 14 months to
+  first harvest in a documented irrigated system [6]. For dessert banana,
+  a Queensland field trial found tissue-cultured plants reached bunch
+  emergence and harvest sooner than conventional suckers, without a month
+  figure in the snippet read [34]. A grower forum gives about 6-10 months
+  from planting to harvest in the tropics and 14-18 months in cooler
+  subtropics (anecdotal) [34]. Highland banana: Not sourced. See also
+  Estimates.
+- **Establishment:** Sword suckers, corm pieces or tissue-culture
+  plantlets (Propagation, above); suckers are pared and hot-water treated
+  [1][7]. Clean material matters: in Uganda a highland banana crop planted
+  with hot-water-treated material yielded 51% more than one planted with
+  nematode-infested material [32]. Planting density: see Estimates.
 - **Photoperiod sensitivity:** Disputed between sources for flowering:
   some classify banana as day-neutral for floral induction itself, with
   photoperiods under roughly 12 hours only slowing the rate of bunch
@@ -231,7 +287,53 @@ material for B-genome cultivars specifically.
   disorder ("choke throat," where leaves and the flower structure fail
   to emerge properly) is documented in cooler growing conditions; at
   the opposite extreme, growth also stops above a specific very high
-  heat threshold.
+  heat threshold [14].
+- **Weather response:** Frost kills the above-ground plant (Cold/heat
+  limits, above) and is purely a hazard; no quality benefit was found.
+  Wind damage thresholds conflict about fourfold between sources (Open
+  research questions). Very high sensitivity to water deficit (Finding 4)
+  [2].
+- **Water regime:** Ordinary irrigation, with a high water demand
+  (Finding 4); no flooded requirement. Waterlogging is poorly tolerated:
+  a review gives tolerance of about 24-48 hours under still floodwater and
+  up to 72 hours under moving water (a secondary citation) [33]. A
+  pot study of cultivar Berangan found adventitious roots by day three
+  and aerenchyma by days 14-24 of waterlogging, with leaf yellowing after
+  24 days but no reported yield measure [33].
+- **Harvest stages / windows:** Continuous and successive across a
+  planting, since pseudostems of different ages fruit at different times,
+  one bunch each (Finding 2) [1]. Each bunch is cut at a single
+  mature-green stage judged by age and finger size (Finding 3) [3].
+- **Soil biology:** Fusarium wilt (race 1 and TR4) is soilborne and
+  persists in soil, which is why infested land cannot be replanted to
+  susceptible cultivars and why soil movement is regulated (Findings 5
+  and 9) [1][27][28]. The burrowing nematode (*Radopholus similis*) is
+  described as the most damaging nematode in banana-producing countries.
+  It causes plants to topple with total loss of the bunch and drastically
+  shortens plantation life, with reported losses of 30-60% in many
+  countries [32]. Resistance to it does not confer resistance to other
+  banana nematodes [32]. Mycorrhizal association and Fusarium-suppressive
+  soils: searched for but not sourced in this pass.
+- **Invasiveness / biosecurity:** Native to South-east Asia and New
+  Guinea (wild diploid ancestors) [1]; cultivated clones are sterile and
+  seedless, and the genus *Musa* is not classed as a weed in New Zealand
+  [29]. Seeded bananas are a different matter: New South Wales treats
+  seeded ornamental bananas as environmental weeds and as a biosecurity
+  risk to commercial banana growing, with regional control measures for
+  *M. ornata* and *M. velutina*, and an older Queensland note calls seeded
+  ornamentals a serious disease risk and potential weed [29]. A Hawaii-
+  Pacific risk screen of wild *M. acuminata* lists both high-risk traits
+  (wide climate suitability, repeated introductions) and low-risk ones
+  (not naturalised outside its native range, cultivated forms sterile),
+  and *M. balbisiana* is rated low risk in Hawaii [29]. *Legal
+  restrictions:* Queensland's banana biosecurity zones and movement rules
+  (Finding 9) [28]; TR4 farm quarantines in Australia and Latin America
+  (Finding 9) [26][27].
+- **Controlled environment:** Grown under greenhouse at commercial scale
+  in the Canary Islands (about a third of area) and on Turkey's
+  Mediterranean coast (about 5,000 ha in Anamur, mostly unheated), and as a
+  small geothermal demonstration in Iceland (Finding 10) [30]. Soilless or
+  closed-system production: Not sourced.
 - **Disease/pest profile:** A soil-borne fungal wilt disease, a major
   leaf fungal disease, an incurable aphid-borne virus, and a bacterial
   wilt disease are the dominant disease concerns, with relative
@@ -252,8 +354,11 @@ material for B-genome cultivars specifically.
 **Dessert banana specifically:**
 
 - **Climate:** Tropical and frost-free subtropical lowlands.
-- **Food status:** Raw-edible when ripe; notably calorie-dense and
-  potassium-rich for a fruit.
+- **Edibility:** Raw-edible when ripe; notably calorie-dense and
+  potassium-rich for a fruit [31].
+- **Composition:** Raw banana (USDA FoodData Central, via a copy of the
+  record and mirrors): about 89 kcal, 1.1 g protein, 22.8 g carbohydrate
+  and 358 mg potassium per 100 g [31].
 - **Yield / composition:** World-average yield (derived from an older
   combined banana-and-plantain statistic) sits in the low thousands of
   kg/ha; well-managed export-oriented commercial plantations reach
@@ -271,9 +376,15 @@ material for B-genome cultivars specifically.
 
 - **Climate:** Specifically humid lowland tropics, documented across
   West and Central Africa, the Caribbean, and northern South America.
-- **Food status:** Not typically raw-edible — green fruit is starchy
+- **Edibility:** Not typically raw-edible — green fruit is starchy
   and always cooked; ripe fruit can technically be eaten raw but is
-  usually still cooked.
+  usually still cooked [5][7].
+- **Composition:** Raw plantain: about 122 kcal and about 32 g
+  carbohydrate per 100 g; potassium figures from secondary sites range
+  from 465 to 499 mg, not reconciled to the USDA record [31]. Boiled green
+  plantain is given as about 116 kcal and fried as about 220 kcal per
+  100 g [31]. A discrepancy within one source's composition table is
+  noted in Open research questions.
 - **Yield / composition:** Smallholder on-farm yields in West and
   Central Africa are considerably lower than intensively managed
   irrigated systems elsewhere, which can reach yields several times
@@ -289,9 +400,11 @@ material for B-genome cultivars specifically.
 - **Climate:** Cool tropical highland elevations specifically, with
   documented best performance at a fairly narrow elevation band well
   above sea level.
-- **Food status:** Not raw-edible — cooking-type clone sets are always
+- **Edibility:** Not raw-edible — cooking-type clone sets are always
   steamed green; the separate beer clone set is bitter and astringent
-  and used only for brewing.
+  and used only for brewing [4][12].
+- **Composition:** Not sourced for the highland group specifically in
+  this pass.
 - **Yield / composition:** Documented median on-farm yields in one
   major growing country are higher than earlier literature reports
   suggested, though a bacterial wilt disease remains the dominant
@@ -404,6 +517,17 @@ national dish.
   numeric threshold; the two numeric field-irrigation figures found use
   irrigation-water EC, not FAO's own soil-ECe convention, so they
   can't be directly substituted into FAO-56-style modeling.
+- The 2026-11-17 additions (Findings 9 and 10 and the new Agronomic data
+  lines) rest on search-snippet reading only. In particular: TR4
+  detection dates in Peru and Venezuela were not pinned down; the
+  Queensland regulation was read only at table-of-contents depth; the
+  Canary Islands greenhouse share dates from 2002-2010; plantain
+  potassium figures conflict; months to first harvest for dessert banana
+  are anecdotal; the waterlogging tolerance hours come from a secondary
+  citation; and mycorrhizal association and Fusarium-suppressive soils
+  were searched for but not found.
+- Highland banana composition, months to first harvest, and any
+  protected cultivation were not sourced.
 - Whether eBSV activation risk (Finding 8) differs meaningfully between
   the plantain and highland-banana B-genome groups specifically was not
   found — the one activation study located tested a natural plantain
@@ -648,3 +772,64 @@ irrigation-water-salinity field trial and a Brazilian peer-reviewed
 agronomy journal article (Revista Ciência Agronômica) giving numeric
 irrigation-water EC figures, neither opened directly. Accessed
 2026-11-08.
+
+[26] Search-snippet-level material on TR4 in Latin America: Fresh Fruit
+Portal reports on regional coordination and on Ecuador's second confirmed
+case (July 2026), EPPO Global Database reporting, *The Cuenca Dispatch* on
+Ecuador's December 2025 confirmation, an IPPC case study from Ecuador's
+plant-protection organisation, a *Farmer's Weekly* report, and a 2020
+*Plants* (MDPI) paper. Accessed 2026-11-17, search snippets only.
+
+[27] Search-snippet-level material on TR4 in Australia: the IPPC pest
+report from Australia (2017), a 2016 *Australasian Plant Disease Notes*
+paper hosted by the Queensland agriculture department's research archive,
+Fresh Fruit Portal reports (March 2015), and Australian Banana Growers'
+Council news. Accessed 2026-11-17, search snippets only.
+
+[28] Search-snippet-level material on Queensland banana biosecurity: the
+Plant Protection Regulation 2002 (several historical versions on the
+Queensland legislation site), the repealed Plant Protection (Banana Pest
+Quarantine) Regulation 1999, Queensland Government pages on biosecurity
+zones and banana bunchy top, and an interstate quarantine zones guide.
+Accessed 2026-11-17, search snippets only; the regulation was read only at
+table-of-contents depth.
+
+[29] Search-snippet-level material on bananas as weeds: the NSW WeedWise
+profile for seeded banana, the Hawaii-Pacific Weed Risk Assessment pages
+(PlantPono) for *M. acuminata* and *M. balbisiana*, the New Zealand
+Department of Conservation weeds database entry for *Musa*, the Office of
+the Gene Technology Regulator's *Biology of Musa* (2025), a 1991 Rare
+Fruit Council note on seeded ornamental bananas, and WeedScan. Accessed
+2026-11-17, search snippets only.
+
+[30] Search-snippet-level material on protected banana growing: a 2010
+ProMusa article on Canary Islands banana growing, a 2005 *Fruits* paper
+(Cabrera and Galán Saúco) with 2002 area figures, HortiDaily reports on
+Anamur and Manavgat greenhouse area, a *Hürriyet Daily News* report, a
+2009-era paper on Turkish banana production, and Reykjavík Grapevine and
+other accounts of Iceland's geothermal greenhouse bananas. Accessed
+2026-11-17, search snippets only.
+
+[31] Search-snippet-level material on banana and plantain composition: a
+copy of the USDA FoodData Central record for raw banana, nutrition-
+database mirrors, Healthline's plantain comparison, and nutrition
+calculators citing USDA data for plantain (raw, boiled and fried).
+Accessed 2026-11-17, search snippets only.
+
+[32] Search-snippet-level material on banana nematodes: an IITA/ISHS study
+of nematode yield loss in East African highland banana in Uganda, a
+University of Hawaii CTAHR brochure, a review of nematode resistance in
+African bananas, and an older review of burrowing nematode damage.
+Accessed 2026-11-17, search snippets only.
+
+[33] Search-snippet-level material on waterlogging: a 2022 *Plants* (MDPI)
+study of waterlogging in *M. acuminata* cv. Berangan, and a review it
+draws on for flooding-tolerance hours. Accessed 2026-11-17, search
+snippets only; the review's original source for the hours was not
+checked.
+
+[34] Search-snippet-level material on time to harvest: a 1990
+*Australian Journal of Experimental Agriculture* field evaluation of
+tissue-cultured bananas in south-eastern Queensland, and a growers'
+forum discussion (anecdotal figures). Accessed 2026-11-17, search
+snippets only.
