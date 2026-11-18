@@ -1,7 +1,11 @@
 # Dwarf Sour Cherry / Canadian Bush Cherry (*Prunus cerasus* × *P. fruticosa*; *P.* × *kerrasis*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/dwarf-sour-cherry.md`
-**Researched:** 2026-10-05
+**Researched:** 2026-10-05 (re-researched 2026-11-17 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see Finding 5 and the new Agronomic data lines on harvest pattern, first
+bearing, edibility, photoperiod, salinity, establishment, weather response,
+water regime, harvest stages, soil biology, and invasiveness / biosecurity)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -109,23 +113,55 @@ winter event showed this cultivar-to-cultivar hardiness difference
 clearly: some cultivars suffered no damage at all, while others suffered
 meaningful dieback in the very same conditions [6].
 
+**Finding 5 — protected cultivars, a small machine-harvested industry,
+and spotted wing drosophila as the new constraint.** The first cultivar,
+'Carmine Jewel', was released for propagation in 1999, and 'Romeo',
+'Juliet', 'Valentine', 'Cupid' and 'Crimson Passion' followed in 2004 as
+the Romance Series [13]. Several hold Canadian plant breeders' rights
+held by the University of Saskatchewan: 'Juliet' was granted in 2011,
+'Romeo' in 2014 (chosen from about 2,500 seedlings for productivity,
+winter hardiness and suckering), 'Saint Valentine' runs to 2029 and
+'Crimson Passion' to 2032 [14]. One estimate puts Canadian plantings at
+roughly 2,000 acres, mostly in Saskatchewan and Alberta, and most growers
+harvest with the JOANNA-3, a Polish machine designed for black currants
+[13]. The invasive fruit fly in this entry is spotted wing drosophila
+(*Drosophila suzukii*): first reported in Alberta in 2010 and found
+across Saskatchewan in 2019, it did about 50% damage to cherries at one
+North Dakota research centre in 2013, and Manitoba's 2026 fruit report
+calls for control once fruit colours and suggests harvesting dwarf sour
+cherries 7-8 days before full ripeness to keep them marketable [15] —
+at odds with the sugar gain from leaving fruit to hang (Finding 3).
+
 ## Agronomic data
 
 - **Life form / season:** An own-rooted, deciduous, suckering shrub,
   roughly 1.75-2.5 m tall (up to about 3 m in trial plantings);
   perennial, blooming mid-to-late spring with a single annual harvest
-  in late summer.
+  in late summer [2][4][8].
+- **Harvest pattern:** A single annual harvest in late summer, picked
+  over a 3-4 week window per cultivar, often in one machine or catch-
+  frame pass [1][3][7].
+- **Days/years to first bearing:** A light first crop in year 3-4, a
+  sharp jump the next year, and 11-14 kg per bush by years 4-6
+  (Finding 2) [5].
+- **Establishment:** Tissue-culture plugs or root suckers, planted deep
+  into weed-free mulched ground with even watering for three years,
+  sheltered from winter wind [1][3][4]; commercial row spacing: Not
+  sourced (see Estimates below).
 - **Climate:** Cool temperate, continental prairie climate; hardy to a
   notably cold horticultural zone, markedly colder than standard sour
-  cherry's typical hardiness limit.
-- **Food status / composition:** Raw-edible when fully ripe. Estimated
-  composition (roughly 650 kcal/kg, 10 g protein/kg) reflects this
-  fruit's notably higher sugar content compared to standard sour
-  cherry.
+  cherry's typical hardiness limit [2][8][10][11].
+- **Edibility:** Raw-edible when fully ripe; tart if picked early
+  [1][5][15].
+- **Composition:** Estimated composition (roughly 650 kcal/kg, 10 g
+  protein/kg) reflects this fruit's notably higher sugar content compared
+  to standard sour cherry [1][10] (see Estimates below).
+- **Photoperiod sensitivity:** Not sourced. Not applicable to
+  tuberization/bulbing — a shrub with no storage organ.
 - **Pollination:** Self-fruitful, but bees are still needed to transfer
   pollen within and between flowers; bloom timing differs by several
   days to about a week across different cultivars, creating some frost-
-  timing risk variation between them.
+  timing risk variation between them [1][4][6][10].
 - **Yield:** A world-average figure and good, exceptional, and poor
   tiers are derived from documented per-bush yield figures across
   several regional sources, combined with an estimated standard planting
@@ -139,52 +175,82 @@ meaningful dieback in the very same conditions [6].
   fruit splitting if a dry spell is followed by sudden heavy rain or
   irrigation near ripening. Drought tolerance is judged moderate, and
   waterlogging tolerance is judged low, given the stated need for good
-  drainage.
+  drainage [1][3][4] (see Estimates below).
 - **Propagation:** Entirely vegetative — tissue-culture plug plants or
   dug root suckers, never grafted, so there is no graft-incompatibility
   risk; a single bush can produce anywhere from zero to over twenty
   suckers, averaging around seven, each genetically identical to the
-  parent.
+  parent [2][3]. Propagation of protected cultivars falls under Canadian
+  plant breeders' rights (Finding 5) [14].
 - **Soil:** Loam and sandy loam soils are best; clay soils are
   workable given good drainage. Fertilizing is done only in spring,
   guided by soil testing, since excess nitrogen promotes vegetative
-  growth at the expense of winter hardiness.
+  growth at the expense of winter hardiness [1][3]; pH: carried over from
+  sour cherry (see Estimates below). Salinity: Not sourced for this
+  hybrid; in a Greek hydroponic study, salt stress suppressed root growth
+  of a sour-cherry rootstock more than shoot growth, and Alberta's salt-
+  tolerance factsheet gives prairie salinity classes without a cherry
+  rating found [16].
 - **Labor:** Harvest method dominates total labor cost — hand-picking
   is markedly slower than using a catch-frame technique (two workers
   can process a heavily laden bush in a few minutes with a catch frame,
   versus half an hour or more by hand), and over-the-row mechanical
   harvesting is faster still at commercial scale. Other labor
   (establishment, spring pruning, mulching, weed control, deer and
-  rodent protection) is comparatively modest.
+  rodent protection) is comparatively modest [1][3][7] (see Estimates
+  below).
 - **Storage:** Short — fruit should be picked in the cool morning hours
   and refrigerated as quickly as possible; a simple water-float test
-  identifies maggot-infested fruit, since affected fruit floats.
+  identifies maggot-infested fruit, since affected fruit floats [1][3].
 - **Stand life:** No specific commercial stand-life figure was found;
   the bush form is continually renewed from root suckers rather than
   aging as a single trunk, suggesting a potentially long productive
-  life, though this was not directly documented.
+  life, though this was not directly documented [3].
 - **Disease/pest profile:** Disease pressure is documented as extremely
   rare in the core growing region; documented issues include bacterial
   canker, leaf spot, and rarely powdery mildew, brown rot, and a wilt
   disease, alongside deer browsing, vole and mouse girdling, cherry
   fruit fly (whose maggot-infested fruit can be identified by floating
   in water), and an invasive fruit fly species of growing regional
-  concern.
+  concern — spotted wing drosophila (Finding 5) [2][4][10][11][15].
 - **Cultivars:** A widely planted early-ripening baseline cultivar; a
   package of five cultivars released together, differing in bloom and
   ripening timing, fruit size, sugar content, winter hardiness, and
   best end use (fresh eating, juice, or processing); and several more
-  recent releases not yet well characterized in the sources reviewed.
-- **Controlled-environment viability:** Not viable as a field-scale
-  commercial crop in a controlled environment; pot culture was not
-  researched.
+  recent releases not yet well characterized in the sources reviewed
+  [1][5][6][12]. Names: 'Carmine Jewel' (1999; earliest, smaller and
+  lower in sugar), and the Romance Series 'Romeo', 'Juliet', 'Valentine'
+  ('Saint Valentine' in its rights record), 'Cupid' and 'Crimson
+  Passion' (2004) [13][14].
+- **Harvest stages / windows:** One stage, with a trade-off: sugar rises
+  the longer fruit hangs and early red fruit has about half the sugar
+  (Finding 3), with peak flavour for about two weeks in early August
+  [1][2][3][5]; where spotted wing drosophila is present, harvest 7-8
+  days before full ripeness is advised (Finding 5) [15].
+- **Weather response:** Winter cold: hardiness differs by cultivar, and
+  multi-stem bushes recover from dieback in a year or two (Finding 4)
+  [3][6]. Spring frost: earlier-blooming cultivars carry more risk [6].
+  Rain after drought: fruit splitting [4]. A severe-weather crop loss is
+  documented [5]. Heat: Not sourced for this crop.
+- **Water regime:** Irrigated or rain-fed; no flooded requirement; good
+  drainage needed [1][3].
+- **Soil biology:** Not sourced; own-rooted, so no rootstock interaction
+  [3].
+- **Invasiveness / biosecurity:** A bred hybrid; no invasive listing was
+  found for it or for its steppe-cherry parent in this pass. *Legal
+  restrictions:* Canadian plant breeders' rights on several cultivars
+  (Finding 5) [14].
+- **Controlled environment:** Not viable as a field-scale commercial crop
+  in a controlled environment — an inference, not sourced; pot culture
+  was not researched.
 
 ## Hazards
 
 Documented pests and diseases include bacterial canker, leaf spot,
 rarely powdery mildew, brown rot, and a wilt disease, alongside deer
 browsing, vole and mouse girdling, cherry fruit fly, and an invasive
-fruit fly species of growing regional concern.
+fruit fly species of growing regional concern (spotted wing drosophila)
+[2][4][10][11][15].
 
 **TO BE ADDRESSED** — like other *Prunus*-genus stone fruit, the seed
 kernel is understood to contain cyanogenic compounds consistent with
@@ -199,7 +265,7 @@ project has a place for this kind of health/safety data.
   → chilled promptly; pitted fruit → pie filling, jam and jelly
   (notably higher natural pectin content than many fruits), or pressed
   into juice → further processed into wine or dried fruit; root suckers
-  → dug and replanted as new bushes.
+  → dug and replanted as new bushes [1][3][5][7].
 - Not covered in detail by this research: frozen-fruit production in
   detail (beyond the documented superior juice-retention advantage);
   tissue-culture plug production itself; liqueur and gelato production.
@@ -209,6 +275,11 @@ this crop.
 
 ## Open research questions
 
+- 2026-11-17 pass caveats: Finding 5 and the new lines are search-
+  snippet-level only. Open: commercial row spacing and per-hectare
+  yield; how the 7-8-days-early harvest advice for spotted wing
+  drosophila affects sugar; photoperiod, salinity, heat and soil-biology
+  data; any invasiveness assessment of *P. fruticosa*.
 - No detailed per-hectare yield, standard row-spacing, or planting-
   density study was found; all per-hectare figures in this entry are
   derived from per-bush figures and an estimated planting density
@@ -396,3 +467,34 @@ cultivar releases, and a national statistics agency's figure on one
 province's regional share of the country's sour-cherry orchard area.
 Accessed 2026-10-05, search snippets only (one program page opened
 directly for release titles).
+
+[13] Search-snippet-level material on cultivars and industry: University
+of Saskatchewan fruit program pages and the 'Carmine Jewel' and
+'Valentine' notes, the University of Saskatchewan gardening page on sour
+cherries, NDSU Carrington Research Extension Center pages, the
+Wisconsin uncommon-fruit page on 'Carmine Jewel', the Canadian cherry
+producers' site, and a 2010 *Fruit Growers News* article. Supplied: the
+1999 and 2004 release history and names, about 2,000 acres in Canada,
+the JOANNA-3 harvester, and 'Carmine Jewel''s smaller size and lower
+sugar. Accessed 2026-11-17, search snippets only.
+
+[14] Canadian Food Inspection Agency plant breeders' rights crop reports
+for 'Romeo', 'Juliet', 'Saint Valentine' and 'Crimson Passion' (applicant
+University of Saskatchewan; breeder Robert H. Bors). Supplied: grant
+dates, termination dates, and the selection basis for 'Romeo'. Accessed
+2026-11-17, search snippets only.
+
+[15] Search-snippet-level material on spotted wing drosophila: the
+Prairie Pest Monitoring Network blog (Alberta 2010; Saskatchewan
+monitoring from 2019), the *Manitoba Co-operator*, Manitoba
+Agriculture's fruit report of 8 July 2026 (control at colouring; harvest
+dwarf sour cherries 7-8 days before full ripeness), a 2013 NDSU
+Carrington dwarf sour cherry update (about 50% damage), and *Canadian
+Entomologist* articles. Accessed 2026-11-17, search snippets only.
+
+[16] Search-snippet-level material on salinity: a Greek study of short-
+term salinity stress in a sour cherry (*Prunus cerasus*) rootstock
+grown hydroponically (roots suppressed more than shoots), and Alberta
+Agriculture's *Salt Tolerance of Plants* factsheet (Agdex 3303). No
+rating for this crop was found. Accessed 2026-11-17, search snippets
+only.
