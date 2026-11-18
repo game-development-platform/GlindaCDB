@@ -1,7 +1,12 @@
 # Fig (*Ficus carica*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/fig.md`
-**Researched:** 2026-10-11
+**Researched:** 2026-10-11 (re-researched 2026-11-17 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see Finding 6 and the new Agronomic data lines on harvest pattern, first
+bearing, edibility, photoperiod, salinity, establishment, weather response,
+water regime, harvest stages, soil biology, invasiveness / biosecurity, and
+controlled environment)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -106,24 +111,58 @@ cultivar, grown rainfed on slopes [11][7]. A major US growing region
 documented a specific production and area figure for a recent year, with
 new plantings reaching commercial bearing at roughly 5-7 years [5].
 
+**Finding 6 — an orchard tree that escapes into California rivers, and a
+greenhouse crop in Japan.** The California Invasive Plant Council rates
+the edible fig Moderate (its 2006 assessment: severe invasiveness
+potential, moderate distribution and impact), noting research into which
+cultivars become invasive [17]. It has invaded riparian forests,
+streamsides, levees and canal banks in the Central Valley, its foothills,
+the south coast and the Channel Islands, forming dense clonal thickets
+that exclude native plants; seeds spread via animals and waterways, and
+flood-carried broken branches root where they wash up [17]. Naturalised
+populations near orchards can also pollinate cultivated figs and reduce
+their marketability [17]. Victoria (Australia) has an invasiveness
+assessment reporting it invading riparian forest (final rating not seen)
+[17]. In Japan, the crop is grown in greenhouses, almost entirely as
+'Masui Dauphine' (about 70% of Japan's figs), chiefly to extend the
+harvest window; greenhouse fruit respired less in cold storage than
+field fruit, and one researcher reports harvestable figs about 70 days
+after planting in a high-yield greenhouse system (a promotional, single-
+source claim) [19].
+
 ## Agronomic data
 
 - **Life form / season:** A deciduous tree or large shrub, typically
   7-10 m; perennial and deciduous, with fresh figs picked every few days
-  through the season and drying figs gathered daily as they fall.
+  through the season and drying figs gathered daily as they fall
+  [1][3][9].
+- **Harvest pattern:** Two flushes a year — a spring breba crop on
+  overwintered wood and a main crop from late summer into autumn —
+  picked every few days fresh or gathered daily for drying (Findings 2,
+  4) [1][6][9].
+- **Days/years to first bearing:** Commercial bearing at roughly 5-7
+  years in one major region; a vendor claims year 2 for one cold-hardy
+  cultivar (see Open research questions) [5][6].
+- **Establishment:** Rooted hardwood cuttings or layers, own-rooted; in
+  Smyrna-type orchards, caprifig trees planted at a documented ratio to
+  canopy area (Finding 3) [4][8].
 - **Climate:** Mediterranean, warm temperate, or subtropical climates;
   reaches into the tropics only at elevation; also grown in some
   continental climates with hot summers, given adequate winter
-  protection.
-- **Food status / composition:** Raw-edible. Fresh fruit gives roughly
-  740 kcal/kg and 8 g protein/kg; dried fruit is far more
-  calorie-dense, around 2,490 kcal/kg and 33 g protein/kg, reflecting
-  its much lower water content.
+  protection [1][6].
+- **Edibility:** Raw-edible fresh; also eaten dried [1][3].
+- **Composition:** Fresh fruit gives roughly 740 kcal/kg and 8 g
+  protein/kg; dried fruit is far more calorie-dense, around 2,490
+  kcal/kg and 33 g protein/kg, reflecting its much lower water content
+  [1].
+- **Photoperiod sensitivity:** Not sourced. Chilling requirement: Not
+  sourced in this pass either. Not applicable to tuberization/bulbing —
+  a tree with no storage organ.
 - **Pollination:** Varies fundamentally by fig type — common figs are
   parthenocarpic and need no pollination at all; Smyrna-type figs
   absolutely require pollination via caprification (Finding 3); San
   Pedro types need no pollination for their breba crop but do require
-  caprification for their main crop.
+  caprification for their main crop [1][4][5][7].
 - **Yield:** A world-average figure (roughly 4,000 kg/ha) is derived
   from a documented global area-and-production ratio; good and poor
   tiers are derived from documented regional yield figures, with an
@@ -140,36 +179,45 @@ new plantings reaching commercial bearing at roughly 5-7 years [5].
   established trees able to reach deep water tables; however, rain or
   high humidity during ripening and drying causes real fruit-quality
   problems (Finding 4). Waterlogging tolerance is judged moderate, since
-  the species prefers porous, freely draining soil.
+  the species prefers porous, freely draining soil [12][13] (see
+  Estimates below).
 - **Propagation:** Almost entirely by hardwood cuttings taken during
   winter pruning, or by layering (pinning a scratched branch to the
   soil); true seed germinates readily but produces unpredictable fruit
   quality and is used only in breeding. Trees are own-rooted, with no
-  grafting or rootstock use.
+  grafting or rootstock use [1][8].
 - **Soil:** Porous, freely draining soil is strongly preferred, and the
   species tolerates genuinely poor soil; one major growing region
   documents deep sandy-clay soils with lime content and a specific pH
   range as optimal. Nitrogen, phosphorus, and potassium each have
   documented, somewhat opposing effects on dried-fig size, quality, and
-  skin color in at least one detailed regional source.
+  skin color in at least one detailed regional source [1][9].
+  Salinity: young potted 'Dottato' plants tolerated up to 100 mM NaCl in
+  irrigation, with slower shoot growth at 100 mM and toxicity only above
+  it; dry weight in another container study fell to 91-92%, 63-80% and
+  52-60% of controls at 50, 100 and 200 mM; seven cultivars declined as
+  EC rose from 0.5 to 10 dS/m; an Iraqi paper gives 8 dS/m as the
+  critical limit, calling figs moderately tolerant (original source not
+  verified) [18].
 - **Labor:** No comprehensive labor-cost study was found. Harvest for
   drying figs is a genuinely daily hand task throughout the drying
   season (gathering fallen fruit, sorting, and rack-turning), while
   fresh-fig harvest involves picking by hand every few days; caprification
-  itself is a dedicated multi-week labor task for Smyrna-type orchards.
+  itself is a dedicated multi-week labor task for Smyrna-type orchards
+  [4][9] (see Estimates below).
 - **Storage:** Fresh figs are highly perishable (roughly 1-2 weeks
   refrigerated, only 2-3 days at room temperature), while properly dried
   figs keep for months at room temperature — a dramatic difference
-  between the two product forms (Finding 1).
+  between the two product forms (Finding 1) [3][9].
 - **Stand life:** Commercial bearing typically begins around 5-7 years
   after planting in at least one major growing region, though one
   vendor source claims bearing as early as year 2 for a particular
   cold-hardy cultivar; a specific overall productive lifespan figure was
-  not found in the sources reviewed.
+  not found in the sources reviewed [5][6].
 - **Disease/pest profile:** A fungal pathogen causing a wasp-vectored
   fruit-rot disease (specific to Smyrna-type caprification), a black
   mold rot, an Alternaria fruit rot, and a souring condition caused by
-  yeasts and bacteria carried by vinegar flies into damaged fruit.
+  yeasts and bacteria carried by vinegar flies into damaged fruit [3][4].
 - **Cultivars:** Spans a dominant Smyrna-type drying cultivar (needing
   caprification, prone to the wasp-vectored rot risk, but producing
   premium dried fruit under at least one protected designation of
@@ -177,18 +225,38 @@ new plantings reaching commercial bearing at roughly 5-7 years [5].
   (differing in skin color, flavor, and breba-crop reliability), a San
   Pedro-type cultivar group, and caprifig (male) trees themselves, which
   include a large number of native varieties documented in at least one
-  regional germplasm collection.
-- **Controlled-environment viability:** Not viable as a hydroponic crop;
-  container growing and winter trench-burying are documented as
-  practical strategies for growing this crop in otherwise too-cold
-  climates.
+  regional germplasm collection [6][7][9][11]. In Japan, 'Masui
+  Dauphine' dominates (about 70%) [19].
+- **Harvest stages / windows:** Fresh figs are picked ripe every few
+  days; drying figs are left to ripen and part-dry on the tree, fall,
+  and are gathered daily; breba and main crops give two windows a year
+  (Findings 2, 4) [1][3][9].
+- **Weather response:** Rain or high humidity during ripening and drying
+  darkens and splits fruit, while very low humidity toughens skins
+  (Finding 4) [9]. Drought: moderate seasonal drought tolerated by
+  established trees [12]. Cold: hard freezes remove the breba crop
+  (Finding 2) [6]. Waterlogging: judged moderate [12] (see Estimates
+  below).
+- **Water regime:** Rain-fed on slopes in a leading producing region or
+  drip-irrigated; no flooded requirement [11][12].
+- **Soil biology:** Not sourced in this pass (no nematode or mycorrhizal
+  finding).
+- **Invasiveness / biosecurity:** Cal-IPC Moderate in California, with
+  riparian thickets and flood-borne spread; an invasiveness assessment
+  in Victoria, Australia (Finding 6) [17]. *Legal restrictions:* Not
+  sourced (Cal-IPC ratings are advisory, not legal listings).
+- **Controlled environment:** Grown in Japanese greenhouses, almost all
+  'Masui Dauphine', to extend the season (Finding 6) [19]; container
+  growing and winter trench-burying are documented for too-cold climates
+  [6]; hydroponic viability: Not sourced.
 
 ## Hazards
 
 Documented pests and diseases include a fungal pathogen causing a
 wasp-vectored fruit-rot disease specific to Smyrna-type caprification, a
 black mold rot, an Alternaria fruit rot, and a souring condition caused
-by yeasts and bacteria carried in by vinegar flies through damaged fruit.
+by yeasts and bacteria carried in by vinegar flies through damaged fruit
+[3][4].
 
 **TO BE ADDRESSED** — the plant's latex sap contains a protease enzyme
 and phototoxic furanocoumarin compounds in the leaves and shoots,
@@ -253,7 +321,12 @@ BC.
 - A specific overall productive lifespan for this crop was not found.
 - Soil nitrogen/phosphorus/potassium uptake figures used here are
   carried over without a dedicated nutrient-removal study.
-- Chilling requirement and salinity tolerance were not researched.
+- Chilling requirement remains unresearched; salinity now has pot and
+  container data (Soil, above) but no field yield-response figure.
+- 2026-11-17 pass caveats: Finding 6 and the new lines are search-
+  snippet-level only. Open: Victoria's final invasiveness rating;
+  greenhouse yield per area in Japan; the original source of the 8 dS/m
+  salinity limit; nematode and mycorrhizal data; photoperiod.
 - Whether the edible species itself (as opposed to its ornamental
   relatives) carries the same mild toxicity to common pets was not
   resolved in the sources reviewed.
@@ -454,3 +527,30 @@ species itself). Supplied: documented toxic compounds and their
 gastrointestinal and dermal effects in common pets, with a note that the
 listings cover only the ornamental relatives, not this edible species.
 Accessed 2026-10-11, search snippets only.
+
+[17] Search-snippet-level material on fig invasiveness: the California
+Invasive Plant Council's *Ficus carica* profile and plant assessment form
+(Moderate), its IPCW plant report, PlantRight's watch-list page, a 2014
+*Invasive Plant Science and Management* paper on fig invasion in a
+California riparian forest, a UC ANR document, and Victorian Resources
+Online's invasiveness assessment for fig tree. Supplied: the rating and
+its components, invaded habitats and regions, clonal thickets, seed and
+flood-borne branch spread, pollination of orchard figs by naturalised
+populations, and riparian invasion in Victoria. Accessed 2026-11-17,
+search snippets only.
+
+[18] Search-snippet-level material on salinity: an *Advances in
+Horticultural Science* (2020) study of young 'Dottato' plants (tolerance
+to 100 mM NaCl), a container study of dry weight at 50-200 mM, an
+Iranian seven-cultivar study at EC 0.5-10 dS/m, a *Horticulturae* (2023)
+transcriptome study of fig salt tolerance, and an Iraqi journal paper
+giving 8 dS/m as the critical limit. Accessed 2026-11-17, search
+snippets only.
+
+[19] Search-snippet-level material on greenhouse figs in Japan: JIRCAS
+*JARQ* articles (greenhouse figs almost entirely 'Masui Dauphine'), a
+Japanese government page (about 70% of Japan's figs), a *Journal of the
+Japanese Society for Horticultural Science* study comparing greenhouse
+and field fruit storability, a NARO bulletin, and a HortiDaily article
+on a high-yield greenhouse system (harvest about 70 days after planting).
+Accessed 2026-11-17, search snippets only.
