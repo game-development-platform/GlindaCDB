@@ -54,8 +54,8 @@ This entry does **not** cover:
   as its own candidate row (`yuzu`, `sudachi`, `kabosu`, `shiikuwasha`).
 - **Hyuganatsu**, a Miyazaki citrus the study used because its fruit
   looks similar; one of its parents is tachibana [1]. It is eaten fresh,
-  not used as a sour citrus. It has no row and is proposed as its own
-  candidate row (`hyuganatsu`).
+  not used as a sour citrus. Promoted after a gate check on 2026-11-19
+  and researched as `hyuganatsu` (see `hyuganatsu.md`).
 - **Kimikan** and **Kawabata mikan**, Kagoshima local citrus used only as
   DNA references [1]. Too little sourced to propose.
 
@@ -230,8 +230,9 @@ against wildlife damage [3]. The source gives no figures or mechanism.
   not found.
 - **Chemistry:** the 2019 flavonoid, coumarin and synephrine paper [5]
   was seen only as an abstract.
-- **Proposed rows:** `yuzu`, `sudachi`, `kabosu`, `shiikuwasha` and
-  `hyuganatsu` need gate-check decisions (Naming and scope).
+- **Proposed rows:** `yuzu`, `sudachi`, `kabosu` and `shiikuwasha` need
+  gate-check decisions (Naming and scope); `hyuganatsu` has since been
+  promoted and researched.
 
 ## Estimates and derivations
 
