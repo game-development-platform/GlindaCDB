@@ -21,7 +21,7 @@
 | breadfruit | Artocarpus altilis | breadfruit.md |  | 2026-11-17 | RESEARCHED |
 | buddhas_hand | Citrus medica var. sarcodactylis | buddhas-hand.md |  | 2026-11-17 | RESEARCHED |
 | bush_cherry | Prunus tomentosa | bush-cherry.md |  | 2026-11-17 | RESEARCHED |
-| cantaloupe | Cucumis melo, Reticulatus and Cantalupensis groups | cantaloupe.md |  | 2026-11-17 | RESEARCHED |
+| cantaloupe | Cucumis melo, Reticulatus and Cantalupensis groups | cantaloupe.md | `honeydew` | 2026-11-17 | RESEARCHED |
 | champedak | Artocarpus integer | champedak.md |  | 2026-11-17 | RESEARCHED |
 | cherry_plum | Prunus cerasifera | cherry-plum.md |  | 2026-11-17 | RESEARCHED |
 | chinotto | Citrus myrtifolia (possibly *C.* × *aurantium* var. *myrtifolia*) | chinotto.md | `bitter_orange` | 2026-11-17 | RESEARCHED |
@@ -47,7 +47,7 @@
 | hassaku | Citrus hassaku | hassaku.md | `natsudaidai`, `kunenbo` | 2026-11-19 | RESEARCHED |
 | hetsuka_daidai | Citrus sp., Kagoshima local sour citrus related to kabusu | hetsuka-daidai.md | `daidai`, `natsudaidai`, `yuzu`, `sudachi`, `kabosu`, `shiikuwasha`, `hyuganatsu` | 2026-11-19 | RESEARCHED |
 | highland_banana | Musa AAA-EA, Mutika/Lujugira subgroup | banana.md | `banana`, `plantain` | 2026-11-17 | RESEARCHED |
-| honeydew | Cucumis melo Inodorus group | honeydew.md |  | 2026-09-30 | OUT-OF-DATE |
+| honeydew | Cucumis melo Inodorus group | honeydew.md | `cantaloupe` | 2026-11-19 | RESEARCHED |
 | hyuganatsu | Citrus tamurana (Miyazaki hybrid, tachibana parent) |  | `hetsuka_daidai` | 2026-11-19 | PROPOSED |
 | indian_jujube | Ziziphus mauritiana | indian-jujube.md |  | 2026-10-13 | OUT-OF-DATE |
 | jackfruit | Artocarpus heterophyllus | jackfruit.md |  | 2026-10-01 | OUT-OF-DATE |
