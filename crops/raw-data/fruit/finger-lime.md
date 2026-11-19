@@ -1,7 +1,12 @@
 # Finger Lime (*Citrus australasica*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/finger-lime.md`
-**Researched:** 2026-10-05
+**Researched:** 2026-10-05 (re-researched 2026-11-17 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see Findings 6-7 and the new Agronomic data lines on first bearing,
+composition, edibility, photoperiod, propagation, salinity, weather
+response, water regime, harvest windows, soil biology, invasiveness /
+biosecurity, and controlled environment)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -99,6 +104,43 @@ the bacterium and priming plant immune response [8]. This tolerance makes
 the species an active candidate donor in breeding programs aimed at
 developing huanglongbing-tolerant citrus more broadly [5][6].
 
+**Finding 6 — a citrus host, regulated as one.** Huanglongbing tolerance
+does not exempt the species from citrus quarantines. California's
+huanglongbing interior quarantine (3 CCR §3439) and the related
+eradication-area rule (§3639) both name *Microcitrus australasica*
+(finger-lime) among regulated articles, as does the state's Asian citrus
+psyllid quarantine; host material can leave a quarantine area only once
+certified, and retail buyers inside a zone must buy from approved
+nurseries with insect-exclusion facilities [9]. Clean budwood enters the
+US through the Citrus Clonal Protection Program; a 2017 trade article
+described the importation of one accession (VI 697) as still underway,
+which may not reflect current status [9]. In Australia the species is a
+host of citrus canker; interstate movement restrictions on citrus were
+imposed during the 2018 Northern Territory/Western Australia outbreak,
+and Western Australia was declared canker-free with its quarantine notice
+revoked on 22 November 2019 [14]. Fruit-fly host status is weak: a 2022
+Hawaii study found low infestation by two tephritids and none by oriental
+fruit fly [8]. No weed risk assessment or naturalisation record outside
+its native range was found; the IUCN lists the species as Least Concern
+[1].
+
+**Finding 7 — monoembryonic seed, named US releases.** An embryology study
+of *C. australasica* and *C. australis* found the seeds monoembryonate
+(one embryo per seed), with hypogeal germination [10]. Many mainstream
+citrus seeds are polyembryonic and give nucellar, true-to-type
+seedlings; single-embryo seed implies finger lime seedlings are sexual
+offspring, an inference not stated in the source, which fits the
+reliance on grafting and cuttings for named cultivars (Finding 4). Named
+US releases from the University of Florida include 'UF SunLime' (*C.
+inodora* × *C. australasica* var. *sanguinea*, pollen parent the red
+selection DPI 50-36, observed growing well under endemic huanglongbing
+but with tolerance not yet quantified) and 'UF RedLime' (a 2014 cross
+between two red finger lime selections, precocious, with intensely red
+cylindrical fruit) [12]. A USDA-funded University of California
+Riverside project (US$4.67 million, reported 2021) is breeding finger
+lime hybrids for huanglongbing resistance with field trials planned in
+Florida and Texas; no release from it was found [12].
+
 ## Agronomic data
 
 - **Life form / season:** A very thorny evergreen shrub or small tree,
@@ -113,11 +155,32 @@ developing huanglongbing-tolerant citrus more broadly [5][6].
   plantings also in tropical highland and lowland conditions and mild
   temperate coastal areas; frost-sensitive, particularly as young trees
   [2][5].
-- **Food status:** Raw-edible; the vesicles are the fresh-eaten portion.
+- **Days/years to first bearing:** Grafted trees about 1-3 years,
+  stable production by year 3; rooted cuttings 4-5 years; seedlings up to
+  15 years [2][3]. Modeled at about 540 days for grafted trees (see
+  Estimates below).
+- **Composition:** About 420 kcal/kg and 16 g protein/kg for the edible
+  pearls, converted from a published per-100 g composition analysis
+  (plausible range 340-500 kcal/kg) [2] (see Estimates below).
+- **Edibility:** Raw-edible; the vesicles are the fresh-eaten portion,
+  spooned out whole; peel oil is kept away from them in processing [2].
 - **Pollination:** Not specifically researched for this species; flowers
   are white to pink with numerous stamens, broadly similar in form to
   other citrus, and the species is sexually compatible with other citrus
-  (several commercial hybrids exist) [1][2].
+  (several commercial hybrids exist) [1][2]. Seeds are monoembryonate
+  [10] (Finding 7); pollinator identity and any self-incompatibility or
+  parthenocarpy remain Not sourced.
+- **Photoperiod sensitivity:** Not sourced for this species. In citrus
+  generally, flowering is induced mainly by cool temperatures and water
+  stress and is rarely linked to photoperiod; a 2026 study of the
+  finger lime hybrid 'Faustrime' found it needs less thermal
+  accumulation than sweet orange to induce flowering, via *CiFT3*
+  expression [13]. No tuberization/bulbing (not applicable).
+- **Propagation:** Clonal. Grafting or budding onto citrus rootstocks,
+  with trifoliate orange the most common [1][2]; rooted cuttings strike
+  well with hormone treatment [2]; seedlings are thorny, slow to bear,
+  and, given monoembryonic seed, not expected to come true (Finding 7)
+  [2][10].
 - **Yield:** Documented per-tree yields at five to six years commonly
   fall in the 18-23 kg range under good management, though one Florida
   breeding-trial line under disease pressure yielded far less; industry-
@@ -137,9 +200,14 @@ developing huanglongbing-tolerant citrus more broadly [5][6].
   identified, using gloves and eye protection given the thorny canopy;
   described in at least one growing region as a high manual-labour
   operation overall [2][5].
-- **Soil:** Well-drained soils strongly preferred, moderately acidic pH;
-  feeder roots concentrate in the upper 30-60 cm, and heavy or poorly
-  drained soils are specifically managed by mounding [2][5].
+- **Soil:** Well-drained soils strongly preferred, moderately acidic pH
+  (pH 6-7 is the commonly quoted range) [1][2]; feeder roots concentrate
+  in the upper 30-60 cm, and heavy or poorly drained soils are
+  specifically managed by mounding [2][5]. *Salinity:* Not sourced for
+  this species; no salinity trial was found. The salt-tolerant
+  semi-arid Australian citrus mentioned under Open questions is a
+  different species. Modeled by analogy to other citrus (see Estimates
+  below).
 - **Stand life:** Not well documented for this species specifically,
   though wild plants are long-lived understorey shrubs; productive
   commercial orchard lifespan was not found in available sources [1].
@@ -149,16 +217,50 @@ developing huanglongbing-tolerant citrus more broadly [5][6].
   selections show high resistance to a related Phytophthora species — a
   tension in the sources that may reflect differences between wild
   selections and commercial rootstock/scion combinations (see Hazards
-  below).
+  below) [1][5]. Under glass it is susceptible to scale insects,
+  mealybugs and glasshouse red spider mite [11].
 - **Cultivars:** Over thirty named varieties are grown commercially in
   the species' home range, spanning fruit and pulp colour, seediness, and
   plant habit, alongside newer disease-tolerant breeding releases from
-  at least one university program [2][3][5].
-- **Harvest:** Single harvest stage per fruit (non-climacteric, picked
-  full-sized and easily detached), but repeated picking passes across an
-  extended season from the same planting (Finding 1, 4).
+  at least one university program, among them 'UF SunLime' and 'UF
+  RedLime' (Finding 7) [2][3][5][12].
+- **Weather response:** Frost-sensitive, especially young trees; sources
+  conflict on whether established trees tolerate light frost (see Open
+  questions) [2][3][7]. Sunburns readily, and wind rub marks fruit, so
+  windbreaks matter [2][4]. Low drought tolerance (visibly stressed trees
+  are hard to recover) and low waterlogging tolerance (root rot) [5].
+  Dieback is worse in long wet spells [2]. No dose-response figures
+  were found.
+- **Water regime:** Ordinary irrigation; no flooded/paddy requirement.
+  Saturated soil is harmful [5].
+- **Harvest stages / windows:** Single harvest stage per fruit
+  (non-climacteric, picked full-sized and easily detached), but repeated
+  picking passes every 10-14 days across a 6-8 week or longer season from
+  the same planting, and near year-round bearing at one tropical site
+  [2][5] (Findings 1, 4).
 - **Storage:** Fruit does not ripen after picking and has specific
-  cool-but-not-cold storage requirements, detailed further below.
+  cool-but-not-cold storage requirements, detailed further below [2][5].
+- **Soil biology:** Not sourced. No mycorrhizal, replant or allelopathy
+  data was found for this species. Its root-disease relevance is
+  Phytophthora (high resistance to *P. citrophthora* in a wild
+  selection, against root rot problems in grafted commercial plantings)
+  [1][5].
+- **Invasiveness / biosecurity:** Native to subtropical rainforest of
+  eastern Australia; IUCN Least Concern [1]. No weed risk assessment or
+  naturalised population outside its range was found. *Legal
+  restrictions:* regulated as a citrus host under California's
+  huanglongbing and Asian citrus psyllid quarantines [9]; a citrus canker
+  host in Australia, with interstate restrictions during the 2018
+  outbreak (lifted in Western Australia in November 2019) [14]; and a
+  poor fruit-fly host [8] (Finding 6).
+- **Controlled environment:** The RHS recommends a cool or temperate
+  greenhouse or conservatory in the UK, with plants moved outdoors in
+  summer [11]. A Sicilian firm reported what it called the first
+  closed-cycle soilless crop, on coir in an automated greenhouse, but
+  gave no yield [11]. Container growing is documented [3]. Greenhouse
+  yield per area: Not sourced. Viability is plausible given the small
+  trained tree size and absence of a chilling requirement, but that is
+  an inference.
 
 ## Hazards
 
@@ -200,6 +302,14 @@ and in wound treatment, which is cultural rather than ritual in nature
 
 ## Open research questions
 
+- 2026-11-17 pass caveats: Findings 6-7 and the new lines are search-
+  snippet-level only. The regional government grower guide [7] still
+  refused access (HTTP 403) on this pass. Open: current Citrus Clonal
+  Protection Program status of finger lime accessions; a species-specific
+  salinity trial; mycorrhizal data; pollinators and parthenocarpy;
+  greenhouse yield; the 'Faustrime' flowering result is from a hybrid,
+  not the pure species; and the "Australia is canker-free as of 2026"
+  claim seen only on a consumer site.
 - A key regional grower-guide reference for this crop could not be
   accessed directly (the source server refused the request); its figures
   appear here only secondhand through other sources, and opening it
@@ -350,3 +460,59 @@ study (direct access refused), a university news item on a disease-
 fighting peptide derived from related species, and a peer-reviewed
 journal article on the species' host status for several fruit-fly pests.
 Accessed 2026-10-05, search snippets only.
+
+[9] Search-snippet-level material on US citrus quarantines: California
+Department of Food and Agriculture huanglongbing interior quarantine text
+(3 CCR §3439) and eradication-area rule (§3639), both listing
+*Microcitrus australasica* (finger-lime) as a regulated article; the
+CDFA Plant Quarantine Manual's Asian citrus psyllid quarantine host list;
+a San Diego County citrus quarantine program page; a retail nursery note
+on buying citrus inside quarantine zones only from approved nurseries
+with insect-exclusion facilities; and a 2017 *Citrus Industry* article
+on importing budwood (accession VI 697) through the Citrus Clonal
+Protection Program. Accessed 2026-11-17, search snippets only.
+
+[10] Search-snippet-level material on seed biology: Clarke and Prakash
+(2001), "Floral morphology and embryology of two Australian species of
+*Citrus* (Rutaceae)", *Australian Journal of Botany* 49(2): 199-207
+(monoembryonate seeds, hypogeal germination, embryology supporting
+inclusion in *Citrus*), and a *Genetic Resources and Crop Evolution*
+paper on seed morphology of three Australian *Citrus* species. Accessed
+2026-11-17, search snippets only.
+
+[11] Search-snippet-level material on protected cultivation: the Royal
+Horticultural Society plant entry for *Citrus australasica* (cool or
+temperate greenhouse, moved outdoors in summer; scale, mealybug and
+glasshouse red spider mite susceptibility), and a FreshPlaza article on
+a Sicilian company's closed-cycle soilless finger lime crop on coir in an
+automated greenhouse (no yield given). Accessed 2026-11-17, search
+snippets only.
+
+[12] Search-snippet-level material on named US breeding releases: US
+plant patent USPP34493 ('UF SunLime', *C. inodora* × *C. australasica*
+var. *sanguinea*, pollen parent DPI 50-36, from USDA germplasm accession
+PI539734), University of Florida Australian limes program pages and a
+2022 virtual finger lime symposium presentation ('UF RedLime', a 2014
+Winter Haven cross of two red selections), and 2021 *Citrus Industry* /
+*Progressive Crop Consultant* articles on a US$4.67 million USDA-funded
+University of California Riverside hybrid-breeding project. Accessed
+2026-11-17, search snippets only.
+
+[13] Search-snippet-level material on flowering: a 2026 *Fruit
+Research* article on the finger lime hybrid 'Faustrime' (lower thermal
+accumulation than sweet orange to induce flowering, via *CiFT3*), a
+University of Florida short-course paper on Tahiti lime flowering
+(cool-temperature and water-stress induction; flowering rarely linked to
+photoperiod in horticultural trees), and a CSIRO-published study on
+Tahitian lime flush development (~20 °C mean daily flowering threshold).
+Accessed 2026-11-17, search snippets only.
+
+[14] Search-snippet-level material on citrus canker in Australia:
+Western Australian Department of Primary Industries and Regional
+Development pages (Western Australia declared free in November 2019;
+quarantine notice revoked 22 November 2019), Agriculture Victoria and
+federal agriculture department pages (host range covering citrus and
+related native species), Citrus Australia 2018 bulletins on interstate
+movement restrictions, a nursery-industry biosecurity advisory, and a
+consumer site naming finger lime as a host. Accessed 2026-11-17, search
+snippets only.
