@@ -44,7 +44,7 @@
 | grape | Vitis vinifera | grape.md | `american_grape`, `muscadine` | 2026-11-17 | RESEARCHED |
 | grapefruit | Citrus × paradisi | grapefruit.md |  | 2026-11-17 | RESEARCHED |
 | guava | Psidium guajava | guava.md |  | 2026-11-17 | RESEARCHED |
-| hassaku | Citrus hassaku |  | `natsudaidai` | 2026-11-17 | PROPOSED |
+| hassaku | Citrus hassaku | hassaku.md | `natsudaidai`, `kunenbo` | 2026-11-19 | RESEARCHED |
 | hetsuka_daidai | Citrus sp., Kagoshima local citrus related to kabusu |  | `daidai` | 2026-11-16 | PROPOSED |
 | highland_banana | Musa AAA-EA, Mutika/Lujugira subgroup | banana.md | `banana`, `plantain` | 2026-11-17 | RESEARCHED |
 | honeydew | Cucumis melo Inodorus group | honeydew.md |  | 2026-09-30 | OUT-OF-DATE |
@@ -57,6 +57,7 @@
 | kiwiberry | Actinidia arguta; A. kolomikta as a cultivar group | kiwiberry.md |  | 2026-09-30 | OUT-OF-DATE |
 | kiwifruit | Actinidia deliciosa | kiwifruit.md |  | 2026-09-30 | OUT-OF-DATE |
 | korla_pear | Pyrus sinkiangensis | korla-pear.md |  | 2026-10-04 | OUT-OF-DATE |
+| kunenbo | Citrus nobilis (Kunenbo mandarin) |  | `hassaku` | 2026-11-19 | PROPOSED |
 | laraha | *C.* × *aurantium*, Curaçao landrace | bitter-orange.md | `bitter_orange` | 2026-11-17 | REJECTED |
 | lemon | Citrus × limon | lemon.md |  | 2026-09-29 | OUT-OF-DATE |
 | lingonberry | Vaccinium vitis-idaea | lingonberry.md |  | 2026-10-06 | OUT-OF-DATE |

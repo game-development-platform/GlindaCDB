@@ -55,8 +55,8 @@ This entry does **not** cover:
   about 400 g, self-incompatible (natsudaidai is interplanted as its
   pollinizer), stored without curing because curing provokes a rind
   disorder, and with a selection chosen for cross-protection against
-  severe citrus tristeza virus strains [4]. It has no row in this
-  project. Proposed as its own candidate row.
+  severe citrus tristeza virus strains [4]. Promoted after a gate check
+  on 2026-11-19 and researched as `hassaku` (see `hassaku.md`).
 - **Kishu mandarin**, the inferred pollen parent [7], which would fall
   under this project's mandarin entries rather than here. Not proposed.
 - **Suruga Elegant**, an amanatsu × pomelo cross [3], and other
@@ -310,7 +310,8 @@ natural monument (1927), though only its roots are original [1][2][3].
   clinical study before any interaction statement can be made.
 - **Rootstock, soil pH, salinity, water use, photoperiod, elevation,
   years to bearing, pollination requirement** were not sourced.
-- Whether `hassaku` warrants a row (Naming and scope) needs a decision.
+- `hassaku` passed its gate check and was researched on 2026-11-19
+  (Naming and scope).
 
 ## Estimates and derivations
 
