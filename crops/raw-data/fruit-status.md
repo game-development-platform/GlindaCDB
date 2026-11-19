@@ -50,7 +50,7 @@
 | highland_banana | Musa AAA-EA, Mutika/Lujugira subgroup | banana.md | `banana`, `plantain` | 2026-11-17 | RESEARCHED |
 | honeydew | Cucumis melo Inodorus group | honeydew.md | `cantaloupe` | 2026-11-19 | RESEARCHED |
 | hyuganatsu | Citrus tamurana (Miyazaki hybrid, tachibana parent) | hyuganatsu.md | `hetsuka_daidai`, `natsudaidai`, `yuzu`, `haruka`, `tachibana` | 2026-11-19 | RESEARCHED |
-| ichang_papeda | Citrus cavaleriei (syn. *C. ichangensis*) |  | `kabosu` | 2026-11-19 | PROPOSED |
+| ichang_papeda | Citrus cavaleriei (syn. *C. ichangensis*) | kabosu.md | `kabosu`, `yuzu` | 2026-11-19 | REJECTED |
 | indian_jujube | Ziziphus mauritiana | indian-jujube.md | `jujube` | 2026-11-19 | RESEARCHED |
 | jackfruit | Artocarpus heterophyllus | jackfruit.md | `breadfruit`, `champedak`, `kwai_muk`, `lakoocha`, `marang` | 2026-11-19 | RESEARCHED |
 | japanese_plum | Prunus salicina | japanese-plum.md | `cherry_plum`, `plum`, `ume` | 2026-11-19 | RESEARCHED |
@@ -122,4 +122,4 @@
 | woodland_strawberry | Fragaria vesca and F. moschata | strawberry.md | `strawberry` | 2026-10-10 | OUT-OF-DATE |
 | yellow_passionfruit | Passiflora edulis | passionfruit.md | `purple_passionfruit` | 2026-09-30 | OUT-OF-DATE |
 | yellow_pitaya | Selenicereus megalanthus | yellow-pitaya.md |  | 2026-09-30 | OUT-OF-DATE |
-| yuzu | Citrus junos |  | `hetsuka_daidai`, `kabosu` | 2026-11-19 | PROPOSED |
+| yuzu | Citrus junos |  | `hetsuka_daidai`, `kabosu`, `ichang_papeda` | 2026-11-19 | PROPOSED |

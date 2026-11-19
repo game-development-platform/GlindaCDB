@@ -55,8 +55,35 @@ more agronomic data than hetsuka daidai.
 **Separate entries:**
 - **Yuzu** (`yuzu`), **sudachi** (`sudachi`) and **kunenbo** (`kunenbo`):
   proposed rows, all named in the parentage claims [4].
-- **Ichang papeda** (`ichang_papeda`): proposed here, because of the
-  unsourced papeda-parent claim [1][3].
+- **Ichang papeda** (`ichang_papeda`): proposed here because of the
+  papeda-parent claim [1][3]; rejected at its gate check (below).
+
+**Gate check for `ichang_papeda` (2026-11-19): failed.** *Citrus
+cavaleriei* H.Lév. ex Cavalerie (syn. *C. ichangensis* Swingle; 宜昌橙)
+was checked as a candidate crop row:
+- **Taxonomy:** a distinct wild papeda species, so it would qualify on
+  taxonomy alone [13][14].
+- **Range:** wild in the mountains, hills and valleys of west and
+  south-west China, below 2,500 m [14]. A wild population of about 20
+  plants was first recorded in Guangdong in April 2026 [14]. A news report
+  says it has been a nationally protected wild plant (class II) since
+  1999; that was not confirmed against the official list [14].
+- **Farming system:** none found. It is "relatively rare in
+  cultivation," and occasionally grown as an ornamental [13]. One Chinese
+  summary says it is used as a rootstock for edible citrus, without
+  detail [14].
+- **Harvest and uses:** the fruit is small and mandarin-like, with many
+  large monoembryonic seeds and little bitter or sour juice. Some fruit
+  has no juice at all [13]. It is valued mainly for its fragrance and as a
+  breeding parent. It is the hardiest citrus after trifoliate orange
+  [13][14].
+
+Its real role is as a cold-hardy parent of crops this project tracks.
+Yuzu is given as Ichang papeda × mandarin and the Ichang lemon
+(shangjuan) as Ichang papeda × pomelo; it is also a claimed parent of
+kabosu [1][13]. That genetic role belongs in those crops' parentage
+notes, not in a crop row of its own. No useful agronomic data for this
+entry came out of the check.
 
 ## Research findings
 
@@ -414,5 +441,21 @@ returned an access error.
   Buri" and related fish;
 - a yellowtail-amberjack peel-paste trial;
 - a juicing-residue feed study (over 900 t a year).
+
+Accessed 2026-11-19, search snippets only.
+
+[13] A collaboratively maintained general encyclopedia entry on *Citrus
+cavaleriei* (Ichang papeda). Supplied: synonyms and Chinese name; habit
+and height; cold hardiness; fruit, seed and juice description; rarity in
+cultivation and ornamental use; hybrids (kabosu, shangjuan, yuzu and
+yuzu descendants). Accessed 2026-11-19, opened directly.
+
+[14] Search-snippet-level material on Ichang papeda:
+- a Chinese botanical database citing *Flora of China* (range, habitat,
+  elevation, flowering and fruiting months);
+- the US germplasm database (the 2010 name change);
+- a 2026 Guangdong news report (the new wild population and the
+  protected-plant listing);
+- a Chinese summary of its rootstock and breeding use and its fragrance.
 
 Accessed 2026-11-19, search snippets only.
