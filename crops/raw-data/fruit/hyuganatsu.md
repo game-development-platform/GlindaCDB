@@ -43,9 +43,21 @@ has a protected house crop as well as an open-field one (Finding 3)
 
 This entry does **not** cover:
 - **Haruka**, once thought a hyuganatsu sport, now inferred to be a
-  hyuganatsu × natsudaidai hybrid [1]. Not found in the sources as its
-  own crop with its own agronomy. Proposed as its own candidate row
-  (`haruka`).
+  hyuganatsu × natsudaidai hybrid [1]. Proposed as its own candidate row
+  (`haruka`). **Gate check (2026-11-19): not promoted.** *Taxonomy:* a
+  single registered cultivar (1996), a natural seedling of hyuganatsu
+  with natsudaidai inferred as pollen parent [1][17]; not a species or
+  landrace. *Range:* southern Japan, mainly Ehime, Nagasaki and
+  Hiroshima [1], the same warm late-citrus belt. *Farming system:* a
+  grafted late citrus like hyuganatsu; the only cultivation study found
+  is a Hiroshima note that poor rind colour comes from shade [18]. No
+  pollination, rootstock, storage or yield data of its own was found.
+  *Harvest:* late winter to spring [1], within hyuganatsu's window.
+  *Uses:* eaten fresh with the sweet, spongy albedo intact, as
+  hyuganatsu is [1]. What differs is fruit chemistry and size: lower
+  acid, citric and malic acid in about equal shares, and about 200 g
+  fruit (Cultivars) [1][17]. That is a cultivar-level difference, so
+  it is recorded under Cultivars here.
 - **Tachibana** (*C. tachibana*), the inferred pollen parent [2][6], a
   wild Japanese mandarin. Used as a DNA reference in `hetsuka-daidai.md`.
   Proposed as its own candidate row (`tachibana`).
@@ -198,6 +210,27 @@ production [5]. Shizuoka, western Kanagawa, and Ehime also grow it [2].
     [2].
   - **Early hyuganatsu** and **self-compatible hyuganatsu**: Miyazaki
     lines used as breeding parents [7].
+  - **Haruka** (derived hybrid; see Naming and scope): found in 1980 as a
+    natural hybrid seedling of hyuganatsu by Ishii Tokuo in Nijō,
+    Itoshima, Fukuoka; grafted 1982, first fruit 1986, registered 15
+    October 1996 [1][17]. Natsudaidai is inferred as the pollen parent
+    from DNA markers [1]. Fruit about 200 g, round to pear-shaped, often
+    with a neck at the stem end; yellow rind, hard to peel by hand;
+    10-11 segments; moderately seedy; edible sweet albedo [1]. Sugar about
+    13 °Brix and low acid [1]. In a Nagasaki comparison of nine late
+    citrus (December 2006), haruka measured 10.9 °Brix, 9.46 g total sugar
+    and 0.83 g titratable acid per 100 mL. Its organic acids were about
+    half citric and half malic, where the others were 85-97% citric [17].
+    An earlier Fukuoka study found citric acid falling from 75% of acids
+    in September to 40% from February, and linked its clean aftertaste to
+    malic acid [17]. Juice is high in hesperidin and narirutin, and the
+    peel low in auraptene [17]. The 2009 harvest was about 1,258 t: Ehime
+    45%, Nagasaki 25%, Hiroshima 21% [1]. It keeps 1-3 weeks refrigerated
+    [1]. In Hiroshima it held over 285 yen/kg for five straight years.
+    Seventy percent of surveyed growers named poor rind colour their main
+    problem. The cause is shade: fruit inside the canopy or behind a
+    windbreak colours less and has lower sugar, so sunny sites suit it
+    best [18]. Exported to Singapore, Taiwan and Hong Kong [1].
 
   The standard fruit weighs about 300 g and has a thick, yellow, smooth
   rind [2]. It is globose to oblong, light-yellow-fleshed, and moderately
@@ -260,8 +293,8 @@ production [5]. Shizuoka, western Kanagawa, and Ehime also grow it [2].
   [8], was not rechecked.
 - **Storage regime, soil, water, cold tolerance, labour hours, virus
   status** were not sourced.
-- **Proposed rows:** `haruka` and `tachibana` need gate-check decisions
-  (Naming and scope).
+- **Proposed rows:** `tachibana` needs a gate-check decision (Naming
+  and scope); `haruka` was gate-checked and not promoted.
 
 ## Estimates and derivations
 
@@ -288,9 +321,12 @@ per 10 a [13] = 800 trees/ha.
 [1] An English-language general encyclopedia article on hyuganatsu.
 Supplied: the species name; the meaning of the name; other names; the
 1820s origin; yuzu and yuzu × pomelo theories; description; oil
-components; how it is eaten; the bone-loss rat study; Haruka as a
-hyuganatsu × natsudaidai hybrid (from its linked article). Accessed
-2026-11-19, opened directly.
+components; how it is eaten; the bone-loss rat study. Its linked
+article on Haruka supplied: the 1980 discovery, grafting, first fruit and
+1996 registration; the hyuganatsu × natsudaidai parentage from the 2016
+DNA study; fruit description, sugar and acid; season and refrigerated
+keeping; 2009 production and prefectural shares; exports. Accessed
+2026-11-19, both opened directly.
 
 [2] A Japanese-language general encyclopedia article on hyuganatsu.
 Supplied: the Bunsei-era origin and Makata Yasutarō; the 1887 naming
@@ -386,3 +422,19 @@ text-extracted.
 in-line squeezing; flavonoids (tangeretin, nobiletin) in the flavedo;
 aroma loss on peeling, boiling and pasteurisation. Accessed 2026-11-19,
 downloaded and text-extracted.
+
+[17] Hayashida, Ide and Tokushima (2016), "Composition of the sugar,
+organic acid, amino acid and flavonoids included in several cultivars of
+medium-late maturing citrus fruit that bred in late years," *Bulletin of
+the Nagasaki Agricultural and Forestry Technical Development Center* 8:
+67-78. Supplied for haruka: its origin as a natural seedling of
+hyuganatsu and 1996 registration; Brix, total sugar, titratable acid and
+organic acid; the citric-malic balance and the cited Fukuoka study
+(Matsumoto and colleagues, 2000); amino acids; flavonoid type; auraptene.
+Accessed 2026-11-19, downloaded and text-extracted.
+
+[18] Hiroshima Prefectural Technology Research Institute, Agricultural
+Technology Center, research results 2012, "Causes of poor rind colour in
+citrus 'Haruka'." Supplied: the price record, the grower survey, and the
+shading cause and site advice. Accessed 2026-11-19, downloaded and
+text-extracted.
