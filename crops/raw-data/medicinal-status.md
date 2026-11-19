@@ -30,4 +30,4 @@
 | salvia_divinorum | *Salvia divinorum* |  |  |  | LISTED |
 | kratom | *Mitragyna speciosa* |  |  |  | LISTED |
 | ashwagandha | *Withania somnifera* |  |  |  | LISTED |
-| mugua | *Chaenomeles speciosa* |  |  |  | LISTED |
+| mugua | *Chaenomeles speciosa* |  | `japanese_quince` |  | LISTED |

@@ -53,7 +53,7 @@
 | indian_jujube | Ziziphus mauritiana | indian-jujube.md | `jujube` | 2026-11-19 | RESEARCHED |
 | jackfruit | Artocarpus heterophyllus | jackfruit.md | `breadfruit`, `champedak`, `kwai_muk`, `lakoocha`, `marang` | 2026-11-19 | RESEARCHED |
 | japanese_plum | Prunus salicina | japanese-plum.md | `cherry_plum`, `plum`, `ume` | 2026-11-19 | RESEARCHED |
-| japanese_quince | Chaenomeles japonica | japanese-quince.md |  | 2026-10-02 | OUT-OF-DATE |
+| japanese_quince | Chaenomeles japonica | japanese-quince.md | `mugua`, `quince` | 2026-11-19 | RESEARCHED |
 | jujube | Ziziphus jujuba | jujube.md | `indian_jujube` | 2026-10-12 | OUT-OF-DATE |
 | kabosu | Citrus sphaerocarpa (Ōita sour citrus) |  | `hetsuka_daidai` | 2026-11-19 | PROPOSED |
 | key_lime | C. × aurantiifolia | lime.md | `persian_lime` | 2026-09-29 | OUT-OF-DATE |
@@ -101,7 +101,7 @@
 | pomelo | Citrus maxima | pomelo.md |  | 2026-10-03 | OUT-OF-DATE |
 | pulasan | Nephelium ramboutan-ake, syn. N. mutabile | pulasan.md |  | 2026-10-03 | OUT-OF-DATE |
 | purple_passionfruit | Passiflora edulis | passionfruit.md | `yellow_passionfruit` | 2026-09-30 | OUT-OF-DATE |
-| quince | Cydonia oblonga | quince.md |  | 2026-10-02 | OUT-OF-DATE |
+| quince | Cydonia oblonga | quince.md | `japanese_quince` | 2026-10-02 | OUT-OF-DATE |
 | rambutan | Nephelium lappaceum | rambutan.md |  | 2026-09-30 | OUT-OF-DATE |
 | raspberry | Rubus idaeus | raspberry.md |  | 2026-09-29 | OUT-OF-DATE |
 | red_currant | Ribes rubrum | red-currant.md |  | 2026-10-01 | OUT-OF-DATE |
