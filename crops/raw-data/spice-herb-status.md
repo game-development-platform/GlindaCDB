@@ -28,7 +28,7 @@
 | lavandin | Lavandula × intermedia | lavandin.md |  | 2026-11-02 | OUT-OF-DATE |
 | lavender | Lavandula angustifolia Mill. | lavender.md |  | 2026-11-02 | OUT-OF-DATE |
 | licorice | Glycyrrhiza glabra L. | licorice.md |  | 2026-11-03 | OUT-OF-DATE |
-| makrut_lime | Citrus hystrix | makrut-lime.md |  | 2026-10-03 | OUT-OF-DATE |
+| makrut_lime | Citrus hystrix | makrut-lime.md | `key_lime` | 2026-10-03 | OUT-OF-DATE |
 | malabar_tamarind | Garcinia gummi-gutta (L. | malabar-tamarind.md |  | 2026-11-03 | OUT-OF-DATE |
 | marjoram | Origanum majorana L. | marjoram.md |  | 2026-11-03 | OUT-OF-DATE |
 | nutmeg | Myristica fragrans Houtt. | nutmeg.md |  | 2026-11-02 | OUT-OF-DATE |

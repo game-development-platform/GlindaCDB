@@ -25,7 +25,7 @@
 | champedak | Artocarpus integer | champedak.md | `jackfruit` | 2026-11-17 | RESEARCHED |
 | cherry_plum | Prunus cerasifera | cherry-plum.md | `japanese_plum` | 2026-11-17 | RESEARCHED |
 | chinotto | Citrus myrtifolia (possibly *C.* × *aurantium* var. *myrtifolia*) | chinotto.md | `bitter_orange` | 2026-11-17 | RESEARCHED |
-| citron | Citrus medica | citron.md |  | 2026-11-17 | RESEARCHED |
+| citron | Citrus medica | citron.md | `key_lime` | 2026-11-17 | RESEARCHED |
 | citron_melon | Citrullus amarus | watermelon.md | `seed_watermelon`, `watermelon` | 2026-11-17 | RESEARCHED |
 | coconut | Cocos nucifera | coconut.md |  | 2026-11-17 | RESEARCHED |
 | coyo | Persea schiedeana | coyo.md |  | 2026-11-17 | RESEARCHED |
@@ -57,7 +57,7 @@
 | japanese_quince | Chaenomeles japonica | japanese-quince.md | `mugua`, `quince` | 2026-11-19 | RESEARCHED |
 | jujube | Ziziphus jujuba | jujube.md | `indian_jujube` | 2026-11-19 | RESEARCHED |
 | kabosu | Citrus sphaerocarpa (Ōita sour citrus) | kabosu.md | `hetsuka_daidai`, `daidai`, `yuzu`, `sudachi`, `kunenbo`, `ichang_papeda` | 2026-11-19 | RESEARCHED |
-| key_lime | C. × aurantiifolia | lime.md | `persian_lime` | 2026-09-29 | OUT-OF-DATE |
+| key_lime | C. × aurantiifolia | lime.md | `persian_lime`, `citron`, `rangpur_lime`, `makrut_lime` | 2026-11-19 | RESEARCHED |
 | kiwiberry | Actinidia arguta; A. kolomikta as a cultivar group | kiwiberry.md |  | 2026-09-30 | OUT-OF-DATE |
 | kiwifruit | Actinidia deliciosa | kiwifruit.md |  | 2026-09-30 | OUT-OF-DATE |
 | korla_pear | Pyrus sinkiangensis | korla-pear.md |  | 2026-10-04 | OUT-OF-DATE |
@@ -65,7 +65,7 @@
 | kwai_muk | Artocarpus lingnanensis (identity uncertain) |  | `jackfruit` | 2026-11-19 | PROPOSED |
 | lakoocha | Artocarpus lakoocha (monkey jack) |  | `jackfruit` | 2026-11-19 | PROPOSED |
 | laraha | *C.* × *aurantium*, Curaçao landrace | bitter-orange.md | `bitter_orange` | 2026-11-17 | REJECTED |
-| lemon | Citrus × limon | lemon.md |  | 2026-09-29 | OUT-OF-DATE |
+| lemon | Citrus × limon | lemon.md | `persian_lime` | 2026-09-29 | OUT-OF-DATE |
 | lingonberry | Vaccinium vitis-idaea | lingonberry.md |  | 2026-10-06 | OUT-OF-DATE |
 | longan | Dimocarpus longan | longan.md |  | 2026-09-30 | OUT-OF-DATE |
 | loquat | Eriobotrya japonica | loquat.md |  | 2026-10-02 | OUT-OF-DATE |
@@ -90,7 +90,7 @@
 | peach_low_chill | Prunus persica, subtropical peaches | peach-low-chill.md |  | 2026-10-18 | OUT-OF-DATE |
 | pear | Pyrus communis | pear.md |  | 2026-10-12 | OUT-OF-DATE |
 | pear_low_chill | Pyrus communis × P. pyrifolia hybrids | pear-low-chill.md |  | 2026-10-18 | OUT-OF-DATE |
-| persian_lime | C. × latifolia | lime.md | `key_lime` | 2026-09-29 | OUT-OF-DATE |
+| persian_lime | C. × latifolia | lime.md | `key_lime`, `lemon` | 2026-11-19 | RESEARCHED |
 | persimmon | Diospyros kaki | persimmon.md |  | 2026-10-11 | OUT-OF-DATE |
 | persimmon_american | Diospyros virginiana | persimmon-american.md |  | 2026-10-12 | OUT-OF-DATE |
 | persimmon_dateplum | Diospyros lotus | persimmon-dateplum.md |  | 2026-10-12 | OUT-OF-DATE |
@@ -104,6 +104,7 @@
 | purple_passionfruit | Passiflora edulis | passionfruit.md | `yellow_passionfruit` | 2026-09-30 | OUT-OF-DATE |
 | quince | Cydonia oblonga | quince.md | `japanese_quince` | 2026-10-02 | OUT-OF-DATE |
 | rambutan | Nephelium lappaceum | rambutan.md |  | 2026-09-30 | OUT-OF-DATE |
+| rangpur_lime | Citrus × limonia (mandarin × citron) |  | `key_lime` | 2026-11-19 | PROPOSED |
 | raspberry | Rubus idaeus | raspberry.md |  | 2026-09-29 | OUT-OF-DATE |
 | red_currant | Ribes rubrum | red-currant.md |  | 2026-10-01 | OUT-OF-DATE |
 | satsuma | Citrus unshiu | satsuma.md |  | 2026-10-03 | OUT-OF-DATE |
