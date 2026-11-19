@@ -1,7 +1,12 @@
 # Giant Granadilla (*Passiflora quadrangularis*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/giant-granadilla.md`
-**Researched:** 2026-10-04
+**Researched:** 2026-10-04 (re-researched 2026-11-17 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see Findings 6-7 and the new Agronomic data lines on first bearing,
+composition, edibility, photoperiod, propagation, salinity, weather
+response, water regime, harvest windows, soil biology, invasiveness /
+biosecurity, and controlled environment)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -131,6 +136,39 @@ compound (passiflorine) that, if consumed to excess, causes lethargy and
 drowsiness [1]. The raw root is specifically described as emetic,
 narcotic, and poisonous [1].
 
+**Finding 6 — rated high risk as an invader in Hawaii and Florida.** The
+Hawaii-Pacific Weed Risk Assessment, as presented by Plant Pono, lists
+giant granadilla as High Risk. It is naturalised on Oʻahu and Hawaiʻi
+Island, and described as a fast-growing climbing vine that can smother
+and overtop native vegetation [16]. The University of Florida IFAS
+assessment of non-native plants also lists it among species assessed as
+high invasion risk [16]. Elsewhere in the Pacific it is recorded as
+present on Pohnpei (a 1999 Micronesia survey) and as a recent
+introduction, occasionally naturalised, in the southern Cook Islands and
+Makatea (a 2007 database version) [16]. This corroborates the secondary
+risk assessment already noted from source [7]. No legal prohibition,
+noxious-weed listing, or import restriction specific to this species was
+found in Hawaii, Florida, Australia, New Zealand, or the Galápagos;
+weed listings found for the genus in northern Australia concern
+*P. foetida*, not this species [16].
+
+**Finding 7 — genus-level evidence only for day length, salt and
+mycorrhizae.** No study of photoperiod, salinity, or mycorrhizal
+response specific to *P. quadrangularis* was found. In the closely
+related sour passionfruit (*P. edulis*), Brazilian phenology work
+describes a long-day plant whose flowering is hardest under short days
+and cool winter temperatures [17]. Purple passionfruit is ranked
+moderately sensitive to salinity, and salinity tolerance in the genus
+has been linked to sodium exclusion and proline accumulation [17].
+Yellow passionfruit and sweet passionfruit (*P. alata*) seedlings
+respond strongly to arbuscular mycorrhizal inoculation, mainly in
+low-phosphorus soil (highly dependent at 4 mg P/dm³, marginally to
+moderately at 11 mg P/dm³), with the most effective fungal species
+varying between studies [18]. Whether giant granadilla, a lowland
+tropical species of near-constant day length, shares any of these
+responses is an open question; the entries below use these only as
+labelled analogies.
+
 ## Agronomic data
 
 - **Life form / season:** A vigorous herbaceous vine, woody at the base,
@@ -147,18 +185,38 @@ narcotic, and poisonous [1].
   humidity; frost-sensitive and intolerant of cold, with reported
   vine damage below roughly 10°C and death at colder temperatures in at
   least one secondary source [1][7].
-- **Food status:** Ripe arils and flesh are raw-edible; the immature
-  fruit is not raw-edible and is eaten only cooked, since its immature
-  seeds are cyanogenic (Finding 1, 5).
+- **Days/years to first bearing:** First flowers about nine months after
+  planting, ripe fruit 60-85 days later; seedlings take 1-2 years to
+  first fruit, cuttings sometimes within the first year [1][2][7][8].
+  Modeled at roughly 330-730 days (see Estimates below).
+- **Composition:** The edible portion (arils plus flesh) is relatively
+  low in both calories and protein compared to many fruit crops [1][2][5].
+  Peel and flesh together make up roughly 60% of fruit weight, arils
+  with seeds roughly 30-40%, and juice roughly 15% of whole fruit weight
+  [8][12] (Finding 1; see Estimates below). One source's calcium figure
+  looks like a units error (see Open questions).
+- **Edibility:** Ripe arils and flesh are raw-edible. The immature fruit
+  is eaten only cooked, as a vegetable, even though its immature seeds
+  and skin are cyanogenic [1][2][9] (Findings 1, 5). The raw root is
+  toxic, though old-vine roots are baked and eaten in at least one
+  tradition [1][3].
 - **Pollination:** Required; insect-pollinated, principally by large
-  carpenter bees, with hand pollination routinely used as a standard
-  backup practice in at least one major growing region given generally
-  low and inconsistent natural fruit set (Finding 2).
-- **Yield / composition:** The edible portion (arils plus flesh) is
-  relatively low in both calories and protein compared to many fruit
-  crops; peel and flesh together make up roughly 60% of fruit weight,
-  arils with seeds roughly 30-40%, and juice roughly 15% of whole fruit
-  weight (Finding 1, 3).
+  carpenter bees [7][8][13]. The large-fruited form cannot
+  self-pollinate [1]. Hand pollination is routinely used as a standard
+  backup practice in at least one major growing region, given generally
+  low and inconsistent natural fruit set [1][13] (Finding 2).
+- **Photoperiod sensitivity:** Not sourced for this species. The related
+  *P. edulis* is described as a long-day plant [17] (Finding 7). That is
+  an analogy only; giant granadilla is grown mainly at low latitudes,
+  where day length varies little. No tuberization/bulbing; the fleshy
+  root enlarges with age but is a by-product, not a day-length-driven
+  storage organ [1].
+- **Yield:** Large-fruited types commonly bear 25-35 fruits per vine per
+  year, and medium and small types 70-120; young vines bear far fewer
+  [1][2][6]. Regional per-hectare figures cluster around 15-25 t/ha/yr
+  under two harvests a year, with national statistics and cost studies
+  disagreeing [1][6][11][14] (Finding 3; see Estimates below for the
+  poor tier).
 - **Water use:** Specific crop-water-use data for this species was not
   found; water requirements are estimated by analogy to a closely
   related, better-documented passionfruit crop this project has also
@@ -166,45 +224,91 @@ narcotic, and poisonous [1].
   growth habit (see Estimates below). The crop is notably sensitive to
   both prolonged dry conditions during flowering (which suppresses fruit
   set) and to poor drainage, which the sources describe as highly
-  damaging.
+  damaging [1][7][8]. Sources conflict on drought tolerance (see Open
+  questions).
+- **Propagation:** Seed sown fresh, from fully mature fruit after a
+  short fermentation; seed viability collapses within about a month in
+  one trial, against a report of seed germinating after 12 months of
+  storage when soaked [7][8] (Finding 4). Cuttings of mature wood root in
+  wet sand and can fruit in the first year [1][7]. No rootstock or
+  grafting practice was found.
 - **Establishment:** Seedlings or rooted cuttings are set out and
   trained onto a strong horizontal trellis built at roughly two metres
   height; plants are commonly topped at a modest height early on to
-  force multiple leaders.
+  force multiple leaders [1][2][7]. Regional guides give spacing and
+  density options [1][2][6][14].
 - **Labor:** Entirely hand-managed, including routine hand pollination
   during flowering peaks and careful hand harvesting and packing of the
-  delicate, bruise-prone fruit; no mechanised options were identified in
-  any source (Finding 2; see Estimates below for labor-hour derivations).
+  delicate, bruise-prone fruit [1][10][13]. No mechanised options were
+  identified in any source. A regional cost report gives a per-hectare
+  direct-employment figure [14] (Finding 2; see Estimates below for
+  labor-hour derivations).
 - **Soil:** Deep, fertile, moist but well-drained soil is strongly
   preferred across a range of soil types (volcanic, alluvial, sandy, and
   weathered granitic soils have all been documented as workable);
-  moderately acidic pH is preferred, and the species does not tolerate
-  high soil salinity; at least one case of vines dying from chlorosis in
-  highly alkaline soil is documented.
+  moderately acidic pH is preferred (modeled optimum about 6.0; see
+  Estimates below), and at least one case of vines dying from chlorosis
+  in highly alkaline soil is documented [1][3][6][7][11]. *Salinity:*
+  described as intolerant of high soil salinity by one secondary source
+  only [7]; no salinity trial for this species was found. Purple
+  passionfruit is ranked moderately salt-sensitive [17] (analogy, Finding
+  7).
 - **Stand life:** Seedlings can first fruit within one to two years and
-  cuttings sometimes within the first year; the species is relatively
-  short-lived in commercial production, with at least one secondary
-  source describing vines as typically replaced after around six years
-  of fruiting.
+  cuttings sometimes within the first year [1][7]. The species is
+  relatively short-lived in commercial production; one secondary source
+  describes vines as typically replaced after around six years of
+  fruiting [7].
 - **Disease/pest profile:** A stink bug that punctures young fruit
   (causing withering, drop, or hard lumps in the flesh), fruit flies
   (managed by bagging fruit), a leaf beetle that defoliates nursery
   plants, a viral disease described as the only serious disease in at
   least one major growing region, several fungal leaf and wilt diseases,
-  a stem-end rot, and nematodes are all documented (see Hazards below).
+  a stem-end rot, and nematodes are all documented [1][2][6] (see Hazards
+  below).
 - **Cultivars:** No formally registered cultivars were found; named
   local strains and landraces differ mainly in fruit size, sweetness,
   and the proportion of edible flesh, with the large-fruited *macrocarpa*
   group (sometimes called 'Gigante') unable to self-pollinate at all and
-  producing fewer but much larger fruit than medium and small types.
-- **Harvest:** Two distinct harvest stages from the same vines — an
-  immature stage taken and eaten as a cooked vegetable, and a mature
-  ripe stage taken for fresh and processed fruit use — plus an
-  occasional secondary root harvest when old vines are eventually
-  removed (Finding 1).
+  producing fewer but much larger fruit than medium and small types
+  [1][7][8].
+- **Weather response:** Frost-sensitive and cold-intolerant, with vine
+  damage reported below roughly 10 °C and a minimum temperature for fruit
+  set (secondary source) [1][4][7]. Fruit set fails under dry
+  atmospheric conditions and in peak heat, and heavy rain during
+  flowering suppressed set entirely in one trial [1][8]. Poor drainage
+  is highly damaging [7]. No dose-response figures beyond these
+  thresholds were found.
+- **Water regime:** Ordinary irrigation or rainfall; no flooded/paddy
+  requirement, and waterlogging is harmful [7].
+- **Harvest stages / windows:** Two distinct harvest stages from the
+  same vines — an immature stage taken and eaten as a cooked vegetable,
+  and a mature ripe stage taken for fresh and processed fruit use — plus
+  an occasional secondary root harvest when old vines are eventually
+  removed [1][2][9] (Finding 1). Ripe-fruit harvests come in one to three
+  peaks a year, set by the fruit-set ceiling, or are near-continuous in
+  some tropical regions [1][2][10] (Finding 2). The immature-stage
+  window is estimated (see Estimates below).
 - **Storage:** Ripe fruit is notably delicate and bruises easily,
   requiring very careful handling and packing; it keeps roughly two
-  weeks under cool storage, detailed further below.
+  weeks under cool storage [7][10][12][15], detailed further below. No
+  species-specific chilling threshold was found. Other passionfruit
+  suffer chilling injury below about 5-6.5 °C, an analogy only [20].
+- **Soil biology:** Not sourced for this species. Nematodes are a
+  documented pest [1][6]. Other *Passiflora* seedlings depend strongly on
+  arbuscular mycorrhizae in low-phosphorus soil [18] (analogy, Finding
+  7). No replant or allelopathy data was found.
+- **Invasiveness / biosecurity:** Native to tropical America; widely
+  naturalised beyond it, including Hawaii, where it is rated High Risk
+  [1][16]. Florida IFAS also assesses it as high invasion risk, and it is
+  recorded in Micronesia and the Cook Islands [16] (Finding 6). *Legal
+  restrictions:* none specific to the species found [16].
+- **Controlled environment:** Grown under glass in temperate climates as
+  an ornamental and occasional fruiting plant [3][4]. A 2022 Romanian
+  study grew it in a controlled greenhouse and found growth and
+  flowering depended on the fertilisation programme [19]. Greenhouse
+  yield: Not sourced. The 10-45 m vine and its need for warm, humid,
+  stable conditions make commercial protected cropping look costly, but
+  that is an inference.
 
 ## Hazards
 
@@ -240,8 +344,8 @@ health/safety data.
 
 This species is also documented as naturalized and invasive in several
 regions outside its native range, including having "run wild" in at
-least one subtropical growing region, and at least one regional
-invasive-species risk assessment rates it as a high invasion risk.
+least one subtropical growing region, and regional invasive-species risk
+assessments rate it as a high invasion risk [1][7][16] (Finding 6).
 
 ## Uses and processing
 
@@ -272,6 +376,13 @@ particular crop's fruit.
 
 ## Open research questions
 
+- 2026-11-17 pass caveats: Findings 6-7 and the new lines are
+  search-snippet-level only. The Plant Pono High Risk rating was seen in
+  a snippet; the numeric HPWRA score was not. The Florida IFAS snippet
+  may describe the assessment rather than this species alone. Open:
+  photoperiod, salinity, and mycorrhizal data for this species itself
+  (genus analogies only); a chilling-injury threshold; greenhouse yield;
+  and French Polynesia status.
 - National production statistics for the same growing region and year
   conflict meaningfully between different government sources (roughly a
   25% discrepancy in both hectares and tonnage) and are not reconciled
@@ -519,3 +630,48 @@ monograph. Supplied: a storage-temperature and duration figure plus
 additional shelf life, a critical-temperature finding using film
 wrapping, and a flowering-to-maturity timing figure. Accessed
 2026-10-04, search snippets only.
+
+[16] Search-snippet-level material on invasiveness: the Plant Pono
+(Hawaii-Pacific Weed Risk Assessment) Passifloraceae entry for this
+species (High Risk; naturalised on Oʻahu and Hawaiʻi Island; smothers
+and overtops native vegetation), the University of Florida IFAS
+invasive-plant assessment update (listed among high-invasion-risk
+species), a 1999 SPREP invasive-plant survey of Micronesia (present on
+Pohnpei, not Kosrae), the Bishop Museum Cook Islands Biodiversity
+database (introduced, occasionally naturalised; Southern Group and
+Makatea), and Western Australian and *Frontiers in Plant Science* (2021)
+material on weedy *Passiflora* in Australia (concerning *P. foetida*,
+not this species). Accessed 2026-11-17, search snippets only.
+
+[17] Search-snippet-level material on day length and salinity in the
+genus: an Embrapa phenology study of sour passionfruit flower production
+near Brasília (*P. edulis* as a long-day plant; flowering hardest under
+short days and low winter temperatures), an older study ranking purple
+passionfruit moderately sensitive to salinity, Brazilian semi-arid
+salinity studies, and a Colombian study linking *Passiflora* salt
+tolerance to sodium exclusion and proline accumulation. Accessed
+2026-11-17, search snippets only.
+
+[18] Search-snippet-level material on arbuscular mycorrhizae in
+*Passiflora*: *Pesquisa Agropecuária Brasileira* studies of yellow
+passionfruit seedlings (spore density, soil-phosphorus dependency at 4
+and 11 mg P/dm³, most effective *Gigaspora*/*Glomus* species), an *Acta
+Botanica Brasilica* (2004) greenhouse study and a 2005 study of sweet
+passionfruit (*P. alata*) seedlings, and a 2015 paper noting scarce data
+for purple passionfruit. Accessed 2026-11-17, search snippets only.
+
+[19] A 2022 article in the University of Agronomic Sciences and
+Veterinary Medicine of Bucharest horticulture journal (*Scientific
+Papers, Series B, Horticulture*) on *P. quadrangularis* grown under
+different fertilisation regimes in a controlled greenhouse in Romania.
+Supplied: greenhouse cultivation and the dependence of growth and
+flowering on the fertilisation programme. Accessed 2026-11-17, search
+snippet only (the PDF was fetched but its text could not be extracted).
+
+[20] Search-snippet-level material on chilling injury in other
+passionfruit: a Brazilian study comparing yellow passionfruit cultivars'
+chilling sensitivity, a 2025 melatonin study (injury at 5 °C), a Hawaii
+postharvest guideline (yellow passionfruit at 7-10 °C, 90-95% RH), a
+review citing injury below 6.5 °C, and Colombian studies on purple
+passionfruit (4 °C inadequate) and granadilla (*P. ligularis*). None
+covers this species. Accessed 2026-11-17, search snippets only.
