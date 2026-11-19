@@ -1,7 +1,13 @@
 # Kiwifruit (*Actinidia deliciosa*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/kiwifruit.md`
-**Researched:** 2026-09-30
+**Researched:** 2026-09-30 (re-researched 2026-11-19 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md`:
+the regional grower guide, the postharvest handbook chapter and the
+encyclopedia entry were re-opened and their numbers restored; a university
+production guide, the FAO crop-water-response chapter, a 2026 USDA report on
+the New Zealand sector and national composition data were added; estimates
+are shown in full)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -10,369 +16,412 @@ licensed under this project's MIT license (see repository `LICENSE`).
 
 ## Naming and scope
 
-The fuzzy green kiwifruit, *Actinidia deliciosa* (now often classified
-as *A. chinensis* var. *deliciosa*), whose market standard is a single
-widely grown cultivar [1][2][3]. Gold kiwifruit (*A. chinensis* var.
-*chinensis*, including well-known yellow-fleshed commercial cultivars) is
-treated here as a cultivar group of this entry. A cold-hardy relative
-(hardy kiwi, or kiwiberry, with an even hardier cultivar group) differs
-substantially in cold hardiness, fruit size, and storage life, and is
-treated by this project as its own separate crop entry rather than a
-cultivar group here.
+Green (fuzzy) kiwifruit, *Actinidia deliciosa*, now often given as *A.
+chinensis* var. *deliciosa* (Actinidiaceae); historically called Chinese
+gooseberry or *yang tao* [1][2][4].
+- **'Hayward':** the market standard. It makes up about 95% of commercial
+  kiwifruit worldwide [4].
+- **Gold and red kiwifruit** (*A. chinensis* var. *chinensis*) are treated
+  here as a cultivar group:
+  - 'Hort16A' was sold as Zespri Gold;
+  - 'Gold3' (SunGold) is the more disease-resistant cultivar that replaced
+    it;
+  - the red cultivars are 'Hongyang' in China and 'RubyRed' in New Zealand
+    [2][5].
+  - Yellow-fleshed cultivars need less chilling, and are less cold-hardy
+    and more heat-demanding than green ones [1][4].
+
+**Separate entry:** kiwiberry (`kiwiberry`, *A. arguta*) is
+`kiwiberry.md`. It is grape-sized, smooth-skinned, hardy to about -23 to
+-32 °C, and stores for less than two months [1][2].
 
 ## Research findings
 
-**Finding 1 — a dioecious vine that needs saturation pollination.** Male
-and female vines are entirely separate plants. Growers typically plant
-roughly one male vine per six to ten female vines, though documented
-ratios vary somewhat across sources [1][3][4]. Flowers produce no nectar
-and are described as relatively unattractive to bees, so growers
-compensate by saturating the orchard with beehives at the start of bloom
-[1][3]. Male flowers shed viable pollen for only two to three days, while
-female flowers remain receptive for seven to nine days, making bloom
-overlap between male and female vines essential [3]. A large fruit holds
-over a thousand seeds; poor pollination produces seedless, sunken-sided,
-misshapen fruit, and wind pollination alone does not produce
-commercially acceptable large fruit [3][4]. Male vines are notably less
-cold-hardy than female vines, and after a hard winter a grower may be
-left with no viable pollen source at all, requiring hand pollination as
-a backup [3].
+**Finding 1 — dioecious, nectarless, and dependent on heavy pollination.**
+- **Planting ratios:** one male per 8 females [3]; one per 6-10 [1]; one
+  per 6 [4]; one per 3-8 [2].
+- **Pollinators:** flowers have no nectar and are unattractive to bees,
+  so 3-4 hives per acre [1], or about 8 hives per hectare [2], saturate
+  the vineyard from 10% female bloom [1].
+- **Timing:** male pollen is viable for only 2-3 days, while female
+  flowers are receptive for 7-9 days [1].
+- **Seeds and fruit size:** a large 'Hayward' fruit holds 1,000-1,400
+  seeds, and poor pollination gives small or grooved fruit [1]. Wind
+  pollination does not give large fruit [3].
+- **Pollinizers:** common males include 'Chico' (California male) and
+  'Matua' [3].
 
-**Finding 2 — picked hard in a single pass, stored for months, ripened
-with ethylene afterward.** Fruit is picked once the whole orchard reaches
-a specific minimum soluble-solids threshold (hard and still starchy),
-since the fruit shows little visible change as it matures and therefore
-cannot be selectively picked by appearance — the entire crop is picked
-at once [2][3]. Harvested fruit is cured for roughly two days so the
-stem scar dries, reducing fungal rot risk, then stored near freezing at
-high humidity for four to five months, or roughly six months under
-controlled-atmosphere storage [2]. The fruit is extremely sensitive to
-trace ethylene in storage (even a few parts per billion causes premature
-softening without proper ripening, leading to substantial losses), so it
-must be stored well away from ethylene-producing produce. To eat, it is
-ripened with deliberate ethylene exposure at warm room temperature over
-four to six days [3]. Fruit intended for local, non-export sale can
-instead be left on the vine to a considerably higher sugar content before
-picking [2].
+**Finding 2 — picked hard in one pass, stored for months, ripened
+afterwards.**
+- **Harvest maturity:**
+  - California: at least 6.5% soluble solids and 6.3 kg flesh firmness
+    [6], or about 7% sugar at 14-20 lb pressure [3];
+  - New Zealand export: a 10-fruit average of at least 6.2% [6];
+  - fruit for local sale can stay on the vine to 10-12% [6];
+  - EU markets require at least 15% dry matter [4].
+- **One pass:** the fruit changes little in appearance as it matures, so
+  the whole crop is picked in one pass [1].
+- **Curing:** at least 48 hours of curing before cooling reduces *Botrytis*
+  and internal breakdown [6].
+- **Storage:** 0 °C at 90-95% RH for 4-5 months [6], or 3-6 months [1][3].
+  Controlled atmosphere (1-2% O₂, 3-5% CO₂) extends this to about 6 months
+  [6].
+- **Ethylene sensitivity:** just 5-10 ppb of ethylene speeds softening
+  without ripening, causing "enormous losses" [6]. Only battery forklifts
+  are used in stores [1][3].
+- **Ripeness:** fruit is table-ripe at 14% soluble solids or more [6].
 
-**Finding 3 — chill-hungry but frost-tender.** The main commercial
-cultivar needs a substantial chilling requirement (several hundred hours
-below a threshold temperature), with somewhat conflicting figures across
-sources [3][4][9][10]. Young shoots are killed by a brief spring freeze
-of only about thirty minutes at a few degrees below freezing [3][4].
-Mature vines survive winter minimums around -12°C, but that same
-temperature kills young vines [3][4]. The crop needs roughly 225-240
-frost-free days and suffers wind damage without windbreaks [3][4]. By
-contrast, this project's separate cold-hardy kiwiberry crop entry
-survives dramatically colder winter minimums — the core reason that crop
-is treated as a distinct entry rather than a cultivar group here.
+**Finding 3 — needs winter chill and a long season, and is frost-tender.**
+- **Chill:**
+  - 'Hayward' needs 600-700 hours below 7 °C [3], or 700-800 Richardson
+    chill units [4];
+  - yellow cultivars need 500-600 units [4];
+  - lack of winter cold reduces yields in southern California [3].
+- **Season:** 225-240 frost-free days [1][3]. In California vines leaf out
+  in March, bloom in May, and are harvested in October-November [3].
+- **Cold:**
+  - mature dormant vines tolerate about -9 to -12 °C, and -12 °C kills
+    young vines [1][3];
+  - some vines survived -18 °C in Europe in January 1985, but many were
+    killed to the ground [3].
+- **Frost:**
+  - spring frost below -1 °C kills shoots and the crop;
+  - autumn frost below -2.5 °C damages young trunks [3];
+  - overhead sprinklers give 3-4 °C of protection [3].
+- **Heat:** with enough water, vines grow at up to 45 °C [3].
 
-**Finding 4 — sensitive to wet roots, thirsty in summer.** Roots
-waterlogged for three days or more are described as severely damaged,
-and two soil-borne fungal pathogens (a Phytophthora crown rot and a root
-rot fungus) can kill vines outright [3][4]. Standard practice is to
-plant on at least a meter of well-drained soil or on raised beds [3].
-Vines need a substantial annual water application (documented in one
-major growing region at roughly 1,000-1,200 mm a year), with mature
-vines transpiring very large volumes of water per unit area on a warm
-day [3]. Water stress during the growing season reduces both current-
-season fruit size and the following year's flower bud formation [3]. A
-moderately acidic soil pH is best, with growth notably poorer above a
-documented alkaline threshold.
+**Finding 4 — very sensitive to both drought and wet roots.**
+- **Drought:**
+  - vines do not survive predawn leaf water potential below -1.5 MPa, and
+    even -0.5 MPa reduces fruit size [4];
+  - soil water should not fall below 70% of root-zone available water
+    [4];
+  - regulated deficit irrigation (deliberately under-watering) is "not
+    feasible" [4].
+- **Roots:** dense but shallow, with no tap root [4].
+- **Measured water use:**
+  - a midsummer Mediterranean orchard uses about 60-70 m³ of water per ha
+    per day;
+  - seasonal use is 300-350 L per kg of fruit at 35 t/ha;
+  - one southern Italian orchard received 10,012 m³/ha, with April-
+    September reference evapotranspiration (the standard measure of
+    atmospheric water demand) of 993.7 mm [4].
+- **Waterlogging:** three or more days of waterlogged roots can kill vines
+  through root rot [1]. Heavy spring rain has killed Sacramento Valley
+  vineyards on poorly drained soil [3].
 
-**Finding 5 — slow to reach full bearing, but long-lived.** First crop
-typically comes in year three to four, with full production reached by
-roughly year six to eight; productive vine life is documented at up to
-twenty years in one growing region and considerably longer (thirty to
-fifty years) in another [1][4][9]. Documented yield figures vary widely
-by vine age and growing region, from a modest figure at four years of
-age up to a considerably higher figure at full maturity in one major
-growing country, with that country's own commercial yield targets
-higher still.
+**Finding 5 — a costly vineyard that takes about four years to crop.**
+- **Time to crop:** a commercial crop comes in year 4 [3], or year 3 or
+  later, with mature production by year 5 [1]. Peak production is at 8-10
+  years [2].
+- **Productive life:** vines are expected to bear until about age 20 [3].
+- **Example yields:** one Italian T-bar orchard yielded 7 t/ha in its
+  third year [4]. Another source gives 15 t/ha at 4 years and 20 t/ha at
+  8 years [2].
+- **California economics (1990):**
+  - state average about 1,000 packed trays per acre;
+  - good management gives about twice that, 2,000 trays or 9.5 tons per
+    acre;
+  - "high yields over 2,000 trays per acre are the only answer for
+    profits" [3].
+- **Labour cost:** pruning and harvest are 50-60% of annual growing costs
+  of $1,500-2,000 per acre [3].
 
-**Finding 6 — a well-documented major food allergen.** A specific
-cysteine-protease allergen in this fruit's flesh causes kiwifruit
-allergy, ranging from oral itching to anaphylaxis in sensitive
-individuals [1]. This fruit also shows documented cross-reactivity in
-latex-fruit syndrome, a broader allergy pattern linking certain plant-
-based foods to latex sensitivity. TO BE ADDRESSED: this allergen risk
-(and its latex cross-reactivity) is a genuine human health hazard that
-this project has not yet built a dedicated allergen/health-hazard data
-structure for; it should be flagged for a future pass alongside the same
-general hazard category noted in other fruit crops this project has
-researched, including a related genus-mate crop.
+**Finding 6 — Psa canker reshaped the industry.**
+- **Disease:** bacterial canker, caused by *Pseudomonas syringae* pv.
+  *actinidiae* (Psa), was identified in Japan in the 1980s, found in Italy
+  in 1992, and became more virulent in 2007-2008 [2].
+- **New Zealand:** it was detected in November 2010 and "rapidly caused
+  widespread, severe damage" [5]. Yellow cultivars were most susceptible
+  [2].
+- **Recovery:** New Zealand recovered by planting the more tolerant gold
+  cultivar 'Gold3' (SunGold), now about 7,500 ha [5].
+- **New Zealand sector:** about 15,400 ha and 2,800 growers. Production
+  was 794,490 t in 2024/25, with a forecast of 800,000 t for 2025/26 [5].
+- **World, 2023:** 4.43 million t, of which China produced 2.36 million t
+  (55%), New Zealand 0.66 million t and Italy 0.39 million t [2]. New
+  Zealand supplies over 65% of world exports [5].
 
 ## Agronomic data
 
-- **Life form / season:** A deciduous woody vine, trained on a T-bar or
-  pergola trellis; perennial bearing.
-- **Harvest pattern:** Perennial bearing, with one picking per year — all
-  fruit picked at once, since the crop shows little visible ripeness
-  change on the vine (Finding 2).
-- **Climate:** Warm-temperate, Mediterranean, and temperate climates with
-  mild winters; needs 225-240 frost-free days and a substantial chilling
-  requirement (Finding 3).
-- **Food status:** Raw-edible after ripening.
-- **Pollination:** Required; bee-pollinated, though the flowers produce
-  no nectar and are not naturally attractive to bees, requiring deliberate
-  beehive saturation of the orchard. The crop is dioecious, requiring a
-  documented ratio of non-bearing male vines to bearing female vines
-  (Finding 1).
-- **Yield / composition:** Raw fruit is calorie- and protein-moderate,
-  with a notably high vitamin C content. Documented yields vary hugely by
-  vine age, growing region, and cultivar (see Estimates below); a
-  meaningful fraction of planted vines (roughly a tenth to a seventh) are
-  non-bearing males.
-- **Water use:** A substantial, well-documented seasonal water
-  requirement; water stress during the growing season reduces both
-  current fruit size and next year's flower formation, while waterlogged
-  roots for as little as three days cause severe vine damage (Finding 4).
-  A specific irrigation-water-quality limit (chloride, sodium, boron, and
-  salinity thresholds) is documented for this crop, reflecting its
-  general sensitivity to adverse root-zone conditions.
-- **Establishment:** Grafted or own-rooted nursery vines are planted in
-  spring on well-drained ground or raised beds, with trellis structure
-  and drip irrigation installed before planting; windbreaks are
-  recommended at a specific spacing, and trunks are protected against
-  sunburn and rodent damage.
-- **Labor:** No dedicated labor-hour study was found; pruning and harvest
-  together are documented as making up roughly half to three-fifths of
-  annual production costs in one major growing region, and labor-hour
-  figures here are estimated accordingly.
-- **Soil:** Deep, well-drained alluvial or silt loam preferred; moderately
-  acidic pH is best, with growth notably poor above a documented alkaline
-  threshold; chloride-containing fertilizers should be avoided since
-  roots burn easily.
-- **Stand life:** First crop around year three to four, full production
-  by roughly year six to eight, and a productive vine life documented
-  anywhere from twenty to fifty years depending on growing region
-  (Finding 5).
-- **Disease/pest profile:** A serious bacterial canker disease
-  (documented to have devastated one widely grown gold-kiwifruit
-  cultivar in a major growing country, prompting replacement with a less
-  susceptible cultivar) is a major risk, especially at cold, windy, wet
-  sites; two soil-borne fungal pathogens threaten root health; a fungal
-  rot organism is the main storage-disease concern; documented pests
-  include leafrollers, scale insects, and root-knot nematodes.
-- **Cultivars:** The main green-fleshed commercial cultivar is the world
-  market standard; other documented cultivars vary in fruit size, chill
-  requirement, cold hardiness, and (for the gold-flesh cultivar group)
-  disease susceptibility and yield targets; distinct male-only
-  pollinizer cultivars exist solely to provide pollen and bear no fruit.
-- **Harvest:** Hand-picked in a single pass once the whole orchard
-  reaches a minimum sugar-content threshold, typically using soft gloves
-  to avoid bruising (Finding 2).
-- **Storage:** Cured briefly after harvest, then stored near freezing and
-  high humidity for several months, kept strictly away from ethylene
-  sources, and ripened deliberately with ethylene exposure before eating
-  (Finding 2).
+- **Life form / season:** Vigorous deciduous woody vine on a T-bar or
+  pergola trellis [1][3][4].
+  - **Canes:** grow 1.8-3.7 m a year [1].
+  - **Leaf area index:** about 2.5-3 on a T-bar and 4-5 on a pergola, with
+    full leaf area within 3 months of leaf-out [4].
+- **Harvest pattern:** Perennial; one picking a year (Finding 2).
+  - **Seasons:** October-November in California [3]; February-June in New
+    Zealand, with green fruit picked after the red and gold cultivars [5].
+- **Days/years to first bearing:** Commercial crop in year 3-4, mature by
+  year 5 and peak at 8-10 (Finding 5) [1][2][3]. Seedlings take about 7
+  years to flower [2].
+- **Climate zones:**
+  - **Chill, frost and season:** see Finding 3.
+  - **Elevation:** California foothill districts are below 1,500 ft (about
+    460 m) [3].
+  - **Wind:** wind scars fruit and breaks canes [1][3]. Windbreaks protect
+    200-250 ft (60-75 m) downwind [1][3].
+  - **New Zealand:** vines grow best in frost-free, well-watered, sheltered
+    sites [5].
+- **Composition:**
+  - **Raw green kiwifruit, per 100 g:** water 83.1 g; energy 61 kcal
+    (255 kJ); protein 1.14 g; fat 0.52 g; carbohydrate 14.7 g; fibre 3.0 g;
+    calcium 34 mg; potassium 312 mg; vitamin C 92.7 mg; vitamin K 40.3 µg
+    [7].
+  - **Gold:** vitamin C 161.3 mg; sugars 12.3 g [2].
+  - **Fruit:** 80-90 g for 'Hayward' [1]; 5-8 cm long [2].
+  - **Seed oil:** about 62% alpha-linolenic acid [2].
+- **Edibility:** Raw-edible once ripened; hard fruit is "very acid" and
+  unpalatable [3]. Processing is small: jam, juice and wine [3].
+- **Pollination:** Insect (honeybee) pollination is required; the crop is
+  dioecious (Finding 1) [1][2][3][4].
+- **Photoperiod sensitivity:** Not sourced. Not applicable to storage
+  organs.
+- **Yield:**
+  - **California:** about 1,000 packed trays/acre on average, or 2,000
+    trays (9.5 tons) per acre with good management [3]. That is about 8
+    and 21 t/ha (see Estimates, below).
+  - **Per vine:** up to 100 lb (about 45 kg) [1].
+  - **Mediterranean benchmark:** 35 t/ha [4].
+  - **New Zealand:** about 54 t/ha of planted area in 2024/25 (see
+    Estimates, below) [5].
+  - **World:** 1.31 million t on 82,547 ha in 2008, excluding China [4];
+    about 16 t/ha (see Estimates, below).
+- **Water use:**
+  - **Crop coefficients (mature 'Hayward', southern Italy, microjet):**
+    April 0.5, May 0.7, June 0.9, July 1.1, August 1.1, September 0.8,
+    October 0.8 [4].
+  - **Daily use:** about 6-7 mm in midsummer [4]. California guidance is
+    6,000 gal per acre a day at 32 °C and 8,000-10,000 gal at up to 45 °C,
+    about 5.6-9.4 mm a day (see Estimates, below) [3].
+  - **Season:** about 1,000 mm [4].
+  - **Irrigation:** bearing vines are irrigated 3-4 times a week, and young
+    vines every 1-2 days [3]. Microsprinklers are needed where evaporative
+    demand is high [4].
+- **Propagation:**
+  - **Rootstocks:** most California plants are grafted on 'Hayward' or
+    'Bruno' seedling rootstock, though rooted cuttings are also used [3].
+    Self-rooted vines are preferred where winters are cold [1].
+    *A. hemsleyana* and *A. polygama* rootstocks change vine vigour [4].
+  - **Clonal/viral risk:** not sourced. Psa can spread with plant material
+    [5].
+- **Labor:**
+  - **Hours:** not sourced.
+  - **Cost:** pruning and harvest are 50-60% of annual costs [3].
+  - **Pruning:** female vines are pruned in winter, leaving 6-12 flower
+    buds per cane on older vines, plus summer pruning; males are cut back
+    after bloom [3]. A target bud load is 150,000-200,000 buds/ha [4].
+  - **Harvest:** by hand, with soft gloves [1].
+- **Soil:**
+  - **Texture and pH:** deep, well-drained soils, "deep enough to grow a
+    good peach orchard"; pH 5.6-6.0 is optimal [1] and must stay below 7.3
+    [3].
+  - **Salinity:**
+    - irrigation water should have chloride under 70 ppm, bicarbonate
+      under 200 ppm, boron under 0.25 ppm, sodium under 50 ppm, and EC
+      under 0.75 dS/m [1][3];
+    - roots burn easily, so avoid muriate of potash [1].
+  - **Nitrogen:** about 1 lb N per vine, or 150 lb per acre, on bearing
+    vines [3].
+  - **Calcium:** calcium nutrition matters for fruit quality [4].
+- **Storage (postharvest):**
+  - **Conditions:** 0 °C, 90-95% RH, for 4-5 months, or about 6 months
+    in controlled atmosphere (Finding 2) [6]. Cool fruit to 0-4 °C within
+    12-24 hours of picking [3].
+  - **Respiration:** 3 mg CO₂/kg/h at 0 °C, rising to 16-22 at 20 °C [6].
+  - **Chilling injury:** 'Hayward' is chilling-sensitive near 0 °C;
+    curing reduces the symptoms [6].
+  - **Home and ripe fruit:** one source gives up to 8 weeks for firm
+    fruit and 1-2 weeks once ripe [2].
+- **Establishment:**
+  - **Spacing:** 15-18 ft × 15 ft, or 160-190 vines per acre [3].
+    Densities of 400-600 vines/ha on pergolas and up to 720/ha on T-bars
+    are also given [4].
+  - **Layout:** males every third plant in every third row [3].
+  - **Costs (California, 1990):** a T-bar trellis cost about $2,000 per
+    acre and a pergola $2,500-3,000. Total establishment was
+    $8,300-11,800 per acre, excluding equipment [3].
+- **Cultivars:**
+  - **Green:** 'Hayward' is "the only acceptable commercial variety" in
+    California [3].
+  - **Gold:** 'Hort16A' and 'Gold3' (SunGold) [2][5].
+  - **Red:** 'Hongyang' and 'RubyRed' [2][5].
+  - **Males:** 'Chico' and 'Matua' [3].
+- **Weather response:**
+  - **Frost:** frost, wind and hail (Finding 3) [1][3].
+  - **Heat:** summer heat sunburns cordons after heavy pruning, so they are
+    whitewashed [3].
+  - **Rain:** heavy spring rain kills vines on poorly drained soils [3].
+- **Water regime:** Irrigated (drip, microsprinkler or under-vine
+  sprinkler), with overhead sprinklers kept for frost. Overhead summer
+  irrigation spots fruit with hard-water deposits [3].
+- **Harvest stages / windows:** Hard-mature at 6.2-7% soluble solids [3][6],
+  or 10-12% for local sale [6]; eaten at 14% or more [6].
+- **Soil biology:**
+  - **Soil-borne diseases:** *Armillaria* and *Phytophthora* crown rot
+    are fatal [3]. Verticillium wilt is also a threat, so avoid sites
+    after mint or black raspberry [1].
+  - **Nematodes:** root-knot nematodes are a problem in sandy soils, and
+    sites may be fumigated before planting [1][3].
+- **Invasiveness / biosecurity:** Psa is a quarantine and biosecurity
+  concern, and new strains are monitored in New Zealand [5]. The US has
+  no quarantine issues for the fruit [6]. No invasiveness listing was
+  found for *A. deliciosa*.
+- **Controlled environment:** Not sourced.
 
 ## Hazards
 
-A serious bacterial canker disease is a major risk to this crop,
-particularly at cold, windy, wet growing sites, and has caused
-substantial documented crop losses to at least one widely grown gold-
-kiwifruit cultivar in a major growing country. Two soil-borne fungal
-root pathogens can kill vines outright. Documented pests include
-leafrollers, scale insects, and root-knot nematodes; a fungal rot
-organism is the primary storage-disease concern. TO BE ADDRESSED: this
-fruit's flesh contains a well-documented major food allergen with
-cross-reactivity in latex-fruit syndrome — a genuine human health hazard
-this project has not yet built a dedicated allergen data structure for
-(Finding 6). Leaves of a related, cold-hardy genus-mate crop this
-project has also researched have a catnip-like effect on cats, which can
-cause nuisance plant damage where that related crop is grown nearby;
-this is not a hazard of the fruit itself.
+- **Allergen:** kiwifruit allergy was first described in 1981, and the
+  most severe common symptom is wheezing [2]. The cysteine protease
+  actinidin (actinidain, Act d 1) is a major allergen, making up about
+  half of the soluble protein [2][8]. Cross-reactivity with pollen and
+  other foods is common [8].
+- **Psa canker:** vine death (Finding 6) [2][5].
+- **Root rots and wilts:** *Armillaria*, *Phytophthora* and
+  Verticillium [1][3].
+- **Pests:** omnivorous leafroller and scale insects (greedy, latania,
+  ivy and oleander), needing 1-3 sprays a year in California and 4-6 in
+  New Zealand [3]. Root-knot nematodes [1][3].
+- **Fungal contamination of the product:** *Botrytis cinerea* gray mould
+  is the main storage rot; blue mould and *Phomopsis* are minor [6]. No
+  mycotoxin finding.
+
+**TO BE ADDRESSED** — the kiwifruit allergen hazard is deferred until this
+project has a place for this kind of health/safety data.
 
 ## Uses and processing
 
-- **Chains:** Fruit is picked hard in a single pass, cured for about two
-  days, graded and packed, then stored near freezing for several months
-  (up to roughly six months under controlled atmosphere in at least one
-  major growing region) before being ripened with ethylene before sale.
-  Fruit intended for local, non-export sale is instead left on the vine
-  to ripen further before picking. Male flowers are collected as a pollen
-  source for hand pollination.
-- Not covered by this research in detail: fresh-cut sliced product (a
-  documented but unmodeled short-shelf-life product); frost-protection
-  sprinkler systems and windbreak planting as distinct infrastructure;
-  commercial pollen milling and collection methods. No canned or frozen
-  product was identified for this crop.
+- **Chain 1 (fresh export):** hand-picked hard → cured for 48 hours or
+  cooled within 12-24 hours [3][6] → sized and tray-packed (US tray sizes
+  21-45 per 8-lb sample) [6] → stored at 0 °C, ethylene-free, for 3-6
+  months or in controlled atmosphere [1][6] → ethylene-ripened before
+  sale [1].
+- **Chain 2 (local sale):** vine-held to 10-12% soluble solids, with
+  minimal handling [6].
+- **Chain 3 (processing):** jam, juice, wine and frozen fruit, which in
+  California used "only a few tons" [3]. Fresh-cut slices keep 9-12 days
+  with calcium and modified atmosphere [6].
+- **Chain 4 (pollen):** commercially produced kiwifruit pollen, about 20
+  million grains per gram, is sold for artificial pollination [1].
 
-No religious or ritual food use was identified for this crop in the
-sources consulted.
+No religious or ritual use was found in the sources consulted.
 
 ## Open research questions
 
-- Chilling-requirement figures for the main commercial cultivar conflict
-  across four different sources, ranging from several hundred hours up
-  to over a thousand hours in one snippet-level trial source — not
-  reconciled here.
-- Productive vine lifespan is reported quite differently between two
-  major growing regions (a shorter figure in one versus a considerably
-  longer figure in the other) — not reconciled here, and may reflect
-  genuine differences in growing conditions or orchard management
-  philosophy between regions.
-- Recommended beehive density and male-to-female planting ratio each
-  conflict somewhat across sources — not reconciled here.
-- World growing-area figures for a recent year conflict between two
-  snippet-level sources covering different years — not reconciled here.
-- No dedicated labor-cost study, no soil nutrient-removal study, and no
-  directly sourced soil-moisture-depletion allowance was found for this
-  crop; several agronomic parameters here are rough estimates.
+- **Chill:** hours below 7 °C [3] and Richardson units [4] are different
+  measures, so they are not directly comparable.
+- **Storage life:** 3-6 months [1][3], 4-5 months [6] and 8 weeks [2]
+  differ. The 8-week figure probably refers to non-commercial storage.
+- **Male ratio:** guidance ranges from 1:3 to 1:10 [1][2][3][4].
+- **Yield data:** the California yield and cost figures date from 1990
+  [3]. A modern US cost study was not found.
+- **Not sourced:** labour hours, a modern lifespan figure, virus risk, and
+  controlled-environment use. The earlier draft's 30-50-year lifespan was
+  not re-found.
 
 ## Estimates and derivations
 
-World-average yield is derived from a recent year's international
-agricultural statistics (total production divided by total harvested
-area), noting that a separate snippet-level source gives a meaningfully
-different area figure for a different recent year, creating some
-uncertainty in this calculation.
+**California yields** [3]:
+- 1,000 trays × 7.5 lb = 7,500 lb packed fruit per acre = 3.40 t/acre ÷
+  0.4047 = 8.4 t/ha packed;
+- 8,000 lb packed per acre = 3.63 t/acre = 9.0 t/ha;
+- 9.5 short tons per acre × 0.9072 = 8.62 t/acre ÷ 0.4047 = 21.3 t/ha.
 
-"Good" and "exceptional" yield tiers are derived from one major growing
-country's documented commercial yield targets for the main cultivar,
-converted from a standard packing-tray-weight basis to a per-hectare
-weight figure; a documented recent-year actual average yield in that
-same country falls within this derived range. The "poor" yield tier is
-derived from a historical average packed-yield figure in a different
-major growing region, explicitly noted in that source as a yield level
-at which growers could not expect to profit.
+**New Zealand yield on planted area** [5]:
+- 2024/25: 794,490 t ÷ 14,664 ha = 54.2 t/ha;
+- 2023/24: 593,070 t ÷ 14,512 ha = 40.9 t/ha.
 
-Water-use parameters (crop coefficient curve, stage lengths, rooting
-depth, soil-moisture-depletion allowance) are derived from a standard
-international crop-evapotranspiration reference's general kiwifruit
-crop-coefficient values (which lack documented stage lengths), combined
-with a documented seasonal growing calendar from one major growing
-region to estimate stage lengths; the resulting total seasonal water
-estimate is checked against that same region's directly documented
-annual applied-irrigation-water range, which it matches reasonably
-well. Soil-moisture-depletion allowance and drought/waterlogging
-tolerance ratings are rough estimates reflecting this crop's documented
-shallow effective rooting depth and strong sensitivity to both water
-deficit and excess.
+Planted area includes non-bearing young vines and male vines, so yield
+per bearing hectare is higher.
 
-Labor-hour estimates (pruning and maintenance, harvest, post-harvest
-handling) are rough estimates, since no direct labor-hour study was
-found; one source's finding that pruning and harvest together make up
-roughly half to three-fifths of annual production costs in a major
-growing region informed the relative weighting between labor categories.
-Harvest labor specifically assumes an unsourced picking rate appropriate
-to a firm, single-pass harvest.
+**World yield, excluding China, 2008.** 1.31 million t ÷ 82,547 ha [4] =
+15.9 t/ha.
 
-Time to first harvest and peak daily yield are derived from the
-documented bearing-age pattern (first crop around year three to four)
-and the "good" yield tier spread across an estimated harvest-window
-length appropriate to this crop's single-pass harvest pattern.
+**Mediterranean water use** [4]:
+- seasonal: 300-350 L/kg × 35,000 kg/ha = 10,500-12,250 m³/ha =
+  1,050-1,225 mm, consistent with the 10,012 m³/ha measured;
+- daily: 60-70 m³/ha = 6-7 mm.
+
+**California daily water** [3]:
+- 6,000 gal × 3.785 = 22.7 m³/acre ÷ 0.4047 = 56 m³/ha = 5.6 mm;
+- 10,000 gal = 37.9 m³/acre = 94 m³/ha = 9.4 mm.
+
+**Vine density.** 160-190 vines per acre ÷ 0.4047 = 395-470 vines/ha [3],
+consistent with the 400-720/ha range [4].
+
+**Hives.** 3-4 per acre ÷ 0.4047 = 7.4-9.9 per ha [1], consistent with
+about 8 per ha [2].
+
+**Labour cost share.** 50-60% of $1,500-2,000 per acre = $750-1,200 per
+acre a year in 1990 for pruning and harvest [3].
+
+**Seasonal sum of crop coefficients.** April 0.5, May 0.7, June 0.9, July
+1.1, August 1.1, September 0.8 and October 0.8 [4] average 0.84 over the
+7 months. This is a simple mean; month lengths are not weighted.
 
 ## Sources
 
-[1] A collaboratively maintained general reference encyclopedia entry on
-this species. Supplied: species and cultivars, history and naming, a
-recent year's world and national production figures, male-to-female
-planting ratio, saturation-pollination practice, the lack of floral
-nectar, yield-by-vine-age figures, the bacterial canker disease's
-regional history, post-harvest storage practice, and allergy information
-including the discovery history of the key allergen protein. Accessed
-2026-09-30, opened directly.
+[1] Strik and Davis, *Growing Kiwifruit: A Guide to Kiwiberries and Fuzzy
+Kiwifruit for Pacific Northwest Producers* (PNW 507), a Pacific Northwest
+extension publication, revised March 2021. Supplied:
+- 'Hayward' season, Brix, fruit weight and yield;
+- hardiness; male ratios and planting layout; spacing; trellis;
+- soil pH and drainage; waterlogging; irrigation water quality;
+- irrigation methods; fertiliser and salt sensitivity;
+- pollination (nectarless flowers, hives, pollen windows, seed counts,
+  bought pollen);
+- harvest and storage; soil-borne diseases.
 
-[2] A US government agricultural research agency's commercial-storage
-handbook chapter on this crop. Supplied: harvest maturity indices,
-ripe-fruit quality standards, grading and sizing, precooling, curing
-practice, storage duration and conditions (including controlled-
-atmosphere storage), chilling sensitivity, ethylene production and
-sensitivity thresholds, respiration rates, storage disorders, fungal rot
-risk, and fresh-cut handling notes. Accessed 2026-09-30, PDF extracted.
+Accessed 2026-11-19, PDF downloaded and text-extracted.
 
-[3] A regional cooperative extension growing guide covering this
-species alongside related Actinidia species. Supplied: cultivars and
-male pollinizer varieties, male-to-female planting ratio, per-vine yield
-figures, frost-free-day requirement and hardiness thresholds, chilling-
-requirement figures by cultivar, spring-frost vulnerability, site and
-soil requirements including waterlogging tolerance and soil pH,
-irrigation water-quantity and water-quality guidance, wind sensitivity,
-spacing and planting practice, fertilizer rates, pollination biology
-(including the no-nectar trait, beehive stocking rate, pollen-viability
-windows, seed count per fruit, and artificial-pollination practice),
-fruit thinning, pruning practice, fruit maturation indicators, harvest
-method, and storage/ripening guidance. Accessed 2026-09-30, PDF
-extracted.
+[2] A collaboratively maintained general encyclopedia entry on kiwifruit.
+Supplied: taxonomy; gold and red cultivars; history; 2023 world
+production by country; male ratio and hives; yields by vine age; Psa
+history; storage; the nutrition table for gold fruit; seed oil; allergy
+history and the allergen. Accessed 2026-11-19, opened directly.
 
-[4] A university cooperative extension production guide for this crop in
-one major US growing region. Supplied: chilling-requirement figure,
-frost-free-day requirement, winter and spring frost thresholds, heat
-tolerance, soil and irrigation-water-quality guidance, spacing, male-to-
-female planting ratio, trellis construction costs, bearing-age timeline,
-productive vine lifespan, irrigation amount and frequency guidance,
-pruning practice, harvest sugar-content threshold, post-harvest cooling
-timing, yield figures (both a historical average and a full-potential
-figure), storage duration, ethylene-management limits, production cost
-structure, and pests and diseases. Accessed 2026-09-30, opened directly.
+[3] University of California Small Farm Center, "Kiwifruit Production in
+California" (January 1990). Supplied:
+- history and acreage; climate, chilling and frost thresholds;
+- water needs and quality; soil;
+- spacing, trellis and establishment costs;
+- yields and economics; cost structure;
+- planting layout; irrigation; windbreaks; frost protection;
+- pests and diseases; fertiliser; pruning; harvest and storage.
 
-[5] A government nutrient-composition database entry for raw green
-kiwifruit. Supplied: energy, protein, water, and vitamin C content per
-100 g. Accessed 2026-09-30, opened via API.
+Accessed 2026-11-19, opened directly (archived copy of the university
+page).
 
-[6] International agricultural statistics for this crop, drawn from a
-major international food and agriculture data agency, supplemented by a
-forecasting-paper snippet for an earlier year. Supplied: a recent year's
-world harvested area and production figures, and a differing area/yield
-figure from a separate snippet source for an earlier year. Accessed
-2026-09-30, search snippets only.
+[4] Xiloyannis, Montanaro and Dichio, "Kiwifruit," in FAO Irrigation and
+Drainage Paper 66, *Crop Yield Response to Water* (2012). Supplied:
+- the 'Hayward' share; training systems, densities and bud load;
+- male ratio; 2008 world production;
+- chilling units; leaf-area development;
+- water-deficit thresholds and root traits;
+- water use and crop coefficients; the dry-matter standard;
+- third-year yield.
 
-[7] Search-snippet-level material on standard packing-unit weight for
-this crop in one major growing country's industry documentation and an
-academic analysis of that country's kiwifruit industry. Supplied: the
-standard international packing-tray weight used to convert tray-based
-yield targets to a weight basis. Accessed 2026-09-30, search snippet
-only.
+Accessed 2026-11-19, PDF text-extracted.
 
-[8] Search-snippet-level material on recent-year commercial yields in
-one major growing country, compiled from industry body communications
-and agricultural trade press. Supplied: a recent-year average yield
-figure and a comparison to the prior year. Accessed 2026-09-30, search
-snippets only.
+[5] USDA Foreign Agricultural Service, "New Zealand Kiwifruit Sector"
+(report NZ2026-0002, 5 February 2026). Supplied: history; world shares;
+growers and area; Psa detection and recovery; cultivar areas; production,
+supply and export table; harvest season. Accessed 2026-11-19, PDF
+downloaded and text-extracted.
 
-[9] A national land-use guidance resource (government-affiliated) on
-commercial production of this crop in one major growing country.
-Supplied: planted area, commercial yield targets by cultivar group,
-cost and returns context, bearing-age timeline, productive vine
-lifespan, water requirement per unit canopy area, chilling-requirement
-threshold, frost-free growing-season length, growing-degree-day target,
-slope and site guidance, and disease-risk notes. Accessed 2026-09-30,
-opened directly.
+[6] Rushing, "Kiwifruit," in USDA Agriculture Handbook 66, *The Commercial
+Storage of Fruits, Vegetables, and Florist and Nursery Stocks*. Supplied:
+- quality and maturity indices; grades and size designations;
+- precooling and curing; storage and controlled atmosphere;
+- chilling sensitivity; ethylene production and sensitivity;
+- respiration; disorders; postharvest pathology; quarantine; fresh-cut
+  use.
 
-[10] Search-snippet-level material on chilling requirement and frost
-sensitivity of this crop, compiled from an agricultural-science journal
-and a regional agricultural-research journal's historical frost-damage
-study. Supplied: higher chilling-requirement figures for vegetative bud
-break versus full flowering, and a specific flower-bud frost-damage
-threshold and exposure duration. Accessed 2026-09-30, search snippets
-only.
+Accessed 2026-11-19, PDF text-extracted.
 
-[11] Search-snippet-level material on this fruit's allergen profile,
-compiled from a commercial allergen-testing reference database and two
-peer-reviewed nutrition/food-science journals. Supplied: the proportion
-of soluble protein represented by the key allergen, estimated prevalence
-in Western populations, a note on severity in children, and a
-cross-reactivity rate with latex allergy. Accessed 2026-09-30, search
-snippets only.
+[7] USDA FoodData Central, "Kiwifruit, green, raw" (SR Legacy 168153).
+Accessed 2026-11-19, opened directly (API data).
 
-[12] A standard international crop-evapotranspiration reference work.
-Supplied: a general kiwifruit crop-coefficient curve and typical canopy
-height, noting the absence of documented growth-stage lengths for this
-crop in that reference. Accessed 2026-09-30, opened directly.
-
-[13] Search-snippet-level material on a bacterial canker disease and
-rootstock practices for this crop, compiled from plant-science journal
-articles, a genomic-surveillance preprint, an agricultural-science
-reference database entry, and a horticultural-science conference
-proceedings article. Supplied: the disease's regional discovery history
-and economic impact, the replacement of a highly susceptible gold-
-kiwifruit cultivar with a less susceptible one, and rootstock usage
-notes. Accessed 2026-09-30, search snippets only.
-
-[14] A government agricultural-monitoring report on one major growing
-region's commercial kiwifruit sector. Supplied: a model-orchard labor-
-wage structure for pruning, thinning, and picking operations in a
-specific production year, referenced but not fully extracted. Accessed
-2026-09-30, search snippet only.
+[8] Search-snippet-level material on kiwifruit allergy: actinidin (Act d
+1) as about half of soluble protein, and common cross-reactivity with
+pollen and other foods. Accessed 2026-11-19, search snippets only.

@@ -59,7 +59,7 @@
 | kabosu | Citrus sphaerocarpa (Ōita sour citrus) | kabosu.md | `hetsuka_daidai`, `daidai`, `yuzu`, `sudachi`, `kunenbo`, `ichang_papeda` | 2026-11-19 | RESEARCHED |
 | key_lime | C. × aurantiifolia | lime.md | `persian_lime`, `citron`, `rangpur_lime`, `makrut_lime` | 2026-11-19 | RESEARCHED |
 | kiwiberry | Actinidia arguta; A. kolomikta as a cultivar group | kiwiberry.md | `kiwifruit` | 2026-11-19 | RESEARCHED |
-| kiwifruit | Actinidia deliciosa | kiwifruit.md | `kiwiberry` | 2026-09-30 | OUT-OF-DATE |
+| kiwifruit | Actinidia deliciosa | kiwifruit.md | `kiwiberry` | 2026-11-19 | RESEARCHED |
 | korla_pear | Pyrus sinkiangensis | korla-pear.md |  | 2026-10-04 | OUT-OF-DATE |
 | kunenbo | Citrus nobilis (Kunenbo mandarin) |  | `hassaku`, `kabosu` | 2026-11-19 | PROPOSED |
 | kwai_muk | Artocarpus lingnanensis (identity uncertain) |  | `jackfruit` | 2026-11-19 | PROPOSED |
