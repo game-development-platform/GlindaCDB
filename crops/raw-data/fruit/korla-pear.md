@@ -1,7 +1,15 @@
 # Korla Fragrant Pear (*Pyrus sinkiangensis*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/korla-pear.md`
-**Researched:** 2026-10-04
+**Researched:** 2026-10-04 (re-researched 2026-11-19 against the full
+current checklist in `skills/crop-research/SKILL.md` and
+`templates/research-doc.md`: the Swedish university thesis, the
+orchard freeze-injury study, the storage study and the two trade-news
+articles were re-opened and their numbers restored; a chromosome-level
+genome paper and a canker-pathogen paper were added; the Chinese
+encyclopedia entry and the regional cultivation standard could not be
+re-opened, so figures that rested only on them were dropped; estimates
+are shown in full)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -10,385 +18,389 @@ licensed under this project's MIT license (see repository `LICENSE`).
 
 ## Naming and scope
 
-*Pyrus sinkiangensis* T.T. Yu (Rosaceae), also known as Korla pear,
-Xinjiang fragrant pear, or Kuerle xiangli [1][2]. Commercially this is
-essentially one clonal cultivar group, grown around the city of Korla in
-Xinjiang, China [1][2]. The species is suspected to be of complex hybrid
-origin, involving European pear and Chinese white pears, with some
-genetic evidence supporting this cross [1][3].
-
-This crop shares general growing-system similarities (tree form,
-rootstock use, hand pollination, thinning practice) with another
-pear-type crop this project has also researched, but is distinguished by
-a highly specific irrigated cold-desert climate, a severe winter-kill and
-canker complex, a distinctive calyx-shedding quality factor, and
-unusually long non-ripening storage life.
+*Pyrus sinkiangensis* T.T. Yu (Rosaceae): Korla pear, Korla fragrant
+pear, Xinjiang fragrant pear, *Kuerle xiangli* [1][3].
+- **One clone in practice:** commercially the crop is essentially the
+  single cultivar 'Korla Fragrant' (*Kuerle xiangli*), grown around
+  Korla in the Bayingolin prefecture of Xinjiang [1][3]. Fragrant pears
+  have been grown in Xinjiang for about 1,300 years [1].
+- **Parent of other cultivars:** it is a breeding parent of 'Xin 6',
+  'Xin 9' and 'Zhongli 10' [3].
+- **Origin is disputed** [3]:
+  - trait studies and a 420-gene analysis point to *P. communis* ×
+    *P. bretschneideri*;
+  - RAPD markers point to *P. communis* × *P. pyrifolia*;
+  - the 2024 genome assembly suggests derivation from *P. pyrifolia*,
+    diverging about 3.9-4.6 million years ago.
+- **Separate entries:**
+  - Asian pear (`asian_pear`, *P. pyrifolia* and Chinese white pears)
+    is `asian-pear.md`, which notes this species only in passing;
+  - European pear (`pear`, *P. communis*) is `pear.md`.
+- **Why it stands apart:** an irrigated cold-desert oasis crop, limited
+  by winter-kill and the canker that follows it, graded by calyx
+  shedding, and eaten crisp at harvest yet stored for months without an
+  off-tree ripening step [1][2][3][5].
 
 ## Research findings
 
-**Finding 1 — an oasis pear limited by winter cold, salt, and canker,
-not by chill requirement or rainfall.** This crop is grown in an
-irrigated cold-desert oasis receiving very little annual rainfall against
-very high potential evaporation, with a long frost-free season and very
-high annual sunshine hours [1]. Orchards sit at moderate elevation on
-alkaline, saline sandy soils, irrigated several times a year from river
-water [2][4]. None of the cultivars of the related pear-type crop
-mentioned above are grown under comparable desert-oasis conditions.
-Winter cold tolerance is sharply tiered by organ: flower buds freeze at
-a notably less extreme temperature than one- and two-year shoots, which
-in turn tolerate less cold than main limbs, with whole-tree death
-occurring only at the most extreme temperatures recorded [5]. A
-dedicated orchard-temperature study found that the duration of extreme
-cold predicts winter-kill damage better than the single coldest
-recorded temperature alone — one winter with a deeper minimum but short
-duration below a damaging threshold caused less injury than a later
-winter with a less extreme minimum sustained for many more hours [12].
-Little snow cover and frequent cold snaps worsen injury [12]. Freeze
-cracks are the primary entry point for a canker disease that can kill
-trees and destroy whole orchards [6]. Genomic work suggests that
-domestication of this species reduced the expression of freeze-tolerance
-and disease-resistance genes still present and active in its wild
-rootstock relative [13].
+**Finding 1 — a desert-oasis pear.**
+- **Rain against evaporation:** Korla gets 57.4 mm of rain a year on
+  31 rain days, against maximum evaporation of 2,788.2 mm [1]. July is
+  the wettest month, with 12.4 mm on 5.8 days [1].
+- **Sun and season:** 2,889 hours of sunshine and 180-200 frost-free
+  days a year; July mean 26.4 °C [1]. The thesis gives a mean annual
+  temperature of 14-15 °C (see Open research questions) [1].
+- **Water source:** orchards are irrigated from snowmelt rivers of the
+  Tarim Basin that never reach the sea [1].
+- **Soil:** highly calcareous and alkaline, pH above 8.2, low in
+  organic matter, coarse, and prone to sandstorm loss [1]. Iron and
+  manganese deficiencies are the main micronutrient problems, showing
+  as leaf chlorosis [1].
+- **Brackish water:** a two-year trial irrigated with treated
+  (magnetised or ionised) well water of 1.83-2.74 g/L salinity
+  improved yield and still met super-grade fruit standards [1].
+- **Quality from climate:** high light and a large day-night
+  temperature range are credited with the fruit's sugar and flavour, and
+  are cited as why the flavour is hard to reproduce elsewhere [1][7].
 
-**Finding 2 — calyx shedding and pollination practice decide fruit
-grade.** Natural shedding of the flower calyx happens over one to three
-weeks after full bloom, with a growth-regulator spray at full bloom
-able to push shedding rates very high [9]. Fruit that fails to shed its
-calyx naturally develops a spindle shape with a protruding end and
-inferior internal quality — more stone cells, a larger core, a smaller
-edible portion, and milder flavor — compared with calyx-shedding fruit
-[8]. At least one naturally high-calyx-shedding bud-sport selection has
-been identified [14]. Because this cultivar is largely self-incompatible
-or at least pollinizer-dependent, growers interplant a small proportion
-of two other pear cultivars as pollen sources, at roughly one pollinizer
-tree per eight main trees, with hand pollination as the dominant
-practice (supplemented by honeybees and a dilute boric-acid spray, and
-increasingly by drone-assisted pollen application) [4][9]. Growers thin
-flower clusters, then thin fruit by hand within a couple of weeks of
-petal fall down to at most two fruits per cluster, targeting a specific
-leaf-to-fruit ratio and keeping year-to-year yield variation within a
-fairly narrow band to prevent alternate bearing [4].
+**Finding 2 — winter-kill and canker set the limits.**
+- **Duration matters more than the minimum** [2]:
+  - winter 2010-11: orchard minimum -28.1 °C, with 9.5 hours below
+    -24 °C on the coldest day, caused moderate freeze injury;
+  - winter 2011-12: minimum -26.3 °C, but only 3.0 hours below -24 °C,
+    caused no obvious injury;
+  - no or trace snow cover, frequent cold snaps and their timing in
+    the winter all worsen injury.
+- **Canker follows freeze injury:** *Valsa* canker invades bark
+  wounded by freezing; the disease is described as "secondary to
+  freezing injury" [3].
+  - **Incidence:** 50-80% of Korla pear trees were found infected,
+    against 30% for 'Yali' and 30-50% for 'Crisp' (both *P.
+    bretschneideri*) [3].
+  - **Control:** hard to control without chemicals, so infected trees
+    are usually destroyed [3].
+  - **Pathogen identity is unsettled:** *Cytospora pyri* (*Valsa*)
+    [4]; other teams name *Valsa mali* var. *pyri* [3], *Valsa
+    ceratosperma*, *Cytospora carphosperma* and *Valsa nivea* [12].
+  - **Infection:** in an Alaer orchard isolate, hyphae invaded wounded
+    bark within 24 hours; infection of intact bark was delayed; by day
+    20 the host tissue was nearly destroyed [4].
+- **Genetic cause:** compared with the wild rootstock species *P.
+  betulifolia*, Korla pear has lost 7 LEA genes, 2 dehydrin genes and
+  54 disease-resistance genes. A further 21 LEA and 31 resistance genes
+  are shared but switched on in winter only in *P. betulifolia* [3].
+  *P. betulifolia* is highly resistant to the canker [3].
 
-**Finding 3 — yields and the industry.** A full-bearing tree can
-produce on the order of 100-150 kg, with an exceptional single
-25-year-old tree recorded well above that; full-bearing orchard yields
-exceed roughly 22.5 t/ha with a very high graded-fruit fraction [2].
-Ordinary orchards run meaningfully lower, with well-managed orchards
-roughly double the ordinary figure [10]. A regional fertilization
-standard is designed around an even higher target yield [4]. Area and
-output statistics for the main growing region have grown substantially
-over roughly two decades, though different sources report somewhat
-different totals for overlapping areas and years, and at least one
-notably bad year saw output fall 30-40% against the prior year, with a
-sharp swing in farm-gate price, for reasons not clearly identified in
-the sources found [2][10][11][15].
+**Finding 3 — calyx shedding decides grade.**
+- **Persistent calyx:** fruit that keeps its calyx has rough skin,
+  more stone cells, a larger core, less edible flesh and weaker aroma;
+  persistent calyx can cut premium-grade yield by up to 40% [8].
+- **Shedding timing:** in one hormone study abscisic acid peaked at 8
+  days after flowering, matching final calyx separation [8].
+- **Sprays:** at full bloom, 50 mg/L gibberellin (GA3) was used to
+  make the calyx persist and 500 mg/L PP333 to make it shed [8].
+- **A high-shedding mutant:** 'Xinnonglinxiang' sheds its calyx at a
+  high rate under natural conditions, unlike the standard clone [8].
 
-**Finding 4 — eaten crisp at harvest, yet stored for months.** Harvest
-comes roughly 140 days after full bloom, typically in mid-September,
-with fruit destined for long storage picked slightly earlier [2][4].
-Export- and storage-grade fruit needs to reach a minimum sugar
-concentration at harvest [1]. Picking is done entirely by hand, using
-cotton gloves and lined baskets, specifically avoiding shaking or
-dropping the fruit [4]. Fruit is graded into three weight classes [4].
-Storage options scale with technology investment: standard refrigeration
-gives a few months of storage; combining a ripening-inhibitor treatment
-with near-freezing storage extends this considerably further; and
-controlled-atmosphere storage extends it further still, into the
-following year [2][7]. Storage temperature that is too cold causes an
-early chilling-type core browning, while storage that is too warm (for
-long-term storage) causes a later senescence-type core browning — the
-two disorders have different causes but a similar appearance [7].
-Firmness changes very little even after several months of proper
-storage, and high storage humidity helps preserve the fruit's protective
-natural wax coating [1]. A fungal disorder causing dark discoloration
-affects a meaningful minority of fruit during transport and extended
-storage [1].
+**Finding 4 — needs a pollinizer; pollen is often applied by hand or
+drone.**
+- **Pollinizers:** of 15 cultivars tested as pollen sources, 'Hanhong',
+  'Xueqing', 'Ganlizao 6' and 'Dangshan Suli' gave the best fruit set
+  [9].
+- **Methods:** liquid pollination beat hand-dabbing and dry-powder
+  dusting, with less pollen and lower labour cost [9]. A DJI T50 drone
+  trial gave 75.56% fruit set per flower cluster and 32.87% per flower
+  [9].
+- **Bloom:** April, with 4-7 white flowers per umbel-like cluster [1].
+- **Cross-compatibility:** Oriental pears cross-pollinate with
+  European pears when bloom overlaps [1]. Whether the clone is strictly
+  self-incompatible was not established.
+
+**Finding 5 — crisp at harvest and stores for months.**
+- **No ripening step:** ethylene has no effect on eating quality, so
+  the fruit is eaten straight from harvest; firmness changes only
+  slightly after 5 months of storage, and aroma volatiles hardly change
+  [1].
+- **Harvest maturity:** export and storage fruit is picked at no less
+  than 12 °Brix [1]. A maturity study gave firmness of 4.23-7.99
+  kg/cm² and vitamin C of 0.36-0.6 mg/100 g at harvest [1].
+- **Harvest date:** test picking from 6 September and the official
+  harvest from 10 September in 2020 [6].
+- **Storage by marketing date** (Jia et al.) [5]:
+  - New Year (90 days): 2 °C, with or without 1-MCP (a ripening
+    inhibitor);
+  - Spring Festival (150 days): 0 °C, with or without 1-MCP;
+  - May (225 days): 1-MCP plus -1.5 °C.
+- **Two kinds of core browning** [5]:
+  - at -1.5 °C, chilling injury causes early core browning;
+  - at 2 °C, senescence causes late core browning.
+- **Storage rot:** *Alternaria alternata* black-head disease affects
+  up to 10% of fruit in transport and long storage [1].
+
+**Finding 6 — a volatile industry.**
+- **2020:** 463,000 mu (about 30,900 ha) gave 500,000 t, 400,000 t of
+  it commercial, up 20% on 2019 [6]. The grade A guide price fell 48%,
+  from 11 to 5.7 yuan/kg [6]. The geographical-indication brand was
+  valued at 11.03 billion yuan [6].
+- **2022:** about 300,000 t, against about 500,000 t the year before
+  [7]. Prices reached a record 20 yuan/kg after the 2018 shortfall [7].
+- **Later figures:** 900,000 t expected in 2023 and 1.3 million t
+  projected for 2024 [11]. These are trade-news projections and were
+  not checked against statistics.
+- **Exports:** 20,000-30,000 t a year to 34 countries and regions [11].
+- **Area conflict:** one trade article gives 23,333 ha (57,500 acres)
+  for Korla City alone, undated [11].
 
 ## Agronomic data
 
-- **Life form / season:** A deciduous perennial tree, grafted onto a
-  wild pear rootstock species; blooms in spring with harvest roughly 140
-  days later, in mid-September (Finding 1, 4).
-- **Climate:** An irrigated cold-desert (arid) climate is essentially
-  required; the crop depends entirely on irrigation rather than rainfall
-  (Finding 1).
-- **Pollination:** Required; the cultivar is effectively
-  pollinizer-dependent, interplanted with a small proportion of two
-  other pear cultivars, with hand pollination the dominant practice,
-  supplemented by honeybees (Finding 2).
-- **Yield / composition:** Ordinary orchards yield considerably less
-  than well-managed ones, with full-bearing, well-managed orchards
-  exceeding roughly 22.5 t/ha and a regional fertilization design target
-  set even higher (Finding 3). The fruit itself is small (well under 150
-  g on average), high in water content, with moderate sugar and very low
-  acidity.
-- **Water use:** No standard international crop-water-use reference
-  figure was found for this specific species; water demand is inferred
-  by analogy to related deciduous tree fruit crops, adjusted upward
-  given the very high potential evaporation of the growing region.
-  Measured irrigation volumes under traditional flood irrigation are
-  considerably higher than under drip-with-fertigation systems, which
-  show real water savings (see Estimates below). Soil salinity must stay
-  below a fairly low total-salt threshold, and the water table must
-  remain at some depth below the surface (Finding 1).
-- **Establishment:** Propagated by grafting a selected scion onto
-  seedlings of a wild pear rootstock species, planted with windbreaks
-  established first; trees are spaced at a density of several hundred
-  per hectare (see Sources).
-- **Labor:** No dedicated labor-hour budget specific to this crop was
-  found; labor figures are estimated by analogy to the related pear-type
-  crop mentioned above, adjusted for the absence of a fruit-bagging step
-  and for a hand-pollination requirement that is partly being displaced
-  by drone-assisted pollination in some orchards.
-- **Soil:** Sandy loam to sandy soils, alkaline (moderately high pH),
-  with a fairly low organic-matter requirement and a strict total-salt
-  ceiling; iron and manganese deficiency (chlorosis) occurs on the most
-  calcareous, highest-pH soils (Finding 1).
-- **Stand life:** First fruiting roughly 4-5 years after planting, full
-  bearing from around year 10, continuing for about 50 years of
-  commercial life, with some individual trees over a century old still
-  bearing; freeze injury and canker disease shorten productive life.
-- **Disease/pest profile:** A canker disease that enters through frost
-  cracks, sunburn, and pruning wounds is the most serious threat,
-  capable of killing trees and destroying orchards; a moth pest and mite
-  pests are also documented, managed partly with trunk banding (Finding
-  1; see Hazards below).
-- **Cultivars:** Essentially one dominant clonal cultivar, a long-
-  established landrace clone named in the early 20th century, along with
-  at least one naturally high-calyx-shedding bud-sport selection and at
-  least one cold-tolerant selection found in an orchard; two other pear
-  cultivars are used purely as pollinizers (Finding 2; see Sources).
-- **Harvest:** A single annual harvest, entirely by hand, picked earlier
-  for long-term storage fruit than for fresh-market fruit, graded into
-  three weight classes (Finding 4).
-- **Storage:** Ranges from a few months under standard refrigeration up
-  to roughly a year under controlled-atmosphere storage, with storage
-  temperature management critical to avoiding two different types of
-  core-browning disorder (Finding 4).
+- **Life form / season:** Deciduous tree, 6-9 m tall; blooms in April;
+  fruit matures July-September in the species, with the main clone
+  harvested from about 10 September [1][6]. Grafted on *P. betulifolia*
+  (wild pear) seedlings [3].
+- **Harvest pattern:** Perennial; one harvest a year, by hand (Finding
+  5).
+- **Days/years to first bearing:** Not sourced. (The earlier draft's 4-5
+  years to first fruit, about 10 to full bearing and about 50-year
+  commercial life came from the Chinese encyclopedia entry, which could
+  not be re-opened.)
+- **Climate zones:**
+  - **Climate:** irrigated cold desert (Finding 1) [1].
+  - **Elevation:** not sourced in a re-opened source.
+  - **Chill:** not known for this species; European pear generally
+    needs 60-90 days near 4 °C [1].
+  - **Cold:** freeze injury at about -24 °C and below, depending on
+    duration (Finding 2) [2].
+- **Composition:**
+  - **Fruit:** yellow-green, egg-shaped, thin-skinned; juicy and crisp,
+    with few or no stone cells; pedicel 4-5 cm [1].
+  - **Size:** Xinjiang fragrant-pear cultivars average under 100 g
+    [1]. A weight for the Korla clone alone was not re-found.
+  - **Sugar and acid:** mainly fructose and low sorbitol; Korla has the
+    highest sugar-to-acid ratio of the Oriental pears tested [1].
+  - **Aroma:** hexanal 17.80%, ethyl hexanoate 12.96%, α-farnesene
+    12.31%, ethyl butanoate 11.29%, ethyl acetate 9.69%, hexyl acetate
+    2.94% of volatiles; ethyl decadienoate, the European-pear ester,
+    is also present [1].
+  - **Full composition per 100 g:** not sourced. No national food
+    composition entry was found for this species.
+- **Edibility:** Raw-edible straight from harvest (Finding 5) [1].
+- **Pollination:** Insect or hand/drone application of pollen from a
+  compatible pear cultivar (Finding 4) [9].
+- **Photoperiod sensitivity:** Not sourced. Not applicable to storage
+  organs.
+- **Yield:**
+  - **Region, 2020:** about 16 t/ha (see Estimates, below) [6].
+  - **Low-yield orchard definition:** a regional standard defines one
+    as below 10 t/ha (666.6 kg/mu) with less than 50% first-grade fruit
+    [10].
+  - **Per tree and well-managed orchards:** not sourced in a re-opened
+    source.
+- **Water use:**
+  - **Crop coefficients and seasonal use:** not sourced for this
+    species.
+  - **Demand:** rainfall is about 2% of evaporative demand, so the crop
+    relies on irrigation (see Estimates, below) [1].
+  - **Water-saving:** partial root-zone drying and brackish-water
+    trials are reported [1].
+- **Propagation:**
+  - **Method:** grafted on *P. betulifolia* seedlings [3]. *P. calleryana*
+    is a poor choice on high-pH soils [1].
+  - **Clonal/viral risk:** not sourced. A single clone with low canker
+    resistance means low genetic diversity against disease [3].
+- **Labor:**
+  - **Hours:** not sourced.
+  - **Tasks:** hand pollination or drone pollination [9]; hand thinning
+    [1]; hand harvest [6].
+- **Soil:**
+  - **Texture and pH:** coarse, sandy, calcareous, pH above 8.2 [1].
+  - **Salinity:** brackish water of 1.83-2.74 g/L was used
+    successfully in treated form [1]. A soil salt ceiling was not
+    re-found.
+  - **Fertiliser:** NPK raised yield by 12,326.78 g over no fertiliser
+    in one growing season (the unit basis, probably per tree, is not
+    stated); utilisation was 52.22% for N, 20.78% for P2O5 and 216.50%
+    for K2O [1].
+- **Storage (postharvest):** 90-225 days by temperature and 1-MCP
+  regime (Finding 5) [5]. Low temperature reduced ethylene, decay,
+  weight loss and core browning after 225 days [5].
+- **Establishment:** High-density planting is defined as more than
+  1,250 trees/ha in a regional standard [10]. Standard spacing was not
+  re-found.
+- **Cultivars:** 'Korla Fragrant' clone; 'Xinnonglinxiang' high
+  calyx-shedding mutant [8]; derived cultivars 'Xin 6', 'Xin 9',
+  'Zhongli 10' [3].
+- **Weather response:** Winter cold, low snow and cold snaps (Finding
+  2) [2]; sandstorms erode soil [1]; output can fall 30-40% in a bad
+  year [7].
+- **Water regime:** Irrigated (Finding 1) [1].
+- **Harvest stages / windows:** Picked at 12 °Brix or more for storage
+  and export [1]; harvest begins about 10 September [6].
+- **Soil biology:** Not sourced. (Canker is a bark disease, not
+  soil-borne.)
+- **Invasiveness / biosecurity:** Asian pear scab (*Venturia
+  nashicola*) is under quarantine in the EU, US, Israel and Turkey and
+  affects Oriental pears [1]. No invasiveness listing was found.
+- **Controlled environment:** Not sourced.
 
 ## Hazards
 
-A canker disease (entering through frost cracks, sunburn, or pruning
-wounds, capable of killing trees and destroying whole orchards) is the
-dominant disease threat for this crop, alongside a moth pest and mite
-pests managed with trunk banding. No notable human health or safety
-hazard specific to this fruit was found in the sources reached.
+- **Canker:** kills trees; usually controlled by removing them
+  (Finding 2) [3][4].
+- **Storage rots:** *Alternaria alternata* black-head disease up to 10%
+  [1]; gray mould (*Botrytis cinerea*) has been found in Chinese pear
+  orchards [1]. No mycotoxin finding.
+- **Scab, rust and mildew:** *Venturia nashicola* needs 10-12 hours of
+  wetness at 10-35 °C; Oriental pears are susceptible to
+  *Gymnosporangium asiaticum*; powdery mildew infects Oriental pears
+  less than European ones [1].
+- **Human health:** no hazard specific to this fruit was found.
+
+**TO BE ADDRESSED** — no allergen or toxicity data was found for this
+species. A general pear-allergy check is deferred until this project has
+a place for this kind of health/safety data.
 
 ## Uses and processing
 
-- **Chains:** Fruit is hand-picked, graded by weight, and sent to fresh
-  market or into cold storage for periods ranging from a few months to
-  about a year depending on storage technology used. Rootstock seed is
-  raised into seedlings and grafted with scion wood to produce new
-  trees. Pruning waste is shredded and composted in at least one
-  documented regional practice.
-- Not covered by this research: pear paste, juice, dried slices, and
-  wine production; the technical details of controlled-atmosphere
-  storage; pollen collection and drone-pollination technique in detail;
-  the specific growth-regulator calyx-shedding spray (a growth-regulator
-  application, not a true processing step).
+- **Chain 1 (fresh market):** hand-picked from about 10 September →
+  graded A/B/C [6] → sold fresh or stored at 2 °C for about 90 days
+  [5][6].
+- **Chain 2 (long storage):** picked at 12 °Brix or more [1] → 1-MCP
+  treatment → 0 °C for 150 days or -1.5 °C for 225 days [5] → sold
+  through the Spring Festival or into May [5].
+- **Chain 3 (export):** 20,000-30,000 t a year [11].
+- **Chain 4 (propagation):** *P. betulifolia* seedlings grafted with
+  the clone [3].
+- **Other products:** not sourced. (Pear paste, juice, dried slices and
+  wine were noted earlier but not researched.)
+- **Medicinal:** pears have been used in Chinese folk medicine for two
+  thousand years as anti-inflammatory and diuretic agents [1].
+
+No religious or ritual use was found in the sources consulted.
 
 ## Open research questions
 
-- Chill requirement for this species is not established in any source
-  reached — a notable gap given how central winter-cold tolerance is to
-  this crop's overall profile.
-- Whether the dominant cultivar is self-incompatible in the strict
-  genetic sense, or simply benefits agronomically from cross-
-  pollination, was not clearly established.
-- The exact controlled-atmosphere storage regime (gas levels, duration)
-  was not found in detail, only that it extends storage into the
-  following year.
-- A full, dedicated labor-hour budget specific to this crop (rather than
-  one borrowed by analogy from a related pear-type crop) was not found.
-- Yield statistics conflict somewhat between city-wide averages,
-  "ordinary orchard" figures, "well-managed orchard" figures, and a
-  fertilization-standard design target — these likely reflect genuinely
-  different management tiers rather than a true contradiction, but are
-  not fully reconciled here.
-- Reported salt tolerance thresholds differ somewhat between two
-  sources (a somewhat lower vs. a somewhat higher total-salt ceiling) —
-  not reconciled.
-- Mean annual temperature for the growing region is given somewhat
-  differently between two sources, possibly reflecting different
-  measurement methods or station locations — not reconciled.
-- Detailed processing products (pear paste, juice, dried fruit, wine)
-  were not researched in depth.
+- **Origin:** three conflicting hybrid hypotheses (Naming and scope)
+  [3].
+- **Canker pathogen:** at least five names are in use [3][4][12].
+- **Climate figure:** the thesis's mean annual temperature of 14-15 °C
+  [1] looks high for a site with -28 °C winters and a 26.4 °C July; not
+  reconciled.
+- **Production:** 500,000 t in 2020 [6], about 300,000 t in 2022 [7],
+  and 0.9-1.3 million t projected for 2023-2024 [11] differ widely. The
+  area figures also differ (about 30,900 ha [6] against 23,333 ha for
+  the city [11]).
+- **Self-incompatibility, chill requirement, water use, spacing,
+  per-tree yield, years to bearing, lifespan and labour** were not
+  sourced in re-opened sources.
+- **Re-opening blocked:** the Chinese encyclopedia entry (HTTP 403) and
+  the regional cultivation standard (HTTP 504) could not be re-opened.
 
 ## Estimates and derivations
 
-Days from planting to first harvest (roughly 1,460-1,825 days) are
-derived directly from the documented 4-5 year wait for first fruiting.
+**2020 regional yield** [6]:
+- area: 463,000 mu ÷ 15 mu/ha = 30,867 ha;
+- total yield: 500,000 t ÷ 30,867 ha = 16.2 t/ha;
+- commercial yield: 400,000 t ÷ 30,867 ha = 13.0 t/ha.
 
-Caloric and protein content (roughly 450 kcal/kg and 4 g protein/kg) are
-estimated from the fruit's documented sugar content (contributing the
-bulk of its caloric density) plus a small additional carbohydrate and
-fiber contribution, cross-checked loosely against a related pear-type
-crop's own estimated composition; the true range is thought to run
-roughly 400-500 kcal/kg, and would be improved by a dedicated regional
-food-composition-table entry.
+This is yield on all planted area, including young trees.
 
-Exceptional and poor yield tiers (roughly 30,000 and 7,500 kg/ha
-respectively) are estimated judgementally: the exceptional figure sits
-between a documented well-managed-orchard yield and an even higher
-regional fertilization-design target; the poor figure applies roughly a
-50% reduction to an "ordinary orchard" yield figure, consistent with the
-documented magnitude of loss in at least one bad freeze/canker year.
+**Low-yield threshold check** [10]: 10 t/ha ÷ 15 mu/ha = 666.7 kg/mu,
+matching the standard's 666.6 kg/mu.
 
-Water-use parameters (crop-coefficient curve, root depth, soil-moisture-
-depletion allowance, drought-buffer days) are estimated by analogy to a
-standard international reference's figures for a related deciduous
-orchard fruit group, since no species-specific figure was found; this
-analogy is considered reasonable for general tree-crop water behavior,
-but likely understates true water demand given the region's extremely
-high potential evaporation — directly measured regional irrigation
-volumes (substantially higher under flood irrigation than under drip-
-with-fertigation systems) are judged a better guide to actual water use
-than the analogy-based figures.
+**High-density threshold** [10]: 10,000 m² ÷ 1,250 trees = 8 m² per
+tree or less, for example 2 × 4 m.
 
-A seasonal growth-stage curve is estimated judgementally from the
-documented bloom and harvest timing (spring bloom, summer growth,
-mid-September harvest, followed by a hardening-off period before
-winter).
+**Rainfall against evaporation** [1]: 57.4 mm ÷ 2,788.2 mm = 2.1%.
 
-Labor-hour estimates across all operations are derived by analogy from
-a related pear-type crop's own (similarly estimated) labor tiers,
-adjusted downward for thinning (no fruit-bagging step is documented for
-this crop) and adjusted for a pollination step that is shifting from
-pure hand-pollination toward partial drone assistance in some orchards;
-no dedicated regional cost study with real labor hours was found.
+**Freeze duration** [2]: 9.5 h below -24 °C (injury) ÷ 3.0 h (no
+injury) = about 3.2 times longer.
 
-Soil pH optimum (about 8.0) is derived as the midpoint of the documented
-acceptable pH range for this crop.
+**Output swing** [7]: (500,000 - 300,000) ÷ 500,000 = 40% fall,
+matching the article's 30-40%.
 
-Yield-profile parameters (ramp-up period to full bearing, peak daily
-harvest rate, post-harvest standing time and quality decay) are derived
-or estimated from the documented timeline to full bearing and the
-documented harvest-window length, combined with judgement about how
-well a firm, non-ripening pear holds on the tree once mature.
+**Price fall, 2020** [6]: (11 - 5.7) ÷ 11 = 48%, matching the source.
+
+**Export share** [6][11]: 20,000-30,000 t ÷ 500,000 t = 4-6% of 2020
+output. The years do not match exactly.
+
+**Area unit check** [11]: 23,333 ha × 2.471 = 57,656 acres, consistent
+with the article's 57,500.
 
 ## Sources
 
-[1] A university bachelor's thesis (Swedish university of agricultural
-sciences) assessing the horticultural potential and literature on this
-crop. Supplied: hybrid origin; tree and fruit description and aroma;
-non-ripening storage behavior and little firmness change over storage
-(via cited literature); regional climate figures (very low rainfall
-against very high potential evaporation, long frost-free season, very
-high sunshine hours); saline, calcareous soils with iron and manganese
-deficiency; a brackish-water irrigation trial; bloom timing; minimum
-harvest sugar concentration; a storage fungal disorder affecting up to
-roughly a tenth of fruit; humidity's role in preserving natural wax; no
-chill-requirement data found. Accessed 2026-10-04, PDF extracted.
+[1] Modin, *The best tasting pear in the world: is there a future for
+the cultivation of Pyrus sinkiangensis in Sweden?*, bachelor thesis,
+Swedish University of Agricultural Sciences, Alnarp (2022). Supplied:
+- history; tree, flower and fruit description; aroma volatiles;
+- non-ripening behaviour and firmness in storage; sugar-acid
+  composition;
+- Korla climate figures; soil pH and micronutrient deficiencies;
+- rootstock notes; fertiliser trial; brackish-water trial;
+- bloom timing; harvest Brix and maturity indices;
+- *Alternaria* storage incidence; scab, rust and mildew; chill gap;
+  folk-medicine use.
 
-[2] A general-reference encyclopedia entry (translated from a Chinese-
-language source) on this crop. Supplied: cultivar history and naming;
-fruit weight and composition figures; sugar and acid content; growing
-elevation; soil and salinity limits; cold-tolerance limits; years to
-first fruiting and full bearing, and productive lifespan; yield-per-tree
-and yield-per-hectare figures; graded-fruit fraction; days to harvest;
-storage-technology tiers; regional area and output statistics for one
-recent year. Accessed 2026-10-04, opened and summarized (a secondary,
-translated encyclopedia source).
+Accessed 2026-11-19, PDF downloaded and text-extracted.
 
-[3] Search-snippet-level material on hybrid origin and calyx-persistence
-genetics, including a peer-reviewed genetics journal article and a
-general reference source. Accessed 2026-10-04, search snippet only.
+[2] Fan, Yan, Han, Wang, Lu and Han, "Analysis of the causes of
+overwintering freeze injury of Korla fragrant pear trees based on
+measured orchard temperatures," *Chinese Agricultural Science Bulletin*
+30(7): 100-103 (2014). Supplied: two winters' minimum temperatures and
+hours below -24 °C; snow and cold-snap effects. Accessed 2026-11-19,
+opened directly (abstract page).
 
-[4] A regional industry-association technical standard (in Chinese) for
-orchard cultivation of this crop. Supplied: site climate and soil
-limits; windbreak spacing; rootstock-seedling and grafting standards;
-planting time, hole preparation, and spacing; pollinizer ratio and
-species; fertilization and irrigation schedules; training and pruning
-practice; flower and fruit thinning, leaf-to-fruit ratio, and crop-load
-control; hand-pollination method; integrated pest and disease management
-(late-season water/fertilizer control against freeze and canker risk,
-trunk scraping and whitewashing, trunk banding for pests); harvest
-timing, picking method, and weight grading. Accessed 2026-10-04, PDF
-extracted (translated from Chinese).
+[3] Xia et al., "Chromosome-level genome provides new insight into the
+overwintering process of Korla pear (*Pyrus sinkiangensis* Yu)," *BMC
+Plant Biology* (2024; PMC11323677). Supplied: genome size; origin
+hypotheses; derived cultivars; canker incidence by cultivar; canker
+linked to freeze injury; tree removal; gene losses compared with *P.
+betulifolia*; rootstock resistance. Accessed 2026-11-19, opened directly
+(full text through the Europe PMC API).
 
-[5] Search-snippet-level material (Chinese-language industry review
-articles) on cold hardiness for this crop. Supplied: organ-specific
-freeze-damage and whole-tree-death temperature thresholds; a note on
-2019 losses attributed to wind, cold, and pests. Accessed 2026-10-04,
-search snippets only.
+[4] Zhang, Wang, Zhang, Wang and Feng, "Study on Pathogenesis of
+*Cytospora pyri* in Korla Fragrant Pear Trees (*Pyrus sinkiangensis*),"
+*Journal of Fungi* 11(4): 257 (2025). Supplied: pathogen identity;
+infection timing through wounded and intact bark. Accessed 2026-11-19,
+opened directly (abstract through the Europe PMC API).
 
-[6] Search-snippet-level material on a canker disease affecting this
-crop, including a peer-reviewed mycology journal article and a plant-
-pathology journal disease-report note. Supplied: the canker disease as a
-major orchard threat; entry via frost cracks, sunburn, pruning, and
-mechanical wounds; tree death and orchard destruction. Accessed
-2026-10-04, search snippets only.
+[5] Jia, Wang, Du, Tong, Wang and Gul, "Optimal storage temperature and
+1-MCP treatment combinations for different marketing times of Korla
+Xiang pears," *Journal of Integrative Agriculture* 17(3): 693-703
+(2018). Supplied: storage regimes by marketing date; chilling and
+senescence core browning; 1-MCP effects. Accessed 2026-11-19, opened
+directly (abstract record).
 
-[7] A peer-reviewed agricultural-sciences journal article on
-postharvest storage-temperature and ripening-inhibitor treatment
-combinations for this crop. Supplied: storage regimes and durations for
-several temperature/treatment combinations; two distinct causes of core
-browning depending on storage temperature; treatment effects on acidity,
-vitamin C, color, ethylene, and decay. Accessed 2026-10-04, opened
-(abstract-level).
+[6] Produce Report, Korla fragrant pear harvest report (28 September
+2020). Supplied: 2020 area, output and growth; harvest dates; grade
+prices; brand value. Accessed 2026-11-19, opened directly.
 
-[8] Search-snippet-level material, including two peer-reviewed plant-
-science journal articles, on fruit-shape and quality differences linked
-to calyx persistence. Supplied: calyx-persistent vs. calyx-shedding
-fruit-shape and internal-quality differences. Accessed 2026-10-04,
-search snippets only.
+[7] FreshPlaza, "Korla fragrant pear production is reduced by 30-40%
+and prices remain high" (1 November 2022). Supplied: 2022 output
+against 2021; prices and the 2018 record; climate as a quality factor.
+Accessed 2026-11-19, opened directly.
 
-[9] Search-snippet-level material (Chinese-language agricultural
-extension and industry articles, plus a peer-reviewed horticultural
-science journal article) on flower and pollination management for this
-crop. Supplied: pollinizer cultivars and ratio; hand-pollination timing
-and method; drone-assisted pollination; cluster and fruit thinning
-timing; natural calyx-shedding timing; growth-regulator spray effect on
-calyx shedding. Accessed 2026-10-04, search snippets only.
+[8] Search-snippet-level material on calyx persistence (a 2025
+*Horticulturae* hormone study, a 2024 *Plants* transcriptome study of
+'Xinnonglinxiang', and a 2025 *Scientia Agricultura Sinica* article).
+Supplied: quality effects and the 40% premium-grade loss; abscisic acid
+timing; GA3 and PP333 spray rates; the high-shedding mutant. Accessed
+2026-11-19, search snippets only.
 
-[10] Search-snippet-level material (Chinese-language news and industry-
-analysis sources) on the regional production industry for this crop.
-Supplied: recent regional area and output statistics; ordinary vs. well-
-managed orchard yield figures; irrigation-cost savings; pruning-waste
-composting practice; an earlier year's disaster-related losses; a
-regional growth statistic. Accessed 2026-10-04, search snippets only.
+[9] Search-snippet-level material on pollination (Chinese-language
+journal abstracts). Supplied: pollinizer screening; liquid pollination;
+drone fruit-set figures. Accessed 2026-11-19, search snippets only.
 
-[11] A horticultural trade-news article on a production shortfall for
-this crop. Supplied: a documented year-over-year output decline and
-accompanying price swing. Accessed 2026-10-04, opened. Also a photo-
-caption news item and a regional government news item giving further
-area and output figures, search snippets only.
+[10] Search-snippet-level material on regional group standards
+(Bayingolin Korla Fragrant Pear Association, including T/XLXH
+013-2021). Supplied: high-density threshold; low-yield-orchard
+definition. Accessed 2026-11-19, search snippets only.
 
-[12] A peer-reviewed regional agricultural-sciences journal article
-analyzing winter freeze-injury causes using measured orchard
-temperatures. Supplied: two winters' measured orchard minimum
-temperatures and hours spent below a damaging threshold; the conclusion
-that duration of extreme cold predicts damage better than the minimum
-temperature alone; the role of snow cover and cold-snap frequency.
-Accessed 2026-10-04, opened (abstract-level).
+[11] Search-snippet-level material from trade news (Tridge, China Daily,
+Good Fruit Grower). Supplied: 2023-2024 output projections; export
+volume and destinations; an undated city area figure. Accessed
+2026-11-19, search snippets only.
 
-[13] Search-snippet-level material, including a peer-reviewed plant
-biology journal article and a peer-reviewed horticultural science
-journal article, on genomic and cold-tolerance research for this crop.
-Supplied: evidence that domestication reduced expression of freeze-
-tolerance and disease-resistance genes retained in the wild rootstock
-relative; a cold-tolerant selection found in an orchard. Accessed
-2026-10-04, search snippets only.
-
-[14] Search-snippet-level material, a peer-reviewed plant-science
-journal article, on the physiology and genetics of a high-calyx-
-shedding bud-sport selection of this crop. Accessed 2026-10-04, search
-snippet only.
-
-[15] A horticultural trade-news article on this crop's export industry.
-Supplied: regional growing area and output for one documented year,
-plus export destinations. Accessed 2026-10-04, opened and summarized.
-
-[16] A closely related pear-type crop this project has also researched
-— supplied the comparison basis (storage behavior, ripening need,
-general field operations), a water-use analogy, labor-tier analogy, and
-a composition figure used in the estimates above.
-
-[17] Search-snippet-level material (Chinese-language news and
-agricultural-engineering journal sources) on irrigation method and
-planting-density research for this crop. Supplied: measured flood-
-irrigation vs. drip-with-fertigation water volumes; a seepage-irrigation
-water-saving figure; a documented optimal drip-irrigation schedule;
-higher-density planting configurations under trial. Accessed 2026-10-04,
-search snippets only.
+[12] Search-snippet-level material on canker pathogen naming (journal
+abstracts and a plant-disease first report). Supplied: *Valsa
+ceratosperma*, *Cytospora carphosperma* and *Valsa nivea* as reported
+pathogens. Accessed 2026-11-19, search snippets only.

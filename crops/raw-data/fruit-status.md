@@ -6,7 +6,7 @@
 | apple_high_chill | Malus domestica | apple-high-chill.md |  | 2026-11-17 | RESEARCHED |
 | apple_low_chill | Malus domestica | apple-low-chill.md |  | 2026-11-17 | RESEARCHED |
 | apricot | Prunus armeniaca | apricot.md |  | 2026-11-17 | RESEARCHED |
-| asian_pear | Pyrus pyrifolia and related species | asian-pear.md |  | 2026-11-17 | RESEARCHED |
+| asian_pear | Pyrus pyrifolia and related species | asian-pear.md | `korla_pear` | 2026-11-17 | RESEARCHED |
 | avocado | Persea americana | avocado.md |  | 2026-11-17 | RESEARCHED |
 | babaco | Vasconcellea × heilbornii | babaco.md |  | 2026-11-17 | RESEARCHED |
 | banana | Musa AAA dessert | banana.md | `highland_banana`, `plantain` | 2026-11-17 | RESEARCHED |
@@ -60,7 +60,7 @@
 | key_lime | C. × aurantiifolia | lime.md | `persian_lime`, `citron`, `rangpur_lime`, `makrut_lime` | 2026-11-19 | RESEARCHED |
 | kiwiberry | Actinidia arguta; A. kolomikta as a cultivar group | kiwiberry.md | `kiwifruit` | 2026-11-19 | RESEARCHED |
 | kiwifruit | Actinidia deliciosa | kiwifruit.md | `kiwiberry` | 2026-11-19 | RESEARCHED |
-| korla_pear | Pyrus sinkiangensis | korla-pear.md |  | 2026-10-04 | OUT-OF-DATE |
+| korla_pear | Pyrus sinkiangensis | korla-pear.md | `asian_pear`, `pear` | 2026-11-19 | RESEARCHED |
 | kunenbo | Citrus nobilis (Kunenbo mandarin) |  | `hassaku`, `kabosu` | 2026-11-19 | PROPOSED |
 | kwai_muk | Artocarpus lingnanensis (identity uncertain) |  | `jackfruit` | 2026-11-19 | PROPOSED |
 | lakoocha | Artocarpus lakoocha (monkey jack) |  | `jackfruit` | 2026-11-19 | PROPOSED |
@@ -88,7 +88,7 @@
 | papaya | Carica papaya | papaya.md |  | 2026-09-29 | OUT-OF-DATE |
 | peach | Prunus persica | peach.md |  | 2026-10-12 | OUT-OF-DATE |
 | peach_low_chill | Prunus persica, subtropical peaches | peach-low-chill.md |  | 2026-10-18 | OUT-OF-DATE |
-| pear | Pyrus communis | pear.md |  | 2026-10-12 | OUT-OF-DATE |
+| pear | Pyrus communis | pear.md | `korla_pear` | 2026-10-12 | OUT-OF-DATE |
 | pear_low_chill | Pyrus communis × P. pyrifolia hybrids | pear-low-chill.md |  | 2026-10-18 | OUT-OF-DATE |
 | persian_lime | C. × latifolia | lime.md | `key_lime`, `lemon` | 2026-11-19 | RESEARCHED |
 | persimmon | Diospyros kaki | persimmon.md |  | 2026-10-11 | OUT-OF-DATE |
