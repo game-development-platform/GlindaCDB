@@ -1,7 +1,12 @@
 # Golden Currant (*Ribes aureum*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/golden-currant.md`
-**Researched:** 2026-10-02
+**Researched:** 2026-10-02 (re-researched 2026-11-17 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see Findings 7-8 and the new Agronomic data lines on first bearing,
+composition, edibility, photoperiod, propagation, salinity, weather
+response, water regime, harvest windows, soil biology, invasiveness /
+biosecurity, and controlled environment)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -94,71 +99,151 @@ suckers, which also serve as an easy, low-technology propagation method,
 and it has naturalised outside cultivation in parts of Europe after
 escaping from gardens [2][11].
 
+**Finding 7 — a regulated genus in parts of the US.** As a *Ribes*, this
+species is an alternate host of white pine blister rust [1], and some
+US states still restrict the genus. Maine bans European black currant
+statewide and, under rule 01-669 Chapter 1, makes it illegal to
+possess, transport, or sell any *Ribes* plants in quarantined townships
+[20]. A Maine bill (LD 925) proposed allowing *Ribes* certified as
+rust-resistant or immune; whether it passed was not confirmed [20]. New
+Hampshire allowed permitted planting of 19 resistant currant and
+gooseberry cultivars from 1999, then imposed a moratorium on new
+*Ribes* plantings after rust was found on supposedly resistant
+cultivars; whether the moratorium is still in force was not confirmed
+[20]. A nursery's state-by-state summary is the most current
+compilation found, and it is not an official source [20]. None of these
+sources names *R. aureum* specifically; the rules apply to it as a
+member of the genus.
+
+**Finding 8 — a neophyte in Europe, not a listed invader.** A Central
+European flora describes *R. aureum* as a neophyte in the process of
+naturalising in forests, shrubland, parks, and gardens; France records
+it as introduced but not established [21]. It is not on the EU list of
+invasive alien species of Union concern [21]. Occurrence records exist
+from Kazakhstan and Tatarstan, but no entry in a Russian regional
+"Black Book" of invasive plants was found [21]. A 2024 overview of
+European alien-plant inventories notes that invasion status is fully
+categorised for only 43.6% of territories, so absence from lists is
+weak evidence [21].
+
 ## Agronomic data
 
 - **Life form / season:** A deciduous, suckering, rhizomatous shrub,
   typically 1-3 m tall; perennial [2][3].
 - **Harvest pattern:** Perennial bearing, one fruiting season per year
   but requiring several picking passes since berries within a cluster
-  ripen unevenly (Finding 4).
+  ripen unevenly [3][18] (Finding 4).
+- **Days/years to first bearing:** Flowering typically begins in the
+  second growing season for vegetatively propagated plants, and around
+  the third year from seed [2][17]. Heavy crops are reported by the
+  third year [17]. Modeled at roughly 300-640 days (see Estimates below).
 - **Climate:** Well suited to temperate, cool-temperate, semi-arid, and
   irrigated arid climates; its native range spans a wide elevation band,
   and it tolerates winter cold well under adequate snow cover, with
   reported cold-hardiness figures varying somewhat between sources
-  (Finding 1; see Open research questions).
-- **Food status:** Raw-edible; cultivated-cultivar fruit is sweet and
-  relatively low in acid, while wild fruit is often very tart or bitter.
+  [2][3][7][18] (Finding 1; see Open research questions).
+- **Composition:** Sugar content, acidity, vitamin C, carotene, and
+  pectin levels have all been measured across several named cultivars,
+  with vitamin C notably high in some breeding-program cultivars
+  [9][13][17]. No full food-composition analysis was found; energy is
+  modeled at about 600 kcal/kg (see Estimates below).
+- **Edibility:** Raw-edible; cultivated-cultivar fruit is sweet and
+  relatively low in acid, while wild fruit is often very tart or bitter
+  [1][3]. Eaten fresh, dried, or cooked into jam, jelly, and wine [1][2].
 - **Pollination:** Required; insect-pollinated by long-tongued bees,
   certain beetles, and flies, with most cultivars self-incompatible and
-  requiring companion cultivars for adequate fruit set (Finding 2).
-- **Yield / composition:** Sugar content, acidity, vitamin C, carotene,
-  and pectin levels have all been measured across several named
-  cultivars, with vitamin C notably high in some breeding-program
-  cultivars; documented yields vary enormously by growing region and
-  pollination success (Finding 3).
+  requiring companion cultivars for adequate fruit set [3][8][12][17]
+  (Finding 2).
+- **Photoperiod sensitivity:** Not sourced for this species. Plants harden
+  off from late August ahead of autumn dormancy [22]. In black currant,
+  growth cessation and flower initiation are short-day responses below a
+  critical photoperiod [22]; whether golden currant behaves the same is
+  unknown. No tuberization/bulbing (not applicable).
+- **Yield:** Documented yields vary enormously by growing region and
+  pollination success: roughly 16-20 t/ha in one country's cultivar
+  registration trials, against well under 1 kg per bush over several
+  years in another country's trial [9][13][16] (Finding 3; see
+  Estimates below).
 - **Water use:** Notably drought-hardy relative to other currant crops,
   with a deep root system; no direct crop-water-use study was found, so
   water-use parameters here are estimated by analogy to general bush-
   berry crop-water-use references (see Estimates below). It also
   tolerates periodic flooding and grows naturally on floodplains, seeps,
-  and streambanks in its native range.
-- **Establishment:** Propagated vegetatively by root suckers, hardwood,
-  softwood, and green cuttings, or division for fruiting cultivars; true
-  seed is used specifically for conservation and windbreak plantings and
-  for rootstock seedling production, requiring a period of moist cold
-  stratification or fall sowing.
+  and streambanks in its native range [3][4][18][19].
+- **Propagation:** Vegetative for fruiting cultivars, by root suckers,
+  rhizome division, and hardwood, softwood, or green cuttings [2][11][17].
+  True seed is used for conservation and windbreak plantings and
+  rootstock seedlings; it needs moist cold stratification or autumn
+  sowing [2][11]. The species also serves as a rootstock for tree-form
+  currants and gooseberries (Finding 5) [4][10].
+- **Establishment:** Rooted cuttings, suckers, or seedlings are planted
+  out; windbreak and conservation plantings use direct seeding or
+  seedlings at documented spacings [11][14].
 - **Labor:** No sourced labor-hour figures were found for this crop;
   hand harvest over several picking passes is labor-intensive, though at
   least one source describes the shrub's growth habit as generally
   suitable for mechanised harvesting, without providing a supporting
-  rate (see Estimates below).
+  rate [11][17] (see Estimates below).
 - **Soil:** Tolerant of a wide range of soil textures, including stony,
   gravelly, and sandy soils and rock outcrops, as well as clay and
   generally poor soils; well-drained conditions are generally preferred,
-  with a near-neutral to mildly alkaline pH optimum.
+  with a near-neutral to mildly alkaline pH optimum [3][11][14][18].
+  *Salinity:* sources conflict. Several describe meaningful tolerance,
+  better than other currants [3][4][18], while one state forestry
+  profile rates it as having none [14]. No salinity trial on this
+  species was found. The related *R. meyeri* tolerated NaCl up to about
+  600 mmol/L before obvious damage, but that is an analogy only [22].
 - **Stand life:** First flowering typically begins in the plant's second
   growing season for vegetatively propagated material, or around the
-  third year when grown from seed; one lower-authority source describes
-  a productive bush life of roughly 18-20 years, with individual
-  branches living somewhat shorter.
+  third year when grown from seed [2][17]; one lower-authority source
+  describes a productive bush life of roughly 18-20 years [8], with
+  individual branches living somewhat shorter [16].
 - **Disease/pest profile:** A bark-killing fungal rust disease for which
   this species can act as an alternate host is a notable regulatory
   concern wherever a susceptible pine species is also grown nearby, a
   concern it shares with other currant-family crops this project has
-  also researched; a bacterial leaf-spot disease and tent caterpillars
-  are also documented (see Hazards below).
+  also researched [1][20]; a bacterial leaf-spot disease and tent
+  caterpillars are also documented [11] (see Hazards below).
 - **Cultivars:** A substantial range of named cultivars exists, developed
   separately through breeding programs in at least three different
   countries, varying in fruit colour, size, composition, self-
-  (in)compatibility, and ripening uniformity; the long-established
-  central-US cultivar mentioned above is notably rust-resistant and
-  performs well in hot summers.
-- **Harvest:** Fruit is hand-stripped from branches or flailed into
-  containers over several picking passes across the ripening season
+  (in)compatibility, and ripening uniformity [7][9][12][13][16][17]; the
+  long-established central-US cultivar mentioned above is notably
+  rust-resistant and performs well in hot summers [11].
+- **Weather response:** Highly drought- and heat-tolerant for a currant.
+  Leaves resist scorch into the high 30s to low 40s °C [3][4][18]. Cold
+  hardiness is good under snow cover, with differing figures [3][7][18].
+  Spring frost damaged flowers in one trial [12]. It tolerates periodic
+  flooding [18]. No dose-response figures were found (Finding 1).
+- **Water regime:** Rainfed down to about 400 mm/yr on well-drained sites,
+  or irrigated; no flooded/paddy requirement [11][18].
+- **Harvest stages / windows:** A single ripe stage, but berries ripen
+  unevenly within clusters over roughly July-September in one major
+  region, so several picking passes are needed [3][18]. Flowering dates
+  and time to complete fruit set differ by cultivar [15]. One cultivar is
+  bred to ripen more uniformly and hold its fruit [17]. Fruit is
+  hand-stripped from branches or flailed into containers [11]
   (Finding 4).
 - **Storage:** Shelf life is estimated by analogy to other currant crops
   this project has researched, detailed further below, since no direct
-  postharvest storage study specific to this species was found.
+  postharvest storage study specific to this species was found. For
+  currants and gooseberries generally, gray mold (*Botrytis cinerea*) is
+  the main postharvest disease, and a controlled-atmosphere trial on
+  red currant and gooseberry ended with all fruit decayed [23].
+- **Soil biology:** Not sourced. No mycorrhizal, replant, or allelopathy
+  data was found. Its role as a white pine blister rust alternate host is
+  the main biological interaction documented [1].
+- **Invasiveness / biosecurity:** Native to western and central North
+  America [1][2]; naturalising in parts of Europe as a garden escape, but
+  not on the EU list of invasive species of Union concern [2][18][21]
+  (Finding 8). *Legal restrictions:* *Ribes* planting is restricted in
+  quarantined Maine townships, and New Hampshire has a permit and
+  moratorium history, because of white pine blister rust [20]
+  (Finding 7).
+- **Controlled environment:** Not sourced. No greenhouse or container
+  fruit production was found. A 1-3 m suckering shrub needing winter
+  dormancy seems a poor fit for protected cropping, but that is an
+  inference.
 
 ## Hazards
 
@@ -172,7 +257,8 @@ diseases of this crop. The species has also naturalised outside
 cultivation in parts of Europe after escaping from garden plantings,
 and appears on at least one regional list of species of concern for
 spreading beyond cultivation, though a full invasiveness assessment was
-not found.
+not found [2][18][21] (Finding 8). Some US states restrict planting the
+genus because of the rust [20] (Finding 7).
 
 A claim that young shoots of this species contain hydrocyanic acid
 appears in one low-authority hobbyist source only; it is not corroborated
@@ -202,6 +288,12 @@ sources consulted.
 
 ## Open research questions
 
+- 2026-11-17 pass caveats: Findings 7-8 and the new lines are
+  search-snippet-level only. Open: current Maine and New Hampshire *Ribes*
+  rules (LD 925 outcome; whether the New Hampshire moratorium still
+  stands); per-country European status beyond France; Russian Black Book
+  listings; a salinity trial on this species; photoperiod, mycorrhizal,
+  and controlled-environment data.
 - Bloom timing is described inconsistently across sources: one detailed
   regional study gives a specific narrow window in early spring, a
   native-range description gives a considerably broader multi-month
@@ -455,3 +547,43 @@ depth range, and soil-moisture-depletion allowance, used here by analogy
 in the absence of species-specific data. Accessed 2026-09-29 (originally
 consulted for a different berry crop this project researched; reused
 here without being re-opened).
+
+[20] Search-snippet-level material on US *Ribes* restrictions: the Maine
+Department of Agriculture, Conservation and Forestry white pine blister
+rust page and rule 01-669 Chapter 1 (statewide European black currant
+ban; quarantined townships where possessing, transporting, or selling
+*Ribes* is illegal), Maine bill LD 925 (120th Legislature) on certified
+resistant *Ribes*, *Northern Woodlands* and *Journal of the American
+Pomological Society* material on New Hampshire's 1999 permit scheme for
+19 resistant cultivars and its later moratorium, and a nursery's
+state-by-state *Ribes* regulation summary (not an official source).
+Accessed 2026-11-17, search snippets only.
+
+[21] Search-snippet-level material on alien status: the i-flora Central
+European flora fact sheet (neophyte in naturalisation), the French INPN
+record (introduced, not established), Euro+Med Plantbase, a 2024
+*Preslia* overview of European alien-plant inventories (full status
+categorisation for 43.6% of territories), the EU list of invasive alien
+species of Union concern (this species not on it), Plantarium occurrence
+records from Kazakhstan and Tatarstan, and an EPPO report on Senator and
+Vinogradova (2023), an inventory of invasive plants in Russia (584
+species; no *R. aureum* listing found). Accessed 2026-11-17, search
+snippets only.
+
+[22] Search-snippet-level material on dormancy, day length, and salt in
+the genus: a University of Washington native-plant propagation protocol
+for this species (hardening from late August, rhizome spread, resprouting
+after cutting and fire), black currant photoperiod studies (short-day
+growth cessation and flower initiation below a critical photoperiod;
+premature dormancy reducing flowering), and a Chinese-language study of
+NaCl stress in four-year-old *R. meyeri* cuttings at 0-800 mmol/L
+(obvious damage above 600 mmol/L). Accessed 2026-11-17, search snippets
+only.
+
+[23] Search-snippet-level material on currant postharvest handling: a
+USDA postharvest handling chapter on currants and gooseberries (gray
+mold as the main postharvest disease; this species mentioned only as a
+native western species) and SARE project ONE03-009 reports on
+controlled-atmosphere storage of red currant and gooseberry (all fruit
+decayed by November). None covers this species directly. Accessed
+2026-11-17, search snippets only.

@@ -39,7 +39,7 @@
 | fig | Ficus carica | fig.md |  | 2026-11-17 | RESEARCHED |
 | finger_lime | Citrus australasica | finger-lime.md |  | 2026-11-17 | RESEARCHED |
 | giant_granadilla | Passiflora quadrangularis | giant-granadilla.md |  | 2026-11-17 | RESEARCHED |
-| golden_currant | Ribes aureum | golden-currant.md |  | 2026-10-02 | OUT-OF-DATE |
+| golden_currant | Ribes aureum | golden-currant.md |  | 2026-11-17 | RESEARCHED |
 | gooseberry | Ribes uva-crispa × R. hirtellum | gooseberry.md |  | 2026-10-02 | OUT-OF-DATE |
 | grape | Vitis vinifera | grape.md | `american_grape`, `muscadine` | 2026-11-17 | RESEARCHED |
 | grapefruit | Citrus × paradisi | grapefruit.md |  | 2026-09-29 | OUT-OF-DATE |
