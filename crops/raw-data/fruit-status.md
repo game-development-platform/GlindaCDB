@@ -23,7 +23,7 @@
 | bush_cherry | Prunus tomentosa | bush-cherry.md |  | 2026-11-17 | RESEARCHED |
 | cantaloupe | Cucumis melo, Reticulatus and Cantalupensis groups | cantaloupe.md | `honeydew` | 2026-11-17 | RESEARCHED |
 | champedak | Artocarpus integer | champedak.md | `jackfruit` | 2026-11-17 | RESEARCHED |
-| cherry_plum | Prunus cerasifera | cherry-plum.md |  | 2026-11-17 | RESEARCHED |
+| cherry_plum | Prunus cerasifera | cherry-plum.md | `japanese_plum` | 2026-11-17 | RESEARCHED |
 | chinotto | Citrus myrtifolia (possibly *C.* × *aurantium* var. *myrtifolia*) | chinotto.md | `bitter_orange` | 2026-11-17 | RESEARCHED |
 | citron | Citrus medica | citron.md |  | 2026-11-17 | RESEARCHED |
 | citron_melon | Citrullus amarus | watermelon.md | `seed_watermelon`, `watermelon` | 2026-11-17 | RESEARCHED |
@@ -52,7 +52,7 @@
 | hyuganatsu | Citrus tamurana (Miyazaki hybrid, tachibana parent) | hyuganatsu.md | `hetsuka_daidai`, `natsudaidai`, `yuzu`, `haruka`, `tachibana` | 2026-11-19 | RESEARCHED |
 | indian_jujube | Ziziphus mauritiana | indian-jujube.md | `jujube` | 2026-11-19 | RESEARCHED |
 | jackfruit | Artocarpus heterophyllus | jackfruit.md | `breadfruit`, `champedak`, `kwai_muk`, `lakoocha`, `marang` | 2026-11-19 | RESEARCHED |
-| japanese_plum | Prunus salicina | japanese-plum.md |  | 2026-09-29 | OUT-OF-DATE |
+| japanese_plum | Prunus salicina | japanese-plum.md | `cherry_plum`, `plum`, `ume` | 2026-11-19 | RESEARCHED |
 | japanese_quince | Chaenomeles japonica | japanese-quince.md |  | 2026-10-02 | OUT-OF-DATE |
 | jujube | Ziziphus jujuba | jujube.md | `indian_jujube` | 2026-10-12 | OUT-OF-DATE |
 | kabosu | Citrus sphaerocarpa (Ōita sour citrus) |  | `hetsuka_daidai` | 2026-11-19 | PROPOSED |
@@ -96,7 +96,7 @@
 | persimmon_texas | Diospyros texana | persimmon-texas.md |  | 2026-10-12 | OUT-OF-DATE |
 | pineapple | Ananas comosus | pineapple.md |  | 2026-09-29 | OUT-OF-DATE |
 | plantain | Musa AAB and other cooking bananas | banana.md | `banana`, `highland_banana` | 2026-11-17 | RESEARCHED |
-| plum | Prunus domestica, European plum | plum.md |  | 2026-09-28 | OUT-OF-DATE |
+| plum | Prunus domestica, European plum | plum.md | `japanese_plum` | 2026-09-28 | OUT-OF-DATE |
 | pomegranate | Punica granatum | pomegranate.md |  | 2026-10-12 | OUT-OF-DATE |
 | pomelo | Citrus maxima | pomelo.md |  | 2026-10-03 | OUT-OF-DATE |
 | pulasan | Nephelium ramboutan-ake, syn. N. mutabile | pulasan.md |  | 2026-10-03 | OUT-OF-DATE |
@@ -115,7 +115,7 @@
 | sweet_granadilla | Passiflora ligularis | sweet-granadilla.md |  | 2026-10-03 | OUT-OF-DATE |
 | sweet_lemon | Citrus limetta | sweet-lemon.md |  | 2026-10-06 | OUT-OF-DATE |
 | tachibana | Citrus tachibana (wild Japanese mandarin) |  | `hyuganatsu` | 2026-11-19 | PROPOSED |
-| ume | Prunus mume | ume.md |  | 2026-10-02 | OUT-OF-DATE |
+| ume | Prunus mume | ume.md | `japanese_plum` | 2026-10-02 | OUT-OF-DATE |
 | watermelon | Citrullus lanatus dessert | watermelon.md | `citron_melon`, `seed_watermelon` | 2026-10-10 | OUT-OF-DATE |
 | wet_tropics_mangoes | Mangifera odorata, M. foetida, M. caesia, M. pajang | wet-tropics-mangoes.md |  | 2026-10-12 | OUT-OF-DATE |
 | woodland_strawberry | Fragaria vesca and F. moschata | strawberry.md | `strawberry` | 2026-10-10 | OUT-OF-DATE |
