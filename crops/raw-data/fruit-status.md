@@ -42,7 +42,7 @@
 | golden_currant | Ribes aureum | golden-currant.md |  | 2026-11-17 | RESEARCHED |
 | gooseberry | Ribes uva-crispa × R. hirtellum | gooseberry.md |  | 2026-11-17 | RESEARCHED |
 | grape | Vitis vinifera | grape.md | `american_grape`, `muscadine` | 2026-11-17 | RESEARCHED |
-| grapefruit | Citrus × paradisi | grapefruit.md |  | 2026-09-29 | OUT-OF-DATE |
+| grapefruit | Citrus × paradisi | grapefruit.md |  | 2026-11-17 | RESEARCHED |
 | guava | Psidium guajava | guava.md |  | 2026-09-30 | OUT-OF-DATE |
 | hassaku | Citrus hassaku |  | `natsudaidai` | 2026-11-17 | PROPOSED |
 | hetsuka_daidai | Citrus sp., Kagoshima local citrus related to kabusu |  | `daidai` | 2026-11-16 | PROPOSED |
