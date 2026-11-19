@@ -30,7 +30,7 @@
 | coconut | Cocos nucifera | coconut.md |  | 2026-11-17 | RESEARCHED |
 | coyo | Persea schiedeana | coyo.md |  | 2026-11-17 | RESEARCHED |
 | cranberry | Vaccinium macrocarpon | cranberry.md |  | 2026-11-17 | RESEARCHED |
-| daidai | Citrus × aurantium, daidai group (kabusu and kaiseitō; var. *daidai*) | daidai.md | `bitter_orange`, `hetsuka_daidai`, `natsudaidai` | 2026-11-16 | RESEARCHED |
+| daidai | Citrus × aurantium, daidai group (kabusu and kaiseitō; var. *daidai*) | daidai.md | `bitter_orange`, `hetsuka_daidai`, `natsudaidai`, `kabosu` | 2026-11-16 | RESEARCHED |
 | date_palm | Phoenix dactylifera | date-palm.md |  | 2026-11-17 | RESEARCHED |
 | dragon_fruit | Selenicereus undatus and red-fleshed relatives | dragon-fruit.md |  | 2026-11-17 | RESEARCHED |
 | durian | Durio zibethinus | durian.md |  | 2026-11-17 | RESEARCHED |
@@ -50,17 +50,18 @@
 | highland_banana | Musa AAA-EA, Mutika/Lujugira subgroup | banana.md | `banana`, `plantain` | 2026-11-17 | RESEARCHED |
 | honeydew | Cucumis melo Inodorus group | honeydew.md | `cantaloupe` | 2026-11-19 | RESEARCHED |
 | hyuganatsu | Citrus tamurana (Miyazaki hybrid, tachibana parent) | hyuganatsu.md | `hetsuka_daidai`, `natsudaidai`, `yuzu`, `haruka`, `tachibana` | 2026-11-19 | RESEARCHED |
+| ichang_papeda | Citrus cavaleriei (syn. *C. ichangensis*) |  | `kabosu` | 2026-11-19 | PROPOSED |
 | indian_jujube | Ziziphus mauritiana | indian-jujube.md | `jujube` | 2026-11-19 | RESEARCHED |
 | jackfruit | Artocarpus heterophyllus | jackfruit.md | `breadfruit`, `champedak`, `kwai_muk`, `lakoocha`, `marang` | 2026-11-19 | RESEARCHED |
 | japanese_plum | Prunus salicina | japanese-plum.md | `cherry_plum`, `plum`, `ume` | 2026-11-19 | RESEARCHED |
 | japanese_quince | Chaenomeles japonica | japanese-quince.md | `mugua`, `quince` | 2026-11-19 | RESEARCHED |
-| jujube | Ziziphus jujuba | jujube.md | `indian_jujube` | 2026-10-12 | OUT-OF-DATE |
-| kabosu | Citrus sphaerocarpa (Ōita sour citrus) |  | `hetsuka_daidai` | 2026-11-19 | PROPOSED |
+| jujube | Ziziphus jujuba | jujube.md | `indian_jujube` | 2026-11-19 | RESEARCHED |
+| kabosu | Citrus sphaerocarpa (Ōita sour citrus) | kabosu.md | `hetsuka_daidai`, `daidai`, `yuzu`, `sudachi`, `kunenbo`, `ichang_papeda` | 2026-11-19 | RESEARCHED |
 | key_lime | C. × aurantiifolia | lime.md | `persian_lime` | 2026-09-29 | OUT-OF-DATE |
 | kiwiberry | Actinidia arguta; A. kolomikta as a cultivar group | kiwiberry.md |  | 2026-09-30 | OUT-OF-DATE |
 | kiwifruit | Actinidia deliciosa | kiwifruit.md |  | 2026-09-30 | OUT-OF-DATE |
 | korla_pear | Pyrus sinkiangensis | korla-pear.md |  | 2026-10-04 | OUT-OF-DATE |
-| kunenbo | Citrus nobilis (Kunenbo mandarin) |  | `hassaku` | 2026-11-19 | PROPOSED |
+| kunenbo | Citrus nobilis (Kunenbo mandarin) |  | `hassaku`, `kabosu` | 2026-11-19 | PROPOSED |
 | kwai_muk | Artocarpus lingnanensis (identity uncertain) |  | `jackfruit` | 2026-11-19 | PROPOSED |
 | lakoocha | Artocarpus lakoocha (monkey jack) |  | `jackfruit` | 2026-11-19 | PROPOSED |
 | laraha | *C.* × *aurantium*, Curaçao landrace | bitter-orange.md | `bitter_orange` | 2026-11-17 | REJECTED |
@@ -110,7 +111,7 @@
 | shiikuwasha | Citrus depressa (Okinawan sour citrus) |  | `hetsuka_daidai` | 2026-11-19 | PROPOSED |
 | sour_cherry | P. cerasus | cherry.md | `sweet_cherry` | 2026-09-28 | OUT-OF-DATE |
 | strawberry | Fragaria × ananassa | strawberry.md | `woodland_strawberry` | 2026-10-10 | OUT-OF-DATE |
-| sudachi | Citrus sudachi (Tokushima sour citrus) |  | `hetsuka_daidai` | 2026-11-19 | PROPOSED |
+| sudachi | Citrus sudachi (Tokushima sour citrus) |  | `hetsuka_daidai`, `kabosu` | 2026-11-19 | PROPOSED |
 | sweet_cherry | P. avium | cherry.md | `sour_cherry` | 2026-09-28 | OUT-OF-DATE |
 | sweet_granadilla | Passiflora ligularis | sweet-granadilla.md |  | 2026-10-03 | OUT-OF-DATE |
 | sweet_lemon | Citrus limetta | sweet-lemon.md |  | 2026-10-06 | OUT-OF-DATE |
@@ -121,4 +122,4 @@
 | woodland_strawberry | Fragaria vesca and F. moschata | strawberry.md | `strawberry` | 2026-10-10 | OUT-OF-DATE |
 | yellow_passionfruit | Passiflora edulis | passionfruit.md | `purple_passionfruit` | 2026-09-30 | OUT-OF-DATE |
 | yellow_pitaya | Selenicereus megalanthus | yellow-pitaya.md |  | 2026-09-30 | OUT-OF-DATE |
-| yuzu | Citrus junos |  | `hetsuka_daidai` | 2026-11-19 | PROPOSED |
+| yuzu | Citrus junos |  | `hetsuka_daidai`, `kabosu` | 2026-11-19 | PROPOSED |
