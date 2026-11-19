@@ -1,7 +1,12 @@
 # Gooseberry (*Ribes uva-crispa* × *R. hirtellum*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/gooseberry.md`
-**Researched:** 2026-10-02
+**Researched:** 2026-10-02 (re-researched 2026-11-17 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see Findings 7-8 and the new Agronomic data lines on first bearing,
+composition, edibility, photoperiod, propagation, salinity, weather
+response, water regime, harvest windows, soil biology, invasiveness /
+biosecurity, and controlled environment)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -101,6 +106,41 @@ berry (under one named show cultivar) reaching over 65 grams in a recent
 year [14]. Exhibition growing is a cultivar-level curiosity rather than
 a commercial production path.
 
+**Finding 7 — an obligate short-day plant for flower initiation.** In
+Norwegian controlled-environment experiments (Sønsteby and colleagues,
+2022), all tested cultivars stopped growing and initiated flowers within
+2-3 weeks under 10-hour short days, while under 20-hour long days growth
+continued for 8 weeks without floral initiation [21]. The authors
+conclude that gooseberry is an obligatory short-day plant with a
+critical photoperiod of 15-16 hours [21]. Growth cessation and floral
+initiation occurred together at 18 and 12 °C. At 24 °C the snippets
+report both that only 'Mucurines' initiated flower primordia and that all
+cultivars did under 10-hour days, which presumably refer to different
+photoperiods; this is not resolved here [21]. A separate study found
+that flower development in gooseberry and red currant needs more winter
+chilling than bud break alone [21]. Six floral stages similar to black
+currant's were identified [21].
+
+**Finding 8 — banned in some US states, a weed in New Zealand.** As an
+alternate host of white pine blister rust, gooseberry remains legally
+restricted in parts of the US [5][20]. North Carolina regulates the
+entire state: no *Ribes* may be imported or grown [20]. Massachusetts
+prohibits gooseberries and red and white currants in certain towns
+[20]. Maine maintains township-level *Ribes* quarantines, with a
+quarantine map updated in March 2024 [20]. New York and Rhode Island
+also have *Ribes* rules [20]. A nursery summary lists gooseberries as
+prohibited in Delaware, Maine, North Carolina, New Hampshire, New
+Jersey, and West Virginia, but that list does not match the state
+sources exactly [20]. A University of Massachusetts fact sheet notes
+that many states have let their rules lapse or do not enforce them
+[20]. Outside the US, European gooseberry is listed by New Zealand's
+Department of Conservation as one of 386 environmental weeds (2024). It
+has been naturalised there since 1872 and is spread by birds into scrub,
+rocky outcrops, and forest margins [19]. It is naturalised and sometimes
+thicket-forming in the Victorian and New South Wales Alps, and
+occasionally naturalised in North America, for example in Massachusetts
+[19].
+
 ## Agronomic data
 
 - **Life form / season:** A deciduous, thorny shrub, typically 0.9-1.5 m
@@ -110,50 +150,70 @@ a commercial production path.
   but with two distinct harvest-stage options (green/culinary and fully
   ripe/dessert) from the same planting; hand harvest typically spans
   four to six weeks, while mechanised harvest can be done in a single
-  pass (Finding 1, 2).
+  pass [2][3][7] (Findings 1, 2).
+- **Days/years to first bearing:** Rooted bushes crop lightly in the
+  second year and reach full bearing by the third or fourth year [2][3].
+  Modeled at roughly 270-640 days to first harvest (see Estimates below).
 - **Climate:** Cool-temperate and temperate climates, requiring
   substantial winter chill; most cultivars tolerate very severe winter
   cold, though performance in warmer growing regions is notably poorer
   [2][3][4].
-- **Food status:** Fully ripe dessert-type fruit is raw-edible; green
-  fruit is cooked rather than eaten raw (Finding 1).
+- **Composition:** Raw fruit is moderate in calories and notably high in
+  vitamin C relative to its water content, with figures per 100 g for
+  energy, protein, fibre, and vitamin C from a government
+  food-composition database [5][13] (see Estimates below).
+- **Edibility:** Fully ripe dessert-type fruit is raw-edible; green
+  fruit is cooked rather than eaten raw [1][3] (Finding 1).
 - **Pollination:** Required; most cultivars are self-fertile, pollinated
   by insects (notably bumblebees and hoverflies, since honeybees are
   often inactive during this crop's early bloom period) and to a lesser
   extent by wind; planting several cultivars together generally improves
-  fruit set (Finding 4).
-- **Yield / composition:** Documented yields vary enormously across
-  growing regions and cultivars, from roughly 1.5 kg per bush up to over
-  4 kg per bush in strong cultivars under good management; the edible
-  raw fruit is moderate in calories and notably high in vitamin C
-  relative to its water content (see Estimates below).
+  fruit set [3][4] (Finding 4).
+- **Photoperiod sensitivity:** Obligate short-day for flower initiation,
+  with a critical photoperiod of 15-16 h; flowers initiate within 2-3
+  weeks under 10-h days, and not at all over 8 weeks under 20-h days
+  [21] (Finding 7). Bud break needs at least 1,000 chill hours [3], and
+  flower development needs more chilling than bud break [21]. No
+  tuberization/bulbing (not applicable).
+- **Yield:** Documented yields vary enormously across growing regions
+  and cultivars, from roughly 1.5 kg per bush up to over 4 kg per bush in
+  strong cultivars under good management [2][3][4][12][16]; per-hectare
+  figures conflict (see Open questions and Estimates below).
 - **Water use:** Shallow, fibrous root system with low drought tolerance
   — the plant specifically will not regenerate buds or leaves lost to
   drought stress within the same season, and water-stressed plants are
   also more susceptible to mildew (Finding 3); waterlogging tolerance is
   also low, since wet or poorly drained soil strongly favours a serious
-  root-rot disease.
+  root-rot disease [2][3]. Water-use parameters are modeled by analogy
+  [17] (see Estimates below).
+- **Propagation:** Vegetative; rooted bushes are the standard planting
+  material [2][3]. Hardwood cuttings are documented as unreliable and
+  often fail to root [2][5]. Standard (tree-form) bushes are grafted onto
+  a related *Ribes* rootstock [15]. Seed is not used for cultivars.
 - **Establishment:** Rooted bushes (with a short clear stem and several
-  young shoots) are the standard planting material, generally planted in
-  autumn after leaf fall; hardwood cuttings are documented as unreliable
-  and often fail to root, giving slow and uneven establishment by
-  comparison.
+  young shoots) are planted, generally in autumn after leaf fall, at
+  documented commercial row and in-row spacings, with trellis training
+  options [2][3]. Cuttings give slow and uneven establishment by
+  comparison [2].
 - **Labor:** Entirely hand-harvested in most smaller operations, with
   documented hand-picking rates in one European trial around 6-16 kg per
   hour; a specific tractor-mounted mechanical harvester has been
   documented as a viable alternative for processing-destined fruit, with
-  measured per-hectare coverage and recovery rates (Finding 2).
+  measured per-hectare coverage and recovery rates [7][8] (Finding 2).
+  Thorns slow hand picking and pruning [3][4].
 - **Soil:** Deep, well-drained medium loam soils are strongly preferred;
   sandy soils require irrigation, and raised beds are recommended on wet
   sites to reduce root-rot risk; potassium nutrition is particularly
   important (leaf-margin scorch develops when potassium is short), along
   with a meaningful magnesium requirement, while excess nitrogen
-  specifically favours mildew disease.
+  specifically favours mildew disease [2][3]. *Salinity:* tentatively
+  classed as salt-sensitive, with no threshold value given [18]. No
+  salinity trial was found.
 - **Stand life:** First harvest typically around two years from planting
   rooted bushes (slower from cuttings), with a productive stand life
   commonly cited in the range of fifteen to twenty years under good
-  management, cut short in practice by root-rot disease, dieback,
-  mildew, or sawfly defoliation.
+  management [3][16], cut short in practice by root-rot disease,
+  dieback, mildew, or sawfly defoliation [2].
 - **Disease/pest profile:** American gooseberry mildew is the single
   most consequential disease; a specific leaf-spot fungal disease, a
   pine-rust disease for which this crop can act as an alternate host
@@ -161,26 +221,55 @@ a commercial production path.
   a canker/dieback fungus, Phytophthora root rot, and grey mould are all
   documented, alongside several insect pests including gooseberry
   sawflies, a related currant-feeding caterpillar, a fruit-boring moth,
-  aphids, a plant bug, and a weevil (see Hazards below).
+  aphids, a plant bug, and a weevil [2][3][15] (see Hazards below).
 - **Cultivars:** A wide range of named cultivars exists across the
   United Kingdom, the United States, and at least one Eastern European
   breeding program, varying in fruit colour, flavour, mildew resistance,
   thorniness, and intended end use (green culinary versus fresh dessert
-  versus industrial processing).
-- **Harvest:** Fruit is picked individually by hand, or in a single
-  mechanised pass for processing-destined fruit, at either a green
-  (culinary) or fully ripe (dessert) maturity stage depending on
-  intended use (Finding 1, 2).
+  versus industrial processing) [2][3][4][10][11]. Mildew resistance in
+  at least one widely used cultivar has been overcome [2][3][10].
+- **Weather response:** Very cold-hardy in winter, but its very early
+  bloom is exposed to spring frost, managed by siting [2][3] (Finding 4).
+  It performs poorly in warm regions [2][3][4]. Hot, dry days with humid
+  nights favour mildew [2]. Drought-sensitive (lost buds and leaves are
+  not regenerated in-season) and waterlogging-intolerant (root rot)
+  [2][3]. No frost-damage threshold was found (see Open questions).
+- **Water regime:** Ordinary irrigation or rainfall; no flooded/paddy
+  requirement, and wet soil is harmful [2][3].
+- **Harvest stages / windows:** Two stages from the same planting: green
+  (culinary) fruit, which keeps sizing until picked, and fully ripe
+  (dessert) fruit [1][3]. Early picking earns a higher price for less
+  fruit, and alternate berries can be thinned green weeks before the
+  ripe pick [2][16]. Hand harvest spans 4-6 weeks; machine harvest is a
+  single pass for processing fruit [3][7] (Findings 1, 2).
 - **Storage:** This crop has the longest documented cold-storage life of
   the currant-family crops this project has researched, detailed
-  further below.
+  further below [1][3].
+- **Soil biology:** Not sourced for gooseberry. *Ribes* species are noted
+  in passing as hosts of arbuscular mycorrhizal fungi [22]. No replant
+  or allelopathy data was found. Phytophthora root rot on wet clay is the
+  main documented soil-borne problem [2].
+- **Invasiveness / biosecurity:** European gooseberry is native to Europe
+  (origin disputed; see Open questions) [1][3]. It is listed as an
+  environmental weed in New Zealand and is naturalised in the Australian
+  Alps and parts of North America [19] (Finding 8). *Legal
+  restrictions:* the genus is banned statewide in North Carolina,
+  restricted by town in Massachusetts and by township in Maine, and
+  regulated in several other northeastern states because of white pine
+  blister rust [5][20].
+- **Controlled environment:** Not sourced. Polytunnel growing is
+  mentioned as uncovered under Uses and processing, but no gooseberry-
+  specific protected-cropping yield or practice was found. The obligate
+  short-day flowering and 1,000-hour chilling requirement [3][21] mean
+  that year-round indoor production would need day-length and chilling
+  control, but that is an inference.
 
 ## Hazards
 
 A pine-rust disease, for which this crop (like other currant-family
 crops) can act as an alternate host, is a significant plant-health
 regulatory concern, and gooseberries are banned or restricted in several
-US states as a result; rust infection also directly defoliates plants
+US states as a result [5][20] (Finding 8); rust infection also directly defoliates plants
 and cuts the following season's yield. A specific powdery mildew disease
 (Finding 3), a fungal leaf-spot disease, a stem-canker fungus causing
 localized dieback, Phytophthora root rot, and grey mould are all
@@ -217,6 +306,12 @@ sources consulted.
 
 ## Open research questions
 
+- 2026-11-17 pass caveats: Findings 7-8 and the new lines are
+  search-snippet-level only. Open: the 24 °C result in the photoperiod
+  study (which photoperiod "only 'Mucurines'" refers to); the current
+  status of each US state's *Ribes* rules, since the nursery list and the
+  state sources disagree; an Australian weed assessment; gooseberry
+  salinity, mycorrhizal, and protected-cropping data.
 - Average per-hectare yield figures vary substantially across sources —
   from a relatively modest figure derived from one commercial growing-
   guide's typical per-bush yield, up to a considerably higher figure
@@ -442,3 +537,43 @@ reference work. Supplied: a tentative salt-sensitivity classification
 for this crop with no specific threshold value given. Accessed
 2026-10-01 (originally consulted for a different currant-family crop
 this project researched; reused here without being re-opened).
+
+[19] Search-snippet-level material on naturalisation: the New Zealand
+Plant Conservation Network species page (environmental weed, 2024; on
+the Department of Conservation's 2024 list of 386 environmental weeds;
+naturalised since 1872; bird-dispersed seed; scrub, rocky outcrops, and
+forest margins), the Flora of New Zealand factsheet, Howell's 2008
+consolidated environmental-weed list (cited secondhand), VicFlora
+(naturalised and sometimes thicket-forming in the Victorian and New
+South Wales Alps, near Tom Groggin and Aberfeldy), Go Botany (naturalised,
+SNA, in Massachusetts), and a general encyclopedia note on occasional
+naturalisation in North America. Accessed 2026-11-17, search snippets
+only.
+
+[20] Search-snippet-level material on US *Ribes* restrictions: the North
+Carolina Department of Agriculture white pine blister rust page (no
+*Ribes* may be imported or grown; entire state regulated), University of
+Massachusetts fact sheets (black currant banned statewide; gooseberries
+and red and white currants prohibited in certain towns; many states'
+rules lapsed or unenforced), Maine Forest Service white pine blister
+rust township list and March 2024 quarantine map, Maine rule 01-669
+Chapter 1, New York 6 NYCRR §192.4 and Environmental Conservation Law
+§9-1301, a Rhode Island Department of Environmental Management *Ribes*
+document, and a nursery's state-by-state *Ribes* summaries and growing
+guide (gooseberries listed as prohibited in DE, ME, NC, NH, NJ, WV; not
+an official source). Accessed 2026-11-17, search snippets only.
+
+[21] Search-snippet-level material on flowering physiology: Sønsteby and
+colleagues (2022), "Floral initiation in gooseberry (*Ribes uva-crispa*
+L.) and its control by daylength and temperature", *Journal of
+Horticultural Science and Biotechnology* (NIBIO repository record):
+obligatory short-day plant, critical photoperiod 15-16 h, initiation
+within 2-3 weeks at 10 h, none over 8 weeks at 20 h, results at 12, 18,
+and 24 °C, six floral stages; plus an ISHS article on chilling needs of
+gooseberry and red currant (flower development needs more chilling than
+bud break). Accessed 2026-11-17, search snippets only.
+
+[22] Search-snippet-level material on soil biology: a 2018 *Frontiers in
+Microbiology* apple study noting in passing that currants (*Ribes* spp.)
+form arbuscular mycorrhizal symbioses, and New Zealand apple replant
+studies (not about *Ribes*). Accessed 2026-11-17, search snippets only.
