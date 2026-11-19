@@ -50,11 +50,11 @@
 | highland_banana | Musa AAA-EA, Mutika/Lujugira subgroup | banana.md | `banana`, `plantain` | 2026-11-17 | RESEARCHED |
 | honeydew | Cucumis melo Inodorus group | honeydew.md | `cantaloupe` | 2026-11-19 | RESEARCHED |
 | hyuganatsu | Citrus tamurana (Miyazaki hybrid, tachibana parent) | hyuganatsu.md | `hetsuka_daidai`, `natsudaidai`, `yuzu`, `haruka`, `tachibana` | 2026-11-19 | RESEARCHED |
-| indian_jujube | Ziziphus mauritiana | indian-jujube.md |  | 2026-10-13 | OUT-OF-DATE |
+| indian_jujube | Ziziphus mauritiana | indian-jujube.md | `jujube` | 2026-11-19 | RESEARCHED |
 | jackfruit | Artocarpus heterophyllus | jackfruit.md |  | 2026-10-01 | OUT-OF-DATE |
 | japanese_plum | Prunus salicina | japanese-plum.md |  | 2026-09-29 | OUT-OF-DATE |
 | japanese_quince | Chaenomeles japonica | japanese-quince.md |  | 2026-10-02 | OUT-OF-DATE |
-| jujube | Ziziphus jujuba | jujube.md |  | 2026-10-12 | OUT-OF-DATE |
+| jujube | Ziziphus jujuba | jujube.md | `indian_jujube` | 2026-10-12 | OUT-OF-DATE |
 | kabosu | Citrus sphaerocarpa (Ōita sour citrus) |  | `hetsuka_daidai` | 2026-11-19 | PROPOSED |
 | key_lime | C. × aurantiifolia | lime.md | `persian_lime` | 2026-09-29 | OUT-OF-DATE |
 | kiwiberry | Actinidia arguta; A. kolomikta as a cultivar group | kiwiberry.md |  | 2026-09-30 | OUT-OF-DATE |
