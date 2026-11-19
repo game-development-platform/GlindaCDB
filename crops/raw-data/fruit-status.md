@@ -45,14 +45,16 @@
 | grapefruit | Citrus × paradisi | grapefruit.md |  | 2026-11-17 | RESEARCHED |
 | guava | Psidium guajava | guava.md |  | 2026-11-17 | RESEARCHED |
 | hassaku | Citrus hassaku | hassaku.md | `natsudaidai`, `kunenbo` | 2026-11-19 | RESEARCHED |
-| hetsuka_daidai | Citrus sp., Kagoshima local citrus related to kabusu |  | `daidai` | 2026-11-16 | PROPOSED |
+| hetsuka_daidai | Citrus sp., Kagoshima local sour citrus related to kabusu | hetsuka-daidai.md | `daidai`, `natsudaidai`, `yuzu`, `sudachi`, `kabosu`, `shiikuwasha`, `hyuganatsu` | 2026-11-19 | RESEARCHED |
 | highland_banana | Musa AAA-EA, Mutika/Lujugira subgroup | banana.md | `banana`, `plantain` | 2026-11-17 | RESEARCHED |
 | honeydew | Cucumis melo Inodorus group | honeydew.md |  | 2026-09-30 | OUT-OF-DATE |
+| hyuganatsu | Citrus tamurana (Miyazaki hybrid, tachibana parent) |  | `hetsuka_daidai` | 2026-11-19 | PROPOSED |
 | indian_jujube | Ziziphus mauritiana | indian-jujube.md |  | 2026-10-13 | OUT-OF-DATE |
 | jackfruit | Artocarpus heterophyllus | jackfruit.md |  | 2026-10-01 | OUT-OF-DATE |
 | japanese_plum | Prunus salicina | japanese-plum.md |  | 2026-09-29 | OUT-OF-DATE |
 | japanese_quince | Chaenomeles japonica | japanese-quince.md |  | 2026-10-02 | OUT-OF-DATE |
 | jujube | Ziziphus jujuba | jujube.md |  | 2026-10-12 | OUT-OF-DATE |
+| kabosu | Citrus sphaerocarpa (Ōita sour citrus) |  | `hetsuka_daidai` | 2026-11-19 | PROPOSED |
 | key_lime | C. × aurantiifolia | lime.md | `persian_lime` | 2026-09-29 | OUT-OF-DATE |
 | kiwiberry | Actinidia arguta; A. kolomikta as a cultivar group | kiwiberry.md |  | 2026-09-30 | OUT-OF-DATE |
 | kiwifruit | Actinidia deliciosa | kiwifruit.md |  | 2026-09-30 | OUT-OF-DATE |
@@ -73,7 +75,7 @@
 | meyer_lemon | Citrus × meyeri | meyer-lemon.md |  | 2026-10-03 | OUT-OF-DATE |
 | mountain_papaya | Vasconcellea pubescens | mountain-papaya.md |  | 2026-10-03 | OUT-OF-DATE |
 | muscadine | Vitis rotundifolia | grape.md | `american_grape`, `grape` | 2026-11-17 | RESEARCHED |
-| natsudaidai | Citrus natsudaidai (natsumikan, incl. amanatsu) | natsudaidai.md | `daidai`, `hassaku` | 2026-11-17 | RESEARCHED |
+| natsudaidai | Citrus natsudaidai (natsumikan, incl. amanatsu) | natsudaidai.md | `daidai`, `hassaku`, `hetsuka_daidai` | 2026-11-17 | RESEARCHED |
 | nectarine | Prunus persica, smooth-skinned | nectarine.md |  | 2026-10-18 | OUT-OF-DATE |
 | olive | Olea europaea | olive.md |  | 2026-10-11 | OUT-OF-DATE |
 | orange | Citrus × sinensis | orange.md | `bitter_orange` | 2026-10-10 | OUT-OF-DATE |
@@ -101,8 +103,10 @@
 | red_currant | Ribes rubrum | red-currant.md |  | 2026-10-01 | OUT-OF-DATE |
 | satsuma | Citrus unshiu | satsuma.md |  | 2026-10-03 | OUT-OF-DATE |
 | seed_watermelon | Citrullus lanatus seed types and C. mucosospermus | watermelon.md | `citron_melon`, `watermelon` | 2026-10-10 | OUT-OF-DATE |
+| shiikuwasha | Citrus depressa (Okinawan sour citrus) |  | `hetsuka_daidai` | 2026-11-19 | PROPOSED |
 | sour_cherry | P. cerasus | cherry.md | `sweet_cherry` | 2026-09-28 | OUT-OF-DATE |
 | strawberry | Fragaria × ananassa | strawberry.md | `woodland_strawberry` | 2026-10-10 | OUT-OF-DATE |
+| sudachi | Citrus sudachi (Tokushima sour citrus) |  | `hetsuka_daidai` | 2026-11-19 | PROPOSED |
 | sweet_cherry | P. avium | cherry.md | `sour_cherry` | 2026-09-28 | OUT-OF-DATE |
 | sweet_granadilla | Passiflora ligularis | sweet-granadilla.md |  | 2026-10-03 | OUT-OF-DATE |
 | sweet_lemon | Citrus limetta | sweet-lemon.md |  | 2026-10-06 | OUT-OF-DATE |
@@ -112,3 +116,4 @@
 | woodland_strawberry | Fragaria vesca and F. moschata | strawberry.md | `strawberry` | 2026-10-10 | OUT-OF-DATE |
 | yellow_passionfruit | Passiflora edulis | passionfruit.md | `purple_passionfruit` | 2026-09-30 | OUT-OF-DATE |
 | yellow_pitaya | Selenicereus megalanthus | yellow-pitaya.md |  | 2026-09-30 | OUT-OF-DATE |
+| yuzu | Citrus junos |  | `hetsuka_daidai` | 2026-11-19 | PROPOSED |

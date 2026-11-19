@@ -78,7 +78,8 @@ This entry does **not** cover:
   natsudaidai and kimikan, with its own flavonoid/coumarin/synephrine
   profile and lower fruit weight and juice acidity than natsudaidai [16].
   Despite the name it appears to be a distinct local variety rather than a
-  daidai cultivar. Proposed as its own candidate row.
+  daidai cultivar. Promoted after a gate check on 2026-11-19 and researched
+  as `hetsuka_daidai` (see `hetsuka-daidai.md`).
 - **Chinotto** (`chinotto`) and **laraha** (still `PROPOSED`), the other
   two variety-level candidates raised in `bitter-orange.md`.
 
@@ -431,8 +432,8 @@ variety level [8]. One Chinese entry describes the halved unripe fruit as
 - Photoperiod, salinity, elevation, water use, labor hours, orchard
   spacing, storage regime, pressed-juice yield, and whole-fruit and peel
   composition were all not sourced.
-- Whether `hetsuka_daidai` warrants a row (Naming and scope) needs a
-  decision; `natsudaidai` has since been promoted.
+- `hetsuka_daidai` and `natsudaidai` have both since passed their gate
+  checks and been researched (Naming and scope).
 
 ## Estimates and derivations
 
