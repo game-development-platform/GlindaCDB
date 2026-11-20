@@ -52,9 +52,43 @@ the sources as culturally important [1][3]:
 - **Kwai muk** (possibly *A. lingnanensis*): native from Guangdong to
   Hong Kong. It is a small, red-fleshed fruit eaten raw. Young trees are
   injured at -2 to -1 °C, and mature trees have endured -4 to -3 °C [1].
-  Proposed as `kwai_muk`.
+  Proposed as `kwai_muk`; rejected at its gate check (below).
 - **Marang** (*A. odoratissimus*): named as an important fruit tree of
   Southeast Asia [3]. Not researched here. Proposed as `marang`.
+
+**Gate check for `kwai_muk` (2026-11-19): failed.** Kwai muk
+(*Artocarpus hypargyreus* Hance ex Benth., or possibly *A. lingnanensis*
+Merr.; 白桂木) was checked as a candidate crop row:
+- **Taxonomy:** a distinct *Artocarpus* species, so it would qualify on
+  taxonomy alone, but its identity is unsettled. Florida trees were
+  introduced as *A. hypargyreus* but may be *A. lingnanensis* [1][19].
+  Chinese sources also confuse 白桂木 with 桂木 (*A. nitidus* subsp.
+  *lingnanensis*) [20].
+- **Range:** a tree of broad-leaved evergreen forest at 100-1,700 m in
+  Fujian, Guangdong, Guangxi, Hainan, southern Hunan, Jiangxi and
+  south-east Yunnan [19]. A Chinese seed-bank study calls it endangered
+  [19]. It is dispersed by civets and macaques in Hong Kong [19].
+- **Farming system:** none found. It is "cultivated, but not
+  domesticated" [19] and "occasionally cultivated in Southeast Asia but
+  rarely elsewhere" [19]. Florida has grown it experimentally since 1927,
+  but only as a few widely separated trees [1][21]. All Florida
+  propagation has been by seed; no cultivar selection or vegetative
+  propagation work has been done [21]. No yield, area, production,
+  spacing, price or market figure was found in English or Chinese [20].
+- **Harvest and uses:** fruit 2.5-5 cm, orange-red pulp, 0-7 seeds,
+  ripening August-October in Florida [1][21]. Eaten fresh, dried, or
+  preserved in salt or sugar syrup [19][21]; in Guangdong, folk cooks
+  steam it with fermented bean paste [20]. A mature tree can bear up to
+  2,000 small fruit [21].
+- **Other traits:** slow-growing, 6-15 m (10-25 m in the wild) [1][19];
+  self-pollinating or mainly outcrossing, insect-pollinated [19][21];
+  fruit begins 4-6 years after planting, per a nursery claim [19]; needs
+  regular watering; chlorosis on limestone soils [21]. A 2025 Hawaii weed
+  risk assessment scored it 0.0, low risk [19].
+
+It is a dooryard and wild-gathered fruit with no documented crop system,
+the same reason `ichang_papeda` failed. The cold-tolerance and fruit
+notes above are kept here; no separate doc is written.
 
 ## Research findings
 
@@ -732,3 +766,22 @@ studies in jack," *MAUSAM* 47(2): 185-190. Supplied: transpiration of
 irrigated and rainfed trees at Bangalore in 1993, two growth flushes, and
 delayed maturity under irrigation. Accessed 2026-11-19, the abstract page
 opened directly.
+
+[19] Plant Pono (Hawaii), *Weed Risk Assessment: Artocarpus hypargyreus*
+(6 March 2025). Supplied, through the sources it quotes (Lim 2012, Flora
+of China, Blancke 2016, Mansfeld 2001, Corlett 1993, Huang 2010 and
+nursery pages): cultivation status; native range and elevation;
+endangered status; tree size; soils; pollination; dispersal; years to
+fruiting; uses; the low-risk score. Accessed 2026-11-19, PDF downloaded
+and text-extracted.
+
+[20] Search-snippet-level material in Chinese on 白桂木 and 桂木: alternate
+names, the 白桂木/桂木 naming confusion, Guangdong folk cooking use, and
+the absence of any cultivation, yield or price data. Accessed 2026-11-19,
+search snippets only.
+
+[21] Campbell, kwai muk note, University of Florida IFAS Tropical Research
+and Education Center (after *Proc. Fla. State Hort. Soc.* 97: 318-319,
+1984), as reprinted by ECHO. Supplied: fruit traits and season; yield per
+tree; soils and chlorosis; watering; cold injury; seed-only propagation;
+pests. Accessed 2026-11-19, PDF downloaded and text-extracted.

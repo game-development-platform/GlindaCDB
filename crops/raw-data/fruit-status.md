@@ -64,7 +64,7 @@
 | kiwifruit | Actinidia deliciosa | kiwifruit.md | `kiwiberry` | 2026-11-19 | RESEARCHED |
 | korla_pear | Pyrus sinkiangensis | korla-pear.md | `asian_pear`, `pear` | 2026-11-19 | RESEARCHED |
 | kunenbo | Citrus nobilis (Kunenbo mandarin) | kunenbo.md | `hassaku`, `kabosu`, `mandarin`, `satsuma`, `natsudaidai`, `cam_xoan`, `shiikuwasha` | 2026-11-19 | RESEARCHED |
-| kwai_muk | Artocarpus lingnanensis (identity uncertain) |  | `jackfruit` | 2026-11-19 | PROPOSED |
+| kwai_muk | Artocarpus lingnanensis (identity uncertain) | jackfruit.md | `jackfruit` | 2026-11-19 | REJECTED |
 | lakoocha | Artocarpus lakoocha (monkey jack) |  | `jackfruit` | 2026-11-19 | PROPOSED |
 | laraha | *C.* × *aurantium*, Curaçao landrace | bitter-orange.md | `bitter_orange` | 2026-11-17 | REJECTED |
 | lemon | Citrus × limon | lemon.md | `persian_lime`, `citron`, `bitter_orange`, `meyer_lemon`, `sweet_lemon`, `bergamot` | 2026-11-19 | RESEARCHED |
