@@ -2,6 +2,7 @@
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
+| ackee | Blighia sapida |  | `longan` | 2026-11-20 | PROPOSED |
 | american_grape | Vitis labrusca types and interspecific hybrids | grape.md | `grape`, `muscadine` | 2026-11-17 | RESEARCHED |
 | apple_high_chill | Malus domestica | apple-high-chill.md |  | 2026-11-17 | RESEARCHED |
 | apple_low_chill | Malus domestica | apple-low-chill.md |  | 2026-11-17 | RESEARCHED |
@@ -69,15 +70,16 @@
 | laraha | *C.* × *aurantium*, Curaçao landrace | bitter-orange.md | `bitter_orange` | 2026-11-17 | REJECTED |
 | lemon | Citrus × limon | lemon.md | `persian_lime`, `citron`, `bitter_orange`, `meyer_lemon`, `sweet_lemon`, `bergamot` | 2026-11-19 | RESEARCHED |
 | lingonberry | Vaccinium vitis-idaea | lingonberry.md | `blueberry`, `cranberry`, `lowbush_blueberry`, `bilberry` | 2026-11-19 | RESEARCHED |
-| longan | Dimocarpus longan | longan.md |  | 2026-09-30 | OUT-OF-DATE |
+| longan | Dimocarpus longan | longan.md | `lychee`, `rambutan`, `pulasan`, `mata_kucing`, `ackee`, `mamoncillo` | 2026-11-20 | RESEARCHED |
 | loquat | Eriobotrya japonica | loquat.md |  | 2026-10-02 | OUT-OF-DATE |
 | lowbush_blueberry | Vaccinium angustifolium, V. myrtilloides | lowbush-blueberry.md | `lingonberry` | 2026-10-03 | OUT-OF-DATE |
-| lychee | Litchi chinensis | lychee.md |  | 2026-09-30 | OUT-OF-DATE |
+| lychee | Litchi chinensis | lychee.md | `longan` | 2026-09-30 | OUT-OF-DATE |
+| mamoncillo | Melicoccus bijugatus (Spanish lime) |  | `longan` | 2026-11-20 | PROPOSED |
 | mandarin | Citrus reticulata | mandarin.md | `kunenbo` | 2026-09-29 | OUT-OF-DATE |
 | mango | Mangifera indica | mango.md |  | 2026-10-10 | OUT-OF-DATE |
 | mangosteen | Garcinia mangostana | mangosteen.md |  | 2026-10-01 | OUT-OF-DATE |
 | marang | Artocarpus odoratissimus |  | `jackfruit` | 2026-11-19 | PROPOSED |
-| mata_kucing | Dimocarpus longan ssp. malesianus | mata-kucing.md |  | 2026-10-03 | OUT-OF-DATE |
+| mata_kucing | Dimocarpus longan ssp. malesianus | mata-kucing.md | `longan` | 2026-10-03 | OUT-OF-DATE |
 | medlar | Mespilus germanica | medlar.md |  | 2026-10-07 | OUT-OF-DATE |
 | meyer_lemon | Citrus × meyeri | meyer-lemon.md | `lemon` | 2026-10-03 | OUT-OF-DATE |
 | mountain_papaya | Vasconcellea pubescens | mountain-papaya.md |  | 2026-10-03 | OUT-OF-DATE |
@@ -102,10 +104,10 @@
 | plum | Prunus domestica, European plum | plum.md | `japanese_plum` | 2026-09-28 | OUT-OF-DATE |
 | pomegranate | Punica granatum | pomegranate.md |  | 2026-10-12 | OUT-OF-DATE |
 | pomelo | Citrus maxima | pomelo.md |  | 2026-10-03 | OUT-OF-DATE |
-| pulasan | Nephelium ramboutan-ake, syn. N. mutabile | pulasan.md |  | 2026-10-03 | OUT-OF-DATE |
+| pulasan | Nephelium ramboutan-ake, syn. N. mutabile | pulasan.md | `longan` | 2026-10-03 | OUT-OF-DATE |
 | purple_passionfruit | Passiflora edulis | passionfruit.md | `yellow_passionfruit` | 2026-09-30 | OUT-OF-DATE |
 | quince | Cydonia oblonga | quince.md | `japanese_quince` | 2026-10-02 | OUT-OF-DATE |
-| rambutan | Nephelium lappaceum | rambutan.md |  | 2026-09-30 | OUT-OF-DATE |
+| rambutan | Nephelium lappaceum | rambutan.md | `longan` | 2026-09-30 | OUT-OF-DATE |
 | rangpur_lime | Citrus × limonia (mandarin × citron) |  | `key_lime` | 2026-11-19 | PROPOSED |
 | raspberry | Rubus idaeus | raspberry.md |  | 2026-09-29 | OUT-OF-DATE |
 | red_currant | Ribes rubrum | red-currant.md |  | 2026-10-01 | OUT-OF-DATE |
