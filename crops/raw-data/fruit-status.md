@@ -13,12 +13,12 @@
 | banana | Musa AAA dessert | banana.md | `highland_banana`, `plantain` | 2026-11-17 | RESEARCHED |
 | banana_passionfruit | Passiflora tripartita var. mollissima | banana-passionfruit.md |  | 2026-11-17 | RESEARCHED |
 | bergamot | Citrus bergamia | bergamot.md | `lemon` | 2026-11-17 | RESEARCHED |
-| bilberry | Vaccinium myrtillus |  | `lingonberry` | 2026-11-19 | PROPOSED |
+| bilberry | Vaccinium myrtillus |  | `lingonberry`, `lowbush_blueberry` | 2026-11-19 | PROPOSED |
 | bitter_orange | Citrus × aurantium | bitter-orange.md | `orange`, `chinotto`, `laraha`, `daidai`, `lemon` | 2026-11-17 | RESEARCHED |
 | black_raspberry | Rubus occidentalis | black-raspberry.md |  | 2026-11-17 | RESEARCHED |
 | blackberry | Rubus subgenus Rubus | blackberry.md |  | 2026-11-17 | RESEARCHED |
 | blackcurrant | Ribes nigrum | blackcurrant.md |  | 2026-11-17 | RESEARCHED |
-| blueberry | Vaccinium corymbosum | blueberry.md | `lingonberry` | 2026-11-17 | RESEARCHED |
+| blueberry | Vaccinium corymbosum | blueberry.md | `lingonberry`, `lowbush_blueberry` | 2026-11-17 | RESEARCHED |
 | bokbunja | Rubus coreanus | bokbunja.md |  | 2026-11-17 | RESEARCHED |
 | breadfruit | Artocarpus altilis | breadfruit.md | `jackfruit`, `lakoocha` | 2026-11-17 | RESEARCHED |
 | buddhas_hand | Citrus medica var. sarcodactylis | buddhas-hand.md |  | 2026-11-17 | RESEARCHED |
@@ -32,7 +32,7 @@
 | citron_melon | Citrullus amarus | watermelon.md | `seed_watermelon`, `watermelon` | 2026-11-17 | RESEARCHED |
 | coconut | Cocos nucifera | coconut.md |  | 2026-11-17 | RESEARCHED |
 | coyo | Persea schiedeana | coyo.md |  | 2026-11-17 | RESEARCHED |
-| cranberry | Vaccinium macrocarpon | cranberry.md | `lingonberry` | 2026-11-17 | RESEARCHED |
+| cranberry | Vaccinium macrocarpon | cranberry.md | `lingonberry`, `lowbush_blueberry` | 2026-11-17 | RESEARCHED |
 | daidai | Citrus × aurantium, daidai group (kabusu and kaiseitō; var. *daidai*) | daidai.md | `bitter_orange`, `hetsuka_daidai`, `natsudaidai`, `kabosu` | 2026-11-16 | RESEARCHED |
 | date_palm | Phoenix dactylifera | date-palm.md |  | 2026-11-17 | RESEARCHED |
 | dragon_fruit | Selenicereus undatus and red-fleshed relatives | dragon-fruit.md |  | 2026-11-17 | RESEARCHED |
@@ -47,6 +47,7 @@
 | grape | Vitis vinifera | grape.md | `american_grape`, `muscadine` | 2026-11-17 | RESEARCHED |
 | grapefruit | Citrus × paradisi | grapefruit.md |  | 2026-11-17 | RESEARCHED |
 | guava | Psidium guajava | guava.md |  | 2026-11-17 | RESEARCHED |
+| half_high_blueberry | Vaccinium angustifolium × V. corymbosum |  | `lowbush_blueberry` | 2026-11-20 | PROPOSED |
 | haruka | Citrus hybrid, hyuganatsu × natsudaidai | hyuganatsu.md | `hyuganatsu`, `natsudaidai` | 2026-11-19 | REJECTED |
 | hassaku | Citrus hassaku | hassaku.md | `natsudaidai`, `kunenbo` | 2026-11-19 | RESEARCHED |
 | hetsuka_daidai | Citrus sp., Kagoshima local sour citrus related to kabusu | hetsuka-daidai.md | `daidai`, `natsudaidai`, `yuzu`, `sudachi`, `kabosu`, `shiikuwasha`, `hyuganatsu` | 2026-11-19 | RESEARCHED |
@@ -72,7 +73,7 @@
 | lingonberry | Vaccinium vitis-idaea | lingonberry.md | `blueberry`, `cranberry`, `lowbush_blueberry`, `bilberry` | 2026-11-19 | RESEARCHED |
 | longan | Dimocarpus longan | longan.md | `lychee`, `rambutan`, `pulasan`, `mata_kucing`, `ackee`, `mamoncillo` | 2026-11-20 | RESEARCHED |
 | loquat | Eriobotrya japonica | loquat.md | `medlar`, `quince`, `pear` | 2026-11-20 | RESEARCHED |
-| lowbush_blueberry | Vaccinium angustifolium, V. myrtilloides | lowbush-blueberry.md | `lingonberry` | 2026-10-03 | OUT-OF-DATE |
+| lowbush_blueberry | Vaccinium angustifolium, V. myrtilloides | lowbush-blueberry.md | `blueberry`, `lingonberry`, `cranberry`, `bilberry`, `half_high_blueberry` | 2026-11-20 | RESEARCHED |
 | lychee | Litchi chinensis | lychee.md | `longan` | 2026-09-30 | OUT-OF-DATE |
 | mamoncillo | Melicoccus bijugatus (Spanish lime) |  | `longan` | 2026-11-20 | PROPOSED |
 | mandarin | Citrus reticulata | mandarin.md | `kunenbo` | 2026-09-29 | OUT-OF-DATE |
