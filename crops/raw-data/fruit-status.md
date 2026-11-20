@@ -19,12 +19,12 @@
 | blackcurrant | Ribes nigrum | blackcurrant.md |  | 2026-11-17 | RESEARCHED |
 | blueberry | Vaccinium corymbosum | blueberry.md | `lingonberry` | 2026-11-17 | RESEARCHED |
 | bokbunja | Rubus coreanus | bokbunja.md |  | 2026-11-17 | RESEARCHED |
-| breadfruit | Artocarpus altilis | breadfruit.md | `jackfruit` | 2026-11-17 | RESEARCHED |
+| breadfruit | Artocarpus altilis | breadfruit.md | `jackfruit`, `lakoocha` | 2026-11-17 | RESEARCHED |
 | buddhas_hand | Citrus medica var. sarcodactylis | buddhas-hand.md |  | 2026-11-17 | RESEARCHED |
 | bush_cherry | Prunus tomentosa | bush-cherry.md |  | 2026-11-17 | RESEARCHED |
 | cam_xoan | Citrus sp. (Mekong Delta 'cam xoàn' orange; labelled C. nobilis in one source) |  | `kunenbo` | 2026-11-19 | PROPOSED |
 | cantaloupe | Cucumis melo, Reticulatus and Cantalupensis groups | cantaloupe.md | `honeydew` | 2026-11-17 | RESEARCHED |
-| champedak | Artocarpus integer | champedak.md | `jackfruit` | 2026-11-17 | RESEARCHED |
+| champedak | Artocarpus integer | champedak.md | `jackfruit`, `lakoocha` | 2026-11-17 | RESEARCHED |
 | cherry_plum | Prunus cerasifera | cherry-plum.md | `japanese_plum` | 2026-11-17 | RESEARCHED |
 | chinotto | Citrus myrtifolia (possibly *C.* × *aurantium* var. *myrtifolia*) | chinotto.md | `bitter_orange` | 2026-11-17 | RESEARCHED |
 | citron | Citrus medica | citron.md | `key_lime`, `lemon` | 2026-11-17 | RESEARCHED |
@@ -65,7 +65,7 @@
 | korla_pear | Pyrus sinkiangensis | korla-pear.md | `asian_pear`, `pear` | 2026-11-19 | RESEARCHED |
 | kunenbo | Citrus nobilis (Kunenbo mandarin) | kunenbo.md | `hassaku`, `kabosu`, `mandarin`, `satsuma`, `natsudaidai`, `cam_xoan`, `shiikuwasha` | 2026-11-19 | RESEARCHED |
 | kwai_muk | Artocarpus lingnanensis (identity uncertain) | jackfruit.md | `jackfruit` | 2026-11-19 | REJECTED |
-| lakoocha | Artocarpus lakoocha (monkey jack) |  | `jackfruit` | 2026-11-19 | PROPOSED |
+| lakoocha | Artocarpus lakoocha (monkey jack) | lakoocha.md | `jackfruit`, `breadfruit`, `champedak` | 2026-11-19 | RESEARCHED |
 | laraha | *C.* × *aurantium*, Curaçao landrace | bitter-orange.md | `bitter_orange` | 2026-11-17 | REJECTED |
 | lemon | Citrus × limon | lemon.md | `persian_lime`, `citron`, `bitter_orange`, `meyer_lemon`, `sweet_lemon`, `bergamot` | 2026-11-19 | RESEARCHED |
 | lingonberry | Vaccinium vitis-idaea | lingonberry.md | `blueberry`, `cranberry`, `lowbush_blueberry`, `bilberry` | 2026-11-19 | RESEARCHED |

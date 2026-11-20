@@ -48,7 +48,8 @@ the sources as culturally important [1][3]:
   tall from the humid sub-Himalaya up to 1,200 m. Its sweet-sour fruit
   is mostly made into curries or chutney, and the male spike is pickled.
   The timber is teak-like, and the bark has 8.5% tannin [1]. Proposed as
-  `lakoocha`.
+  `lakoocha`; it passed its gate check on 2026-11-19 and is researched in
+  `lakoocha.md`.
 - **Kwai muk** (possibly *A. lingnanensis*): native from Guangdong to
   Hong Kong. It is a small, red-fleshed fruit eaten raw. Young trees are
   injured at -2 to -1 °C, and mature trees have endured -4 to -3 °C [1].
