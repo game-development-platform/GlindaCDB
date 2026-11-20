@@ -1,7 +1,20 @@
 # Lychee (*Litchi chinensis*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/lychee.md`
-**Researched:** 2026-09-30
+**Researched:** 2026-09-30 (re-researched 2026-11-20 against the full
+current checklist in `skills/crop-research/SKILL.md` and
+`templates/research-doc.md`. Re-opened, with their numbers restored:
+Morton's chapter, the encyclopedia entry, the USDA postharvest handbook
+chapter, the FAO *Lychee Production in the Asia-Pacific Region* report
+(its Australian chapter and now its overview, China, India and other
+country chapters), the Muzaffarpur case-control study and USDA
+composition data. Added: the Hawaii weed risk assessment, the two CDC
+soapberry toxin papers, and recent production and water-use snippets.
+Dropped: the old doc's unnamed "plant development" manual chapter, which
+carried the submersion, irrigation-salinity and fruit-set figures, could
+not be identified among the FAO chapters. Its claims were dropped unless
+re-sourced. The old salt-tolerance annex check was not repeated.
+Estimates are shown in full.)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -10,358 +23,589 @@ licensed under this project's MIT license (see repository `LICENSE`).
 
 ## Naming and scope
 
-The cultivated lychee of southern China (Sapindaceae), also spelled
-litchi [1][2]. Of its three botanical subspecies, this entry covers the
-Indochinese one, which is the commercial crop; two other subspecies are
-treated here only as cultivar-level notes rather than separate crop
-entries [2]. Two other Sapindaceae fruit crops this project has also
-researched are close relatives in the same family, but are treated as
-separate crop entries given their own distinct distinctiveness checks.
-No other crop this project has researched was available as a direct
-sibling comparison at the time of writing, though a different tropical/
-subtropical tree crop with its own flowering-regulation practice is
-noted as the nearest comparison point, without any values borrowed from
-it.
+*Litchi chinensis* Sonn. (Sapindaceae); syn. *Nephelium litchi* Cambess.
+[1].
+- **Names:** litchi, lichi, lichee, laichi or leechee. The spelling
+  "lychee" was adopted by the Florida growers' association [1]. Also
+  *lechia* (Spanish and Portuguese), *litchi* (French) and *litschi*
+  (German) [1].
+- **Subspecies:**
+  - **subsp. *chinensis*:** "the only commercialized lychee" and the
+    crop covered here [2].
+  - **subsp. *philippinensis*:** Philippine *alupag* or *mata-mata*
+    [2].
+  - **subsp. *javensis*:** cultivated in Malaysia and Indonesia [2].
+- **Origin:** southern China and possibly northern Viet Nam, between 23°
+  and 27° N [3]. Native to low elevations of Guangdong and Fujian [1].
+- **"Lychee nut":** this is the dried fruit, not a nut; the seed is
+  inedible [1].
+
+**Relatives in this project:**
+- longan (`longan`, `longan.md`);
+- rambutan (`rambutan`, `rambutan.md`): with longan, the most widely
+  cultivated Sapindaceae fruits besides lychee [3];
+- pulasan (`pulasan`, `pulasan.md`);
+- ackee (`ackee`, proposed): its hypoglycin A import limit is the
+  yardstick for lychee toxin (Finding 2) [10];
+- mamoncillo (`mamoncillo`, proposed): the West Indian *quenepe*, from
+  which the French Haitian name *quenepe chinois* distinguishes lychee
+  [1].
+
+**Proposed:** none new (ackee and mamoncillo are already proposed).
 
 ## Research findings
 
-**Finding 1 — flowering needs a cool winter, and the crop swings
-sharply year to year.** Winter temperatures below a specific moderate
-threshold for several weeks trigger flowering; no plants flowered at a
-constant warmer temperature in one controlled study, and flowering in
-another study came only after roughly two months of distinctly cool
-nights [3][4]. High-yielding trees typically make one or two vegetative
-growth flushes after harvest, followed by a floral flush during the
-cool winter period; critically, if a flush begins during warm weather
-it emerges as leaves instead of flowers. Growers in at least one major
-growing region deliberately girdle ("cincture") branches in autumn
-specifically to suppress an unwanted winter leaf flush, a practice
-documented to sharply raise flowering rates on trees that would
-otherwise have flowered poorly [4]. These requirements are described as
-"somewhat exacting," producing substantial year-to-year variation in
-supply [5]. Fruit set is notably low even under good conditions — only
-a small single-digit-to-low-double-digit percentage of female flowers
-ultimately become harvestable fruit [3].
+**Finding 1 — flowering needs a cool, dry check, and yields swing.**
+- **Trigger:**
+  - **Australian research:** panicles form "if early flush development,
+    when buds swell, coincides with days of 20°C or cooler"; warmth
+    after buds pass a few millimetres gives a vegetative flush [3].
+    Australia needs "a period of cool weather (15° to 20°C)" [4].
+  - **China:** "the long autumn and winter drought plus chilly winter
+    (temperature below 15°C in the day and 10°C in the night) is
+    essential" [5].
+  - **Philippines:** about 15-19 °C and dry for almost a month [7].
+  - **India:** a minimum of 10 °C in December-February suits it, with up
+    to 38 °C in April-June [6].
+  - **Dissent:** L. B. Singh disputed the need for cold, citing Mauritius
+    [1]. Trees in Panama and Jamaica set fruit rarely or not at all [1].
+- **Cultivar groups (Thailand):** about 20 "tropical" cultivars need
+  little or no cool period, and about 10 "sub-tropical" cultivars need a
+  longer one [3].
+- **Managing the flush:**
+  - **Australian methods:** hedge or prune to time flushes, droughting
+    in autumn, or ethephon (1-3 L Ethrel plus 5 kg urea per 1,000 L) to
+    kill red winter flush [3].
+  - **China:** growth retardants (paclobutrazol, ethephon, daminozide)
+    are used against winter flush [5].
+  - **Spiral girdling (China):** 2-4 mm wide, with 1-2 spirals 6-10 cm
+    apart. It is done in mid-November for 'Feizixiao' and in late
+    November-early December for 'Nuomici' and 'Guiwei', on 10 cm
+    branches. For fruit set, girdling is done in early May on 5 cm
+    branches [3].
+  - **Australia:** a 3 mm trunk ring raised yield 35% in 'Kwai May Pink'
+    and 'Wai Chee' [4].
+  - **India and Hawaii:** September girdling raised yield; Florida trials
+    helped only trees that had cropped poorly [1].
+- **Year-to-year swings (Guangdong):** 5.1 t/ha on 155,300 ha in 1999,
+  against 2.953 t/ha on 110,670 ha in the 1998 off year [5]. The USDA
+  chapter notes "substantial year-to-year variation in supply" [8].
 
-**Finding 2 — a dangerous toxin in the fruit, specifically hazardous to
-undernourished children.** The edible aril contains two related toxic
-compounds (hypoglycin A and methylenecyclopropylglycine, the same
-toxin class documented for other Sapindaceae fruit crops this project
-has researched) [6]. A well-documented outbreak in a major lychee-
-growing district in India saw several hundred children admitted with
-acute encephalopathy in a single season, with a substantial fraction of
-cases fatal; the strongest identified risk factors were eating lychees
-and specifically skipping the evening meal, strongly implicating a
-toxin-driven hypoglycemic mechanism in already undernourished children
-[6].
+**Finding 2 — the aril carries the toxins behind child encephalopathy
+outbreaks.**
+- **Muzaffarpur, India, 2014** [9]:
+  - **Cases:** 390 children aged 15 or under were admitted between May
+    26 and July 17, and 122 (31%) died.
+  - **Hypoglycaemia:** 204 of 327 (62%) had blood glucose of 70 mg/dL or
+    less on admission.
+  - **Risk factors:**
+    - **Litchi eating:** matched OR 9.6 (95% CI 3.6-24).
+    - **No evening meal:** matched OR 2.2 (1.2-4.3).
+    - **Combined:** litchi eating gave OR 7.8 without an evening meal,
+      against 3.6 with one.
+  - **Biomarkers:** HGA and/or MCPG metabolites were found in 48 of 73
+    case urines and in none of 15 controls.
+  - **Arils (n = 36):** hypoglycin A (HGA) at 12.4-152.0 µg/g and
+    methylenecyclopropylglycine (MCPG) at 44.9-220.0 µg/g.
+  - **Advice:** minimise litchi eating, make sure children eat an
+    evening meal, and correct glucose rapidly.
+- **Seeds:** MCPG was first found in lychee seeds in 1962 [2]. Seed HGA
+  reaches up to 267 µg/g in commercial groups [10].
+- **Yardstick:** US ackee imports must be below 100 µg/g HGA [10]. The
+  highest Muzaffarpur aril was 1.5 times that (see Estimates).
+- **Method:** the first quantitation of HGA in litchi arils was in 2016
+  [11].
 
-**Finding 3 — non-climacteric; the skin browns fast.** This fruit does
-not continue to ripen after harvest and produces almost no ethylene
-[5]. The characteristic red skin browns within days as it dries, which
-is the dominant postharvest quality defect [5]. Documented storage life
-runs from just a few days at room temperature up to several weeks under
-proper refrigeration, with one source describing storage as long as
-ten weeks under very cold, humid conditions — though with browned skin
-even though the flesh inside stays fresh [1][5]. Chilling sensitivity is
-considered low, with the apparent "chilling injury" actually being
-ordinary dehydration-driven browning rather than true cold damage [5].
-Sulfur dioxide fumigation combined with an acid dip is used where
-regulations permit it, to keep the skin visually red for longer [5].
+**Finding 3 — non-climacteric; the red skin browns within days.**
+- **Ripening:** "Fruit do not continue to ripen after harvest" [8].
+  Ethylene output is below 1 nL/kg/h [8].
+- **Ambient shelf life:** 3-5 days at 20 °C and 60% RH [8]; 3-5 days at
+  room temperature [1]; brown and rotting within 3 days in China [5].
+- **Cold storage:**
+  - **Recommended:** 2-5 °C at 90-95% RH for 3-5 weeks [8].
+  - **With fungicide:** 3-5 °C with TBZ or prochloraz gives 30-40 days
+    [5].
+  - **Longest:** 10 weeks at 0-1.7 °C and 85-90% RH, with brown skin but
+    near-fresh flesh [1].
+  - **Frozen:** keeps 2 years [1].
+- **Browning:** browning is "associated with water loss and injury."
+  Chilling sensitivity is low, and the "chilling injury" seen is really
+  dehydration [8].
+- **SO2:** SO2 followed by a hydrochloric acid dip preserves the red
+  colour. Sulfites are "not approved on fresh produce in the United
+  States, except for grapes" [8]. China's SO2-and-ice packs have
+  residue problems and a shrinking market [5].
+- **Cool chain:** still "at the very early stage" in China, India,
+  Thailand, Viet Nam and Bangladesh in 2002 [3].
 
-**Finding 4 — clusters are clipped with stem attached, from a
-long-lived tree.** Harvest is done by clipping whole fruit clusters
-with a portion of stem and a few leaves still attached; pickers pass
-over the trees repeatedly every few days across a multi-week harvest
-window, specifically avoiding picking after rain, at a documented
-productivity rate of roughly 25 kg per worker-hour [1]. Trees are
-propagated almost entirely from air-layers (marcots) rather than seed,
-since seed stays viable for only a very few days and seedling trees take
-anywhere from several years to over two decades to bear fruit [1]. Trees
-reach their best bearing between roughly 20 and 40 years old and can
-continue bearing a good crop for a century or longer [1].
+**Finding 4 — clusters cut by hand, from long-lived air-layered trees.**
+- **Harvest:**
+  - **Method:** clusters are clipped with stem and a few leaves, every
+    3-4 days over 3-4 weeks, and "never... right after rain" [1].
+  - **Rate:** "A worker can harvest 55 lbs (25 kg) of fruits per hour"
+    [1].
+  - **Picking stage:** China picks at 80% red peel, entirely by hand, on
+    fine or overcast days [5].
+- **Propagation:**
+  - **Seed:** viable only 4-5 days; seedlings take 5-12 or even 25 years
+    to bear [1].
+  - **Air layers:** 50-60 days to root in India [6]; about 100 days by
+    the Chinese mud method; about 6 weeks with Grove's sphagnum-plastic
+    method [1].
+  - **Yield of layers:** one large tree gives 200-300 layers [1].
+  - **Weakness:** layered trees have weak roots [1].
+- **Tree life:** air-layers fruit in 2-5 years and are not in their prime
+  until 20-40 years. They "will continue bearing a good crop for 100
+  years or longer" [1].
+- **Australia:** 3-5 years to production, with substantial crops only in
+  years 6-8 [4].
 
-**Finding 5 — one country dominates world production; documented
-yields are relatively modest.** World production runs in the range of
-several million tonnes, with a large majority grown in one East Asian
-country, and that country together with a South Asian country
-accounting for the great majority of world production between them
-[7]. Documented yields vary considerably: a national average in the
-dominant producing country, a somewhat higher national average in the
-second-largest producing country, and a standard international
-reference describing ordinary commercial yields as modest, with yields
-over roughly double that achievable only under intensive management
-[3][7]. A much smaller producing region (Australia) reports several
-hundred growers across a modest total area, with orchards there
-requiring protective netting against fruit bats and birds [8].
+**Finding 5 — China and India dominate production; average yields are
+low.**
+- **About 2000:**
+  - **China:** about 950,000 t from 530,000 ha in 1999 [3]; over 580,000
+    ha [5].
+  - **India:** 428,900 t from 56,200 ha, 74% of it in Bihar [6].
+  - **Together:** India and China were 91% of world output [6].
+  - **Others:** Thailand 85,083 t on 22,200 ha (1999); Taiwan 108,668 t
+    on 11,961 ha (1999); Viet Nam 27,000 t on 25,000 ha, 10,000 of it
+    bearing (1998); Bangladesh 12,755 t on 4,750 ha (1998) [3].
+  - **Australia:** 3,500 t from 1,500 ha, about 320 growers, worth A$15
+    million [4].
+- **National yields (t/ha):** Taiwan 9.4, India 7.63, Thailand 3.83, Viet
+  Nam 2, China 1.8 and Australia 1.66. The world range is 1-15 t/ha [3].
+- **Recent (snippets):** about 4.5 million t worldwide in 2023, 3.8
+  million t of it Chinese, which is 84%. Another estimate gives a 3.12
+  million t world total, 64.7% Chinese. India produced 677,000-726,000 t
+  [14].
+- **Trade (2002):**
+  - **Europe:** about 20,000 t, half of it into France. At Christmas,
+    80% comes from Madagascar and 12.6% from South Africa [3].
+  - **Exports:** Australia exports 25-30%, and other Asia-Pacific
+    producers 0.2-5.5% [3].
+  - **China's crop use:** about 30% is dried, 300,000 t in 1999 [3][5].
 
 ## Agronomic data
 
-- **Life form / season:** A large evergreen perennial tree, with
-  perennial bearing driven by a flush-and-flower cycle tied closely to
-  winter temperature (Finding 1).
-- **Harvest pattern:** One early-summer crop a year, picked repeatedly
-  over a multi-week window every few days; strong year-to-year yield
-  variation tied to winter temperature (Finding 1, 4).
-- **Climate:** Subtropical climates with a cool, dry winter and a hot,
-  wet summer, or tropical highland/monsoon climates that still get a
-  sufficiently cool winter period — lychee specifically needs that
-  winter chill to flower properly (Finding 1).
-- **Food status:** Raw-edible (the aril of ripe fruit only — see
-  Hazards).
-- **Pollination:** Required; insect-pollinated (bees are the dominant
-  and, in some regions, essential pollinators), complicated by a
-  distinctive flower structure with three different flower types
-  appearing within a single flower cluster, and by a large proportion of
-  defective pollen that contributes to fruit and seed abortion.
-- **Yield / composition:** Documented commercial yields are relatively
-  modest by international tree-fruit standards, varying by producing
-  country and management intensity, with strong alternate-bearing swings
-  driven by winter temperature (Finding 1, 5; see Estimates below).
-- **Water use:** No standard international crop-coefficient figure
-  exists for this crop; available regional water-use research uses a
-  pan-evaporation-based coefficient instead. The crop needs at least a
-  meter of well-drained topsoil and a water table that is not too close
-  to the surface; sources disagree on true waterlogging tolerance (one
-  documents survival of up to two weeks of submersion, another
-  describes the crop as simply unable to tolerate waterlogging at all).
-  Water stress during fruit development reduces yield and increases
-  fruit splitting and cracking.
-- **Establishment:** Propagated almost entirely by air-layering
-  (marcotting) or grafting rather than seed, given seed's very short
-  viability and seedling trees' very long time to bearing; air-layers
-  typically bear within a few years, far faster than seedlings.
-- **Labor:** A documented hand-harvest clipping productivity rate (about
-  25 kg per worker-hour) anchors harvest-labor estimates; a documented
-  Australian management ratio (one worker managing several hectares)
-  anchors non-harvest labor estimates, since no complete dedicated
-  labor-hour study was found (see Estimates below).
-- **Soil:** Tolerates a wide range of soil textures from sandy loam to
-  heavy clay, given at least a meter of well-drained topsoil; sources
-  disagree somewhat on the exact optimal pH range, though both point to
-  a mildly acidic preference.
-- **Stand life:** Best bearing from roughly 20 to 40 years old, with
-  documented cases of trees still bearing a good crop after a century
-  or more (Finding 4).
-- **Disease/pest profile:** A specific eriophyid mite, stink bugs,
-  fruit-piercing moths, nut borers, fruit flies, and plant-parasitic
-  nematodes are documented pests, along with fruit bats and birds
-  requiring protective orchard netting in at least one growing region
-  (see Hazards below).
-- **Cultivars:** Numerous named cultivars from China, Florida, Hawaii,
-  India, Australia, and Vietnam differ in frost tolerance, seed size
-  (with shriveled, "chicken-tongue" small seeds especially prized in
-  some cultivars), fruit quality, and regional popularity (see Sources).
-- **Harvest:** Whole fruit clusters clipped with stem and a few leaves
-  attached, in repeated passes every few days across a multi-week
-  window, never immediately after rain (Finding 4).
-- **Storage:** From a few days at room temperature up to several weeks
-  under proper refrigeration; the fruit does not ripen further once
-  picked, and the dominant postharvest defect is rapid skin browning
-  from dehydration rather than true chilling injury (Finding 3).
+- **Life form / season:** Evergreen tree, slow-growing, 9-30 m tall and
+  as broad [1]. Leaves are pinnate with 4-8 leaflets. Panicles reach 75
+  cm, with tiny petalless flowers [1]. Fruit comes in clusters of 2-30
+  and is about 2.5 cm wide [1][8].
+- **Harvest pattern:** Perennial; one crop a year. Bloom is in late
+  winter-spring and harvest in May-August in the northern hemisphere and
+  October-March in Australia [3][4]. Each locality harvests for about 6
+  weeks with a spread of cultivars [4], or 3-4 weeks in India [6].
+- **Days/years to first bearing:** 2-5 years for air layers [1]; 3-5
+  years in Australia, substantial at 6-8 [4]; 5-25 years for seedlings
+  [1].
+- **Climate zones:**
+  - **Climate:** brief, dry, frost-free winters and long, hot, wet
+    summers [3].
+  - **Latitude:** 15-30° N in China and India [1]. China grows it across
+    18-31° N, with commercial production at 19-24° N [3].
+  - **Elevation:** mountain types are "very sour" and seldom grown where
+    frost occurs [1].
+  - **Frost:** heavy frost kills young trees, while mature trees
+    withstand light frost. Cold tolerance lies between sweet orange and
+    mango or avocado [1]. The encyclopedia gives -4 °C [2]. Some Florida
+    growers lost up to 70% of the crop in winter 1979-80 [1].
+  - **Heat:** hot, dry spring weather dehydrates flowers and makes fruit
+    drop or split. Lychee has "a low ability to transport water from
+    roots to leaves" [3].
+  - **Chill:** no chill-hour figure. The cool-period requirement is
+    Finding 1.
+- **Composition (per 100 g):**
+  - **USDA SR Legacy 169086, raw:** 66 kcal (276 kJ); water 81.8 g;
+    protein 0.83 g; fat 0.44 g; carbohydrate 16.5 g; fibre 1.3 g; vitamin
+    C 71.5 mg; potassium 171 mg; phosphorus 31 mg; magnesium 10 mg;
+    calcium 5 mg; iron 0.31 mg; copper 0.148 mg [12].
+  - **USDA 169087, dried:** 277 kcal; water 22.3 g; protein 3.8 g;
+    carbohydrate 70.7 g; fibre 4.6 g; vitamin C 183 mg; potassium 1,110
+    mg [12].
+  - **Morton (China, India, Philippines):** fresh 63-64 calories,
+    moisture 81.9-84.83%, ascorbic acid 24-60 mg; dried 277 calories
+    [1].
+  - **Indian cultivars:** TSS 17-18 °Brix, about 11% total sugar and
+    0.43-0.45% acidity [6].
+  - **Seeds:** "chicken tongue" fruit, with shrunken seeds, are prized
+    for more flesh [1].
+- **Edibility:** Raw-edible aril, peeled. Seeds are not eaten, and unripe
+  or excess fruit on an empty stomach is the encephalopathy risk (Finding
+  2) [1][9].
+- **Pollination:** Required, by insects.
+  - **Flower types:** male; hermaphrodite fruiting as female, about 30%;
+    and hermaphrodite fruiting as male [1].
+  - **Pollen:** much of it is defective, causing seed abortion and young
+    fruit drop [1].
+  - **Bees (India):** honeybees (*Apis cerana*, *A. dorsata*, *A.
+    florea*) are 78% of pollinators. *A. cerana* is "essential in
+    commercial orchards" [1]. Florida groves need hives [1].
+  - **Weather:** cool, overcast flowering weather in China can prevent
+    set [3].
+- **Photoperiod sensitivity:** Not sourced. Not applicable to storage
+  organs.
+- **Yield:**
+  - **National averages:** 1.66-9.4 t/ha (Finding 5) [3]; Guangdong
+    2.95-5.1 t/ha [5].
+  - **Per tree:**
+    - **India:** 72.5-149.6 kg for a 20-year tree, with exceptional
+      trees at 455 kg [1]. Cultivars give 50-60 and 60-80 kg [6].
+    - **South Africa:** 25-year trees average 272 kg in good years [1].
+    - **Australian N trial:** 20 to 60 kg per tree as leaf N rose [4].
+  - **Per hectare:** South Africa about 10,000 lb/acre, which Morton
+    calls "roughly equivalent to 10,000 kg per hectare" (see Estimates)
+    [1].
+- **Water use:**
+  - **Peak:** Australian maximum use is about 60 mm per week [4]. One
+    South African trial measured 26 ± 1 mm/week, a pan coefficient of
+    0.4-1.2 (snippet) [14].
+  - **Storage:** 2-4 ML of stored water per hectare [4].
+  - **Scheduling:** irrigate before 50% of available water is used; a
+    2-3 week cycle suits sandy loam [4]. India irrigates at 30-45%
+    depletion, every 7-10 days, from panicle emergence to the
+    post-harvest flush [3].
+  - **Drought:** severe drought from panicle emergence to harvest cut
+    the gross return per 'Tai So' tree from A$250 to A$35. A mild drought
+    after flowering raised yield but reduced size [4].
+  - **Waterlogging:** "it cannot stand water-logging." The water table
+    should be at least 1.2-1.8 m down. It stands brief flooding better
+    than citrus [1].
+- **Propagation:**
+  - **Air layering:** the main method, called marcottage or gootee
+    [1][5][6]. Finding 4.
+  - **Grafting:** grafts take on very young (6 mm) stocks; South African
+    splice grafting succeeds 70% of the time [1]. 'Huaizhi' seedlings
+    are rootstock for 'Nuomici', 'Guiwei' and others in China [5].
+  - **Stooling:** survival is 81-82%, against 40-50% for air layers [1].
+  - **Cuttings:** 80% claimed under mist [1]; IBA under mist works but
+    is not commercial in India [6].
+  - **Clonal/viral risk:** no virus was reported in the sources read.
+    "Sudden death" is soil-borne (Hazards) [3].
+- **Labor:**
+  - **Harvest:** 25 kg per worker-hour [1].
+  - **Australia:** one person handles 5-7 ha of mature trees outside
+    harvest and packing, with 5-10 staff for harvest [4]. "Harvesting
+    and packing are very labour intensive and costly" [4].
+  - **See Estimates** for hours.
+- **Soil:**
+  - **Texture:** wide range, from sandy loam to heavy clay, and oolitic
+    limestone if irrigated. Deep alluvial loam is best [1].
+  - **pH:** 6-7 (Morton) [1]. North Bihar soils run 7.5-8. It grows in
+    calcareous soil with 30% free lime [6].
+  - **Slope:** avoid slopes over 15% (Australia) [4], or over 10° in
+    China, though orchards on more than 20° are seen [5].
+  - **Salinity:** "It will not thrive under saline conditions" [1].
+    Australian soil standards set EC below 200 (units as printed), Cl
+    below 250 mg/kg and Na below 1.0 meq/100 g [4].
+  - **Nutrients:**
+    - **Fertiliser rates:** China, per 5-year tree, 0.6 kg urea, 1.2 kg
+      superphosphate and 0.6 kg KCl a year. Australia, for a 10-11-year
+      tree, 500 g N, 170 g P2O5 and 700 g K2O [3].
+    - **Leaf N:** a leaf N of 1.8% is recommended [4].
+    - **Removal:** 454.5 kg of fruit removes about 1,361 g K2O, 454 g
+      P2O5, 454 g N, 340 g CaO and 228 g MgO [1].
+- **Storage (postharvest):** Finding 3.
+  - **CA:** 3-5% O2 and 5% CO2 at 5-7 °C. 10-15% CO2 gives off-flavours
+    [8].
+  - **Respiration (mg CO2/kg/h):** 10-16 at 5 °C, 19-29 at 10 °C, 46-74
+    at 20 °C and 75-128 at 25 °C [8].
+  - **Packaging:** 2.25 or 4.5 kg boxes with PE liners [8]. Australia
+    uses 5 kg in 9 L cartons [4].
+- **Establishment:**
+  - **Density:**
+    - **Traditional:** 9-10 × 12 m or 12 × 12 m, 70-80 trees/ha [3].
+    - **New Australian orchards:** 200-600 trees/ha [3], or 100-300
+      trees/ha (12 × 6 m = 140; 6 × 6 m = 280) [4].
+    - **China:** 330-500/ha (5 × 4 m, 6 × 5 m). Some extra-dense orchards
+      have 1,500/ha (3 × 2.5 m) [3][5].
+    - **Morton:** 12 m apart [1].
+  - **Light:** shaded portions "will not bear fruit" [1].
+  - **Mulch:** recommended because roots are very shallow [1].
+- **Cultivars:**
+  - **China:** over 200 grown, about 8 important. 'Guiwei' and 'Nuomici'
+    exceed 60,000 ha each, and 'Lanzhu' covers 25,000 ha in Fujian [3].
+  - **Taiwan:** 'Hap Ip' is about 90% [3].
+  - **India:** 'Shahi', 'Bombai', 'China' and others [3][6].
+  - **Australia:** over 40 cultivars, with 'Kwai May Pink' the main one
+    [3][4].
+  - **Viet Nam:** 'Thieu Thanh Ha' gives over 90% of output [3].
+  - **Florida:** 'Brewster' ('Chen-Tze'), which withstands light frost
+    [1].
+- **Weather response:**
+  - **Rain and fog:** harmful at flowering [1]. Downy mildew follows
+    "successive rainy and overcast days" [5].
+  - **Hot, dry winds:** cause flower shedding and skin splitting [1].
+  - **Cracking:** alternating rain and drought causes cracking [1];
+    'Nuomici' and 'Guiwei' are prone to it [3].
+  - **Wind:** the tree is "structurally highly wind-resistant", but the
+    crop may need shelter [1].
+- **Water regime:** Irrigated from flowering through the post-harvest
+  flush in Australia, India and northern Thailand. Australia and northern
+  Thailand use drip; India, Viet Nam, Bangladesh and Taiwan use basins
+  [3].
+- **Harvest stages / windows:**
+  - **Fruit development:** fruit matures 2 months after flowering [1],
+    or 55-60 days after set [7].
+  - **Colour change:** the peel turns from yellowish green to bright red
+    in 7-10 days [5].
+  - **Picking:** for shipment, partly coloured [1]; 80% red in China [5].
+  - **Australian grades:** Extra class is "practically free of defects"
+    and no more than 10% of the crop [4].
+- **Soil biology:** mycorrhizae. Lychee "requires mycorrhiza to grow and
+  produce better quality of fruits" [6]. Uninoculated seedlings form
+  mycorrhizal root nodules [1].
+- **Invasiveness / biosecurity:**
+  - **Hawaii WRA:** score -6, low risk (screened 2004), with "no evidence
+    of naturalization" and seed viable only days to weeks [13].
+  - **Quarantine:** a fruit-fly host needing irradiation, heat or cold
+    treatment for US entry [8].
+- **Controlled environment:** "Planted in greenhouses in England and
+  France early in the 19th Century" [1]. No commercial protected culture
+  was sourced.
 
 ## Hazards
 
-The edible aril of this fruit contains two related toxic compounds
-(hypoglycin A and a related compound also found in the seed) that have
-been directly implicated in a serious, sometimes fatal acute
-encephalopathy outbreak among undernourished children in at least one
-major growing region, with the strongest risk factors being lychee
-consumption combined with skipping the evening meal — strongly
-suggesting a toxin-driven hypoglycemic mechanism that is especially
-dangerous on an empty stomach. Sulfur dioxide fumigation residue is a
-consideration for fruit treated to preserve red skin color, a practice
-not approved in at least one major importing country.
+- **Hypoglycin A and MCPG:** in the aril at up to 152 and 220 µg/g, and
+  linked to fatal child encephalopathy (Finding 2) [9]. Seeds carry up to
+  267 µg/g HGA [10].
+- **Folk caution:** "Chinese people believe that excessive consumption of
+  raw lychees causes fever and nosebleed" [1].
+- **Sulfur dioxide residue:** Finding 3 [5][8].
+- **Pesticides:** one 2017 study suggested plantation pesticides in
+  Bangladesh deaths [2]. Muzaffarpur pesticide tests were negative [9].
+- **Pests:**
+  - **China:** over 58 pest species. Lychee stink bug (*Tessaratoma
+    papillosa*) is the most destructive [1][3].
+  - **Erinose mite** (*Aceria litchii*): the most serious pest in India,
+    Thailand and Viet Nam [3].
+  - **Macadamia nut borer** (*Cryptophlebia ombrodelta*): the worst
+    insect in Australia [3].
+  - **Birds and bats:** flying foxes and birds take up to 50% of
+    Australian crops. Netting costs A$8,000-20,000/ha, and fine (15-20
+    mm) mesh A$15,000-25,000/ha [3][4].
+  - **Nematodes:** devastate some South African orchards [1].
+- **Diseases:**
+  - **Sudden death:** soil-borne, involving *Fusarium solani*,
+    *Phytophthora* and *Pythium*; favoured by poor drainage [3].
+  - **Downy mildew:** *Peronophythora litchii* [5].
+  - **Postharvest rots:** anthracnose, *Aspergillus*, *Geotrichum* and
+    *Rhizopus* [3][8].
+- **Ergot / mycotoxin:** none reported. *Aspergillus* is listed only as
+  a rot [8].
 
-**TO BE ADDRESSED** — both the hypoglycin-A/related-toxin hazard and the
-sulfur-dioxide fumigation-residue hazard are deferred in fuller detail
-until this project has a place for this kind of health/safety data.
+**TO BE ADDRESSED** — the hypoglycin-A/MCPG hazard and sulfur-dioxide
+residue limits are deferred in fuller detail until this project has a
+place for this kind of health/safety data.
 
 ## Uses and processing
 
-- **Chains:** Fruit clusters are clipped with stem, then destemmed to
-  individual fruit, sorted, packed, and cold-stored under refrigeration.
-  Whole fruit is also dried into a well-known "lychee nut" product, by
-  sun-drying on wire trays or controlled oven-drying over several days,
-  keeping for roughly a year once dried. Culled fruit is peeled and
-  processed into jelly, sauce, pickle, or wine. Peel and seed are
-  composted or used in folk medicine. Prunings are used as fuel.
-- Not covered by this research: canning in syrup and freezing in
-  processing detail; sulfur dioxide fumigation technique; lychee honey
-  production; cluster-bagging and orchard-netting construction detail.
+- **Chain 1 (fresh):** clusters cut → destemmed → sorted and graded →
+  precooled to 5 °C → PE-lined cartons → 2-5 °C [1][4][8]. China
+  consumes over 60% fresh [5].
+- **Chain 2 (dried, "lychee nut"):**
+  - **China:** sun-dried on wire trays, or with brick stoves [1]. About
+    30% of China's crop is dried [5].
+  - **Oven:** 50-65 °C for 4 days, or 70 °C hot air for 48 h for seedless
+    fruit [1].
+  - **Pretreatment:** blanch for 5 minutes, then 2% potassium
+    metabisulphite for 48 h, then a citric acid dip [1].
+  - **Keeping:** about a year in tins [1].
+- **Chain 3 (canned):** peeled and seeded in 30 °Brix syrup with
+  0.1-0.15% citric acid, at about pH 4.5 [1]. China and Taiwan
+  freeze or can about 3,000 t [3].
+- **Chain 4 (other):** frozen whole; jelly, sauce, pickle, preserves and
+  wine [1]. Dried flesh sweetens tea in China [1].
+- **Honey:** "great quantities" in China; Florida's is light amber and
+  does not granulate [1].
+- **Medicinal:** seeds for neuralgia; a peel tea for diarrhoea; root,
+  bark and flower gargles [1].
+- **Ritual and religious:** No religious use sourced. Historically a
+  Chinese imperial-court delicacy, carried by tribute couriers from
+  Guangdong, and associated with the consort Yang Guifei. Cai Xiang wrote
+  a Song-dynasty treatise on it [2].
 
 ## Open research questions
 
-- Soil pH optimum and range are reported somewhat differently between
-  two major sources (a slightly lower versus a slightly higher range) —
-  not reconciled.
-- Waterlogging tolerance is described inconsistently between two
-  sources (survival of up to two weeks of submersion versus a flat
-  statement that the crop cannot tolerate waterlogging at all) — not
-  reconciled.
-- Time from flowering to fruit maturity is given somewhat differently
-  between two sources (a longer range versus a shorter approximate
-  figure) — not reconciled.
-- Maximum storage duration conflicts between sources (several weeks at
-  one refrigerated temperature versus up to ten weeks at a colder
-  temperature, albeit with browned skin) — not fully reconciled, though
-  likely reflecting genuinely different storage temperatures rather than
-  a true contradiction.
-- Seasonal crop-coefficient-days are estimated from a pan-evaporation-
-  based ratio rather than a standard international Penman-based crop
-  coefficient, since no such standard figure exists for this crop — this
-  introduces real uncertainty into the water-use estimate.
-- No dedicated commercial labor-hour study covering all orchard
-  operations was found; current non-harvest labor estimates rely on a
-  single documented worker-to-area management ratio from one growing
-  region.
-- No wild-harvest trade was sourced for this species despite documented
-  wild populations existing in its native range, so it is not treated
-  here as having a wild-gathered counterpart.
-- Salinity tolerance classification was not found in the standard
-  international reference checked, though qualitative source material
-  describes the crop as intolerant of saline conditions.
+- **Fatality rate:** 31% in the 2014 study [9] against "44% of all cases"
+  in the encyclopedia's summary of an earlier CDC investigation [2].
+- **Bloom to maturity:** 2 months [1] against 55-60 days after set [7].
+  These are consistent if set follows bloom closely.
+- **Storage:** 3-5 weeks at 2-5 °C [8], 30-40 days with fungicide [5],
+  and 10 weeks at 0-1.7 °C with skin browning [1].
+- **World production:** 3.12 against 4.5 million t, and China's share at
+  64.7% against 84% (snippets) [14].
+- **Cold requirement:** the Australian and Chinese thresholds [3][4][5]
+  against Singh's Mauritius argument [1].
+- **Crop coefficient:** only the pan-based 0.4-1.2 (snippet) [14] was
+  found; no FAO-56 Kc.
+- **Dropped figures:** fruit-set percentage, submersion tolerance and the
+  irrigation-water salinity limit from the old doc were not re-found.
+- **Not sourced:** chill hours, labour-hour study, elevation range for
+  cultivation, and a salinity threshold.
 
 ## Estimates and derivations
 
-An exceptional yield tier (roughly 15,000 kg/ha) is derived by
-multiplying a documented Australian planting density (for one spacing
-configuration) by a documented midpoint per-tree yield figure for
-mature trees in a major Asian growing region; this is broadly consistent
-with a standard international reference's description of yields
-achievable under intensive management running well above ordinary
-commercial levels.
+**National yields** [3]:
+- China 1999: 950,000 t ÷ 530,000 ha = 1.79 t/ha (stated 1.8).
+- India: 428,900 ÷ 56,200 = 7.63 t/ha.
+- Thailand: 85,083 ÷ 22,200 = 3.83 t/ha.
+- Taiwan: 108,668 ÷ 11,580 bearing ha = 9.38 t/ha (stated 9.4).
+- Viet Nam: 27,000 ÷ 10,000 bearing ha = 2.7 t/ha bearing, against
+  27,000 ÷ 25,000 ha = 1.08 t/ha over all area (stated 2).
+- Bangladesh: 12,755 ÷ 4,750 = 2.69 t/ha.
+- Australia: 3,500 ÷ 1,500 = 2.33 t/ha [4], against 1.66 in [3].
 
-Seasonal crop-coefficient-days (and the resulting water-use "legacy"
-figures) are estimated by taking the midpoint of a documented pan-
-evaporation-based water-use ratio from regional research and adjusting
-it downward slightly to account for the fact that pan-based coefficients
-typically run higher than a standard Penman-based reference-
-evapotranspiration crop coefficient; this estimate is cross-checked
-against a documented mature-orchard seasonal water-use figure from a
-different growing region divided by an assumed regional reference-
-evapotranspiration total, and the two approaches agree reasonably well.
+**Guangdong** [5]: 793,200 ÷ 155,300 = 5.11 t/ha (1999);
+327,000 ÷ 110,670 = 2.95 t/ha (1998 off year). The off year is 58% of the
+on year.
 
-Soil-moisture-depletion allowance is estimated by analogy to common
-tree-fruit practice, since no crop-specific figure was found. Drought
-tolerance is rated low-to-medium (reflecting documented yield loss and
-fruit splitting under water stress during fruit development) and
-waterlogging tolerance is rated medium, deliberately splitting the
-difference between the two conflicting source statements noted above.
+**Yield tiers** (per hectare):
+- Poor: about 1.8 t/ha (China 1999) [3].
+- Typical: about 4-5 t/ha (Guangdong on-year 5.1; Thailand 3.8) [3][5].
+- Good: about 7.6-9.4 t/ha (India, Taiwan) [3].
+- Exceptional: 280 trees/ha × 60 kg = 16.8 t/ha (Australian 6 × 6 m
+  spacing [4] × the top Australian N-trial tree yield [4]). This is
+  consistent with the 15 t/ha top of the world range [3].
 
-A growth-stage curve is estimated judgementally as a nearly flat,
-evergreen pattern reflecting year-round canopy retention.
+**Morton's South African yield** [1]: 10,000 lb/acre × 1.121 = 11,210
+kg/ha, not "roughly 10,000 kg/ha."
 
-Labor-hour figures are derived two ways: harvest-tier labor is derived
-directly from a documented hand-clipping productivity rate divided into
-the adopted average yield figure, then rounded up slightly to account
-for destemming and repeated harvest passes; non-harvest labor (pruning/
-maintenance and post-harvest handling) is estimated from a documented
-Australian worker-to-hectare management ratio, converted to an annual
-hours-per-hectare figure and split roughly evenly between the two
-categories.
+**Morton's Mauritius temperature** [1]: printed "40° F (-1.11° C)", but
+40 °F = 4.4 °C.
 
-Within-season yield-profile parameters (days to first harvest, ramp-up
-period to prime bearing, peak daily harvest rate, harvest-plateau
-length, maximum days fruit can stand before quality decline, and daily
-decay rate) are estimated or derived from documented timelines (a few
-years to first harvest from air-layered planting material, roughly a
-decade or so to reach prime bearing age) and the adopted average yield
-divided across a documented multi-week picking-season length; standing-
-time and decay-rate figures reflect that the fruit does not ripen
-further after harvest but is vulnerable to cracking and bird/bat damage
-if left too long unpicked.
+**Densities** [3][4][5]: 12 × 12 m = 69/ha; 12 × 6 m = 139/ha; 6 × 6 m =
+278/ha; 5 × 4 m = 500/ha; 6 × 5 m = 333/ha; 3 × 2.5 m = 1,333/ha (source
+gives 1,500).
+
+**Harvest labour** [1]: at 5 t/ha, 5,000 kg ÷ 25 kg/h = 200 h/ha. At 1.8
+t/ha it is 72 h/ha; at 9.4 t/ha, 376 h/ha. Add destemming and packing,
+which were not sourced.
+
+**Non-harvest labour** [4]: one person per 5-7 ha. At an assumed 2,000
+working hours a year that is 2,000 ÷ 7 to 2,000 ÷ 5 = 286-400 h/ha/year.
+This is an upper bound, since that person also does non-orchard work.
+
+**Water** [4][14]:
+- 60 mm/week peak = 8.6 mm/day.
+- 26 mm/week = 3.7 mm/day.
+- Stored water of 2-4 ML/ha = 200-400 mm.
+
+**Toxin ratios** [9][10]: aril HGA 152 ÷ 100 = 1.5 times the ackee limit
+at the top; the lowest, 12.4 µg/g, is below it. Seed HGA 267 ÷ 100 = 2.7
+times.
+
+**Nutrient removal per tonne of fruit** [1]: 1,361 g ÷ 0.4545 t = 3.0 kg
+K2O; 1.0 kg P2O5; 1.0 kg N; 0.75 kg CaO; 0.50 kg MgO.
+
+**Australian gross return** [3][4]: 1.66-2.33 t/ha × A$5.50/kg = A$9,130-
+12,815/ha net of marketing costs.
+
+**Netting cost per tree** [4]: A$8,000-20,000 ÷ 280 trees = A$29-71 per
+tree at 6 × 6 m spacing.
+
+**Dried fruit ratio** [12]: dry matter 77.7 ÷ 18.2 g per 100 g = 4.3 kg of
+fresh fruit per kg dried, by water balance (flesh only; it ignores skin
+and seed).
+
+**World share** (snippet) [14]: 3.8 ÷ 4.5 = 84%.
 
 ## Sources
 
-[1] A classic published reference work on tropical and subtropical
-fruit crops, its chapter on this species, accessed via a university
-extension's online archive. Supplied: description, origin, named
-cultivars, climate and latitude requirements, frost tolerance, soil
-preferences including a specific pH range, water-table depth, salinity
-sensitivity, propagation methods (marcotting, grafting, stool-bed
-layering), seed viability, planting spacing, bearing age, per-tree yield
-figures, flower types and pollinators, fruit-development timing, harvest
-method and productivity rate, storage guidance, drying method, canning,
-pest and disease notes, nutrition composition, other uses, and honey
-production. Accessed 2026-09-30, opened (summarized).
+[1] Morton (1987), *Fruits of Warm Climates*, "Lychee," as hosted by
+Purdue University's Center for New Crops. Supplied:
+- names; description; origin, history and spread; Florida industry;
+- flower types, pollen, pollinators and bloom-to-maturity;
+- climate, frost and the cold-need debate; soils, pH, water table,
+  flooding and salinity;
+- propagation; spacing; fertiliser and nutrient removal; girdling;
+- harvest method and rate; yields;
+- keeping quality and storage; drying; pests and diseases;
+- food uses; the composition table; honey; medicinal uses.
 
-[2] A general-reference encyclopedia entry on this species. Supplied:
-botanical subspecies; major producing countries; a specific frost-limit
-figure; named cultivars from several countries; a toxicity summary;
-basic nutrition figures; general uses. Accessed 2026-09-30, opened
-(summarized).
+Accessed 2026-11-20, opened directly.
 
-[3] A regional agricultural organization's technical production manual
-chapter on plant development and climate/soil relationships for this
-crop, covering several Asia-Pacific producing countries. Supplied:
-floral-induction temperature threshold and a controlled-temperature
-non-flowering result; the vegetative-then-floral flush cycle; girdling
-practice and its effect on fruit drop; fruit-set percentage; weeks from
-flowering to fruit maturity; climate and rainfall requirements; soil pH
-range; irrigation water-quality salinity limit; minimum topsoil depth;
-submersion tolerance; water-stress timing sensitivity; commercial versus
-intensive-management yield ranges. Accessed 2026-09-30, opened
-(summarized; chapter author not shown on the source page).
+[2] A collaboratively maintained general encyclopedia entry on lychee
+(last edited 2026-11-03). Supplied: subspecies; producer ranking; the -4
+°C limit; MCPG in seeds (1962); the CDC fatality share and
+recommendations; the Bangladesh pesticide study note; imperial-court
+history. Accessed 2026-11-20, opened directly.
 
-[4] Search-snippet-level material on floral induction and the
-girdling/cincturing practice for this crop, including peer-reviewed
-horticultural-research material, an international horticultural-science
-symposium proceedings article, a regional growers'-association
-yearbook article, and archived reference material. Supplied: a specific
-induction-temperature range; a documented cool-night duration required
-for induction in one study; a documented flowering-rate increase from
-cincturing. Accessed 2026-09-30, search snippets only.
+[3] Mitra, "Overview of Lychee Production in the Asia-Pacific Region," in
+Papademetriou and Dent (eds.), *Lychee Production in the Asia-Pacific
+Region*, FAO RAP Publication 2002/04. Supplied: origin and spread;
+national area, production and yields; cultivars; climate and flushing;
+planting densities; fertiliser; irrigation; flush manipulation and
+girdling; cracking; pests and diseases; harvest; postharvest; trade;
+dried and canned volumes. Accessed 2026-11-20, opened directly on
+fao.org.
 
-[5] A USDA postharvest-handling reference handbook chapter on this
-crop, plus the same handbook's introductory chilling-injury and
-ethylene-sensitivity tables. Supplied: a note on year-to-year supply
-variation; packing and precooling guidance; storage regimes at several
-temperatures; controlled-atmosphere guidance; maturity notes (no further
-ripening after harvest); chilling-sensitivity assessment and the lowest-
-safe-temperature figure; ethylene and respiration data; postharvest
-disorders; decay-organism notes; quarantine treatment options; sulfur
-dioxide and acid-dip color-preservation treatment. Accessed 2026-09-30,
-PDF extracted.
+[4] Menzel, "Lychee Production in Australia," in the same volume.
+Supplied: the industry's size and regions; the cool-weather need;
+stored water; the labour ratio; spacing; irrigation scheduling and
+drought trials; soil and leaf standards; N trial yields; girdling;
+pests, bird and bat losses and netting costs; harvest season; grades and
+packing; export share and returns. Accessed 2026-11-20, opened directly
+on fao.org.
 
-[6] A peer-reviewed global-health journal case-control study of a
-serious acute toxic encephalopathy outbreak linked to this fruit in a
-major growing district in India. Supplied: case and death counts for one
-outbreak season; the statistical association between fruit consumption
-(and specifically skipping the evening meal) and illness; toxin level
-findings. Accessed 2026-09-30, abstract opened (further detail recorded
-in this project's internal hazard-reference material).
+[5] Huang, "Lychee Production in China," in the same volume. Supplied:
+area; Guangdong on- and off-year yields; propagation and rootstocks;
+slope; density; flush control; downy mildew; harvest stage and method;
+fresh, dried and frozen shares; SO2-ice packing; cold storage; the
+flower-induction temperatures. Accessed 2026-11-20, opened directly on
+fao.org.
 
-[7] Search-snippet-level material on world production statistics for
-this crop, including an international horticultural-science symposium
-proceedings article with specific reference to the dominant producing
-country, an economic-research-institute production/marketing/
-processing report, and an agribusiness news source. Supplied: a world
-production-tonnage range; the dominant producing country's approximate
-share and combined share with the second-largest producer; area and
-yield figures for both of those two countries for a specific recent
-year. Accessed 2026-09-30, search snippets only.
+[6] Singh and Babita, "Lychee Production in India," in the same volume.
+Supplied: production and area; Bihar's share; the India-China share of
+world output; cultivar yields and fruit chemistry; temperature limits;
+soil pH and lime tolerance; mycorrhiza; air-layering. Accessed
+2026-11-20, opened directly on fao.org.
 
-[8] A regional agricultural organization's technical production manual
-chapter specifically on this crop's production in Australia. Supplied:
-growing area, production tonnage, grower count, and regions; named
-cultivars; planting-density configurations; a documented labor
-management ratio (workers per hectare); protective-netting cost;
-pest notes; marketing notes. Accessed 2026-09-30, opened (summarized;
-chapter authorship as credited in the source volume's contents listing).
+[7] Siddiqui, "Lychee Production in Bangladesh," and Sotto, "Lychee
+Production in the Philippines," in the same volume. Supplied: days from
+fruit set to harvest; the Philippine cool-period figures. Accessed
+2026-11-20, opened directly on fao.org.
 
-[9] A USDA food-composition database pair of entries for raw and dried
-fruit of this species. Supplied: calorie, protein, water, and vitamin C
-content per 100 g for both raw and dried forms. Accessed 2026-09-30,
-opened (API data).
+[8] Paull, Chen and Chen, "Litchi," in USDA Agriculture Handbook 66.
+Supplied: supply variation; fruit description; quality and maturity;
+packaging; precooling; storage; CA; chilling; ethylene; respiration;
+browning and other disorders; postharvest pathogens; quarantine; SO2 and
+acid dip; the US sulfite rule. Accessed 2026-11-20, PDF downloaded and
+text-extracted.
 
-[10] Search-snippet-level material on water-use research for this crop,
-including an international horticultural-science symposium proceedings
-article with specific reference to South Africa, and an academic review
-article. Supplied: a mature-orchard annual water-use figure and peak
-daily rate; a pan-evaporation-based crop-coefficient ratio with no
-documented seasonal trend. Accessed 2026-09-30, search snippets only.
+[9] Shrivastava, Kumar, Thomas, Laserson, Bhushan, Carter, Chhabra and
+colleagues, "Association of acute toxic encephalopathy with litchi
+consumption in an outbreak in Muzaffarpur, India, 2014: a case-control
+study," *Lancet Global Health* 5(4): e458-e466 (2017). Supplied: case and
+death counts; hypoglycaemia; odds ratios; urine biomarkers; aril HGA and
+MCPG; recommendations. Accessed 2026-11-20, abstract opened (Europe PMC;
+the publisher and PMC pages refused automated access).
 
-[11] A standard international agricultural-drainage-water-management
-reference work's salt-tolerance annex. Supplied: confirmation that no
-entry for this crop or its genus exists in the reference. Accessed
-2026-09-30, opened (full page text searched).
+[10] Sanford, Isenberg, Carter and colleagues, "Quantitative HPLC-MS/MS
+analysis of toxins in soapberry seeds," *Food Chemistry* 264: 449-454
+(2018) (PMC5985522). Supplied: litchi seed HGA; the US ackee import
+limit. Accessed 2026-11-20: opened directly earlier the same day for the
+longan re-research, and the abstract re-checked on Europe PMC.
+
+[11] Isenberg, Carter, Hayes and colleagues, "Quantification of Toxins in
+Soapberry (Sapindaceae) Arils," *Journal of Agricultural and Food
+Chemistry* 64(27): 5607-5613 (2016). Supplied: the first quantitation of
+HGA in litchi arils. Accessed 2026-11-20, abstract opened (Europe PMC).
+
+[12] USDA FoodData Central, SR Legacy 169086, "Litchis, raw," and 169087,
+"Litchis, dried." Supplied: per-100 g composition. Accessed 2026-11-20,
+opened directly through the FoodData Central API.
+
+[13] Plant Pono (Hawaii), *Litchi chinensis* weed risk screening (April
+30, 2004). Supplied: score -6, low risk; trait notes. Accessed
+2026-11-20, opened directly.
+
+[14] Search-snippet-level material:
+- 2023-2025 world, China, India and Viet Nam production estimates from
+  trade and market-data sites;
+- a South African 'Tai So' water-use trial (Menzel and colleagues), with
+  a pan coefficient;
+- a South African basal-crop-coefficient study (*Acta Horticulturae*
+  1409);
+- a review of lychee water relations.
+
+Accessed 2026-11-20, search snippets only.

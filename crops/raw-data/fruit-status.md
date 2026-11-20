@@ -2,7 +2,7 @@
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
-| ackee | Blighia sapida |  | `longan` | 2026-11-20 | PROPOSED |
+| ackee | Blighia sapida |  | `longan`, `lychee` | 2026-11-20 | PROPOSED |
 | american_grape | Vitis labrusca types and interspecific hybrids | grape.md | `grape`, `muscadine` | 2026-11-17 | RESEARCHED |
 | apple_high_chill | Malus domestica | apple-high-chill.md |  | 2026-11-17 | RESEARCHED |
 | apple_low_chill | Malus domestica | apple-low-chill.md |  | 2026-11-17 | RESEARCHED |
@@ -74,8 +74,8 @@
 | longan | Dimocarpus longan | longan.md | `lychee`, `rambutan`, `pulasan`, `mata_kucing`, `ackee`, `mamoncillo` | 2026-11-20 | RESEARCHED |
 | loquat | Eriobotrya japonica | loquat.md | `medlar`, `quince`, `pear` | 2026-11-20 | RESEARCHED |
 | lowbush_blueberry | Vaccinium angustifolium, V. myrtilloides | lowbush-blueberry.md | `blueberry`, `lingonberry`, `cranberry`, `bilberry`, `half_high_blueberry` | 2026-11-20 | RESEARCHED |
-| lychee | Litchi chinensis | lychee.md | `longan` | 2026-09-30 | OUT-OF-DATE |
-| mamoncillo | Melicoccus bijugatus (Spanish lime) |  | `longan` | 2026-11-20 | PROPOSED |
+| lychee | Litchi chinensis | lychee.md | `longan`, `rambutan`, `pulasan`, `ackee`, `mamoncillo` | 2026-11-20 | RESEARCHED |
+| mamoncillo | Melicoccus bijugatus (Spanish lime) |  | `longan`, `lychee` | 2026-11-20 | PROPOSED |
 | mandarin | Citrus reticulata | mandarin.md | `kunenbo` | 2026-09-29 | OUT-OF-DATE |
 | mango | Mangifera indica | mango.md |  | 2026-10-10 | OUT-OF-DATE |
 | mangosteen | Garcinia mangostana | mangosteen.md |  | 2026-10-01 | OUT-OF-DATE |
@@ -105,10 +105,10 @@
 | plum | Prunus domestica, European plum | plum.md | `japanese_plum` | 2026-09-28 | OUT-OF-DATE |
 | pomegranate | Punica granatum | pomegranate.md |  | 2026-10-12 | OUT-OF-DATE |
 | pomelo | Citrus maxima | pomelo.md |  | 2026-10-03 | OUT-OF-DATE |
-| pulasan | Nephelium ramboutan-ake, syn. N. mutabile | pulasan.md | `longan` | 2026-10-03 | OUT-OF-DATE |
+| pulasan | Nephelium ramboutan-ake, syn. N. mutabile | pulasan.md | `longan`, `lychee` | 2026-10-03 | OUT-OF-DATE |
 | purple_passionfruit | Passiflora edulis | passionfruit.md | `yellow_passionfruit` | 2026-09-30 | OUT-OF-DATE |
 | quince | Cydonia oblonga | quince.md | `japanese_quince`, `loquat` | 2026-10-02 | OUT-OF-DATE |
-| rambutan | Nephelium lappaceum | rambutan.md | `longan` | 2026-09-30 | OUT-OF-DATE |
+| rambutan | Nephelium lappaceum | rambutan.md | `longan`, `lychee` | 2026-09-30 | OUT-OF-DATE |
 | rangpur_lime | Citrus × limonia (mandarin × citron) |  | `key_lime` | 2026-11-19 | PROPOSED |
 | raspberry | Rubus idaeus | raspberry.md |  | 2026-09-29 | OUT-OF-DATE |
 | red_currant | Ribes rubrum | red-currant.md |  | 2026-10-01 | OUT-OF-DATE |
