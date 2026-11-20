@@ -12,11 +12,12 @@
 | banana | Musa AAA dessert | banana.md | `highland_banana`, `plantain` | 2026-11-17 | RESEARCHED |
 | banana_passionfruit | Passiflora tripartita var. mollissima | banana-passionfruit.md |  | 2026-11-17 | RESEARCHED |
 | bergamot | Citrus bergamia | bergamot.md | `lemon` | 2026-11-17 | RESEARCHED |
+| bilberry | Vaccinium myrtillus |  | `lingonberry` | 2026-11-19 | PROPOSED |
 | bitter_orange | Citrus × aurantium | bitter-orange.md | `orange`, `chinotto`, `laraha`, `daidai`, `lemon` | 2026-11-17 | RESEARCHED |
 | black_raspberry | Rubus occidentalis | black-raspberry.md |  | 2026-11-17 | RESEARCHED |
 | blackberry | Rubus subgenus Rubus | blackberry.md |  | 2026-11-17 | RESEARCHED |
 | blackcurrant | Ribes nigrum | blackcurrant.md |  | 2026-11-17 | RESEARCHED |
-| blueberry | Vaccinium corymbosum | blueberry.md |  | 2026-11-17 | RESEARCHED |
+| blueberry | Vaccinium corymbosum | blueberry.md | `lingonberry` | 2026-11-17 | RESEARCHED |
 | bokbunja | Rubus coreanus | bokbunja.md |  | 2026-11-17 | RESEARCHED |
 | breadfruit | Artocarpus altilis | breadfruit.md | `jackfruit` | 2026-11-17 | RESEARCHED |
 | buddhas_hand | Citrus medica var. sarcodactylis | buddhas-hand.md |  | 2026-11-17 | RESEARCHED |
@@ -29,7 +30,7 @@
 | citron_melon | Citrullus amarus | watermelon.md | `seed_watermelon`, `watermelon` | 2026-11-17 | RESEARCHED |
 | coconut | Cocos nucifera | coconut.md |  | 2026-11-17 | RESEARCHED |
 | coyo | Persea schiedeana | coyo.md |  | 2026-11-17 | RESEARCHED |
-| cranberry | Vaccinium macrocarpon | cranberry.md |  | 2026-11-17 | RESEARCHED |
+| cranberry | Vaccinium macrocarpon | cranberry.md | `lingonberry` | 2026-11-17 | RESEARCHED |
 | daidai | Citrus × aurantium, daidai group (kabusu and kaiseitō; var. *daidai*) | daidai.md | `bitter_orange`, `hetsuka_daidai`, `natsudaidai`, `kabosu` | 2026-11-16 | RESEARCHED |
 | date_palm | Phoenix dactylifera | date-palm.md |  | 2026-11-17 | RESEARCHED |
 | dragon_fruit | Selenicereus undatus and red-fleshed relatives | dragon-fruit.md |  | 2026-11-17 | RESEARCHED |
@@ -66,10 +67,10 @@
 | lakoocha | Artocarpus lakoocha (monkey jack) |  | `jackfruit` | 2026-11-19 | PROPOSED |
 | laraha | *C.* × *aurantium*, Curaçao landrace | bitter-orange.md | `bitter_orange` | 2026-11-17 | REJECTED |
 | lemon | Citrus × limon | lemon.md | `persian_lime`, `citron`, `bitter_orange`, `meyer_lemon`, `sweet_lemon`, `bergamot` | 2026-11-19 | RESEARCHED |
-| lingonberry | Vaccinium vitis-idaea | lingonberry.md |  | 2026-10-06 | OUT-OF-DATE |
+| lingonberry | Vaccinium vitis-idaea | lingonberry.md | `blueberry`, `cranberry`, `lowbush_blueberry`, `bilberry` | 2026-11-19 | RESEARCHED |
 | longan | Dimocarpus longan | longan.md |  | 2026-09-30 | OUT-OF-DATE |
 | loquat | Eriobotrya japonica | loquat.md |  | 2026-10-02 | OUT-OF-DATE |
-| lowbush_blueberry | Vaccinium angustifolium, V. myrtilloides | lowbush-blueberry.md |  | 2026-10-03 | OUT-OF-DATE |
+| lowbush_blueberry | Vaccinium angustifolium, V. myrtilloides | lowbush-blueberry.md | `lingonberry` | 2026-10-03 | OUT-OF-DATE |
 | lychee | Litchi chinensis | lychee.md |  | 2026-09-30 | OUT-OF-DATE |
 | mandarin | Citrus reticulata | mandarin.md |  | 2026-09-29 | OUT-OF-DATE |
 | mango | Mangifera indica | mango.md |  | 2026-10-10 | OUT-OF-DATE |
