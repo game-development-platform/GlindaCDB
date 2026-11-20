@@ -53,8 +53,9 @@ It has a geographical indication (GI) and a regional trademark [11], and
 more agronomic data than hetsuka daidai.
 
 **Separate entries:**
-- **Yuzu** (`yuzu`), **sudachi** (`sudachi`) and **kunenbo** (`kunenbo`):
-  proposed rows, all named in the parentage claims [4].
+- **Yuzu** (`yuzu`) and **sudachi** (`sudachi`): proposed rows, named in
+  the parentage claims [4]. **Kunenbo** (`kunenbo`), also named there,
+  passed its gate check on 2026-11-19 and is researched in `kunenbo.md`.
 - **Ichang papeda** (`ichang_papeda`): proposed here because of the
   papeda-parent claim [1][3]; rejected at its gate check (below).
 

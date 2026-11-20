@@ -22,6 +22,7 @@
 | breadfruit | Artocarpus altilis | breadfruit.md | `jackfruit` | 2026-11-17 | RESEARCHED |
 | buddhas_hand | Citrus medica var. sarcodactylis | buddhas-hand.md |  | 2026-11-17 | RESEARCHED |
 | bush_cherry | Prunus tomentosa | bush-cherry.md |  | 2026-11-17 | RESEARCHED |
+| cam_xoan | Citrus sp. (Mekong Delta 'cam xoàn' orange; labelled C. nobilis in one source) |  | `kunenbo` | 2026-11-19 | PROPOSED |
 | cantaloupe | Cucumis melo, Reticulatus and Cantalupensis groups | cantaloupe.md | `honeydew` | 2026-11-17 | RESEARCHED |
 | champedak | Artocarpus integer | champedak.md | `jackfruit` | 2026-11-17 | RESEARCHED |
 | cherry_plum | Prunus cerasifera | cherry-plum.md | `japanese_plum` | 2026-11-17 | RESEARCHED |
@@ -62,7 +63,7 @@
 | kiwiberry | Actinidia arguta; A. kolomikta as a cultivar group | kiwiberry.md | `kiwifruit` | 2026-11-19 | RESEARCHED |
 | kiwifruit | Actinidia deliciosa | kiwifruit.md | `kiwiberry` | 2026-11-19 | RESEARCHED |
 | korla_pear | Pyrus sinkiangensis | korla-pear.md | `asian_pear`, `pear` | 2026-11-19 | RESEARCHED |
-| kunenbo | Citrus nobilis (Kunenbo mandarin) |  | `hassaku`, `kabosu` | 2026-11-19 | PROPOSED |
+| kunenbo | Citrus nobilis (Kunenbo mandarin) | kunenbo.md | `hassaku`, `kabosu`, `mandarin`, `satsuma`, `natsudaidai`, `cam_xoan`, `shiikuwasha` | 2026-11-19 | RESEARCHED |
 | kwai_muk | Artocarpus lingnanensis (identity uncertain) |  | `jackfruit` | 2026-11-19 | PROPOSED |
 | lakoocha | Artocarpus lakoocha (monkey jack) |  | `jackfruit` | 2026-11-19 | PROPOSED |
 | laraha | *C.* × *aurantium*, Curaçao landrace | bitter-orange.md | `bitter_orange` | 2026-11-17 | REJECTED |
@@ -72,7 +73,7 @@
 | loquat | Eriobotrya japonica | loquat.md |  | 2026-10-02 | OUT-OF-DATE |
 | lowbush_blueberry | Vaccinium angustifolium, V. myrtilloides | lowbush-blueberry.md | `lingonberry` | 2026-10-03 | OUT-OF-DATE |
 | lychee | Litchi chinensis | lychee.md |  | 2026-09-30 | OUT-OF-DATE |
-| mandarin | Citrus reticulata | mandarin.md |  | 2026-09-29 | OUT-OF-DATE |
+| mandarin | Citrus reticulata | mandarin.md | `kunenbo` | 2026-09-29 | OUT-OF-DATE |
 | mango | Mangifera indica | mango.md |  | 2026-10-10 | OUT-OF-DATE |
 | mangosteen | Garcinia mangostana | mangosteen.md |  | 2026-10-01 | OUT-OF-DATE |
 | marang | Artocarpus odoratissimus |  | `jackfruit` | 2026-11-19 | PROPOSED |
@@ -81,7 +82,7 @@
 | meyer_lemon | Citrus × meyeri | meyer-lemon.md | `lemon` | 2026-10-03 | OUT-OF-DATE |
 | mountain_papaya | Vasconcellea pubescens | mountain-papaya.md |  | 2026-10-03 | OUT-OF-DATE |
 | muscadine | Vitis rotundifolia | grape.md | `american_grape`, `grape` | 2026-11-17 | RESEARCHED |
-| natsudaidai | Citrus natsudaidai (natsumikan, incl. amanatsu) | natsudaidai.md | `daidai`, `hassaku`, `hetsuka_daidai`, `hyuganatsu`, `haruka` | 2026-11-17 | RESEARCHED |
+| natsudaidai | Citrus natsudaidai (natsumikan, incl. amanatsu) | natsudaidai.md | `daidai`, `hassaku`, `hetsuka_daidai`, `hyuganatsu`, `haruka`, `kunenbo` | 2026-11-17 | RESEARCHED |
 | nectarine | Prunus persica, smooth-skinned | nectarine.md |  | 2026-10-18 | OUT-OF-DATE |
 | olive | Olea europaea | olive.md |  | 2026-10-11 | OUT-OF-DATE |
 | orange | Citrus × sinensis | orange.md | `bitter_orange` | 2026-10-10 | OUT-OF-DATE |
@@ -108,9 +109,9 @@
 | rangpur_lime | Citrus × limonia (mandarin × citron) |  | `key_lime` | 2026-11-19 | PROPOSED |
 | raspberry | Rubus idaeus | raspberry.md |  | 2026-09-29 | OUT-OF-DATE |
 | red_currant | Ribes rubrum | red-currant.md |  | 2026-10-01 | OUT-OF-DATE |
-| satsuma | Citrus unshiu | satsuma.md |  | 2026-10-03 | OUT-OF-DATE |
+| satsuma | Citrus unshiu | satsuma.md | `kunenbo` | 2026-10-03 | OUT-OF-DATE |
 | seed_watermelon | Citrullus lanatus seed types and C. mucosospermus | watermelon.md | `citron_melon`, `watermelon` | 2026-10-10 | OUT-OF-DATE |
-| shiikuwasha | Citrus depressa (Okinawan sour citrus) |  | `hetsuka_daidai` | 2026-11-19 | PROPOSED |
+| shiikuwasha | Citrus depressa (Okinawan sour citrus) |  | `hetsuka_daidai`, `kunenbo` | 2026-11-19 | PROPOSED |
 | sour_cherry | P. cerasus | cherry.md | `sweet_cherry` | 2026-09-28 | OUT-OF-DATE |
 | strawberry | Fragaria × ananassa | strawberry.md | `woodland_strawberry` | 2026-10-10 | OUT-OF-DATE |
 | sudachi | Citrus sudachi (Tokushima sour citrus) |  | `hetsuka_daidai`, `kabosu` | 2026-11-19 | PROPOSED |

@@ -276,7 +276,8 @@ centre in Higashi-Hiroshima [2].
 - **Labour, rootstock, soil pH, salinity, water use, photoperiod,
   elevation, years to bearing, soil biology** were not sourced for
   hassaku.
-- **Kunenbo** (`kunenbo`) needs a gate-check decision (Naming and scope).
+- **Kunenbo** (`kunenbo`) passed its gate check on 2026-11-19 and is
+  researched in `kunenbo.md`.
 
 ## Estimates and derivations
 
