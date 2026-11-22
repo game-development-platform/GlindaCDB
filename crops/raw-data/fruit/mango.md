@@ -54,7 +54,8 @@ Peninsula [8]):
 - bachang (`bachang`, *M. foetida*), whose astringent fruit "can be eaten
   pickled" [8]; since researched in `bachang.md`;
 - binjai (`binjai`, *M. caesia*) [8];
-- bambangan (`bambangan`, *M. pajang*) [8].
+- bambangan (`bambangan`, *M. pajang*) [8]; since researched in
+  `bambangan.md`.
 
 ## Research findings
 

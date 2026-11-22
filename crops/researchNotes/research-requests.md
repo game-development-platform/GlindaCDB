@@ -224,6 +224,51 @@ are never committed: this project keeps citations and findings only.
 - The genus monograph (Kostermans and Bompard 1993) is already requested
   under mango as `mango--kostermans-bompard-1993`; it serves bachang too.
 
+### bambangan (2026-11-22)
+
+- [ ] **`bambangan--iucn-1998`** (Online): World Conservation Monitoring
+  Centre, "*Mangifera pajang*," *IUCN Red List of Threatened Species*
+  1998: e.T31394A9625586, doi:10.2305/IUCN.UK.1998.RLTS.T31394A9625586.en.
+  - **Where:** iucnredlist.org (the page needs JavaScript).
+  - **Needed for:** the basis of the Vulnerable listing and any threats
+    named.
+- [ ] **`bambangan--ums-proximate-2016`** (Online): Mohd Hafizuddin
+  Shaiful Amran, "Analisis proksimat *Mangifera pajang* (buah bambangan)"
+  (Universiti Malaysia Sabah, 9 June 2016; in Malay).
+  - **Where:** cited by the Wikipedia article "Mangifera pajang"; search
+    the UMS site.
+  - **Needed for:** fresh-pulp water, energy, protein, fat and sugars.
+- [ ] **`bambangan--jahurul-2019`** (Library): Jahurul, M.H.A., Zaidul,
+  I.S.M., Beh, L., Sharifudin, M.S., Siddiquee, S., Hasmadi, M., Sahena,
+  F., Mansoor, A.H., Lee, J.S. and Jinap, S., "Valuable components of
+  bambangan fruit (*Mangifera pajang*) and its co-products: a review,"
+  *Food Research International* 115: 105-115 (2019),
+  doi:10.1016/j.foodres.2018.08.017.
+  - **Needed for:** proximate composition, production and trade figures,
+    seed and kernel shares, and the kernel-fat yield basis.
+- [ ] **`bambangan--regis-baptist-2012`** (Library): Regis, P. and
+  Baptist, J.J., *Food Heritage of Sabah: A Cultural Perspective*
+  (Department of National Heritage, Malaysia, 2012), ISBN
+  978-983-3862-19-1.
+  - **Needed for:** the traditional pickle method and salt ratio, and any
+    ritual or festival use.
+- [ ] **`bambangan--ibrahim-2013`** (Library): Ibrahim, M., Ismail, A.,
+  Al-Sheraji, S.H., Azlan, A. and Hamid, A.A., "Effects of *Mangifera
+  pajang* Kostermans juice on plasma antioxidant status and liver and
+  kidney function in normocholesterolemic subjects," *Journal of
+  Functional Foods* 5(4): 1900-1908 (2013), doi:10.1016/j.jff.2013.09.011.
+  - **Needed for:** the juice processing and dose, and any safety
+    findings.
+- [ ] **`bambangan--prosea-2-1991`** (Library): Verheij, E.W.M. and
+  Coronel, R.E. (eds.), *Plant Resources of South-East Asia* No. 2:
+  Edible Fruits and Nuts (Pudoc, Wageningen, 1991), the *Mangifera*
+  entries by J.M. Bompard.
+  - **Needed for:** whether the printed bambangan entry really shares
+    bachang's agronomy paragraph (spacing, budding, pests, West Java
+    harvest), as the Pl@ntUse copy does.
+- The Fairchild graft paper (`bachang--campbell-2004`) and the genus
+  monograph (`mango--kostermans-bompard-1993`) serve bambangan too.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin
