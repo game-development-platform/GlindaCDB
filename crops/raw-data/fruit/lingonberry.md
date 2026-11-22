@@ -35,7 +35,7 @@ name comes from Swedish, and lingonberry is Sweden's national fruit [2].
   - cranberry (`cranberry`), `cranberry.md`;
   - lowbush blueberry (`lowbush_blueberry`), `lowbush-blueberry.md`,
     which shares the rhizomatous, rake-harvested habit [1].
-- **Proposed:** bilberry (`bilberry`, *V. myrtillus*), the other main
+- bilberry (`bilberry`, *V. myrtillus*), `bilberry.md`: the other main
   Nordic wild *Vaccinium* berry [4].
 
 ## Research findings

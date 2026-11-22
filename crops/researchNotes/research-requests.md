@@ -269,6 +269,45 @@ are never committed: this project keeps citations and findings only.
 - The Fairchild graft paper (`bachang--campbell-2004`) and the genus
   monograph (`mango--kostermans-bompard-1993`) serve bambangan too.
 
+### bilberry (2026-11-22)
+
+- [ ] **`bilberry--finland-seasonal-act-2025`** (Online): Finnish Government
+  and Ministry for Foreign Affairs notices on wild-berry pickers under the
+  Seasonal Workers Act (2025), including "2,600 seasonal work visas
+  granted to foreign wild-berry pickers".
+  - **Where:** valtioneuvosto.fi and um.fi (the pages return no content to
+    scripts).
+  - **Needed for:** the permit rules, pay terms and visa numbers.
+- [ ] **`bilberry--abo-caesium-2023`** (Online): the 2023 Åbo Akademi study
+  of caesium-137 in bilberries picked in 2019, *Journal of Food
+  Composition and Analysis* (article S0889157523004970).
+  - **Where:** research.abo.fi (the PDF link returns a page to scripts).
+  - **Needed for:** current activity levels and the dose estimate.
+- [ ] **`bilberry--nestby-2014`** (Online): Nestby, R. and colleagues,
+  planted *V. myrtillus* on agricultural land in mid-Norway, *Journal of
+  Berry Research* 4(3) (2014), and the NIBIO forest-field trial report
+  (NIBIO Brage handle 11250/2499538).
+  - **Needed for:** semi-cultivation yields, fertilizer and pruning
+    effects, and years to bearing.
+- [ ] **`bilberry--herbalgram-2012`** (Online): Foster, S. and Blumenthal,
+  M., "The adulteration of commercial bilberry extracts," *HerbalGram* 96
+  (2012).
+  - **Where:** herbalgram.org (returns a stub page to scripts).
+  - **Needed for:** the full adulterant list and test methods.
+- [ ] **`bilberry--kardell-eriksson-1995`** (Library): Kardell, L. and
+  Eriksson, L., the Swedish 15-year bilberry and lingonberry yield and
+  fertilization study (1990 and 1995 reports).
+  - **Needed for:** year-by-year yields, the frost link, fertilizer
+    response.
+- [ ] **`bilberry--turtiainen-2011`** (Library): Turtiainen, M. and
+  colleagues (2011), Finnish bilberry and lingonberry yields in poor and
+  abundant years and the share picked.
+  - **Needed for:** the 92-312 million kg range and the 5-6% share picked.
+- [ ] **`bilberry--small-catling-1999`** (Library): Small, E. and Catling,
+  P.M., *Canadian Medicinal Crops* (NRC Research Press, Ottawa, 1999),
+  the bilberry chapter.
+  - **Needed for:** the North American range and the medicinal trade.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

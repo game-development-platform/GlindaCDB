@@ -43,7 +43,8 @@ as 1,500 genetically distinct wild blueberry plants" [1].
   - **Western huckleberries:** none of these occur in Maine [1].
   - **Bilberry:** European bilberry (*V. myrtillus*) does not occur in
     North America apart from a small disjunct population [1]. It is its
-    own row, `bilberry`.
+    own row, `bilberry` (`bilberry.md`), whose sources place it in
+    western North America; see that doc's Naming and scope.
   - **Highbush:** *V. corymbosum* is the planted crop `blueberry`
     (`blueberry.md`) [1].
 
@@ -52,7 +53,7 @@ as 1,500 genetically distinct wild blueberry plants" [1].
   counterpart;
 - lingonberry (`lingonberry`, `lingonberry.md`);
 - cranberry (`cranberry`, `cranberry.md`);
-- bilberry (`bilberry`, proposed).
+- bilberry (`bilberry`, `bilberry.md`).
 
 **Proposed:**
 - **Half-high blueberry** (`half_high_blueberry`, *V. angustifolium* × *V.
