@@ -335,6 +335,35 @@ are never committed: this project keeps citations and findings only.
 - The printed PROSEA entry is already requested as
   `bambangan--prosea-2-1991`.
 
+### clementine (2026-11-22)
+
+- [ ] **`clementine--montalt-2021`** (Online): Montalt, R. and colleagues,
+  "Parthenocarpy and self-incompatibility in
+  mandarins," *Agronomy* 11(10): 2023 (2021).
+  - **Where:** mdpi.com (returns a stub page to scripts).
+  - **Needed for:** set and seed counts across clementine cultivars.
+- [ ] **`clementine--corse-igp`** (Online): the "Clémentine de Corse" IGP
+  specification (INAO, IG/19/01).
+  - **Where:** inao.gouv.fr (the extranet PDF did not download).
+  - **Needed for:** the exact colour, size, juice, leaf and
+    no-degreening rules.
+- [ ] **`clementine--morocco-stats`** (Online): Moroccan clementine area,
+  production and exports by season (Ministry of Agriculture, Office des
+  Changes, or the USDA GAIN Morocco Citrus Annual).
+  - **Needed for:** replacing snippet figures that mix clementines with
+    other mandarins.
+- [ ] **`clementine--spain-area`** (Online): MAPA *Anuario de
+  Estadística* or the *Encuesta sobre superficies y rendimientos*,
+  clementine area and yield.
+  - **Needed for:** yield per hectare.
+- [ ] **`clementine--agusti-fruit-set`** (Library): Agustí, M. and
+  colleagues on girdling and gibberellic acid for clementine fruit set
+  (for example, *Citricultura*, Mundi-Prensa).
+  - **Needed for:** practice timings and responses.
+- [ ] **`clementine--samaan-1982`** (Library): Samaan, L.G., "Studies on
+  the origin of Clementine tangerine," *Euphytica* 31: 167-173 (1982).
+  - **Needed for:** the origin debate.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

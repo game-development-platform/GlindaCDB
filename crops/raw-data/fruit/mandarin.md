@@ -64,7 +64,8 @@ licensed under this project's MIT license (see repository `LICENSE`).
 
 **Proposed:**
 - clementine (`clementine`, *Citrus × clementina*): its pollination and
-  water data are distinct (Findings 2 and 5) [3][9];
+  water data are distinct (Findings 2 and 5) [3][9]; since researched in
+  `clementine.md`;
 - tangelo (`tangelo`, *Citrus × tangelo*): mandarin × grapefruit, with
   'Minneola' and 'Orlando' [2].
 
@@ -445,8 +446,9 @@ project has a place for this kind of health/safety data.
   Dancy's grove at Buena Vista and brought into cultivation in 1871 or
   1872 [1]; UF/IFAS says it came from a 'Moragne' seed in 1867 in Col.
   F. L. Dancy's grove at Orange Mills [15].
-- **Separate entries:** clementine and tangelo are proposed as their own
-  crops; this doc keeps them as cultivars until they are researched.
+- **Separate entries:** clementine now has its own doc,
+  `clementine.md`. Tangelo is proposed as its own crop; this doc keeps it
+  as a cultivar until it is researched.
 - **Cultural detail:** the New Year gift custom came only from the
   summary portion of a truncated fetch [8].
 - **Works identified, not yet read:** these would settle the pollination

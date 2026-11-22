@@ -33,7 +33,7 @@
 | chinotto | Citrus myrtifolia (possibly *C.* × *aurantium* var. *myrtifolia*) | chinotto.md | `bitter_orange` | 2026-11-17 | RESEARCHED |
 | citron | Citrus medica | citron.md | `key_lime`, `lemon` | 2026-11-17 | RESEARCHED |
 | citron_melon | Citrullus amarus | watermelon.md | `seed_watermelon`, `watermelon` | 2026-11-17 | RESEARCHED |
-| clementine | Citrus × clementina (willowleaf mandarin × sweet orange) |  | `mandarin` | 2026-11-20 | PROPOSED |
+| clementine | Citrus × clementina (willowleaf mandarin × sweet orange) | clementine.md | `mandarin`, `orange`, `satsuma`, `tangelo` | 2026-11-22 | RESEARCHED |
 | coconut | Cocos nucifera | coconut.md |  | 2026-11-17 | RESEARCHED |
 | coyo | Persea schiedeana | coyo.md |  | 2026-11-17 | RESEARCHED |
 | cranberry | Vaccinium macrocarpon | cranberry.md | `lingonberry`, `lowbush_blueberry`, `bilberry` | 2026-11-17 | RESEARCHED |
@@ -95,7 +95,7 @@
 | natsudaidai | Citrus natsudaidai (natsumikan, incl. amanatsu) | natsudaidai.md | `daidai`, `hassaku`, `hetsuka_daidai`, `hyuganatsu`, `haruka`, `kunenbo` | 2026-11-17 | RESEARCHED |
 | nectarine | Prunus persica, smooth-skinned | nectarine.md |  | 2026-10-18 | OUT-OF-DATE |
 | olive | Olea europaea | olive.md |  | 2026-10-11 | OUT-OF-DATE |
-| orange | Citrus × sinensis | orange.md | `bitter_orange`, `mandarin`, `cam_xoan` | 2026-10-10 | OUT-OF-DATE |
+| orange | Citrus × sinensis | orange.md | `bitter_orange`, `mandarin`, `cam_xoan`, `clementine` | 2026-10-10 | OUT-OF-DATE |
 | oriental_melon | Cucumis melo Makuwa group; chamoe, makuwa uri | oriental-melon.md |  | 2026-10-06 | OUT-OF-DATE |
 | papaya | Carica papaya | papaya.md |  | 2026-09-29 | OUT-OF-DATE |
 | peach | Prunus persica | peach.md |  | 2026-10-12 | OUT-OF-DATE |
@@ -119,7 +119,7 @@
 | rangpur_lime | Citrus × limonia (mandarin × citron) |  | `key_lime`, `mandarin` | 2026-11-19 | PROPOSED |
 | raspberry | Rubus idaeus | raspberry.md |  | 2026-09-29 | OUT-OF-DATE |
 | red_currant | Ribes rubrum | red-currant.md |  | 2026-10-01 | OUT-OF-DATE |
-| satsuma | Citrus unshiu | satsuma.md | `kunenbo`, `mandarin` | 2026-10-03 | OUT-OF-DATE |
+| satsuma | Citrus unshiu | satsuma.md | `kunenbo`, `mandarin`, `clementine` | 2026-10-03 | OUT-OF-DATE |
 | seed_watermelon | Citrullus lanatus seed types and C. mucosospermus | watermelon.md | `citron_melon`, `watermelon` | 2026-10-10 | OUT-OF-DATE |
 | shiikuwasha | Citrus depressa (Okinawan sour citrus) |  | `hetsuka_daidai`, `kunenbo` | 2026-11-19 | PROPOSED |
 | sour_cherry | P. cerasus | cherry.md | `sweet_cherry` | 2026-09-28 | OUT-OF-DATE |
@@ -129,7 +129,7 @@
 | sweet_granadilla | Passiflora ligularis | sweet-granadilla.md |  | 2026-10-03 | OUT-OF-DATE |
 | sweet_lemon | Citrus limetta | sweet-lemon.md | `lemon` | 2026-10-06 | OUT-OF-DATE |
 | tachibana | Citrus tachibana (wild Japanese mandarin) |  | `hyuganatsu`, `mandarin` | 2026-11-19 | PROPOSED |
-| tangelo | Citrus × tangelo (mandarin × grapefruit) |  | `mandarin` | 2026-11-20 | PROPOSED |
+| tangelo | Citrus × tangelo (mandarin × grapefruit) |  | `mandarin`, `clementine` | 2026-11-20 | PROPOSED |
 | ume | Prunus mume | ume.md | `japanese_plum` | 2026-10-02 | OUT-OF-DATE |
 | watermelon | Citrullus lanatus dessert | watermelon.md | `citron_melon`, `seed_watermelon` | 2026-10-10 | OUT-OF-DATE |
 | wet_tropics_mangoes | Mangifera odorata, M. foetida, M. caesia, M. pajang | wet-tropics-mangoes.md | `bachang`, `bambangan`, `binjai` | 2026-10-12 | OUT-OF-DATE |
