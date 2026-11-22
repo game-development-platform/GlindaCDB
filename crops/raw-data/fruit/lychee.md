@@ -45,13 +45,14 @@ licensed under this project's MIT license (see repository `LICENSE`).
 - rambutan (`rambutan`, `rambutan.md`): with longan, the most widely
   cultivated Sapindaceae fruits besides lychee [3];
 - pulasan (`pulasan`, `pulasan.md`);
-- ackee (`ackee`, proposed): its hypoglycin A import limit is the
+- ackee (`ackee`, `ackee.md`): its hypoglycin A import limit is the
   yardstick for lychee toxin (Finding 2) [10];
 - mamoncillo (`mamoncillo`, proposed): the West Indian *quenepe*, from
   which the French Haitian name *quenepe chinois* distinguishes lychee
   [1].
 
-**Proposed:** none new (ackee and mamoncillo are already proposed).
+**Proposed:** none new (mamoncillo is already proposed; ackee has
+since been researched).
 
 ## Research findings
 

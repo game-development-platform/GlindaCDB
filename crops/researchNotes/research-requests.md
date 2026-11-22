@@ -130,6 +130,49 @@ are never committed: this project keeps citations and findings only.
   - **Needed for:** traditional uses and processing in India, landrace
     groups and the older yield figures.
 
+### ackee (2026-11-22)
+
+- [ ] **`ackee--ekue-2010`** (Online): Ekué, M.R.M., Sinsin, B.,
+  Eyog-Matig, O. and Finkeldey, R., "Uses, traditional management,
+  perception of variation and preferences in ackee (*Blighia sapida*
+  K.D. Koenig) fruit traits in Benin: implications for domestication and
+  conservation," *Journal of Ethnobiology and Ethnomedicine* 6: 12 (2010).
+  - **Where:** https://ethnobiomed.biomedcentral.com/articles/10.1186/1746-4269-6-12
+    (open access, but the PDF link returns a page instead of the file to
+    scripts).
+  - **Needed for:** West African uses (soap, food, shade, the "myth"
+    value), management in farm systems, preferred fruit traits.
+- [ ] **`ackee--cabi-datasheet`** (Online): CABI Compendium datasheet,
+  *Blighia sapida* (akee).
+  - **Where:** search cabidigitallibrary.org for "Blighia sapida
+    datasheet" (CABI returns 403 to scripts).
+  - **Needed for:** introduced and naturalized range, invasive listings,
+    pests and diseases, plant-quarantine rules.
+- [ ] **`ackee--bowen-forbes-2011`** (Library): Bowen-Forbes, C.S. and
+  Minott, D.A., "Tracking hypoglycins A and B over different maturity
+  stages: implications for detoxification of ackee (*Blighia sapida* K.D.
+  Koenig) fruits," *J. Agric. Food Chem.* 59(8): 3869-3875 (2011),
+  doi:10.1021/jf104623c.
+  - **Needed for:** 'Butter' vs 'Cheese' toxin levels, the season effect,
+    and whether the 271 mg/kg ripe-aril figure is dry or fresh weight.
+- [ ] **`ackee--kean-1975`** (Library): Kean, E.A. (ed.), *Hypoglycin*
+  (Academic Press, New York, 1975).
+  - **Needed for:** toxin levels by fruit part and stage, the history of
+    vomiting sickness, dose data.
+- [ ] **`ackee--goldson-barnaby-2016`** (Library): Goldson-Barnaby, A. and
+  Bailey, D., "Ackee (*Blighia sapida* K.D. Koenig): a review of its
+  economic importance, bioactive components, associated health benefits
+  and commercial applications," *International Journal of Fruit Science*
+  16(4) (2016).
+  - **Needed for:** production and export figures, processing steps and
+    yields, product range.
+- [ ] **`ackee--sinmisola-2019`** (Library): Sinmisola, A., Oluwasesan,
+  B.M. and Chukwuemeka, A.P., "*Blighia sapida* K.D. Koenig: a review on
+  its phytochemistry, pharmacological and nutritional properties,"
+  *J. Ethnopharmacol.* 235: 446-459 (2019), doi:10.1016/j.jep.2019.01.017.
+  - **Needed for:** composition, the cultivar count (up to 48), years to
+    bearing from cuttings, ethnomedical uses.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

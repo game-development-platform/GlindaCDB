@@ -49,8 +49,8 @@ Chinese [1].
 **Proposed:**
 - **Ackee** (`ackee`, *Blighia sapida*): the Sapindaceae fruit whose
   hypoglycin A import limit is the yardstick for longan seed toxin
-  (Finding 4) [6]. It is Jamaica's commercial fruit and is not yet in
-  this project.
+  (Finding 4) [6]. It is Jamaica's commercial fruit, since researched
+  in `ackee.md`.
 - **Mamoncillo** (`mamoncillo`, *Melicoccus bijugatus*): a Caribbean
   Sapindaceae fruit tested alongside longan, with seed HGA of 90.5-970
   µg/g [6].
