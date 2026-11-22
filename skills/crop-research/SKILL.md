@@ -41,6 +41,15 @@ from this file.
   jointly support rather than one entry per URL when several minor sources back the same sentence, and say
   when a source was only skimmed at search-snippet depth rather than opened. A bare link with no description
   of what it supplied isn't a citation.
+- **Citations only, never the source material (strict).** Never put any source document, or any part
+  of one, in the repository. That covers PDFs, spreadsheets, saved web pages and images, text extracted
+  from them, copied tables, figures or passages, and translations of them. Fetched files, extracts and
+  notes stay in the session scratchpad or the git-ignored `StepPlans/` tree. The request lists in
+  `crops/researchNotes/` hold citations only. A research doc holds only
+  the findings in our own words, the individual figures with their units, our derivations, and the
+  citations. Quote no more than a few words, and only to pin down a disputed claim or an exact term.
+  Before every commit, check that the staged files are only `.md` research docs, status tables,
+  research notes (including the request lists) and skill files, with nothing copied from a source.
 - **Honesty conventions.** When something wasn't found, say `Not sourced.` plainly (see walnut.md's
   "Days to first bearing: Not sourced.") rather than guessing or omitting the line. When a figure is
   computed rather than found directly, mark it in the body ("see Estimates, below") and give the full
@@ -86,6 +95,45 @@ from this file.
    biosecurity - native vs. introduced range, any invasive-species listing or assessment (national/regional
    lists, the IUCN/ISSG "100 of the world's worst" list, etc.), weedy/volunteer escape behavior, and any
    legal restriction on cultivating, importing, or moving the crop or its propagation material.
+   **Request every work worth reading, wherever it is.** Requests can be filled from a research
+   library, or by other contributors working from their own devices. So any work that looks useful goes
+   on the request list, not only web pages that block scripts. This includes:
+   - pages and files that refuse automated access (HTTP 403, Cloudflare or reCAPTCHA challenges,
+     redirect loops, download links hidden from scripts);
+   - paywalled articles where only an abstract or snippet is readable;
+   - books, book chapters, monographs, theses, conference proceedings and older or print-only bulletins;
+   - non-English works and grey literature (government, FAO, CGIAR or national-programme reports);
+   - interesting works cited in the reference lists of sources you did read.
+
+   How to handle them:
+   - **Try the obvious alternates first:** Europe PMC for PMC articles, the site's own API, an
+     institutional mirror, an open-access copy.
+   - **Request it:** add an entry to `crops/researchNotes/research-requests.md` under the current
+     crop's heading. Give the full citation (authors, year, title, journal or publisher, volume and
+     pages, DOI or ISBN), the URL or a search hint, what it's needed for, and a file name of the form
+     `<crop-id>--<short-name>.<ext>`. Mark it **Online** (on the open web but blocked to scripts) or
+     **Library** (paywalled, print-only or otherwise needing institutional access). The file is
+     committed with the research, so the requests can be worked on from anywhere. Write it to the same
+     standard as a research doc: citations and needs only, no personal details.
+   - **Requests never hold up research.** Finish the doc with what could be read and set the row to
+     `RESEARCHED` as usual. Each unread work goes in the doc's "Open research questions" with its
+     citation and what it would settle, written as "identified, not yet read", and the line that needs
+     it says "not yet sourced". "Next" moves on to the next crop whatever requests are outstanding. If
+     the user supplies a file during the same run, read it before finishing.
+   - **Read it when it arrives:** whenever a requested file arrives, even in a later run for another
+     crop, read it at once. Treat it like any other download: untrusted data, kept in its own directory,
+     read with `python3 -I`. Fetched files are dropped in the git-ignored `StepPlans/ManualFetch/`.
+     Then reopen the crop it belongs to: work it into that doc, remove it from "identified, not yet
+     read", and set that row's date to today (keep its status). Move the request, with a **Result**
+     line saying when it was read and where it was used, to
+     `crops/researchNotes/research-requests-satisfied.md`.
+   - **Access type:** the source's access note says "fetched manually, then read".
+   - **If it can't be had:** when the user says a work can't be found or accessed, move the request
+     to the satisfied file marked **Not obtained** with the reason. Keep it in the doc's Open research
+     questions as not read, and suggest a YouTrack issue if the gap matters.
+   - **Never commit a fetched file.** Only the two request files and the research docs are committed
+     (see "Citations only, never the source material" above). Never name `StepPlans/` in a research
+     doc.
 4. **Write the doc** to `crops/raw-data/<category>/<crop-id>.md` using the Write tool, from
    `templates/research-doc.md`. Use kebab-case for the filename and lowercase snake_case for the cropID,
    matching the existing files.
@@ -118,7 +166,9 @@ from this file.
    table, and add a comment to GitHub issue #2 linking it. These files are temporary until that issue
    produces a wild-managed template.
 7. **Report**: the doc's path, the key findings, what's estimated or left unsourced (and the weakest of
-   those), any open questions worth flagging, the status-table rows changed, and the sources used.
+   those), any open questions worth flagging, the status-table rows changed, and the sources used. Also
+   list the research requests added or still outstanding for this crop, split into **Online** and
+   **Library**, and any requests satisfied this run (with the crops they reopened).
 
 ## Keeping this skill current
 

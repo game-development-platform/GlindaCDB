@@ -8,8 +8,8 @@
 | macadamia | Macadamia integrifolia Maiden & Betche | macadamia.md |  | 2026-11-04 | OUT-OF-DATE |
 | walnut | Juglans regia L. | walnut.md |  | 2026-11-03 | OUT-OF-DATE |
 | black_walnut | Juglans nigra |  | `walnut` |  | PROPOSED |
-| cashew | *Anacardium occidentale* |  |  |  | LISTED |
-| pistachio | *Pistacia vera* |  |  |  | LISTED |
+| cashew | *Anacardium occidentale* |  | `mango` |  | LISTED |
+| pistachio | *Pistacia vera* |  | `mango` |  | LISTED |
 | pecan | *Carya illinoinensis* |  |  |  | LISTED |
 | pine_nut | *Pinus spp.* |  |  |  | LISTED |
 | ginkgo_nut | *Ginkgo biloba* |  |  |  | LISTED |
