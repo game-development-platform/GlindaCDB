@@ -52,7 +52,7 @@ than 27 with edible fruit, centred on Sumatra, Borneo and the Malay
 Peninsula [8]):
 - kuini (`kuini`, *M. odorata*) [8];
 - bachang (`bachang`, *M. foetida*), whose astringent fruit "can be eaten
-  pickled" [8];
+  pickled" [8]; since researched in `bachang.md`;
 - binjai (`binjai`, *M. caesia*) [8];
 - bambangan (`bambangan`, *M. pajang*) [8].
 

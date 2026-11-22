@@ -173,6 +173,57 @@ are never committed: this project keeps citations and findings only.
   - **Needed for:** composition, the cultivar count (up to 48), years to
     bearing from cuttings, ethnomedical uses.
 
+### bachang (2026-11-22)
+
+- [ ] **`bachang--iucn-2021`** (Online): Ganesan, S.K., "*Mangifera
+  foetida*," *IUCN Red List of Threatened Species* 2021:
+  e.T31392A67735676, doi:10.2305/IUCN.UK.2021-3.RLTS.T31392A67735676.en.
+  - **Where:** iucnredlist.org (the page needs JavaScript and returns no
+    content to scripts).
+  - **Needed for:** population trend, threats (felling, forest loss) and
+    the range by country.
+- [ ] **`bachang--fshs-2016`** (Online): "Finding a suitable interstock
+  for three *Mangifera* species from tropical Asia," *Proceedings of the
+  Florida State Horticultural Society* 129 (2016).
+  - **Where:** https://journals.flvc.org/fshs/article/view/106017 (the
+    PDF host denies automated access).
+  - **Needed for:** the graft success rate on the *M. lalijiwa*
+    interstock, and cold or soil notes from South Florida.
+- [ ] **`bachang--campbell-2004`** (Library): Campbell, R.J., "Graft
+  compatibility between *Mangifera* species and *Mangifera indica* L.
+  'Turpentine' rootstocks and their subsequent horticultural traits,"
+  *Acta Horticulturae* 645 (2004), doi:10.17660/ActaHortic.2004.645.35.
+  - **Needed for:** the graft-failure details and any horticultural
+    traits recorded in Florida.
+- [ ] **`bachang--lim-2012`** (Library): Lim, T.K., "*Mangifera
+  foetida*," in *Edible Medicinal and Non-Medicinal Plants*, Vol. 1:
+  Fruits, pp. 82-86 (Springer, Dordrecht, 2012).
+  - **Needed for:** composition, the irritant's chemistry, medicinal uses,
+    and any yield or postharvest data.
+- [ ] **`bachang--wong-ong-1993`** (Library): Wong, K.C. and Ong, C.H.,
+  "Volatile components of the fruits of bachang (*Mangifera foetida*
+  Lour.) and kuini (*Mangifera odorata* Griff.)," *Flavour and Fragrance
+  Journal* 8(3): 147-151 (1993).
+  - **Needed for:** the compounds behind the turpentine smell.
+- [ ] **`bachang--tyug-2010`** (Library): Tyug, T.S., Johar, M.H. and
+  Ismail, A., "Antioxidant properties of fresh, powder, and fiber products
+  of mango (*Mangifera foetida*) fruit," *International Journal of Food
+  Properties* 13(4): 682-691 (2010), doi:10.1080/10942910902741834.
+  - **Needed for:** the 56% edible share (seen only in a snippet) and the
+    processing of powder and fibre products.
+- [ ] **`bachang--davison-1995`** (Library): Davison, J. (ed.), *Fruit of
+  Indonesia* (PT Mekar Unggul Sari, Jakarta, 1995), p. 47, ISBN
+  981-3018-11-9.
+  - **Needed for:** years to bearing, fruit weight and uses (the
+    encyclopedia's source).
+- [ ] **`bachang--amron-2010`** (Library): Amron, A., Awang, K., Mat Lin,
+  R., Idris, S., Hasran, M. and Milan, A.R., "Distribution and diversity
+  of *Mangifera* species on farm in Malaysia," *Journal of Tropical
+  Agriculture and Food Science* (Malaysia), pp. 89-95 (2010).
+  - **Needed for:** tree counts by state and how the trees are kept.
+- The genus monograph (Kostermans and Bompard 1993) is already requested
+  under mango as `mango--kostermans-bompard-1993`; it serves bachang too.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin
