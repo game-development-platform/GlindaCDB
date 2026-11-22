@@ -59,9 +59,10 @@ Vietnam [1][2][4][5][6].
   gardens [2].
 
 **Proposed:**
-- **Cam xoàn** (`cam_xoan`): a Mekong Delta orange with its own name,
-  9 months from flower to harvest, labelled *C. nobilis* in one 2025
-  paper [9];
+- **Cam xoàn** (`cam_xoan`): a Mekong Delta orange labelled *C.
+  nobilis* in one 2025 paper [9]. Gate-checked 2026-11-22 and not
+  promoted: other sources name it a sweet-orange cultivar; see
+  `orange.md`, Naming and scope;
 - **Shiikuwasha** (`shiikuwasha`, *C. depressa*): the native Ryukyu
   mandarin, a parent with Kunenbo of 'Kabuchi', 'Oto' and 'Tarogayo'
   [3].

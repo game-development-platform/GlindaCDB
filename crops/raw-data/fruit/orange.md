@@ -29,6 +29,31 @@ and orange flower water, dried peel for liqueurs, and as a historic
 citrus rootstock) but is outside the scope of this entry. A separate,
 smaller citrus crop (bergamot) is covered in its own entry.
 
+**Cam xoàn** ('Xoàn' orange), a Mekong Delta sweet orange, is covered
+here as a cultivar. It was proposed as its own row (`cam_xoan`) from
+`kunenbo.md`, because one 2025 paper labels it *C. nobilis* [26].
+**Gate check (2026-11-22): not promoted.**
+- *Taxonomy:* two other Vietnamese studies name it *Citrus sinensis*
+  cv. Xoan [23][24], and the 2025 paper itself puts it beside cam sành
+  rather than with it [26]. The trial trees were grafted on cam mật,
+  the Vietnamese sweet orange [24][25]. It is a sweet-orange cultivar,
+  not the King mandarin of `kunenbo.md`. A coin-shaped mark at the
+  flower end is said to tell it from cam mật [23].
+- *Range:* the Mekong Delta: Trà Ôn and Vũng Liêm (Vĩnh Long) and
+  Phụng Hiệp (Hậu Giang), where it covers about 300 ha and is the main
+  fruit tree of Phương Phú commune [23][24][26].
+- *Farming system:* grafted orchard citrus like other Delta citrus,
+  planted at 1,300 trees/ha in the one trial found. Salt intrusion is a
+  concern; seeds failed to germinate in vitro at 10 g/L NaCl [23][24].
+- *Harvest:* about 9 months from flower to harvest [26].
+- *Uses:* eaten fresh [27]; a low-acid fruit (titratable acid 0.42%,
+  pH 4.4, 8.5 °Brix, against 1.26% acid for cam sành) [26]. It has the
+  highest flesh share of five Delta citrus (70%) [26]. Fruit weighed
+  154-256 g by size class [26], or 163-245 g in a potassium trial with
+  yields of 5.8-8.1 kg per three-year-old tree [24].
+These are cultivar-level differences. The low acid places it near this
+entry's acidless group, though no source calls it acidless.
+
 ## Research findings
 
 **Finding 1 — the world's main juice crop, and cultivar choice decides
@@ -445,3 +470,37 @@ statistical database itself was not opened directly.
 including a museum educational resource, a general reference
 encyclopedia article, and a policy-institute photo essay on the
 holiday's observance. Accessed 2026-10-10, search snippets only.
+
+[23] Lương Thị Lệ Thơ and Bùi Thị Lan, effects of salinity stress on
+germination of Xoan orange seeds (*Citrus sinensis* (L.) cv. Xoan) in
+vitro, *Dong Thap University Journal of Science* 14(8): 18-26 (2025),
+doi:10.52714/dthu.14.8.2025.1548. Supplied: the *C. sinensis* cv. Xoan
+name, the coin-shaped mark and green-yellow rind, salt-intrusion
+concern, the Vũng Liêm seed source, and germination under NaCl.
+Accessed 2026-11-22, PDF downloaded and text-extracted (Vietnamese and
+English).
+
+[24] Trần Sỹ Hiếu, Huỳnh Lê Anh Nhi, Phạm Quốc Anh and Trần Văn Hâu,
+effect of foliar KNO3 on yield and quality of 'Xoan' orange (*Citrus
+sinensis* L.) at Phụng Hiệp, Hậu Giang, *Can Tho University Journal of
+Science* 52B: 49-55 (2017), doi:10.22144/ctu.jvn.2017.123. Supplied: the
+300 ha area and Phương Phú status, grafting on cam mật, 1,300 trees/ha,
+fruit weight and yield per tree, Brix and vitamin C. Accessed
+2026-11-22, PDF downloaded and text-extracted.
+
+[25] FAO, *Fruits of Vietnam* (document AD523E), section 2: the orange
+and mandarin entries. Supplied: cam mật as the Vietnamese name for sweet
+orange, and the use of "cam" for many non-orange citrus. Accessed
+2026-11-22, opened directly.
+
+[26] Nguyễn Cẩm Hường, Lê Thị Nga, Trần Ái Nhật, Trần Chí Nhân and Trần
+Thanh Trúc, physico-chemical properties and fibre of five Mekong Delta
+citrus fruits, *Can Tho University Journal of Science* 61(1B): 82-93
+(2025), doi:10.22144/ctujos.2025.008. Supplied: the *C. nobilis* label,
+the Trà Ôn source, 9 months flower to harvest, weights by size class,
+flesh share, Brix, acid and pH. Accessed 2026-11-22, PDF downloaded and
+text-extracted (Vietnamese).
+
+[27] Legend Travel Group, "Vinh Long foodie guide: savor the vibrant Cam
+Xoan Tra On orange." Supplied: fresh eating, Trà Ôn as the centre.
+Low weight (a travel-agency page). Accessed 2026-11-22, opened directly.
