@@ -308,6 +308,33 @@ are never committed: this project keeps citations and findings only.
   the bilberry chapter.
   - **Needed for:** the North American range and the medicinal trade.
 
+### binjai (2026-11-22)
+
+- [ ] **`binjai--iucn-2021`** (Online): Ganesan, S.K., "*Mangifera
+  caesia*," *The IUCN Red List of Threatened Species* (2021).
+  - **Where:** iucnredlist.org (needs JavaScript).
+  - **Needed for:** the current status, native range and threats.
+- [ ] **`binjai--cacah-ambuyat-2020`** (Online): Rokiah Mahmud, "Dipping
+  into the world of 'cacah ambuyat'," *Borneo Bulletin* (5 June 2020).
+  - **Where:** borneobulletin.com.bn (returns no content to scripts).
+  - **Needed for:** how the binjai *cacah* is made.
+- [ ] **`binjai--maid-2017`** (Online): Maid, M. and colleagues (2017),
+  the Dusun medicinal plant survey cited by Tanbuda and colleagues
+  (2025).
+  - **Needed for:** what the medicinal use of binjai is.
+- [ ] **`binjai--kostermans-bompard-1993`** (Library): Kostermans,
+  A.J.G.H. and Bompard, J.M., *The Mangoes: Their Botany, Nomenclature,
+  Horticulture and Utilization* (Academic Press, London, 1993),
+  pp. 149-151.
+  - **Needed for:** fruit weight, yield, years to bearing, flood
+    tolerance and the native-range question.
+- [ ] **`binjai--lim-2012`** (Library): Lim, T.K., "*Mangifera caesia*,"
+  in *Edible Medicinal and Non-Medicinal Plants*, Vol. 1: Fruits
+  (Springer, Dordrecht, 2012).
+  - **Needed for:** composition, the irritant's chemistry, medicinal uses.
+- The printed PROSEA entry is already requested as
+  `bambangan--prosea-2-1991`.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

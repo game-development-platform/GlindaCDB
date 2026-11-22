@@ -57,7 +57,7 @@ Chromosome number 2n = 40 [1].
 - mango (`mango`, `mango.md`): the same genus [1].
 - bachang (`bachang`, `bachang.md`): natural hybrids form where the two
   grow together [1].
-- kuini (`kuini`, proposed) and binjai (`binjai`, proposed): the same
+- kuini (`kuini`, proposed) and binjai (`binjai`, `binjai.md`): the same
   wet-tropics group [13].
 - wet-tropics mangoes (`wet_tropics_mangoes`, `wet-tropics-mangoes.md`):
   the older group doc [13].

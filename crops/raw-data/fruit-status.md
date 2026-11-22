@@ -16,7 +16,7 @@
 | banana_passionfruit | Passiflora tripartita var. mollissima | banana-passionfruit.md |  | 2026-11-17 | RESEARCHED |
 | bergamot | Citrus bergamia | bergamot.md | `lemon` | 2026-11-17 | RESEARCHED |
 | bilberry | Vaccinium myrtillus | bilberry.md | `lingonberry`, `lowbush_blueberry`, `blueberry`, `cranberry` | 2026-11-22 | RESEARCHED |
-| binjai | Mangifera caesia |  | `mango`, `bachang`, `bambangan` | 2026-11-20 | PROPOSED |
+| binjai | Mangifera caesia | binjai.md | `mango`, `bachang`, `bambangan`, `kuini`, `kemang`, `wet_tropics_mangoes` | 2026-11-22 | RESEARCHED |
 | bitter_orange | Citrus × aurantium | bitter-orange.md | `orange`, `chinotto`, `laraha`, `daidai`, `lemon`, `mandarin` | 2026-11-17 | RESEARCHED |
 | black_raspberry | Rubus occidentalis | black-raspberry.md |  | 2026-11-17 | RESEARCHED |
 | blackberry | Rubus subgenus Rubus | blackberry.md |  | 2026-11-17 | RESEARCHED |
@@ -66,12 +66,12 @@
 | jujube | Ziziphus jujuba | jujube.md | `indian_jujube` | 2026-11-19 | RESEARCHED |
 | kabosu | Citrus sphaerocarpa (Ōita sour citrus) | kabosu.md | `hetsuka_daidai`, `daidai`, `yuzu`, `sudachi`, `kunenbo`, `ichang_papeda` | 2026-11-19 | RESEARCHED |
 | kasturi | Mangifera casturi |  | `bachang`, `mango` | 2026-11-22 | PROPOSED |
-| kemang | Mangifera kemanga |  | `bachang`, `mango` | 2026-11-22 | PROPOSED |
+| kemang | Mangifera kemanga |  | `bachang`, `mango`, `binjai` | 2026-11-22 | PROPOSED |
 | key_lime | C. × aurantiifolia | lime.md | `persian_lime`, `citron`, `rangpur_lime`, `makrut_lime` | 2026-11-19 | RESEARCHED |
 | kiwiberry | Actinidia arguta; A. kolomikta as a cultivar group | kiwiberry.md | `kiwifruit` | 2026-11-19 | RESEARCHED |
 | kiwifruit | Actinidia deliciosa | kiwifruit.md | `kiwiberry` | 2026-11-19 | RESEARCHED |
 | korla_pear | Pyrus sinkiangensis | korla-pear.md | `asian_pear`, `pear` | 2026-11-19 | RESEARCHED |
-| kuini | Mangifera odorata |  | `mango`, `bachang`, `bambangan` | 2026-11-20 | PROPOSED |
+| kuini | Mangifera odorata |  | `mango`, `bachang`, `bambangan`, `binjai` | 2026-11-20 | PROPOSED |
 | kunenbo | Citrus nobilis (Kunenbo mandarin) | kunenbo.md | `hassaku`, `kabosu`, `mandarin`, `satsuma`, `natsudaidai`, `cam_xoan`, `shiikuwasha` | 2026-11-19 | RESEARCHED |
 | kwai_muk | Artocarpus lingnanensis (identity uncertain) | jackfruit.md | `jackfruit` | 2026-11-19 | REJECTED |
 | lakoocha | Artocarpus lakoocha (monkey jack) | lakoocha.md | `jackfruit`, `breadfruit`, `champedak` | 2026-11-19 | RESEARCHED |
@@ -132,7 +132,7 @@
 | tangelo | Citrus × tangelo (mandarin × grapefruit) |  | `mandarin` | 2026-11-20 | PROPOSED |
 | ume | Prunus mume | ume.md | `japanese_plum` | 2026-10-02 | OUT-OF-DATE |
 | watermelon | Citrullus lanatus dessert | watermelon.md | `citron_melon`, `seed_watermelon` | 2026-10-10 | OUT-OF-DATE |
-| wet_tropics_mangoes | Mangifera odorata, M. foetida, M. caesia, M. pajang | wet-tropics-mangoes.md | `bachang`, `bambangan` | 2026-10-12 | OUT-OF-DATE |
+| wet_tropics_mangoes | Mangifera odorata, M. foetida, M. caesia, M. pajang | wet-tropics-mangoes.md | `bachang`, `bambangan`, `binjai` | 2026-10-12 | OUT-OF-DATE |
 | woodland_strawberry | Fragaria vesca and F. moschata | strawberry.md | `strawberry` | 2026-10-10 | OUT-OF-DATE |
 | yellow_passionfruit | Passiflora edulis | passionfruit.md | `purple_passionfruit` | 2026-09-30 | OUT-OF-DATE |
 | yellow_pitaya | Selenicereus megalanthus | yellow-pitaya.md |  | 2026-09-30 | OUT-OF-DATE |

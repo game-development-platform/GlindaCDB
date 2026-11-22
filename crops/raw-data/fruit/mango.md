@@ -53,7 +53,7 @@ Peninsula [8]):
 - kuini (`kuini`, *M. odorata*) [8];
 - bachang (`bachang`, *M. foetida*), whose astringent fruit "can be eaten
   pickled" [8]; since researched in `bachang.md`;
-- binjai (`binjai`, *M. caesia*) [8];
+- binjai (`binjai`, *M. caesia*) [8]; since researched in `binjai.md`;
 - bambangan (`bambangan`, *M. pajang*) [8]; since researched in
   `bambangan.md`.
 
