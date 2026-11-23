@@ -438,6 +438,42 @@ are never committed: this project keeps citations and findings only.
   P., the monograph on *Talisia* and *Melicoccus* (Flora Neotropica).
   - **Needed for:** taxonomy, sexes and native range.
 
+### mangosteen (2026-11-23)
+
+- [ ] **`mangosteen--thai-flowering-stress`** (Online): the Prince of
+  Songkla University studies of soil-moisture stress, irrigation and
+  flowering in mangosteen (Sdoodee and colleagues), seen only as search
+  snippets. Search hints: Songklanakarin Journal of Science and
+  Technology; ISHS Acta Horticulturae articles 575_96 and 975_47
+  (https://ishs.org/ishs-article/575_96/, https://ishs.org/ishs-article/975_47/).
+  - **Needed for:** Finding 3 (dry-spell length, any overshoot penalty)
+    and Finding 4 (the -70 kPa preharvest deficit, gamboge incidence).
+- [ ] **`mangosteen--pankasemsuk-1996`** (Online): Pankasemsuk, T.,
+  Garner, J.O. Jr., Matta, F.B. and Silver, J.L. (1996), "Translucent
+  flesh disorder of mangosteen fruit (*Garcinia mangostana* L.),"
+  *HortScience* 31:112-113.
+  - **Needed for:** the translucent-flesh cause and its effect on sugars
+    and acidity.
+- [ ] **`mangosteen--osman-milan-2006`** (Library): Osman, M. bin and
+  Milan, A.R. (2006), *Mangosteen: Garcinia mangostana L.* (Fruits for
+  the Future 9), Southampton Centre for Underutilised Crops, ISBN
+  0854328173.
+  - **Needed for:** named types, costs, labour, yields and agronomy.
+- [ ] **`mangosteen--yaacob-tindall-1995`** (Library): Yaacob, O. and
+  Tindall, H.D. (1995), *Mangosteen Cultivation*, FAO Plant Production
+  and Protection Paper 129, FAO, Rome.
+  - **Needed for:** spacing, fertilizer, labour and flowering practice.
+- [ ] **`mangosteen--richards-1990`** (Library): Richards, A.J. (1990),
+  "Studies in *Garcinia*, dioecious tropical fruit trees: the origin of
+  the mangosteen (*G. mangostana* L.)," *Botanical Journal of the
+  Linnean Society* 103(4):301-308.
+  - **Needed for:** the hybrid-origin theory and chromosome counts.
+- [ ] **`mangosteen--wong-klemmer-2008`** (Library): Wong, L.P. and
+  Klemmer, P.J. (2008), "Severe lactic acidosis associated with juice of
+  the mangosteen fruit *Garcinia mangostana*," *American Journal of
+  Kidney Diseases* 51(5):829-833, doi:10.1053/j.ajkd.2007.12.043.
+  - **Needed for:** the dose and duration in the supplement case.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

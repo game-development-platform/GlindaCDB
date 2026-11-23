@@ -26,9 +26,11 @@
 | breadfruit | Artocarpus altilis | breadfruit.md | `jackfruit`, `lakoocha` | 2026-11-17 | RESEARCHED |
 | buddhas_hand | Citrus medica var. sarcodactylis | buddhas-hand.md |  | 2026-11-17 | RESEARCHED |
 | bush_cherry | Prunus tomentosa | bush-cherry.md |  | 2026-11-17 | RESEARCHED |
+| button_mangosteen | Garcinia prainiana |  | `mangosteen` | 2026-11-23 | PROPOSED |
 | cam_xoan | Citrus sinensis cv. Xoan (Mekong Delta 'cam xoàn' orange; labelled C. nobilis in one source) | orange.md | `kunenbo`, `orange` | 2026-11-22 | REJECTED |
 | cantaloupe | Cucumis melo, Reticulatus and Cantalupensis groups | cantaloupe.md | `honeydew` | 2026-11-17 | RESEARCHED |
 | champedak | Artocarpus integer | champedak.md | `jackfruit`, `lakoocha` | 2026-11-17 | RESEARCHED |
+| charichuelo | Garcinia madruno |  | `mangosteen` | 2026-11-23 | PROPOSED |
 | cherry_plum | Prunus cerasifera | cherry-plum.md | `japanese_plum` | 2026-11-17 | RESEARCHED |
 | chinotto | Citrus myrtifolia (possibly *C.* × *aurantium* var. *myrtifolia*) | chinotto.md | `bitter_orange` | 2026-11-17 | RESEARCHED |
 | citron | Citrus medica | citron.md | `key_lime`, `lemon` | 2026-11-17 | RESEARCHED |
@@ -45,6 +47,7 @@
 | feijoa | Acca sellowiana | feijoa.md |  | 2026-11-17 | RESEARCHED |
 | fig | Ficus carica | fig.md |  | 2026-11-17 | RESEARCHED |
 | finger_lime | Citrus australasica | finger-lime.md |  | 2026-11-17 | RESEARCHED |
+| garcinia_dulcis | Garcinia dulcis |  | `mangosteen` | 2026-11-23 | PROPOSED |
 | giant_granadilla | Passiflora quadrangularis | giant-granadilla.md |  | 2026-11-17 | RESEARCHED |
 | golden_currant | Ribes aureum | golden-currant.md |  | 2026-11-17 | RESEARCHED |
 | gooseberry | Ribes uva-crispa × R. hirtellum | gooseberry.md |  | 2026-11-17 | RESEARCHED |
@@ -85,7 +88,7 @@
 | mamoncillo | Melicoccus bijugatus (Spanish lime, quenepa, guinep) | mamoncillo.md | `longan`, `lychee`, `ackee` | 2026-11-23 | RESEARCHED |
 | mandarin | Citrus reticulata | mandarin.md | `kunenbo`, `satsuma`, `orange`, `bitter_orange`, `rangpur_lime`, `tachibana`, `clementine`, `tangelo` | 2026-11-20 | RESEARCHED |
 | mango | Mangifera indica | mango.md | `cashew`, `pistachio`, `kuini`, `bachang`, `binjai`, `bambangan`, `kasturi` | 2026-11-20 | RESEARCHED |
-| mangosteen | Garcinia mangostana | mangosteen.md |  | 2026-10-01 | OUT-OF-DATE |
+| mangosteen | Garcinia mangostana | mangosteen.md | `button_mangosteen`, `charichuelo`, `garcinia_dulcis` | 2026-11-23 | RESEARCHED |
 | marang | Artocarpus odoratissimus |  | `jackfruit` | 2026-11-19 | PROPOSED |
 | mata_kucing | Dimocarpus longan ssp. malesianus | mata-kucing.md | `longan` | 2026-10-03 | OUT-OF-DATE |
 | medlar | Mespilus germanica | medlar.md | `loquat` | 2026-10-07 | OUT-OF-DATE |
