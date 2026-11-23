@@ -50,7 +50,9 @@ crop); champedak has a documented fungus-mediated gall-midge pollination
 system; and champedak has at least one distinctive fermented product (a
 salted, fermented inner-rind product) not found in the related crop.
 Natural and selected hybrids between the two species exist and are noted
-here as a cultivar group rather than a separate crop entry.
+here as a cultivar group rather than a separate crop entry. Marang
+(*A. odoratissimus*), another Bornean *Artocarpus* fruit, is researched
+separately in `marang.md`.
 
 ## Research findings
 

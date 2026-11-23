@@ -55,7 +55,8 @@ the sources as culturally important [1][3]:
   injured at -2 to -1 °C, and mature trees have endured -4 to -3 °C [1].
   Proposed as `kwai_muk`; rejected at its gate check (below).
 - **Marang** (*A. odoratissimus*): named as an important fruit tree of
-  Southeast Asia [3]. Not researched here. Proposed as `marang`.
+  Southeast Asia [3]. Not researched here. Proposed as `marang`; it
+  passed its gate check on 2026-11-23 and is researched in `marang.md`.
 
 **Gate check for `kwai_muk` (2026-11-19): failed.** Kwai muk
 (*Artocarpus hypargyreus* Hance ex Benth., or possibly *A. lingnanensis*

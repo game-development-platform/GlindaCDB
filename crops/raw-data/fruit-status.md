@@ -7,6 +7,7 @@
 | apple_high_chill | Malus domestica | apple-high-chill.md |  | 2026-11-17 | RESEARCHED |
 | apple_low_chill | Malus domestica | apple-low-chill.md |  | 2026-11-17 | RESEARCHED |
 | apricot | Prunus armeniaca | apricot.md |  | 2026-11-17 | RESEARCHED |
+| artocarpus_mutabilis | Artocarpus mutabilis |  | `marang` | 2026-11-23 | PROPOSED |
 | asian_pear | Pyrus pyrifolia and related species | asian-pear.md | `korla_pear` | 2026-11-17 | RESEARCHED |
 | avocado | Persea americana | avocado.md |  | 2026-11-17 | RESEARCHED |
 | babaco | Vasconcellea × heilbornii | babaco.md |  | 2026-11-17 | RESEARCHED |
@@ -23,13 +24,13 @@
 | blackcurrant | Ribes nigrum | blackcurrant.md |  | 2026-11-17 | RESEARCHED |
 | blueberry | Vaccinium corymbosum | blueberry.md | `lingonberry`, `lowbush_blueberry`, `bilberry`, `half_high_blueberry` | 2026-11-17 | RESEARCHED |
 | bokbunja | Rubus coreanus | bokbunja.md |  | 2026-11-17 | RESEARCHED |
-| breadfruit | Artocarpus altilis | breadfruit.md | `jackfruit`, `lakoocha` | 2026-11-17 | RESEARCHED |
+| breadfruit | Artocarpus altilis | breadfruit.md | `jackfruit`, `lakoocha`, `marang` | 2026-11-17 | RESEARCHED |
 | buddhas_hand | Citrus medica var. sarcodactylis | buddhas-hand.md |  | 2026-11-17 | RESEARCHED |
 | bush_cherry | Prunus tomentosa | bush-cherry.md |  | 2026-11-17 | RESEARCHED |
 | button_mangosteen | Garcinia prainiana |  | `mangosteen` | 2026-11-23 | PROPOSED |
 | cam_xoan | Citrus sinensis cv. Xoan (Mekong Delta 'cam xoàn' orange; labelled C. nobilis in one source) | orange.md | `kunenbo`, `orange` | 2026-11-22 | REJECTED |
 | cantaloupe | Cucumis melo, Reticulatus and Cantalupensis groups | cantaloupe.md | `honeydew` | 2026-11-17 | RESEARCHED |
-| champedak | Artocarpus integer | champedak.md | `jackfruit`, `lakoocha` | 2026-11-17 | RESEARCHED |
+| champedak | Artocarpus integer | champedak.md | `jackfruit`, `lakoocha`, `marang` | 2026-11-17 | RESEARCHED |
 | charichuelo | Garcinia madruno |  | `mangosteen` | 2026-11-23 | PROPOSED |
 | cherry_plum | Prunus cerasifera | cherry-plum.md | `japanese_plum` | 2026-11-17 | RESEARCHED |
 | chinotto | Citrus myrtifolia (possibly *C.* × *aurantium* var. *myrtifolia*) | chinotto.md | `bitter_orange` | 2026-11-17 | RESEARCHED |
@@ -77,7 +78,7 @@
 | kuini | Mangifera odorata (kuwini; M. indica × M. foetida hybrid) | kuini.md | `mango`, `bachang`, `bambangan`, `binjai`, `wet_tropics_mangoes`, `kasturi` | 2026-11-23 | RESEARCHED |
 | kunenbo | Citrus nobilis (Kunenbo mandarin) | kunenbo.md | `hassaku`, `kabosu`, `mandarin`, `satsuma`, `natsudaidai`, `cam_xoan`, `shiikuwasha` | 2026-11-19 | RESEARCHED |
 | kwai_muk | Artocarpus lingnanensis (identity uncertain) | jackfruit.md | `jackfruit` | 2026-11-19 | REJECTED |
-| lakoocha | Artocarpus lakoocha (monkey jack) | lakoocha.md | `jackfruit`, `breadfruit`, `champedak` | 2026-11-19 | RESEARCHED |
+| lakoocha | Artocarpus lakoocha (monkey jack) | lakoocha.md | `jackfruit`, `breadfruit`, `champedak`, `marang` | 2026-11-19 | RESEARCHED |
 | laraha | *C.* × *aurantium*, Curaçao landrace | bitter-orange.md | `bitter_orange` | 2026-11-17 | REJECTED |
 | lemon | Citrus × limon | lemon.md | `persian_lime`, `citron`, `bitter_orange`, `meyer_lemon`, `sweet_lemon`, `bergamot` | 2026-11-19 | RESEARCHED |
 | lingonberry | Vaccinium vitis-idaea | lingonberry.md | `blueberry`, `cranberry`, `lowbush_blueberry`, `bilberry` | 2026-11-19 | RESEARCHED |
@@ -89,7 +90,7 @@
 | mandarin | Citrus reticulata | mandarin.md | `kunenbo`, `satsuma`, `orange`, `bitter_orange`, `rangpur_lime`, `tachibana`, `clementine`, `tangelo` | 2026-11-20 | RESEARCHED |
 | mango | Mangifera indica | mango.md | `cashew`, `pistachio`, `kuini`, `bachang`, `binjai`, `bambangan`, `kasturi` | 2026-11-20 | RESEARCHED |
 | mangosteen | Garcinia mangostana | mangosteen.md | `button_mangosteen`, `charichuelo`, `garcinia_dulcis` | 2026-11-23 | RESEARCHED |
-| marang | Artocarpus odoratissimus |  | `jackfruit` | 2026-11-19 | PROPOSED |
+| marang | Artocarpus odoratissimus (terap, tarap) | marang.md | `jackfruit`, `champedak`, `breadfruit`, `lakoocha`, `peluntan`, `pingan`, `artocarpus_mutabilis` | 2026-11-23 | RESEARCHED |
 | mata_kucing | Dimocarpus longan ssp. malesianus | mata-kucing.md | `longan` | 2026-10-03 | OUT-OF-DATE |
 | medlar | Mespilus germanica | medlar.md | `loquat` | 2026-10-07 | OUT-OF-DATE |
 | meyer_lemon | Citrus × meyeri | meyer-lemon.md | `lemon` | 2026-10-03 | OUT-OF-DATE |
@@ -105,12 +106,14 @@
 | peach_low_chill | Prunus persica, subtropical peaches | peach-low-chill.md |  | 2026-10-18 | OUT-OF-DATE |
 | pear | Pyrus communis | pear.md | `korla_pear`, `loquat` | 2026-10-12 | OUT-OF-DATE |
 | pear_low_chill | Pyrus communis × P. pyrifolia hybrids | pear-low-chill.md |  | 2026-10-18 | OUT-OF-DATE |
+| peluntan | Artocarpus sericicarpus (gumihan, tarap bulu) |  | `marang` | 2026-11-23 | PROPOSED |
 | persian_lime | C. × latifolia | lime.md | `key_lime`, `lemon` | 2026-11-19 | RESEARCHED |
 | persimmon | Diospyros kaki | persimmon.md |  | 2026-10-11 | OUT-OF-DATE |
 | persimmon_american | Diospyros virginiana | persimmon-american.md |  | 2026-10-12 | OUT-OF-DATE |
 | persimmon_dateplum | Diospyros lotus | persimmon-dateplum.md |  | 2026-10-12 | OUT-OF-DATE |
 | persimmon_texas | Diospyros texana | persimmon-texas.md |  | 2026-10-12 | OUT-OF-DATE |
 | pineapple | Ananas comosus | pineapple.md |  | 2026-09-29 | OUT-OF-DATE |
+| pingan | Artocarpus sarawakensis (mountain tarap) |  | `marang` | 2026-11-23 | PROPOSED |
 | plantain | Musa AAB and other cooking bananas | banana.md | `banana`, `highland_banana` | 2026-11-17 | RESEARCHED |
 | plum | Prunus domestica, European plum | plum.md | `japanese_plum` | 2026-09-28 | OUT-OF-DATE |
 | pomegranate | Punica granatum | pomegranate.md |  | 2026-10-12 | OUT-OF-DATE |

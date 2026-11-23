@@ -49,8 +49,9 @@ passes because:
 **Separate entries:**
 - jackfruit (`jackfruit`), `jackfruit.md`, which first proposed this
   row;
-- breadfruit (`breadfruit`), `breadfruit.md`, and champedak
-  (`champedak`), `champedak.md`, other *Artocarpus* fruits.
+- breadfruit (`breadfruit`), `breadfruit.md`, champedak
+  (`champedak`), `champedak.md`, and marang (`marang`), `marang.md`,
+  other *Artocarpus* fruits.
 
 ## Research findings
 

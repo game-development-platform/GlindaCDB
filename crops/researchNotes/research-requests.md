@@ -474,6 +474,41 @@ are never committed: this project keeps citations and findings only.
   Kidney Diseases* 51(5):829-833, doi:10.1053/j.ajkd.2007.12.043.
   - **Needed for:** the dose and duration in the supplement case.
 
+### marang (2026-11-23)
+
+- [ ] **`marang--primack-1985`** (Library): Primack, R.B. (1985),
+  "Comparative studies of fruits in wild and cultivated trees of
+  chempedak (*Artocarpus integer*) and terap (*Artocarpus
+  odoratissimus*) in Sarawak, East Malaysia, with additional information
+  on the reproductive biology of the Moraceae in South-East Asia,"
+  *Malayan Nature Journal* 39:1-39.
+  - **Needed for:** wild versus cultivated fruit, flowering biology and
+    pollination (Finding 4).
+- [ ] **`marang--coronel-1986`** (Library): Coronel, R.E. (1986),
+  *Promising Fruits of the Philippines*, 2nd ed., College of
+  Agriculture, University of the Philippines Los Baños, pp. 500-502.
+  - **Needed for:** Philippine agronomy, yield per tree and storage.
+- [ ] **`marang--gacus-gomez-2026`** (Online): Gacus, R.B. and Gomez, N.U.
+  (2026), "Profitability, efficiency, and productivity of marang
+  (*Artocarpus odoratissimus*) in Southern Mindanao, Philippines,"
+  *International Journal of Agricultural Technology* 22(1):131-144,
+  doi:10.63369/ijat.2026.22.1.131-144
+  (https://li04.tci-thaijo.org/index.php/IJAT/article/view/9676).
+  - **Needed for:** current Mindanao production, yields, costs and
+    seasons.
+- [ ] **`marang--alvarado-2023`** (Library): Alvarado, M.C. (2023),
+  "Marang fruit (*Artocarpus odoratissimus*) waste: a promising resource
+  for food and diverse applications," *Food Bioengineering* 2:350-359.
+  - **Needed for:** processing chains and byproducts.
+- [ ] **`marang--horticulturae-2023-browning`** (Online): the 2023
+  *Horticulturae* study of terap peel browning in storage (DOAJ record
+  https://doaj.org/article/7044a1a0aed84db5ae90e01608eabcd9).
+  - **Needed for:** storage temperature and shelf life (Finding 3).
+- [ ] **`marang--gardner-2022`** (Library): Gardner, E.M. and colleagues
+  (2022), *Current Biology* 32(11):R511-R512,
+  doi:10.1016/j.cub.2022.04.062, full text.
+  - **Needed for:** the traits separating *A. mutabilis* from marang.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

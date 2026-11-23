@@ -89,7 +89,8 @@ in containers), root cuttings of a specific length and diameter taken
 as the rainy season begins (shoots emerge within three to four weeks,
 field-ready plants within four to six months), air-layering (with a
 documented failure rate up to half), and grafting onto seeded breadfruit
-or breadnut rootstock [3][4][6]. Nursery trees are typically planted
+or breadnut rootstock [3][4][6]. (Marang rootstocks dwarf breadfruit;
+see `marang.md`.) Nursery trees are typically planted
 into the field after six to nine months. First fruit arrives in under
 three years for some Caribbean cultivars, three to six years for other
 clonal material, and six to ten years for true seedlings (used mainly
