@@ -19,7 +19,7 @@
 | bergamot | Citrus bergamia | bergamot.md | `lemon` | 2026-11-17 | RESEARCHED |
 | bilberry | Vaccinium myrtillus | bilberry.md | `lingonberry`, `lowbush_blueberry`, `blueberry`, `cranberry` | 2026-11-22 | RESEARCHED |
 | binjai | Mangifera caesia | binjai.md | `mango`, `bachang`, `bambangan`, `kuini`, `kemang`, `wet_tropics_mangoes`, `kasturi` | 2026-11-22 | RESEARCHED |
-| bitter_orange | Citrus × aurantium | bitter-orange.md | `orange`, `chinotto`, `laraha`, `daidai`, `lemon`, `mandarin` | 2026-11-17 | RESEARCHED |
+| bitter_orange | Citrus × aurantium | bitter-orange.md | `orange`, `chinotto`, `laraha`, `daidai`, `lemon`, `mandarin`, `pomelo` | 2026-11-17 | RESEARCHED |
 | black_raspberry | Rubus occidentalis | black-raspberry.md |  | 2026-11-17 | RESEARCHED |
 | blackberry | Rubus subgenus Rubus | blackberry.md |  | 2026-11-17 | RESEARCHED |
 | blackcurrant | Ribes nigrum | blackcurrant.md |  | 2026-11-17 | RESEARCHED |
@@ -54,7 +54,7 @@
 | golden_currant | Ribes aureum | golden-currant.md |  | 2026-11-17 | RESEARCHED |
 | gooseberry | Ribes uva-crispa × R. hirtellum | gooseberry.md |  | 2026-11-17 | RESEARCHED |
 | grape | Vitis vinifera | grape.md | `american_grape`, `muscadine` | 2026-11-17 | RESEARCHED |
-| grapefruit | Citrus × paradisi | grapefruit.md |  | 2026-11-17 | RESEARCHED |
+| grapefruit | Citrus × paradisi | grapefruit.md | `pomelo` | 2026-11-17 | RESEARCHED |
 | guava | Psidium guajava | guava.md |  | 2026-11-17 | RESEARCHED |
 | half_high_blueberry | Vaccinium angustifolium × V. corymbosum (half-high cultivar group) | blueberry.md | `blueberry`, `lowbush_blueberry` | 2026-11-23 | REJECTED |
 | haruka | Citrus hybrid, hyuganatsu × natsudaidai | hyuganatsu.md | `hyuganatsu`, `natsudaidai` | 2026-11-19 | REJECTED |
@@ -120,8 +120,8 @@
 | plantain | Musa AAB and other cooking bananas | banana.md | `banana`, `highland_banana` | 2026-11-17 | RESEARCHED |
 | plum | Prunus domestica, European plum | plum.md | `japanese_plum` | 2026-11-23 | RESEARCHED |
 | pomegranate | Punica granatum | pomegranate.md |  | 2026-11-23 | RESEARCHED |
-| pomelo | Citrus maxima | pomelo.md |  | 2026-10-03 | OUT-OF-DATE |
-| ponderosa_lemon | Citrus hybrid, 'Ponderosa' lemon (presumed lemon × citron) | ponderosa-lemon.md | `meyer_lemon`, `lemon`, `citron` | 2026-11-23 | RESEARCHED |
+| pomelo | Citrus maxima | pomelo.md | `grapefruit`, `bitter_orange`, `ponderosa_lemon` | 2026-11-23 | RESEARCHED |
+| ponderosa_lemon | Citrus hybrid, 'Ponderosa' lemon (presumed lemon × citron) | ponderosa-lemon.md | `meyer_lemon`, `lemon`, `citron`, `pomelo` | 2026-11-23 | RESEARCHED |
 | pulasan | Nephelium ramboutan-ake, syn. N. mutabile | pulasan.md | `longan`, `lychee` | 2026-10-03 | OUT-OF-DATE |
 | purple_passionfruit | Passiflora edulis | passionfruit.md | `yellow_passionfruit` | 2026-09-30 | OUT-OF-DATE |
 | quince | Cydonia oblonga | quince.md | `japanese_quince`, `loquat`, `medlar` | 2026-10-02 | OUT-OF-DATE |

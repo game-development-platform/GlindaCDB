@@ -779,6 +779,19 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`ponderosa_lemon--composition`** (Online): juice content, acidity, SSC or proximate composition for Ponderosa fruit.
   - **Needed for:** composition and energy (Not sourced).
 
+### pomelo (2026-11-23)
+
+- [ ] **`pomelo--storage`** (Online/Library): a postharvest-handbook entry or dedicated study giving pummelo storage temperature, RH, storage life and chilling-injury threshold.
+  - **Needed for:** storage (12 °C vs. 8-10 °C vs. 5 °C conflict).
+- [ ] **`pomelo--cold`** (Online/Library): a pummelo frost or freeze threshold (tree and fruit), e.g. from UC Riverside, USDA or Japanese buntan work.
+  - **Needed for:** climate zones and weather response (Not sourced).
+- [ ] **`pomelo--production`** (Online): FAOSTAT or national statistics for Vietnam and China separating bearing from total area, plus Thai figures.
+  - **Needed for:** yield (12-15 t/ha reported vs. 8.6-9.5 t/ha derived).
+- [ ] **`pomelo--pollination`** (Online): full text of the Chinese nine-cultivar hand-pollination study and the 'Guiyou No. 1' paper; any pollinator study.
+  - **Needed for:** pollination and seediness (snippets only).
+- [ ] **`pomelo--culture`** (Library): Groff, *Culture and Varieties of Siamese Pummelos*, and *The Citrus Industry* Vol. I pummelo section.
+  - **Needed for:** bearing age, labour, soil, cultivar seasons (Not sourced).
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

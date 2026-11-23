@@ -1,7 +1,24 @@
 # Pomelo (*Citrus maxima*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/pomelo.md`
-**Researched:** 2026-10-03
+**Researched:** 2026-10-03 (re-researched 2026-11-23 against the full
+current checklist in `skills/crop-research/SKILL.md` and
+`templates/research-doc.md`.
+- **Re-opened:** Morton's "Pummelo" chapter and the Wikipedia "Pomelo"
+  article.
+- **Added:** FAO-56 (Tables 11, 12, 22, 23 and 24), FAO-61 Annex 1, the FAO-66
+  citrus chapter, the UC Riverside pummelo list, and snippets on
+  self-incompatibility, storage, Vietnamese and Chinese production, the
+  New Year leaf bath and citrus cold ranking.
+- **Dropped,** because the source could not be re-found or re-opened: the
+  Vietnamese export-readiness profile (cultivar table, harvest windows,
+  peel-oil content, the 180-330-day season), the tropical-fruit
+  postharvest page (its storage optimum and shelf life), the grower and
+  marketplace sites (colder optimum, sea-freight time), the
+  Chinese honey-pomelo journal article, the Vietnamese-language regional
+  figures, the Hokkien, wedding and Mid-Autumn uses, and the estimates
+  built by analogy (labour, soil uptake, pH, on-tree storage days, water
+  parameters "adjusted upward", yield tiers).)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -10,392 +27,339 @@ licensed under this project's MIT license (see repository `LICENSE`).
 
 ## Naming and scope
 
-*Citrus maxima*, also known in various regions as pummelo, covers a true
-citrus species — one of only three main wild ancestral citrus species
-underlying essentially all cultivated citrus, contributing a majority
-share of the grapefruit genome specifically [2]. This entry covers the
-full spread of named cultivars: honey-pomelo types from southern China,
-several named Vietnamese cultivars, Japanese buntan types, and a
-California-released cultivar [1][2][3]. Grapefruit-pomelo hybrids are
-explicitly excluded here and treated as part of a separate grapefruit
-research entry, since they are modeled with grapefruit rather than as
-pomelo cultivars.
+*Citrus maxima* (Burm.) Merr. (Rutaceae); synonyms *C. grandis* Osbeck and
+*C. decumana* L. [1][2]. Names: pummelo, pomelo, shaddock; *pompelmoes*
+(Dutch), *pamplemousse* (French); Malay *limau bali*, *limau besar* and
+others [1][2].
+- **Status:** "a natural, non-hybrid citrus fruit, native to Southeast
+  Asia"; one of the three major wild ancestors of cultivated citrus [2].
+  Grapefruit takes "typically, 63%" of its genome from pomelo; bitter
+  orange is a pomelo × mandarin hybrid [2].
+- **Cultivars:** "at least sixty" [2]; UC Riverside lists about 70
+  pummelo accessions [3]; Morton describes 22 [1].
+- **Statistics:** FAOSTAT reports pomelo with grapefruit (not re-checked
+  this pass).
+- **Scope:** one cropID. Pummelo-grapefruit hybrids ('Oroblanco' and
+  others) are not covered here.
+- **Gate check (2026-10-03, re-confirmed 2026-11-23): passes.** A
+  species, not a hybrid [2]; self-incompatible with monoembryonic seed
+  (Finding 1); tropical lowland range [1]; the largest citrus fruit, with
+  thick peel and months of keeping (Finding 2) [1][2].
 
-As a genuine, distinct species (not a hybrid), pomelo differs from most
-other citrus in several ways this project's modeling cares about: it is
-largely self-incompatible and does not produce the "nucellar seedling"
-asexual-seed phenomenon common in most other citrus [1][6]; single-
-cultivar orchard blocks give seedless fruit through parthenocarpy, while
-cross-pollinated fruit is seedy [1][6]; it is traditionally propagated by
-air-layering in addition to budding [1][2]; it produces the largest fruit
-of any citrus, with an unusually thick peel giving an unusually long
-storage life [1][2]; it is fundamentally a humid tropical lowland crop
-[1]; and it carries its own distinct market identity, festival demand, and
-ritual leaf-use tradition, separate from other citrus [1][2][7]. It also
-makes up the majority share of international production statistics that
-combine it together with grapefruit under one combined reporting
-category.
+**Relatives in this project:**
+- grapefruit (`grapefruit`, `grapefruit.md`), pomelo × sweet orange [2];
+- bitter orange (`bitter_orange`, `bitter-orange.md`), pomelo × mandarin
+  [2];
+- Ponderosa lemon (`ponderosa_lemon`, `ponderosa-lemon.md`), reported as
+  pomelo × citron (see that doc).
 
-This crop shares general citrus water-use, climate, and storage biology
-with two other citrus crops this project has also researched (one a
-close genetic relative that draws much of its genome from this species).
+**Proposed:** none.
 
 ## Research findings
 
-**Finding 1 — a self-incompatible citrus, so orchard layout itself
-determines seediness.** This species is largely self-incompatible through
-a gametophytic self-incompatibility mechanism; some cultivars set poorly
-and drop much fruit unless cross-pollinated, and cross-pollination has
-been shown in at least one study to substantially raise fruit set over
-time [6]. Because of this combination of cross-pollination dependence and
-parthenocarpy (the ability to set fruit without fertilization), a
-single-cultivar orchard block produces seedless fruit, while cross-
-pollination by another pomelo cultivar tends to produce numerous seeds —
-though pollination by a different citrus type (sweet orange or mandarin)
-does not make the fruit seedy [1][6]. The crop depends on insect
-pollinators for good fruit set [6]. This creates a genuine orchard-layout
-trade-off: planting a cross-pollinizer raises fruit set but makes the
-fruit seedy, while a solid single-cultivar block sacrifices some fruit set
-in exchange for guaranteed seedlessness.
+**Finding 1 — self-incompatible, so orchard layout sets seediness.**
+- "A pummelo cross-pollinated by another pummelo is apt to have numerous
+  seeds; if cross-pollinated by sweet orange or mandarin orange, the
+  progeny will not be seedy" [1].
+- **Snippets [4]:**
+  - self-incompatibility is S-RNase-based and gametophytic; nine
+    pistil-specific S-RNases were identified in pummelo;
+  - in hand pollinations of nine Chinese cultivars, every cross set fruit,
+    with a mean of 121 ± 7 seeds per fruit; self-pollinations set no seed;
+    four accessions set seedless fruit without pollination
+    (parthenocarpic);
+  - self-incompatible citrus "can stably produce seedless fruits if they
+    are also parthenocarpic";
+  - 'Guiyou No. 1' is a self-compatible spontaneous mutant of 'Shatian'.
+- Morton notes that main-crop fruit (November) is seedier than fruit from
+  other flowerings, and that 'Kao Phuang' has "virtually none [seeds] in
+  fruits of the third season" [1].
 
-**Finding 2 — exceptionally long-keeping fresh fruit, both refrigerated
-and at room temperature.** This is among the longest-storing fresh fruit
-researched for this project. A dedicated postharvest source gives a
-multi-month storage window at a specific cool (not cold) storage
-temperature and high humidity, with a considerably shorter but still
-notable shelf life at room temperature [4]. A classic reference work notes
-that after several months of storage the peel becomes deeply wrinkled, but
-the pulp actually becomes juicier rather than degrading, and fruit
-shipped in ventilated crates on long sea voyages has historically kept for
-many months [1]. A separate, lower-authority source gives a colder
-optimum temperature and a shorter storage window with a chilling-injury
-risk below that temperature — directly conflicting with the dedicated
-postharvest source's warmer optimum, and this conflict is not resolved
-here [4][10].
+**Finding 2 — very long keeping because of the thick peel.**
+- "The fruits keep for long periods and ship well because of the thick
+  peel. After 3 months, the peel will be deeply wrinkled but the pulp will
+  be juicier"; "If stored too long, they may become bitter" [1].
+- Paper-wrapped fruit in ventilated crates kept 6-8 months at sea to
+  Europe [1].
+- In Thailand, fruit picked "just beginning to turn yellow" is held in dry
+  ventilated sheds [1].
+- **Storage snippets, which disagree [5]:**
+  - 12 °C is called "the ideal temperature for storage of pummelos"
+    ('Chandler', 'Sarawak');
+  - 'Hirado Buntan' stored at 8-10 °C, 85-90% RH;
+  - 'Khao Thongdee' stored 10 weeks at 5-29 °C, with firmness kept best
+    at 5 °C and at room temperature;
+  - 'Jinshayou' kept 90 days at 20 °C after a salicylic-acid dip;
+  - citrus chilling injury is common "especially at a temperature below
+    7 °C".
 
-**Finding 3 — large Southeast and East Asian industries with a very wide
-yield range.** Vietnam has a substantial dedicated growing area with
-nationally documented yields spanning a severalfold range depending on
-region and management, plus a sizeable concentration of production in the
-Mekong Delta and meaningful export volume to dozens of markets under one
-leading export cultivar [3]. A specific well-known cultivar-growing region
-within Vietnam has its own documented area and production figures [11]. A
-major Chinese honey-pomelo growing region reports a substantially larger
-production area and a yield figure far above the Vietnamese range,
-though this figure comes from a single lower-confidence source and is
-not independently verified [5].
+**Finding 3 — a tropical lowland crop.**
+- "Tropical or near-tropical and flourishes naturally at low altitudes
+  close to the sea. It has never performed well in New Zealand because of
+  insufficient heat" [1].
+- Bang Bakok, Thailand: mean 28 °C, 143 cm rain, wettest May-October [1].
+- FAO-66 (citrus generally): tropical citrus is less productive, ripens
+  fast and stays marketable "a very short time"; trees "withstand short
+  periods of light frost" but long hard frosts kill them [6].
+- Cultivar exceptions: 'Hirado' is "unusually cold-tolerant"; 'Tresca' is
+  "very sensitive to cold" [1].
+- No pummelo-specific frost threshold was found (Open questions).
 
-**Finding 4 — an everbearing tropical tree with multiple yearly flowering
-flushes.** This species flowers several times a year rather than once,
-and at least one major growing country harvests fruit essentially
-year-round as a result [1][3]. Its prime growing regions are genuinely
-tropical, with a high mean temperature and substantial annual rainfall
-concentrated in a wet season [1]. In a more marginal subtropical growing
-region (Florida), fruit ripens within a specific winter window [1].
+**Finding 4 — brackish-water culture on raised beds.**
+- In Thailand, growers dike swampy land, dig ditches and build raised beds;
+  bananas, sugarcane or peanuts are grown for the 3-5 years before planting
+  [1].
+- "Highly tolerant of brackish water pushed inland by high tides"; farmers
+  "claim that salt contributes to the flavor and juiciness"; water salt
+  content "may be as high as 2.11 % at times" [1].
+- Against this, FAO-56 and FAO-61 rate pummelo "S" (sensitive), with no
+  threshold, from foliar injury (Furr & Ream 1969) [7][8]. The 2.11% is
+  canal water, not root-zone ECe (see Estimates).
 
-**Finding 5 — a striking, likely non-root-zone salinity claim.** In one
-specific growing region, irrigation/canal water salt content is reported
-to reach a very high level at times, with local growers claiming that this
-salinity actually improves fruit flavor and juiciness [1]. Converted to
-standard salinity units, this figure is roughly two-thirds of full
-seawater salinity — far beyond any citrus root-zone tolerance documented
-elsewhere, strongly suggesting this describes intermittent canal or tidal
-water exposure rather than a sustained root-zone condition. It is
-recorded here as a notable claim rather than a validated salinity
-tolerance figure, since no dedicated root-zone salinity tolerance study
-was found for this species.
+**Finding 5 — large Asian industries.**
+- **Vietnam (snippets [9]):** about 100,000-105,400 ha; about 905,000 to
+  950,000 t, "more than one million tonnes" in 2026 reports; average yield
+  "12-15 tonnes per hectare"; Mekong Delta 32,000 ha; Ben Tre about
+  10,000 ha and over 200,000 t; exports about US$60-72.5 million (2024-25),
+  now to the US, Australia and China.
+- **China (snippet [10]):** Pinghe county, Fujian, about 700,000 mu (about
+  46,667 ha) and 1.3 million t of pomelo (2020, all types).
+- **Thailand:** 'Kao Phuang' is "the leading and perhaps the only
+  commercial cultivar"; exported to Hong Kong, Singapore and Malaysia [1].
+- **Americas:** "never attained significant status"; grown as a
+  curiosity, plus small plantings in southern Mexico and Florida [1].
 
-**Finding 6 — a festival fruit with a genuinely dense cluster of ritual
-uses, beyond typical culinary fruit.** This fruit carries unusually strong
-symbolic and ritual significance in East and Southeast Asian traditions:
-it is a traditional Lunar New Year ancestor-offering food in Chinese
-tradition, reinforced by a favorable linguistic pun between the fruit's
-name and a word meaning "to have" or "prosperity" [2]; a classic reference
-work documents specific minimum size standards and premium pricing for
-this festival market in one overseas Chinese community [1]. It is also a
-traditional Mid-Autumn Festival offering to the moon [7], and in Cantonese
-and Hokkien households, its leaves are specifically boiled and added to a
-ceremonial cleansing bath on New Year's Eve and before other significant
-life events such as weddings [7]. It additionally figures in Thai
-Buddhist/folk New Year water-festival ritual and in a Hindu festival
-practiced in parts of eastern India, though neither practice's details
-were researched in depth [2]. Like a closely related citrus fruit this
-project has also researched, its flesh and juice inhibit a specific drug-
-metabolizing enzyme pathway, creating a documented medication-interaction
-hazard shared across citrus generally.
+**Finding 6 — festival fruit.**
+- Chinese New Year offering to ancestors; the name sounds like *yǒu*
+  ("to have") [2]. Used in Songkran (Thailand) and Chhath Puja (India) [2].
+- A Florida grower shipped fruit to New York's Chinatown at $3 each for
+  New Year; fruit "must be 5 in (12.5 cm) or more in diameter" [1].
+- Cantonese households bathe with pomelo leaves (*luk yau ip*) before New
+  Year to wash away bad luck (snippets) [11].
 
 ## Agronomic data
 
-- **Life form / season:** Perennial evergreen tree, among the larger
-  citrus species in mature size; no winter chill requirement.
-- **Harvest pattern:** Flowers in several flushes per year rather than
-  once, and in at least one major growing country is harvested
-  essentially year-round as a result (Finding 4); in a more marginal
-  subtropical growing region, harvest instead falls within a specific
-  winter window.
-- **Climate:** Fundamentally a humid tropical-lowland crop, though it
-  also extends into humid subtropical growing regions (Finding 4).
-- **Composition:** A moderate calorie content per unit weight with
-  meaningful vitamin C content, broadly in line with other citrus fruit,
-  though an older classic reference gives a notably wider composition
-  range than a more recent nutrition-database figure.
-- **Pollination:** Insect (bee)-pollinated; largely self-incompatible
-  with a genuine seediness-versus-fruit-set trade-off tied to orchard
-  layout (Finding 1).
-- **Yield:** An extremely wide range across major growing regions, from a
-  national average figure in one Southeast Asian producing country up to
-  a considerably higher, lower-confidence figure reported for one Chinese
-  growing region (Finding 3; see Estimates below for adopted tier
-  values).
-- **Water use:** No dedicated crop-water-use study was found for this
-  species specifically; water-use parameters are estimated by analogy to
-  standard international citrus crop-coefficient values, adjusted
-  somewhat upward for this crop's humid-tropical growing conditions and
-  notably large canopy size. The species is rain-fed in at least one
-  prime growing region with substantial, well-distributed annual rainfall.
-  A specific root-rot disease has been documented on mature trees in at
-  least one humid growing region, suggesting limited waterlogging
-  tolerance, consistent with citrus generally.
-- **Propagation:** Traditionally propagated by air-layering (producing an
-  own-rooted tree) in addition to budding onto a rootstock, unlike most
-  other commercial citrus, which rely primarily on budding; several
-  different rootstock options are documented. Seed is monoembryonic
-  (seedlings are true sexual offspring rather than clonal), but superior
-  named cultivars are still propagated vegetatively since any individual
-  seedling may not match its parent.
-- **Labor:** No dedicated labor-hour study was found for this crop
-  specifically; labor figures are estimated by analogy to a closely
-  related citrus crop this project has researched, adjusted somewhat
-  upward for harvest given this fruit's large individual size and
-  essentially year-round picking schedule in some growing regions.
-- **Soil:** Grown successfully on alluvial delta soils in at least one
-  major Southeast Asian growing region; no dedicated soil-chemistry or
-  nutrient-uptake study was found specific to this species, so these
-  figures are estimated by analogy to a related citrus crop.
-- **Stand life:** A long-lived evergreen tree; one historically
-  significant planting in a major growing country (established in the
-  19th century) is credited with founding a regional industry, though no
-  dedicated productive-lifespan figure was found.
-- **Disease/pest profile:** Several named insect pests (leaf miners, scale
-  insects, tree borers), a root-rot disease affecting mature trees in
-  humid conditions, and a parasitic plant (mistletoe) specifically
-  described as a significant pest of this species in parts of Asia [1].
-- **Cultivars:** A large number of named cultivars (several dozen
-  documented overall) spanning Thai, Vietnamese, Chinese, Japanese, and
-  Californian origins, varying considerably in fruit size, flesh color,
-  sugar content, and market positioning; at least one cultivar has been
-  specifically bred or selected for weakened self-incompatibility to
-  improve fruit set without a separate pollinizer.
-- **Harvest:** Single-stage harvest of mature fruit only; no green-fruit
-  product was found for this species.
-- **Storage:** Exceptionally long-keeping relative to most fruit, both
-  under cool storage and at ambient temperature, attributed to its
-  unusually thick peel (Finding 2).
+- **Life form / season:** evergreen tree 5-15 m, crooked trunk 10-30 cm,
+  spiny; some forms dwarfed [1][2].
+- **Harvest pattern:** flowers 2-4 times a year; "usually 4 harvesting
+  seasons" in the Old World; main crop November [1]. Florida: November to
+  February, small spring crop [1].
+- **Days/years to first bearing:** Not sourced.
+- **Climate zones:** tropical lowland (Finding 3) [1]; no chill
+  requirement (evergreen, flowers several times a year) [1]. Frost:
+  Not sourced for pummelo; citrus generally in Finding 3 [6].
+- **Composition (raw, USDA via Wikipedia [2]):** 38 kcal, water 89 g,
+  carbohydrate 9.62 g, fibre 1 g, fat 0.04 g, protein 0.76 g, vitamin C
+  61 mg, potassium 216 mg per 100 g.
+  - Morton: 25-58 kcal, protein 0.5-0.74 g, ascorbic acid 30-43 mg
+    (China and US analyses) [1].
+- **Edibility:** segments skinned and eaten, in salads, desserts and
+  preserves; juice; candied peel [1][2]. Thai pomelo salad; braised pith in
+  Cantonese cooking [2].
+- **Pollination:** insect pollination: Not sourced for pomelo.
+  Self-incompatible; the pollen parent sets seediness (Finding 1) [1][4].
+- **Photoperiod sensitivity:** Not sourced.
+- **Yield:** Vietnam average 12-15 t/ha (snippet) [9]. Estimates:
+  Vietnam 8.6-9.5 t/ha over total area; Ben Tre about 20 t/ha; Pinghe
+  about 28 t/ha. Formulas are under Estimates.
+- **Water use:**
+  - FAO-56 citrus, no ground cover, 70% canopy: Kc ini 0.70, mid 0.65,
+    end 0.70; height 4 m [7].
+  - Stages 60/90/120/95 days (365, Mediterranean) [7].
+  - Rooting depth 1.2-1.5 m; p = 0.50 [7].
+  - Ky 1.1-1.3 (citrus) [7].
+  - FAO-66: add 0.1-0.2 to Kc in humid and semi-humid regions (citing
+    Allen et al. 1998); reported annual ETc 800-1,500 mm worldwide [6].
+  - Bang Bakok rain 143 cm [1].
+- **Propagation:**
+  - Seed is monoembryonic, but "seedlings usually differ little from their
+    parents", so "most pummelos in the Orient are grown from seed" [1].
+    Wikipedia: they "do not breed true to type" [2].
+  - Seed stores 80 days at 5 °C and 56-58% RH [1].
+  - The best cultivars are air-layered, or budded (T or shield budding) on
+    pummelo, 'King' or 'Cleopatra' mandarin, rough lemon or Rangpur lime
+    [1].
+  - Also cuttings, grafting and tissue culture [2].
+- **Labor:** Not sourced, apart from a 1974 University of Malaya study
+  that found labour input "excessive" [1].
+- **Soil:** flood-plain silt and sand over clay loam; oolitic limestone in
+  southern Florida and the Bahamas; tin-mine tailings in Malaya [1]. May
+  need zinc, manganese or boron sprays [1]. Fertilizer: night soil and
+  paddy ash [1]. pH: Not sourced.
+- **Storage (postharvest):** Finding 2 [1][5].
+- **Establishment:**
+  - Trees spaced 3-4.5 m [1], which is 494-1,111 trees/ha (Estimates).
+  - Coconut or betel palms shade young trees for 3-5 years (sometimes
+    10-15 years); *Erythrina fusca* may shade mature trees; rice may grow
+    in the ditches [1].
+- **Cultivars [1][2][3]:**
+  - 'Kao Phuang': the Thai export leader; pear-shaped, at least 12.5 cm.
+  - 'Kao Pan': "most delicious of Thai pummelos"; prone to canker.
+  - 'Banpeiyu': the leading cultivar in Japan.
+  - 'Hirado Buntan': second in Japan; cold-tolerant.
+  - 'Mato': leads in China and Taiwan.
+  - 'Chandler': California 1961, pink, about 12% sugar.
+  - 'Tahitian': thin peel.
+  - 'Double': a second small fruit inside.
+  - Fruit weight 0.26-1.95 kg by cultivar [2]; 10-30 cm wide, peel
+    1.25-2 cm, 11-18 segments [1].
+- **Weather response:** heat need (New Zealand failure) [1]; frost
+  (Finding 3) [6].
+- **Water regime:** raised beds with drainage ditches and tidal water
+  gates [1]; rain-fed in Thailand (implied by the ditch system; not
+  stated).
+- **Soil biology:** Phytophthora root rot kills most older trees in Malaya
+  [1].
+- **Invasiveness / biosecurity:** Vietnamese exports need registered
+  growing-area codes and pest monitoring (snippets) [9]. Otherwise
+  Not sourced.
+- **Controlled environment:** early US introductions were grown in
+  greenhouses in Washington and Maryland [1].
 
 ## Hazards
 
-- Like other citrus, the flesh and juice contain compounds that inhibit a
-  specific drug-metabolizing enzyme pathway, creating a documented
-  medication-interaction hazard shared with other citrus this project has
-  researched. **TO BE ADDRESSED** — a fuller write-up of this drug-
-  interaction hazard class is deferred until this project has a place for
-  this kind of health/safety data, shared across the relevant citrus
-  entries.
-- The peel oil, by analogy with other citrus peel oils, is presumed to
-  carry a phototoxic skin-contact hazard under sun exposure, though this
-  was not independently confirmed for this species specifically. **TO BE
-  ADDRESSED** — deferred for the same reason, shared across citrus
-  entries.
-- The peel contains a bitter compound (not a toxin) contributing to the
-  fruit's characteristic flavor profile.
-- Processing byproducts (culls and peel) are presumed usable as livestock
-  feed by analogy with other citrus processing byproducts, though this
-  was not independently confirmed for this species.
+- **Drug interactions:** inhibits cytochrome P450-mediated metabolism of
+  some statins, anticoagulants, antihypertensives, immunosuppressants and
+  others, as grapefruit does [2].
+- **Skin:** peel oil (limonene, citral, geraniol, linalool and others) "may
+  cause dermatitis" in harvesters, factory workers and housewives [1].
+- **Weaver ants:** encouraged as biological control, but they "inflict
+  painful stings" at harvest [1].
+- **Pests and diseases [1]:**
+  - citrus leaf miner (*Phyllocnistis citrella*), a flea beetle, a stinging
+    red ant (*Pheidologeton*) that can girdle trees;
+  - many scale insects, partly controlled by natural enemies;
+  - citrus rind borer (fruit wrapped in banana leaves in Indonesia);
+  - sooty mould; most orange diseases; some cultivars "very resistant to
+    canker";
+  - Phytophthora root rot;
+  - mistletoe (*Loranthus*), "a great pest".
+- **Ergot / mycotoxin:** none reported this pass.
+
+**TO BE ADDRESSED** — the drug-interaction and dermatitis hazards are
+shared across citrus. Deferred until this project has a place for
+health-and-safety data.
 
 ## Uses and processing
 
-- **Chains:** fruit → graded → cool-stored at a specific temperature;
-  peel and segments → pressed into juice, or candied; seeds → grown into
-  rootstock seedlings; selected branches → air-layered into new own-
-  rooted trees.
-- **Uses:** fresh segments and salads; braised pith as a distinct
-  preparation in East Asian cuisine; a mixed fruit drink combining this
-  fruit with pineapple in at least one Southeast Asian country; flowers
-  used for perfume production in one northern growing region; seeds and
-  leaves used in traditional folk medicine; extensive festival and ritual
-  uses as described in Finding 6.
-- Not covered in detail by this research: peel essential-oil extraction;
-  flower perfume extraction in detail; canned or frozen product forms (no
-  sources found for these).
+- **Chain 1 (fresh):** picked as it starts to yellow → heaped for sale or
+  held in shaded, ventilated sheds → peeled, segments skinned → eaten,
+  salads, desserts [1].
+- **Chain 2 (long keeping):** paper-wrapped → ventilated crates → kept up
+  to 6-8 months at sea [1].
+- **Chain 3 (peel):** peel → candied [1][2]; pith → braised (Cantonese)
+  [2].
+- **Chain 4 (juice):** juice → drink; mixed with pineapple juice in the
+  Philippines [2].
+- **Other [1]:**
+  - flowers gathered for perfume in North Vietnam;
+  - wood for tool handles;
+  - leaves, flowers, rind, seeds and gum in folk medicine;
+  - weaver-ant pupae eaten.
+- **Ritual:** offerings and leaf baths (Finding 6) [1][2][11].
+- **Not detailed here:** peel essential oil, canning, juice processing.
 
 ## Open research questions
 
-- Storage-temperature optimum conflicts between a dedicated postharvest
-  source (a specific cool, not cold, optimum) and a lower-authority
-  source (a colder optimum with a stated chilling-injury risk) — not
-  resolved.
-- The considerably higher yield figure reported for one major Chinese
-  growing region is single-source and lower-confidence, and conflicts
-  sharply with the documented range from Vietnam's national statistics —
-  not resolved; it may reflect a unit or area-basis discrepancy (bearing
-  area versus total planted area, for instance) rather than a genuine
-  yield difference.
-- Calorie-content figures differ meaningfully between an older classic
-  reference work's wide range and a more recent single nutrition-database
-  figure — not resolved.
-- No dedicated crop-water-use (crop-coefficient) study was found for this
-  species; all water-use parameters are estimated by analogy to other
-  citrus.
-- Frost/cold tolerance thresholds were not researched in detail; this
-  species is understood qualitatively to be a tropical-lowland crop,
-  likely less cold-hardy than some other citrus.
-- Edible fraction and juice yield per fruit were not researched.
-- Peel-oil extraction yield and economics were not researched in detail.
-- Production detail for the major Chinese growing region beyond a single
-  snippet-level yield figure was not researched.
-- Detailed ritual practices for the Thai and Hindu festival traditions
-  noted in Finding 6 were not researched beyond their existence.
-- A specific traditional multi-fruit festival display tray used in at
-  least one Southeast Asian New Year tradition was expected to include
-  this fruit but was not confirmed in the sources consulted this pass.
+- **Storage temperature:** 12 °C [5] vs. 8-10 °C [5] vs. 5 °C and room
+  temperature both keeping firmness [5]. No dedicated handbook entry read.
+- **Seedlings:** "differ little from their parents" [1] vs. "do not breed
+  true to type" [2].
+- **Salinity:** brackish canal water up to 2.11% salt [1] vs. FAO "S"
+  (sensitive) from foliar injury [7][8].
+- **Composition:** Morton 25-58 kcal [1] vs. USDA 38 kcal [2]; vitamin C
+  30-43 vs. 61 mg.
+- **Vietnam yield:** 12-15 t/ha reported vs. 8.6-9.5 t/ha from area and
+  output (bearing vs. total area?) [9].
+- **Not sourced:** bearing age, frost thresholds, labour, pH, nutrient
+  uptake, pollinators, photoperiod, cultivar season lengths, FAOSTAT
+  totals.
+- **Works identified, not yet read:**
+  - Groff, *Culture and Varieties of Siamese Pummelos*;
+  - Reuther, Webber and Batchelor, *The Citrus Industry* Vol. I
+    (14 cultivars);
+  - the Chinese nine-cultivar pollination study and the 'Guiyou No. 1'
+    paper (snippets only);
+  - a pummelo postharvest-handbook entry.
 
 ## Estimates and derivations
 
-Growing-season length (flowering to harvest, roughly 180-330 days) is
-derived from a national export-readiness source's harvest-timing table
-for several named cultivars, which gave somewhat inconsistent multi-month
-ranges across cultivars; the figure used here spans that documented
-range.
+**Spacing [1]:** 3 m square → 10,000 / (3 × 3) = 1,111 trees/ha; 4.5 m
+square → 10,000 / (4.5 × 4.5) = 494 trees/ha. Square layout is assumed.
 
-Yield tiers are derived primarily from Vietnam's national production
-statistics (total national production divided by total growing area for
-the world-average figure, and the documented regional yield range for the
-good and poor tiers), with the considerably higher "exceptional" tier
-derived from the single lower-confidence Chinese regional figure noted in
-Finding 3 and treated as unverified.
+**Vietnam yield over total area [9]:** 905,000 t / 105,400 ha = 8.6
+t/ha; 950,000 t / 100,000 ha = 9.5 t/ha. The reported 12-15 t/ha average
+is higher, which fits a bearing-area basis (not confirmed).
 
-Water-use parameters (crop-coefficient curve, stage lengths, seasonal
-water-use total, drought-buffer period) are estimated entirely by analogy
-to standard international citrus crop-coefficient values as previously
-established for a closely related citrus crop this project has
-researched, adjusted upward somewhat for this crop's humid-tropical
-climate and notably large canopy size, since no dedicated study for this
-species was found.
+**Ben Tre [9]:** 200,000 t / 10,000 ha = 20 t/ha.
 
-Tree spacing/density is derived from a classic reference work's spacing
-guidance, converted to a per-hectare planting density; the wide end of
-the documented spacing range is favored given this species' larger mature
-tree size.
+**Pinghe [10]:** 700,000 mu × 1/15 ha/mu = 46,667 ha; 1,300,000 t /
+46,667 ha = 27.9 t/ha (all pomelo types, 2020).
 
-Labor-hour figures across all operations are carried over by analogy from
-a closely related citrus crop this project has researched, with harvest
-labor adjusted upward to reflect repeated hand-picking of unusually large,
-heavy fruit across a longer, sometimes essentially year-round, harvest
-season.
+**Brackish water [1]:** 2.11% salt = 21.1 g/L. At EC (dS/m) ≈ TDS
+(mg/L) / 640, that gives 21,100 / 640 ≈ 33 dS/m. Seawater (about 35 g/L)
+gives about 55 dS/m, so this is about 60% of seawater. The 640 factor is a
+general approximation, and the figure is canal water, not root-zone ECe.
 
-Soil nutrient-uptake and pH-tolerance figures are likewise carried over
-by analogy from the same related citrus crop, since no dedicated study
-was found for this species.
+**Climate [1]:** 82.4 °F = 28 °C; 56 in = 142 cm (Morton prints 143 cm).
 
-Standing-storage-days and quality-decay-rate figures (how long ripe fruit
-can remain on the tree before quality declines) are estimated by analogy
-to the same related citrus crop, since no dedicated figure was found for
-this species.
+**Humid-region Kc [6][7]:** FAO-56 Kc 0.65-0.70 + 0.1-0.2 (FAO-66 humid
+adjustment) = 0.75-0.90. This applies the general citrus rule to pomelo;
+it is not a pomelo measurement.
 
-The notably high salinity figure in Finding 5 is derived by converting a
-reported percentage salt concentration to standard salinity units using a
-standard conversion factor, yielding a figure comparable to roughly two-
-thirds of full seawater salinity — well outside any plausible sustained
-root-zone tolerance, supporting the interpretation that it describes
-intermittent canal/tidal water rather than true root-zone conditions.
+No other estimates are made in this pass.
 
 ## Sources
 
-[1] A classic mid-20th-century reference work on warm-climate fruit
-crops, chapter on this species. Supplied: tree and fruit dimensions, peel
-thickness, climate preference, a notable brackish-water claim, seed
-storage conditions, monoembryony, air-layering and budding propagation,
-rootstock options, spacing, shade-tree nursery practice, multiple
-flowering flushes per year, a subtropical growing region's harvest
-season, storage and historical sea-shipment behavior, named cultivars,
-pollen effects on seediness, pests and diseases, uses of peel, flowers,
-seeds, and leaves, a festival market description, and food-value figures.
-Accessed 2026-10-03, opened directly (passages extracted via an automated
-fetch tool).
+[1] Morton, J. (1987), *Fruits of Warm Climates*, "Pummelo," pp. 147-151,
+as hosted by Purdue University's Center for New Crops. Supplied: names,
+tree and fruit description, seediness and pollen parent, origin and
+history, 22 cultivars, climate, brackish water and soil, propagation and
+seed storage, raised-bed culture, spacing, shade, fertilizer, flowering and
+harvest seasons, keeping quality, pests and diseases, food value, peel-oil
+dermatitis, other uses. Accessed 2026-11-23, opened directly.
 
-[2] A community-maintained general reference encyclopedia article on this
-species. Supplied: taxonomy and ancestral status among cultivated citrus,
-genetic contribution to a related citrus species, fruit-weight range,
-cultivar count, native range, composition, propagation methods,
-monoembryony, culinary uses, Lunar New Year ancestor-offering tradition
-and the associated linguistic pun, two additional festival traditions, a
-drug-interaction note, and conservation status. Accessed 2026-10-03,
-opened directly (summarized via an automated fetch tool).
+[2] Wikipedia, "Pomelo". Supplied: non-hybrid status and ancestry, the 63%
+grapefruit share, size and fruit weight, cultivar count, etymology and
+taxonomy, USDA nutrition table, culinary uses, drug interactions,
+propagation methods, festival uses. Accessed 2026-11-23, opened directly.
 
-[3] A national plant-protection and export-readiness agency's industry
-profile document on this crop in one major Southeast Asian producing
-country. Supplied: national growing area and production totals, regional
-production figures, documented yield range, a named-cultivar table
-(weight, sugar content, growing region), harvest-timing windows, export
-markets and volume, a storage-life note for the leading export cultivar,
-peel essential-oil content, and composition. Accessed 2026-10-03, PDF
-extracted (some tabular data partially garbled in extraction).
+[3] University of California, Riverside, Givaudan Citrus Variety
+Collection, "Pummelo Species" list. Supplied: about 70 accessions.
+Accessed 2026-11-23, opened directly.
 
-[4] A tropical-fruit-network postharvest-handling reference page.
-Supplied: a specific optimal cool-storage temperature and humidity, a
-multi-week storage-life range under those conditions, ambient shelf life,
-and freezability of flesh and juice. Accessed 2026-10-03, opened directly.
+[4] Snippets on self-incompatibility: studies indexed in PMC (S-RNases;
+the nine-cultivar hand-pollination test; 'Guiyou No. 1'), a 2023 review in
+*The Horticulture Journal*, and a 2024 *Frontiers in Plant Science*
+transcriptome study. Accessed 2026-11-23, search snippets only.
 
-[5] A peer-reviewed food-composition-and-analysis journal article on
-quality predictors in a named Chinese honey-pomelo cultivar group and its
-mutants. Supplied: a major Chinese growing region's production area and
-total output for one recent year, export volume, and a note on red-
-fleshed mutant selections. Accessed 2026-10-03, search snippet only.
+[5] Snippets on storage: a *HortTechnology* study ('Chandler' and
+'Sarawak', 12 °C), a 'Hirado Buntan' study (8-10 °C), an AGRIS record
+('Khao Thongdee', 5-29 °C for 10 weeks), a 'Jinshayou' study (90 days at
+20 °C), and a citrus chilling-injury review (below 7 °C). Accessed
+2026-11-23, search snippets only.
 
-[6] Multiple sources on pollination biology, including a peer-reviewed
-horticulture-research journal article on self-incompatibility in a
-specific weakened-incompatibility cultivar, a peer-reviewed study
-(indexed in a biomedical literature repository) comparing physiological
-and gene-expression responses to cross-pollination, a further peer-
-reviewed study on diversity among this species and a closely related
-citrus, and a general pollination-handbook chapter on citrus. Accessed
-2026-10-03, search snippets only. Supplied: self-incompatibility
-mechanism, absence of nucellar seedlings, poor fruit set and drop without
-cross-pollination, specific fruit-set improvement figures from one study,
-seedless single-variety orchards through parthenocarpy, dependence on
-insect pollinators, and the named weakened-incompatibility cultivar.
+[6] FAO Irrigation and Drainage Paper 66, *Crop Yield Response to Water*
+(2012), "Citrus" chapter. Supplied: tropical vs. subtropical performance,
+frost, single-value and humid-adjusted Kc, reported annual ETc. Accessed
+2026-11-23, opened directly (PDF text).
 
-[7] Multiple lower-authority lifestyle and cultural-blog sources on
-ritual leaf-bathing and festival practices. Supplied: the New Year's Eve
-leaf-bath tradition in Cantonese and Hokkien households (also practiced
-before weddings and business openings), the Mid-Autumn moon-offering
-tradition, and the Lunar New Year linguistic-pun tradition. Accessed
-2026-10-03, search snippets only (lower-authority sources).
+[7] FAO Irrigation and Drainage Paper 56, *Crop Evapotranspiration*
+(1998), Tables 11, 12, 22 and 23 and the Ky table. Supplied: citrus stage
+lengths, Kc, height, rooting depth, p, salinity rating for pummelo (S),
+Ky. Accessed 2026-11-23, opened directly.
 
-[8] A standard international crop-evapotranspiration reference work.
-Supplied: citrus crop-coefficient values, stage lengths, rooting depth,
-soil-moisture-depletion allowance, and yield-response factor, as
-previously used for a closely related citrus crop this project has
-researched. Values taken from this project's own prior citrus research
-rather than reopened directly this pass.
+[8] FAO Irrigation and Drainage Paper 61, *Agricultural Drainage Water
+Management in Arid and Semi-Arid Areas* (2002), Annex 1. Supplied:
+pummelo rated S on foliar injury (Furr & Ream 1969). Accessed 2026-11-23,
+opened directly.
 
-[9] This project's own prior research on two closely related citrus
-crops. Supplied: citrus values used as labeled analogies throughout this
-entry (water use, atmosphere response, labor, soil, non-climacteric
-storage behavior, relative cold-hardiness ranking, and the combined
-international production-statistics category shared with this species),
-each independently sourced in that earlier research. Accessed via this
-project's own prior work.
+[9] Snippets on Vietnam: news reports (VnExpress, VOV, Vietstock, Dan Tri,
+Vietnam News, FreshPlaza) on area, output, yield, regional figures,
+exports and market access. Accessed 2026-11-23, search snippets only.
 
-[10] Two lower-authority grower/marketplace websites on cultivation and
-storage practice. Supplied: an alternative, colder storage-temperature
-optimum with a shorter storage window and a stated chilling-injury risk,
-a sea-freight duration estimate, and additional named Thai cultivars.
-Accessed 2026-10-03, search snippets only (low-authority sources).
+[10] Snippet on China: a 2020 Xinhua report (via gov.cn) on Pinghe county
+pomelo area and output. Accessed 2026-11-23, search snippets only.
 
-[11] A region-specific language edition of a community-maintained general
-reference encyclopedia, plus a commercial agricultural content site.
-Supplied: a specific cultivar-growing region's area and share of a
-broader delta growing region's total pomelo area, annual production
-total, a geographical-indication designation date, and export-zone
-detail. Accessed 2026-10-03, search snippets only.
+[11] Snippets on the New Year leaf bath: Hong Kong guides and the USC
+folklore archive. Accessed 2026-11-23, search snippets only.
