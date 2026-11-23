@@ -720,6 +720,19 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`persimmon_american--equine-impaction`** (Online): the Banse et al. retrospective on persimmon impaction in equids, or Cummings et al. (1997), *J. Vet. Diagn. Invest.*
   - **Needed for:** confirming the snippet-level Hazards entry.
 
+### persimmon_dateplum (2026-11-23)
+
+- [ ] **`persimmon_dateplum--floras`** (Online): the Flora of China and Flora of Pakistan treatments of *Diospyros lotus* on eFloras (both refused automated fetches), or Kew's Plants of the World Online entry.
+  - **Needed for:** native range, elevation, flowering and fruiting months, local names and uses (e.g. amlok in Pakistan).
+- [ ] **`persimmon_dateplum--rootstock-trial`** (Online): the full text of the Turkish (Mustafa Kemal University) *D. lotus* vs. *D. kaki* rootstock and graft trial, and the 2018 Shiraz stratification study.
+  - **Needed for:** graft take, seedling growth and germination by stratification time.
+- [ ] **`persimmon_dateplum--fruit-production`** (Online/Library): any source on *D. lotus* grown for fruit: bearing age, yield per tree, named varieties (Italy, East Asia), drying.
+  - **Needed for:** yield, bearing age and cultivars (all Not sourced).
+- [ ] **`persimmon_dateplum--composition`** (Online): *Acta Scientiarum Polonorum Hortorum Cultus* (2020), on *D. lotus* fruits grown in Turkey, or another proximate analysis giving energy and moisture.
+  - **Needed for:** composition per 100 g, including energy.
+- [ ] **`persimmon_dateplum--kakishibu`** (Online): a source confirming whether *D. lotus* (mamegaki/shinanogaki) is used for kakishibu in Japan.
+  - **Needed for:** the old doc's tannin-use claim, now dropped.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

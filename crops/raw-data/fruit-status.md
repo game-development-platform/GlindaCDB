@@ -113,7 +113,7 @@
 | persian_lime | C. × latifolia | lime.md | `key_lime`, `lemon` | 2026-11-19 | RESEARCHED |
 | persimmon | Diospyros kaki | persimmon.md |  | 2026-11-23 | RESEARCHED |
 | persimmon_american | Diospyros virginiana | persimmon-american.md |  | 2026-11-23 | RESEARCHED |
-| persimmon_dateplum | Diospyros lotus | persimmon-dateplum.md |  | 2026-10-12 | OUT-OF-DATE |
+| persimmon_dateplum | Diospyros lotus | persimmon-dateplum.md |  | 2026-11-23 | RESEARCHED |
 | persimmon_texas | Diospyros texana | persimmon-texas.md |  | 2026-10-12 | OUT-OF-DATE |
 | pineapple | Ananas comosus | pineapple.md |  | 2026-09-29 | OUT-OF-DATE |
 | pingan | Artocarpus sarawakensis (mountain tarap) |  | `marang` | 2026-11-23 | PROPOSED |
