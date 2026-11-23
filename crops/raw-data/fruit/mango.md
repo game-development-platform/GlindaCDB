@@ -53,7 +53,7 @@ licensed under this project's MIT license (see repository `LICENSE`).
 **Proposed** (wet-tropics *Mangifera*; the genus has 64 species, more
 than 27 with edible fruit, centred on Sumatra, Borneo and the Malay
 Peninsula [8]):
-- kuini (`kuini`, *M. odorata*) [8];
+- kuini (`kuini`, *M. odorata*) [8]; since researched in `kuini.md`;
 - bachang (`bachang`, *M. foetida*), whose astringent fruit "can be eaten
   pickled" [8]; since researched in `bachang.md`;
 - binjai (`binjai`, *M. caesia*) [8]; since researched in `binjai.md`;

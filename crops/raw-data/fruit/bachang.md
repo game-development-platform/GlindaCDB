@@ -64,7 +64,7 @@ foetida* [4]. Chromosome number 2n = 40 [1].
 
 **Relatives in this project:**
 - mango (`mango`, `mango.md`): the same genus [1].
-- kuini (`kuini`, proposed): *M. odorata* is described as a hybrid of
+- kuini (`kuini`, `kuini.md`): *M. odorata* is described as a hybrid of
   the common mango and this species [11].
 - bambangan (`bambangan`, `bambangan.md`): where both are grown
   together, natural cross-pollination gives hybrids with traits of both

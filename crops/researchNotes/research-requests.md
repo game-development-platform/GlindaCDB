@@ -400,6 +400,26 @@ are never committed: this project keeps citations and findings only.
   `binjai--kostermans-bompard-1993`; its *M. casturi* entry is needed
   too (bearing, embryony, sap).
 
+### kuini (2026-11-23)
+
+- [ ] **`kuini--production-stats`** (Online): kuini area and production
+  for any country (Malaysia DOA *Statistik Tanaman Buah*, Indonesia BPS
+  *Statistik Hortikultura* "kweni" line, Philippine PSA "huani").
+  - **Needed for:** scale, yield per hectare and price.
+- [ ] **`kuini--bondad-1982`** (Library): Bondad, N., "Mango and its
+  relatives in the Philippines," *Philippine Geographical Journal*
+  26(2): 88-100 (1982).
+  - **Needed for:** huani and sangay in the Philippines: season, yield,
+    uses.
+- [ ] **`kuini--ochse-1931`** (Library): Ochse, J.J. and Bakhuizen van den
+  Brink, R.C., *Vruchten en vruchtenteelt in Nederlandsch-Indië* (Kolff,
+  Batavia, 1931), pp. 15-17.
+  - **Needed for:** the Javanese forms, kernel flour preparation, and
+    years to bearing.
+- Kostermans and Bompard (1993) is already requested as
+  `binjai--kostermans-bompard-1993`; its *M. odorata* entry is needed
+  too.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

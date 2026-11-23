@@ -67,7 +67,7 @@ species name was neotypified in 2019 [10].
 - bachang (`bachang`, `bachang.md`) and bambangan (`bambangan`,
   `bambangan.md`): the same wet-tropics group, with the same irritant sap
   [11].
-- kuini (`kuini`, proposed): the same group [11].
+- kuini (`kuini`, `kuini.md`): the same group [11].
 - wet-tropics mangoes (`wet_tropics_mangoes`, `wet-tropics-mangoes.md`):
   the older group doc [11].
 - kasturi (`kasturi`, `kasturi.md`): another Kalimantan *Mangifera*,

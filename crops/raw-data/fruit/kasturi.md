@@ -60,6 +60,9 @@ local name *kasturi* [1].
   foetida*, locally hambawang) was one of the related species compared
   with kasturi in the 2021 genetic study [2][14].
 - binjai (`binjai`, `binjai.md`): another Kalimantan wild mango [14].
+- kuini (`kuini`, `kuini.md`): another cultivated *Mangifera* of hybrid
+  origin with mango as a parent, researched after this doc. Its AFLP
+  hybrid study is cited in [2].
 
 **Proposed:** none new. The other local types (Cuban, Pelipisan, Pinari)
 belong in this doc. Rawa-rawa is a separate species, but no use beyond
