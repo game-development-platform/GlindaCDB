@@ -58,7 +58,8 @@ as 1,500 genetically distinct wild blueberry plants" [1].
 **Proposed:**
 - **Half-high blueberry** (`half_high_blueberry`, *V. angustifolium* × *V.
   corymbosum*): 20-60 in tall; "occurs naturally in ME, but is also used
-  commercially" [1].
+  commercially" [1]. Gate-checked 2026-11-23 and not promoted: it is
+  covered as a cultivar group in `blueberry.md`.
 
 ## Research findings
 

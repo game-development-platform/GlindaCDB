@@ -36,6 +36,39 @@ member of its genus researched); a related acid-loving genus-mate (a
 well-known tart processing berry) is covered as a separate, later
 entry.
 
+**Half-high blueberry** (*V. corymbosum* × *V. angustifolium*) is
+covered here as a fourth cultivar group. It was proposed as its own row
+(`half_high_blueberry`) from `lowbush-blueberry.md`, which notes that it
+occurs naturally in Maine and is also grown commercially [24].
+**Gate check (2026-11-23): not promoted.**
+- *Taxonomy:* crosses of northern highbush with lowbush blueberry
+  [22][23], released as named cultivars. Minnesota's program, started
+  in 1967, released 'Northblue', 'Northsky' and 'Northcountry', then
+  'St. Cloud', 'Chippewa', 'Polaris' and 'Superior' [21]. Like the
+  southern highbush hybrids above, it is a bred cultivar group, not the
+  managed wild stands of `lowbush-blueberry.md`.
+- *Range:* cold regions where other blueberries are not hardy [23]:
+  USDA zones 3-5 in Minnesota and Wisconsin [22], and the coldest sites
+  of the Pacific Northwest [23].
+- *Farming system:* planted and managed like highbush [22]:
+  - **Planting:** acid soil amended with peat, plants 4-5 ft apart in
+    rows 8-10 ft apart (1,360 plants/acre at 4 × 8 ft).
+  - **Care:** no fruit for the first two years, then dormant pruning,
+    irrigation and leaf analysis.
+  - **Winter:** the one real difference. The plants are 12-48 in tall
+    [21] (3-4 ft in [23]), so most of the fruiting wood sits under snow
+    [21][23]. Hardiness is -35 to -45 °F [23], but unprotected plants
+    are injured at -25 to -30 °F [22]. When snow is under 12 in, growers
+    cover the plants, and in a light-snow year this can double yields
+    [22].
+- *Harvest:* hand-picked fully blue fruit over 2-5 weeks [22], the same
+  as highbush. A large crop takes about five years, and mature size
+  about ten [22]. Yields are 1-9 lb per bush by cultivar [21].
+- *Uses:* fresh fruit, with a flavour likened to wild lowbush in one
+  cultivar [22]. Also landscape and container plants [21][23].
+These are cultivar-group differences (stature, hardiness, winter
+protection), the same kind this entry already handles for rabbiteye.
+
 ## Research findings
 
 **Finding 1 — fundamentally an acid-soil specialist with shallow,
@@ -543,3 +576,28 @@ and other data types; nutrition-compare.pages.dev for vitamin C and
 potassium). Supplied: 57 kcal/100 g (SR Legacy), 60-64 kcal in other
 USDA data types, and unverified vitamin C 9.7 mg and potassium 77 mg.
 Accessed 2026-11-17, search snippets only; USDA itself not opened.
+
+[21] University of Minnesota, Minnesota Hardy, "Blueberries"
+(mnhardy.umn.edu/blueberries). Supplied: the 1967 breeding program, the
+cultivar releases, snow cover over the bearing wood, plant heights and
+yields per bush, acid soil, cross-pollination, ornamental use. Accessed
+2026-11-23, opened directly.
+
+[22] Foulk, D., Hoover, E., Luby, J., Rosen, C., Stienstra, W., Wildung,
+D., Wright, J. and Roper, T., "Commercial blueberry production in
+Minnesota and Wisconsin," University of Minnesota Extension (reviewed
+2021). Supplied: the half-high parentage, zones 3-5 and 30-year life,
+years to a large harvest and to mature size, spacing and plant density,
+pruning, irrigation, winter injury temperatures, the 12 in snow
+threshold and winter protection, the 2-5 week harvest and picking
+practice, and the lowbush-like flavour. Accessed 2026-11-23, opened
+directly.
+
+[23] Oregon State University Extension, "Blueberry cultivars for the
+Pacific Northwest," PNW 656. Supplied: the five US blueberry types,
+half-high parentage, -35 to -45 °F hardiness, 3-4 ft height, fruiting
+area below the snow line, commercial use where other types are not
+hardy, landscape and container use. Accessed 2026-11-23, opened
+directly.
+
+[24] This project's own doc `lowbush-blueberry.md` (the proposing doc).

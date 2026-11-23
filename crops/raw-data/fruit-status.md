@@ -21,7 +21,7 @@
 | black_raspberry | Rubus occidentalis | black-raspberry.md |  | 2026-11-17 | RESEARCHED |
 | blackberry | Rubus subgenus Rubus | blackberry.md |  | 2026-11-17 | RESEARCHED |
 | blackcurrant | Ribes nigrum | blackcurrant.md |  | 2026-11-17 | RESEARCHED |
-| blueberry | Vaccinium corymbosum | blueberry.md | `lingonberry`, `lowbush_blueberry`, `bilberry` | 2026-11-17 | RESEARCHED |
+| blueberry | Vaccinium corymbosum | blueberry.md | `lingonberry`, `lowbush_blueberry`, `bilberry`, `half_high_blueberry` | 2026-11-17 | RESEARCHED |
 | bokbunja | Rubus coreanus | bokbunja.md |  | 2026-11-17 | RESEARCHED |
 | breadfruit | Artocarpus altilis | breadfruit.md | `jackfruit`, `lakoocha` | 2026-11-17 | RESEARCHED |
 | buddhas_hand | Citrus medica var. sarcodactylis | buddhas-hand.md |  | 2026-11-17 | RESEARCHED |
@@ -51,7 +51,7 @@
 | grape | Vitis vinifera | grape.md | `american_grape`, `muscadine` | 2026-11-17 | RESEARCHED |
 | grapefruit | Citrus × paradisi | grapefruit.md |  | 2026-11-17 | RESEARCHED |
 | guava | Psidium guajava | guava.md |  | 2026-11-17 | RESEARCHED |
-| half_high_blueberry | Vaccinium angustifolium × V. corymbosum |  | `lowbush_blueberry` | 2026-11-20 | PROPOSED |
+| half_high_blueberry | Vaccinium angustifolium × V. corymbosum (half-high cultivar group) | blueberry.md | `blueberry`, `lowbush_blueberry` | 2026-11-23 | REJECTED |
 | haruka | Citrus hybrid, hyuganatsu × natsudaidai | hyuganatsu.md | `hyuganatsu`, `natsudaidai` | 2026-11-19 | REJECTED |
 | hassaku | Citrus hassaku | hassaku.md | `natsudaidai`, `kunenbo` | 2026-11-19 | RESEARCHED |
 | hetsuka_daidai | Citrus sp., Kagoshima local sour citrus related to kabusu | hetsuka-daidai.md | `daidai`, `natsudaidai`, `yuzu`, `sudachi`, `kabosu`, `shiikuwasha`, `hyuganatsu` | 2026-11-19 | RESEARCHED |
