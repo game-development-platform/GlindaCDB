@@ -35,7 +35,7 @@
 | charichuelo | Garcinia madruno |  | `mangosteen` | 2026-11-23 | PROPOSED |
 | cherry_plum | Prunus cerasifera | cherry-plum.md | `japanese_plum` | 2026-11-17 | RESEARCHED |
 | chinotto | Citrus myrtifolia (possibly *C.* × *aurantium* var. *myrtifolia*) | chinotto.md | `bitter_orange` | 2026-11-17 | RESEARCHED |
-| citron | Citrus medica | citron.md | `key_lime`, `lemon`, `meyer_lemon` | 2026-11-17 | RESEARCHED |
+| citron | Citrus medica | citron.md | `key_lime`, `lemon`, `meyer_lemon`, `ponderosa_lemon` | 2026-11-17 | RESEARCHED |
 | citron_melon | Citrullus amarus | watermelon.md | `seed_watermelon`, `watermelon` | 2026-11-17 | RESEARCHED |
 | clementine | Citrus × clementina (willowleaf mandarin × sweet orange) | clementine.md | `mandarin`, `orange`, `satsuma`, `tangelo` | 2026-11-22 | RESEARCHED |
 | coconut | Cocos nucifera | coconut.md |  | 2026-11-17 | RESEARCHED |
@@ -82,7 +82,7 @@
 | kwai_muk | Artocarpus lingnanensis (identity uncertain) | jackfruit.md | `jackfruit` | 2026-11-19 | REJECTED |
 | lakoocha | Artocarpus lakoocha (monkey jack) | lakoocha.md | `jackfruit`, `breadfruit`, `champedak`, `marang` | 2026-11-19 | RESEARCHED |
 | laraha | *C.* × *aurantium*, Curaçao landrace | bitter-orange.md | `bitter_orange` | 2026-11-17 | REJECTED |
-| lemon | Citrus × limon | lemon.md | `persian_lime`, `citron`, `bitter_orange`, `meyer_lemon`, `sweet_lemon`, `bergamot` | 2026-11-19 | RESEARCHED |
+| lemon | Citrus × limon | lemon.md | `persian_lime`, `citron`, `bitter_orange`, `meyer_lemon`, `sweet_lemon`, `bergamot`, `ponderosa_lemon` | 2026-11-19 | RESEARCHED |
 | lingonberry | Vaccinium vitis-idaea | lingonberry.md | `blueberry`, `cranberry`, `lowbush_blueberry`, `bilberry` | 2026-11-19 | RESEARCHED |
 | longan | Dimocarpus longan | longan.md | `lychee`, `rambutan`, `pulasan`, `mata_kucing`, `ackee`, `mamoncillo`, `longan_echinatus` | 2026-11-20 | RESEARCHED |
 | longan_echinatus | Dimocarpus longan var. echinatus |  | `mata_kucing`, `longan` | 2026-11-23 | PROPOSED |
@@ -121,7 +121,7 @@
 | plum | Prunus domestica, European plum | plum.md | `japanese_plum` | 2026-11-23 | RESEARCHED |
 | pomegranate | Punica granatum | pomegranate.md |  | 2026-11-23 | RESEARCHED |
 | pomelo | Citrus maxima | pomelo.md |  | 2026-10-03 | OUT-OF-DATE |
-| ponderosa_lemon | Citrus hybrid, 'Ponderosa' lemon (presumed lemon × citron) |  | `meyer_lemon` | 2026-11-23 | PROPOSED |
+| ponderosa_lemon | Citrus hybrid, 'Ponderosa' lemon (presumed lemon × citron) | ponderosa-lemon.md | `meyer_lemon`, `lemon`, `citron` | 2026-11-23 | RESEARCHED |
 | pulasan | Nephelium ramboutan-ake, syn. N. mutabile | pulasan.md | `longan`, `lychee` | 2026-10-03 | OUT-OF-DATE |
 | purple_passionfruit | Passiflora edulis | passionfruit.md | `yellow_passionfruit` | 2026-09-30 | OUT-OF-DATE |
 | quince | Cydonia oblonga | quince.md | `japanese_quince`, `loquat`, `medlar` | 2026-10-02 | OUT-OF-DATE |

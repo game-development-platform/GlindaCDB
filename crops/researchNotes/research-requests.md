@@ -770,6 +770,15 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`plum--harvest-timing`** (Online/Library): bloom-to-harvest days for prune and fresh European plum cultivars.
   - **Needed for:** days to harvest (Not sourced).
 
+### ponderosa_lemon (2026-11-23)
+
+- [ ] **`ponderosa_lemon--parentage`** (Online): the full text of Curk et al. (2016), *Annals of Botany* 117(4): 565-583 (PMC and Europe PMC refused automated fetches), for its Ponderosa genotype.
+  - **Needed for:** lemon × citron vs. pummelo × citron (F2) parentage.
+- [ ] **`ponderosa_lemon--culture`** (Online/Library): any extension or horticultural source with Ponderosa-specific cold limits, bearing age, yield per tree, soil and water needs, pests (e.g. Pieniążek 1983 on the Skierniewice lemon, or Florida/California extension pages).
+  - **Needed for:** nearly every agronomic item (Not sourced).
+- [ ] **`ponderosa_lemon--composition`** (Online): juice content, acidity, SSC or proximate composition for Ponderosa fruit.
+  - **Needed for:** composition and energy (Not sourced).
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin
