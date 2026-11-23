@@ -76,7 +76,8 @@ foetida* [4]. Chromosome number 2n = 40 [1].
 **Proposed:**
 - kemang (`kemang`, *M. kemanga*): a cultivated species; very rare in
   Malaysian home gardens [6], and studied among the Sumatran wild mangoes
-  [11]. It has its own market name and no doc here.
+  [11]. It has its own market name. Gate-checked 2026-11-23 and not
+  promoted: it is covered as a form of binjai in `binjai.md`.
 - kasturi (`kasturi`, *M. casturi*): commonly cultivated in Kalimantan
   under the name kastooree. It grafts well on mango, and Fairchild uses it
   as an interstock for other wild mangoes [5]. Also host to the oriental

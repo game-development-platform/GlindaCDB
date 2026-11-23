@@ -66,7 +66,7 @@
 | jujube | Ziziphus jujuba | jujube.md | `indian_jujube` | 2026-11-19 | RESEARCHED |
 | kabosu | Citrus sphaerocarpa (Ōita sour citrus) | kabosu.md | `hetsuka_daidai`, `daidai`, `yuzu`, `sudachi`, `kunenbo`, `ichang_papeda` | 2026-11-19 | RESEARCHED |
 | kasturi | Mangifera casturi (Kalimantan mango) | kasturi.md | `bachang`, `mango`, `binjai` | 2026-11-22 | RESEARCHED |
-| kemang | Mangifera kemanga |  | `bachang`, `mango`, `binjai` | 2026-11-22 | PROPOSED |
+| kemang | Mangifera kemanga (= M. caesia var. kemanga in POWO) | binjai.md | `bachang`, `mango`, `binjai` | 2026-11-23 | REJECTED |
 | key_lime | C. × aurantiifolia | lime.md | `persian_lime`, `citron`, `rangpur_lime`, `makrut_lime` | 2026-11-19 | RESEARCHED |
 | kiwiberry | Actinidia arguta; A. kolomikta as a cultivar group | kiwiberry.md | `kiwifruit` | 2026-11-19 | RESEARCHED |
 | kiwifruit | Actinidia deliciosa | kiwifruit.md | `kiwiberry` | 2026-11-19 | RESEARCHED |

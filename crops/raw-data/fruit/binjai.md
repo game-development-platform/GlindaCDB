@@ -57,12 +57,13 @@ species name was neotypified in 2019 [10].
   irritant, on the skin and when swallowed (Finding 3) [1].
 - **Against kemang:** the two share a range and hybridize in East
   Kalimantan orchards [1]. Binjai has a longer petiole and a smooth,
-  yellowish or whitish-green fruit [1]. Kemang stays a separate
-  `PROPOSED` row.
+  yellowish or whitish-green fruit [1]. Kemang was gate-checked
+  separately and is covered below.
 
 **Relatives in this project:**
 - mango (`mango`, `mango.md`): the same genus [1].
-- kemang (`kemang`, proposed): natural hybrids with binjai [1].
+- kemang (`kemang`, not promoted; covered below): natural hybrids with
+  binjai [1].
 - bachang (`bachang`, `bachang.md`) and bambangan (`bambangan`,
   `bambangan.md`): the same wet-tropics group, with the same irritant sap
   [11].
@@ -73,6 +74,43 @@ species name was neotypified in 2019 [10].
   researched after this doc.
 
 **Proposed:** none new.
+
+**Kemang** (*Mangifera kemanga* Blume) is covered here as a close form
+of binjai. It was proposed as its own row (`kemang`) from `bachang.md`
+[11]. **Gate check (2026-11-23): not promoted.**
+- *Taxonomy:* Kew's Plants of the World Online treats *M. kemanga* as a
+  synonym of *M. caesia*, through *M. caesia* var. *kemanga* (Blume)
+  Kosterm. (1965) [14]. Flora Malesiana also unites the two. PROSEA
+  disagrees and keeps it as a species, told apart by its nearly
+  stalkless leaves, panicles up to 75 cm, and dull yellow-brown, scurfy
+  fruit [12]. The two hybridize in East Kalimantan orchards [1][12].
+  Synonym: *M. polycarpa* Griffith; 2n = 40 [12].
+- *Range:* the same natural range as binjai [12]. Cultivation is
+  centred on western Java, especially around Bogor, and is less common
+  in Borneo, where binjai dominates [12]. It is the identity flora of
+  Bogor Regency (Regent's decree 522/185/Kpts/1996), and it is now rare
+  there [13].
+- *Farming system:* the same as binjai. PROSEA's ecology and agronomy
+  text for kemang matches binjai's: wet lowlands below 400 m, tolerant
+  of flooding, grown from seed, failed grafts on mango, 12-16 m spacing,
+  and no published husbandry or yield data [1][12]. In Bogor it grows
+  mostly in gardens (74% of 30 respondents) and is raised from seed
+  [13].
+- *Harvest:* Not sourced separately from binjai.
+- *Uses:* these differ more than anything else, but at the level of a
+  form or cultivar, like "wani":
+  - **Fruit:** eaten fresh when ripe, or made into home-made juice [12].
+    It is used unripe in *rujak* (sliced green fruit with a spicy
+    sauce) [12].
+  - **Leaves:** young leaves are eaten raw in Sundanese *lalab* [12]. In
+    Bogor, fruit (43%) and shoots (39%) were the parts used most [13].
+  - **Seeds:** occasionally grated fresh with fermented soya beans and
+    spices [12].
+  - **Price:** the fruit sells relatively high against other mangoes
+    [13].
+- *Hazard:* "The juice of kemang is not injurious to the skin" [12],
+  unlike binjai's irritant immature juice (Finding 3). If kemang ever
+  gets its own row, this is the main data difference.
 
 ## Research findings
 
@@ -326,3 +364,26 @@ Accessed 2026-11-22, abstract only (Europe PMC).
 [11] This project's own docs: `mango.md` (the proposing doc),
 `wet-tropics-mangoes.md` (the older group doc), `bachang.md` and
 `bambangan.md`.
+
+[12] Bompard, J.M., "*Mangifera kemanga* Blume," in Verheij, E.W.M. and
+Coronel, R.E. (eds.), *Plant Resources of South-East Asia* No. 2: Edible
+Fruits and Nuts (PROSEA, 1991), as reproduced on Pl@ntUse ("Mangifera
+kemanga (PROSEA)"). Supplied: the synonyms, chromosome number,
+vernacular names, range and West Java cultivation centre, uses (fresh,
+juice, *rujak*, grated seed, *lalab* leaves), the non-irritant juice,
+the distinguishing characters and the case for a separate species,
+hybrids, ecology, agronomy, and prospects. Accessed 2026-11-23, opened
+directly.
+
+[13] Darsono, B.S., Hikmat, A. and Soekmadi, R., "Ethnobotany of kemang
+(*Mangifera kemanga* Blume.) as identity flora of Bogor Regency," *Media
+Konservasi* 27(2) (2022). Supplied: the 1996 identity-flora decree,
+rarity, the 30-respondent survey, garden habitat, seed propagation, the
+parts used, and the relatively high price. Accessed 2026-11-23, abstract
+page opened directly.
+
+[14] Kew, *Plants of the World Online*, "*Mangifera caesia* var.
+*kemanga* (Blume) Kosterm." (urn:lsid:ipni.org:names:3240270-4).
+Supplied: the synonymy under *M. caesia*, following Flora Malesiana.
+Accessed 2026-11-23, search snippet only (the page returned a
+Cloudflare challenge).
