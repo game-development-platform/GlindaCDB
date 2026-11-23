@@ -733,6 +733,19 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`persimmon_dateplum--kakishibu`** (Online): a source confirming whether *D. lotus* (mamegaki/shinanogaki) is used for kakishibu in Japan.
   - **Needed for:** the old doc's tannin-use claim, now dropped.
 
+### persimmon_texas (2026-11-23)
+
+- [ ] **`persimmon_texas--seed-papers`** (Online): full text of Everitt (1984), *J. Range Manage.* 37(2): 189-192; Vora (1989), *J. Range Manage.* 42(1): 36-40; and Van Auken & Bush (1992), *Texas J. Sci.* 44(2): 167-174 (the Arizona archive blocks automated fetches).
+  - **Needed for:** germination by temperature, salinity response, and the 33% vs. >90% conflict.
+- [ ] **`persimmon_texas--fna`** (Online): the Flora of North America treatment of *Diospyros texana* (eFloras blocked).
+  - **Needed for:** elevation (0-1,800 m vs. 300-1,700 m), phenology and sex system.
+- [ ] **`persimmon_texas--composition`** (Online/Library): any proximate analysis of the fruit.
+  - **Needed for:** composition and energy (Not sourced).
+- [ ] **`persimmon_texas--yield-sex-ratio`** (Online/Library): a population survey of sex ratio, or any fruit-yield figure per tree.
+  - **Needed for:** yield (Not sourced) and the anecdotal 10:1 male ratio.
+- [ ] **`persimmon_texas--cold`** (Online): a killing temperature or documented freeze event (e.g. February 2021) for this species.
+  - **Needed for:** hardiness beyond the 7A-9B zone rating.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

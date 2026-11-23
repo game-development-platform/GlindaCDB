@@ -1,7 +1,28 @@
 # Texas Persimmon (*Diospyros texana*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/persimmon-texas.md`
-**Researched:** 2026-10-12
+**Researched:** 2026-10-12 (re-researched 2026-11-23 against the full
+current checklist in `skills/crop-research/SKILL.md` and
+`templates/research-doc.md`.
+- **Re-opened:** the encyclopedia article (Wikipedia), the Fire Effects
+  Information System entry (Carey 1994), the UF/IFAS landscape-tree fact
+  sheet (ENH389), the Lady Bird Johnson Wildflower Center entry, the
+  Woody Plant Seed Manual *Diospyros* chapter, Texas Beyond History, the
+  Native Plant Society of Texas entry, Plants For A Future, and Texas A&M
+  E-611; Everitt (1984) and the naturalist-newsletter material again at
+  snippet level only (the Journal of Range Management archive blocks
+  automated fetches).
+- **Added:** the Travis County AgriLife persimmon page; freeze-damage
+  snippets.
+- **Dropped,** because the source could not be re-found or re-opened, or
+  the claim is not in the re-opened source: the paleoforaging blog
+  (banana ripening, no-mordant dye method, coprolite citation), the
+  recipe-card jam and its shelf life, the ink use, the lycopene claim,
+  the chromosome-count and genome-size material, the first-fruit law
+  snippet, the spaceflight snippets, the internal record, the "preserved
+  human waste" archaeological claim (Texas Beyond History gives midden
+  deposits), and the energy, yield-tier, water (olive analogy), labour,
+  pH-optimum, nutrient and yield-ramp estimates built on analogy.)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -10,510 +31,316 @@ licensed under this project's MIT license (see repository `LICENSE`).
 
 ## Naming and scope
 
-Modeled as *Diospyros texana*, also called Mexican persimmon, black
-persimmon, or by several Spanish names derived from a Nahuatl word for
-a soft fruit. This is not the black sapote, a different, tropical
-persimmon-genus fruit tree. No named cultivars exist for this crop;
-regional wild populations and the two sexes (since the species is
-dioecious) are treated here as the cultivar-level entries.
+*Diospyros texana* Scheele (Ebenaceae), Texas persimmon, Mexican
+persimmon, black persimmon [1][2][4]; Spanish chapote, chapote manzano,
+chapote prieto, from Nahuatl *tzapotl* [1]. Old synonym *Brayodendron
+texanum* [6][8].
+- **Range:** central, south and west Texas and SW Oklahoma; in Mexico,
+  eastern Chihuahua, Coahuila, Nuevo León and Tamaulipas [1]. FEIS gives
+  the Rio Grande Plains, Edwards Plateau and SE Trans-Pecos, and northern
+  Nuevo León, Coahuila and Tamaulipas, possibly NE Chihuahua [2].
+- **Habitat:** rocky slopes, arroyos, ravines, upper floodplain terraces
+  and riparian forest; confined to canyons in drier areas [2]; rocky open
+  woodlands [4].
+- **Status:** wild; no named cultivars or orchard production found.
+  Considered an undesirable rangeland brush species [2][5].
+- **Scope:** one cropID; female (fruiting) and male plants are the only
+  planting distinction found [4][7].
+- **Gate check (2026-10-12, re-confirmed 2026-11-23): passes.** A separate
+  species with its own edible fruit, dye use and propagation (it cannot be
+  grafted with the other persimmons) [9][10].
 
-This entry is kept as a genuine, distinct fruit-crop entry despite the
-fact that no commercial orchard fruit production of this species was
-found anywhere — it earns its place because it differs from the other
-persimmon-genus crops this project has researched in ways this
-project's simulation models explicitly: its seed has no dormancy at all
-(unlike the weeks-to-months of cold stratification needed by the other
-persimmon-genus crops researched here, and cold-moist seed storage
-actually induces dormancy in this species rather than breaking it); it
-cannot be grafted with those other crops, sharing no rootstock, scion,
-or nursery-tree items with them, and is instead propagated only as
-own-rooted seedlings or cuttings; it is native to dry limestone
-country, with alkaline-soil adaptation, low water use, and
-drought-triggered leaf drop; its distinctive processed product is a
-black dye extracted from the fruit juice, still used in parts of
-Mexico; and its flowering and fruiting timing differs meaningfully from
-the other persimmon-genus crops researched here (blooming in late
-winter to spring on the previous year's wood, and ripening in summer
-rather than autumn).
+**Relatives in this project:**
+- Asian persimmon (`persimmon`, `persimmon.md`);
+- American persimmon (`persimmon_american`, `persimmon-american.md`);
+- date-plum (`persimmon_dateplum`, `persimmon-dateplum.md`).
+Not graft-compatible with American or Oriental persimmon [9][10].
+
+**Proposed:** none.
 
 ## Research findings
 
-**Finding 1 — a shrub-to-small-tree of dry Texas and northern Mexican
-limestone country, slow-growing and long-lived.** Native to central,
-south and west Texas and southwestern Oklahoma, and in adjoining
-Mexican states, from sea level up to roughly 1,800 meters elevation.
-It favors rocky slopes, arroyos, ravines and upper floodplain terraces,
-and in the drier parts of its range is largely confined to canyons; it
-grows on calcareous soils, clays, fine sandy loams, and notably
-caliche (a hardened calcium-carbonate soil layer), generally preferring
-alkaline soils above a specific documented pH threshold, though it also
-tolerates acid soils in cultivation. The plant is typically a
-multi-trunked shrub or small tree around 3 meters tall, though it can
-reach up to roughly 12 meters among larger trees in favorable sites;
-growth is slow, and the plant can live 30-50 years. It re-sprouts
-readily from the root crown and spreads by root suckers [1][2][3][4].
+**Finding 1 — a slow, drought-hardy shrub or small tree of limestone
+country.**
+- Usually about 3 m, up to 12 m on good sites or in understories [1][2].
+  Other figures: 1.8-3 m, sometimes 12 m [5]; 10-15 ft, can reach 35 ft
+  or more, "up to about 45 feet" [4]; 20-40 ft (UF) [3]; 8-20 ft [7].
+- Slow-growing: 0.6-1.1 m after 5 years [2]. Lifespan 30-50 years [1].
+- Leaves sclerophyllous and drought-deciduous [2]; deciduous in the north
+  of the range, evergreen to semi-evergreen farther south [1][2][4]. South
+  of the Rio Grande Valley it drops its leaves all at once in early spring
+  [4].
+- Leaves and smooth bark funnel rain down the stems; stemflow is 5.6% of
+  precipitation over the crown [2].
+- Re-sprouts from the root crown and spreads by root suckers [2].
 
-**Finding 2 — a genuinely striking male-biased sex ratio in wild
-populations, though based only on informal field observation rather
-than systematic survey.** The species is dioecious, with small, white,
-fragrant, urn-shaped flowers appearing in late winter through spring,
-forming on the previous year's wood (meaning, unlike at least one
-related persimmon-genus crop this project has researched that flowers
-on current-season growth, pruning this species in late winter removes
-that year's bloom entirely). Two independent field observers,
-unconnected to any formal survey, each separately estimated a strongly
-male-biased sex ratio among wild plants — one citing roughly ten male
-trees for every female tree at one Texas river site, another describing
-fruit-bearing trees as roughly nine times rarer than non-bearing male
-trees — but neither source represents a systematic population survey,
-so this remains an informal, uncorroborated observation rather than a
-confirmed population parameter [2][4][6][13].
+**Finding 2 — dioecious, with an anecdotal male bias.**
+- Male and female flowers on separate plants [1][2][4][7]. The seed
+  manual notes that in the genus "a few plants have bisexual flowers"
+  [5]. PFAF lists the species as "hermaphrodite" [8], against every other
+  source.
+- Snippets: a naturalist newsletter estimated males outnumber females
+  "maybe by a ratio of ten to one" at one site, repeated by a Wildflower
+  Center answer; sex expression can vary from year to year; rarely a
+  female tree sets fruit with no male nearby [12]. None of these is a
+  population survey.
+- Flowers form on old wood: do not prune late in winter [7].
 
-**Finding 3 — fruit is genuinely astringent until fully soft-ripe, and
-multiple sources describe it as more acidic and less custard-like than
-a related North American persimmon-genus fruit this project has also
-researched.** The fruit is a small, black or dark-purple berry, roughly
-1.5-2.5 centimeters across, holding several light-red, flattened seeds;
-a large, leathery calyx remains attached. It is astringent when unripe
-and sweet only once fully ripe and soft, with at least one source
-comparing the ripe flavor to a dried plum, and another describing it as
-juicier and less custard-like — with a slightly bitter edge — compared
-to the related North American species just mentioned; one archaeological
-and ethnographic reference describes this species' fruit as darker,
-more astringent, and more acidic than that related species. Fruit must
-be collected fully ripe and its pulp cleaned from the seed promptly, or
-it molds and ferments quickly [1][4][11][13].
+**Finding 3 — seed has no dormancy, but sources disagree on germination.**
+- FEIS (citing Everitt 1984, Van Auken & Bush 1992, Vora 1989): seeds are
+  nondormant; germination is generally 50-90%; above 90% at 20-30 °C,
+  dropping at lower temperatures; equal in light and dark; viability
+  unchanged after 2 years of storage [2]. Acid treatment harms
+  germination [2].
+- Scarification with coarse sandpaper for 2 minutes raised germination to
+  77%, against 55% unscarified [2].
+- Fruit pulp inhibits germination; washed seed germinates readily [2].
+- Everitt (snippets): no germination at a constant 15 °C; no difference
+  over pH 4-11, though radicle growth was inhibited at pH 11; germination
+  is sensitive to osmotic potentials of 0.2 MPa or more, and none at 1.2
+  MPa [11].
+- **Conflict:** the seed manual says no pretreatment is needed (Vora
+  1989), but also that fresh seed sown immediately germinated 33%, with
+  all other treatments worse (Dirr & Heuser 1987) [5].
+- **Conflict on storage:** cold-moist storage "will induce dormancy and
+  delay germination" [4][7]; PFAF says stored seed requires cold
+  stratification and germinates in 1-6 months at 15 °C [8].
+- Emergence was highest (73%) at 1 cm depth, with 20.8 cm of height in
+  60 days; 2-7 cm depths did not severely restrict emergence [2].
+- Seedlings grow as well in 50% shade as in full sun [2].
 
-**Finding 4 — this is the best-documented part of the research record
-for this species, and it reveals a genuinely unusual seed-dormancy
-profile for the genus, along with a direct source conflict on
-germination rate.** Unlike the weeks-to-months of cold stratification
-needed by the other persimmon-genus crops this project has researched,
-this species' seed needs no pretreatment at all: one peer-reviewed
-range-management study found over 90% germination at a specific warm
-temperature range regardless of light exposure, no evidence of true
-dormancy, viability maintained after two years at room conditions, and
-germination essentially unaffected by moderate osmotic stress though
-reduced by salt exposure; a separate federal fire-ecology reference
-source corroborates germination generally in the 50-90% range, over
-90% at the same warm temperature range, and found brief mechanical
-seed-coat scarification raised germination meaningfully, while intact
-fruit pulp actively inhibits germination (so seed should be cleaned
-from the pulp promptly). However, a specific conflicting source (a
-classic US Forest Service seed-propagation manual, itself citing an
-older study) reports only about one-third germination from fresh seed
-sown immediately, with every other tested treatment performing worse
-still — a direct, unresolved conflict with the two more favorable
-sources above. Separately, multiple sources agree that cold-moist
-storage of this species' seed actually induces dormancy and delays
-germination, rather than breaking it as it would for most other
-temperate tree-fruit seed — the opposite of the normal persimmon-genus
-pattern — though at least one further plant-use database source
-states the reverse (that stored seed specifically needs cold
-stratification) [2][4][5][7][8][9].
+**Finding 4 — not graft-compatible with other persimmons.**
+- "It is not graft compatible with American or Oriental persimmons" [9];
+  repeated by the Travis County AgriLife page [10].
+- Propagation is by seed [3], semi-hardwood cuttings [7], half-ripe
+  cuttings in July/August, or layering in spring [8].
 
-**Finding 5 — this species cannot be grafted onto, or used as
-rootstock for, either of the two other major cultivated persimmon-genus
-crops.** A Texas university extension horticulture source states
-directly that this species is not graft-compatible with either of two
-named related persimmon-genus crops and is accordingly never used as
-rootstock for them — a direct contrast with at least one other
-persimmon-genus relative this project has researched, which does serve
-as a significant rootstock source in parts of its own range. No formal
-grafting-trial data was found to further quantify this incompatibility;
-propagation of this species is instead limited to seedlings, semi-
-hardwood cuttings (slow to root), and layering [8][9][12].
-
-**Finding 6 — a specific, still-practiced traditional black dye
-product, distinct from anything documented for the other
-persimmon-genus crops this project has researched.** The fruit's juice
-was historically used by Native American groups to produce a black dye
-for tanning hides, a practice still documented in parts of Mexico
-today. At least one source describes simmering plant fiber together
-with the fruit as producing a brown-to-purple-black dye without
-requiring any mordant (a chemical fixative), and the juice has also
-been used historically as an improvised ink. Archaeological evidence
-places this species' seeds among plant remains recovered from Lower
-Pecos rock-shelter deposits and preserved human waste deposits at one
-well-studied Texas archaeological site, with wood tools from the same
-species also recovered at two such sites; the only direct ethnographic
-record found describes one historic Comanche group eating the fruit
-raw [1][3][6][9][11][13].
+**Finding 5 — fruit eaten soft-ripe; the juice is a black dye.**
+- Black, subglobose berry 1.5-2.5 cm with 3-8 seeds [1]; 2 cm [2]; 2.5 cm
+  with dark flesh [5]; 0.5-1 in [3]; "dime sized" [10].
+- "Edible once soft, with a flavor some liken to prunes" [4]; astringent
+  when unripe [1]. Texas Beyond History calls it "even more astringent
+  and acidic than eastern persimmon" [6]. UF says it has "an unappealing
+  number of seeds" [3].
+- Used in puddings and custards [1][2]. The pulp gives an indelible black
+  stain; Mexicans use it to dye animal hides [2][3].
+- Clean the fruit immediately to prevent mold and fermentation [4].
+- **Archaeology:** almost every dry midden deposit in sheltered Lower
+  Pecos sites holds thousands of seeds; two digging sticks of this wood
+  are known (Hinds Cave, Shumla Caves) [6]. The only ethnographic record:
+  the Comanche ate the fruit raw [6].
 
 ## Agronomic data
 
-- **Life form / season:** Multi-trunked perennial shrub or small tree,
-  usually around 3 meters (up to roughly 12 meters in favorable sites);
-  deciduous in the northern part of its range, semi-evergreen farther
-  south, and drought-deciduous (dropping leaves during extended dry
-  periods) throughout [1][2][4].
-- **Harvest pattern:** Perennial bearing; soft, fully ripe fruit is
-  picked from female plants in a single late-summer window [4].
-- **Climate:** Subtropical, warm-temperate and semiarid climates,
-  documented hardy through a specific moderate-cold hardiness-zone
-  range [3].
-- **Food status:** Raw-edible only when fully ripe and soft; unripe
-  fruit is astringent and not edible raw [1][4].
-- **Pollination:** Required — the species is dioecious, so a planting
-  needs both male and female plants; pollinators are assumed to be
-  insects by analogy with the wider genus and the species' fragrant,
-  butterfly-visited flowers, though no dedicated pollination-biology
-  study specific to this species was found [1][4][5].
-- **Yield:** No published yield figure of any kind — per-tree, per-
-  hectare, national, or regional — was found anywhere for this species;
-  all yield figures used here are estimated from plant size, fruit
-  size, and an assumed planted block of mostly female plants
-  propagated from cuttings, since no commercial orchard production of
-  this species exists to measure directly.
-- **Water use:** No dedicated reference crop coefficient exists for
-  this species in the standard international crop-evapotranspiration
-  reference; the closest documented analogy used here is a small-
-  leaved, sclerophyllous, drought-tolerant Mediterranean oil-fruit
-  tree of dry limestone hill country, rather than the stone-fruit
-  analogy used for the other persimmon-genus crops this project has
-  researched, since this species' native habitat and leaf form are a
-  much closer match to that oil-fruit crop's own profile.
-- **Establishment:** Container-grown seedlings or rooted cuttings are
-  the main planting material; one documented reclamation planting found
-  roughly 80% of container transplants survived their first summer and
-  winter on degraded fill soil under a shallow topsoil cap. Direct
-  seeding with fresh seed at a shallow sowing depth is also viable [2][3][4].
-- **Labor:** No labor-hour source was found specific to this species;
-  estimates here are scaled from the related persimmon-genus crops this
-  project has researched, reflecting this species' documented need for
-  little pruning, a comparatively short harvest window of small, soft,
-  quickly spoiling fruit, and additional post-harvest hand labor for
-  seed cleaning.
-- **Soil:** Well-drained limestone loams, clays, caliche, and rocky
-  shallow soils; the species is documented to prefer alkaline soil
-  conditions but also tolerates acid soils in cultivated settings.
-  Estimated optimal pH around 7.8 (range roughly 6.0-8.5), reflecting
-  its strong native association with calcareous and caliche soils [3][4][8].
-- **Stand life:** First flowering and fruiting at roughly five to six
-  years; overall productive lifespan is documented at roughly 30-50
-  years. The plant re-sprouts vigorously from the root crown and
-  spreads via root suckers after top damage from fire or other
-  disturbance [1][2][3].
-- **Disease/pest profile:** Generally free of serious pests or
-  diseases; susceptible to a fungal vascular wilt disease, and
-  seedlings are prone to damping-off and root rot in poorly drained
-  conditions [3][4].
-- **Cultivars:** No named cultivars exist for this species. Regional
-  wild populations differ in leaf habit (fully deciduous in the
-  northern part of the range versus semi-evergreen, with a distinctive
-  early-spring mass leaf drop, farther south), and nursery and
-  landscape plantings are typically distinguished simply by sex —
-  female plants are selected where fruit is desired, male plants where
-  fruit drop in a landscape setting is unwanted.
+- **Life form / season:** perennial multi-trunked shrub or small tree,
+  deciduous to evergreen by latitude (Finding 1) [1][2][4].
+- **Harvest pattern:** one crop a year. Flowers February-June [2],
+  February-April [4][7], March-April [1]. Fruit matures August-September
+  [2], August [1], late July into September [4]; seed collection August
+  to October [4]. Female trees only (Finding 2).
+- **Days/years to first bearing:** 5-6 years from seed [2][3]; flaking
+  bark at about 10 years [3].
+- **Climate zones:**
+  - **Hardiness:** USDA zones 7A-9B; deciduous from zone 8 northward [3].
+  - **Climate:** subtropical, with warm winters and hot humid summers and
+    bimodal rainfall peaking in spring and fall [2]; heat tolerant [4].
+  - **Cold damage (snippets):** freeze damage is the main problem in
+    northern Texas; top dieback after an unusual winter in zone 8b, with
+    regrowth from the trunk [12]. No killing temperature found.
+  - **Elevation:** 300-1,700 m [2]; sea level to 1,800 m [1].
+  - **Chill:** Not sourced.
+- **Composition:** Not sourced for the fruit. Browse (dry weight): 14%
+  protein, 0.25% P, 1.55% K, 2.46% Ca, 0.64% Mg, 0.08% Na [2]. Energy: Not
+  sourced.
+- **Edibility:** raw when soft-ripe; puddings and custards [1][2][4];
+  jelly mentioned in one snippet [12].
+- **Pollination:** dioecious; both sexes needed (Finding 2). Flowers are
+  fragrant and attract butterflies [4]. Pollinator species: Not sourced.
+- **Photoperiod sensitivity:** Not sourced.
+- **Yield:** Not sourced (no per-tree or per-area figure found). Wild
+  density: 150-700 trees/ha in SE Edwards Plateau woodlands, about 80% of
+  them 1-5 cm in basal diameter [2].
+- **Water use:** Not sourced. Water use "Low" [4], "Very Low, Low" [7];
+  drought tolerance high [3][4]. PFAF says it "prefers moist soil" [8].
+  The Travis County figure of 36-48 inches a year is for persimmons in
+  general, not this species [10].
+- **Propagation:** seed, no pretreatment (Finding 3); cuttings and
+  layering (Finding 4). Container transplants: 80% of woody transplants
+  (this species among others) survived the first summer and winter on a
+  reclaimed borrow pit capped with 10-15 cm of topsoil [2]. Clean stock:
+  Not sourced.
+- **Labor:** Not sourced. Pruning "little required" [3]; fertilise only
+  every year or two [3].
+- **Soil:**
+  - **Texture:** calcareous soils, clays, fine sandy loams [2];
+    "well-drained, limestone loams, clays, and caliche" [4]; dry,
+    limestone, rocky, shallow [7]. Travis County: may do better on
+    limestone than the cultivated persimmons [10].
+  - **pH:** "Alkaline (pH>7.2)" [4]; tolerates acidic and alkaline soils
+    [3]; PFAF mildly acid to mildly alkaline [8].
+  - **Salinity:** Not sourced (Everitt's osmotic results, Finding 3, are
+    the nearest) [11].
+  - **Nutrients:** Not sourced.
+- **Storage (postharvest):** fruit: Not sourced, but it molds and
+  ferments quickly [4]. Seed: air-dry and store sealed and refrigerated
+  [4][7]; viability unchanged after 2 years [2].
+- **Establishment:** full sun [3]; sun or part shade [4]; shade tolerant
+  [2]. Spacing: Not sourced.
+- **Cultivars:** none found.
+- **Weather response:** drops leaves in drought [2]; freeze dieback in
+  northern Texas (Climate zones) [12].
+- **Water regime:** upland, dry and well-drained [3][4].
+- **Soil biology:** seedlings are sensitive to damping-off and root rot
+  [4]. Replant: Not sourced.
+- **Invasiveness / biosecurity:** "little invasive potential" [3]. In its
+  native range it is a brush encroacher, spreading from lowlands onto
+  uplands with less fire and more grazing; herbicide resistant [2].
+- **Controlled environment:** container and bonsai use [3]; nothing on
+  fruiting under cover.
+- **Fire:** fire top-kills; plants sprout from the root crown. Fire may
+  kill smaller plants (10% killed in one Welder Refuge study); a FEIS case
+  study found none killed [2].
 
 ## Hazards
 
-Documented pests and diseases include a fungal vascular wilt disease
-and, in seedlings specifically, damping-off and root rot under poor
-drainage.
+- **Diseases:** Verticillium wilt susceptible; "free of serious pests and
+  diseases" [3]; "disease-resistant" [4]; damping-off and root rot in
+  seedlings [4].
+- **Pests:** none serious [3]. Larval host for the gray hairstreak and
+  Henry's elfin [1][4].
+- **Allelopathy:** fruit pulp inhibited honey mesquite root growth [2].
+- **Ergot / mycotoxin:** none reported this pass.
 
-**TO BE ADDRESSED** — unripe fruit is astringent, and a bezoar-
-formation risk is assumed by analogy with the other persimmon-genus
-crops this project has researched, though no case specific to this
-species was found beyond a single informal anecdote of stomach upset
-after eating multiple fruits while dehydrated. Separately, goats are
-documented to browse this species' foliage heavily with no reported
-harm, and a general livestock gastrointestinal-obstruction risk is
-assumed by analogy with the related North American persimmon-genus
-crop's own documented hazard, though no specific case was found for
-this species. Deferred until this project has a place for this kind of
-health/safety data.
+**TO BE ADDRESSED** — one anecdote of vomiting after eating several fruits
+while dehydrated [6]. Bezoars, documented for kaki and in horses for
+*D. virginiana*, are not documented for this species in the sources read.
+Deferred until this project has a place for health-and-safety data.
 
 ## Uses and processing
 
-- **Chains:** ripe fruit is cleaned of seed immediately after harvest,
-  with seed sown fresh (no pretreatment needed) into seedlings for
-  planting out or sale; cuttings taken in midsummer are rooted to
-  propagate plants of a known sex; ripe fruit pulp, with seeds removed,
-  is cooked with sugar into jam, or used in puddings and custards; ripe
-  fruit juice is simmered or pressed into a traditional black dye for
-  hides or fiber, or used as an improvised ink.
-- Not covered by this research in detail: wood use (the species'
-  heartwood, dense and dark only in very large specimens, has
-  documented use for engraving blocks, art and tools); detailed browse
-  use by goats and deer; brush-control and rangeland-management
-  practice; and the wild form of this species as a distinct foraged
-  resource.
-
-As with the other persimmon-genus crops this project has researched,
-Jewish religious law treats this species' fruit under the same
-first-three-years fruit prohibition applied to fruit trees generally,
-counted from the date of planting. No other ritual or religious use
-specific to this species was found; the single documented historical
-indigenous food use (a Comanche group eating the fruit raw) is a
-culinary rather than ceremonial practice.
+- **Chain 1 (fresh):** soft-ripe fruit picked from female trees → eaten
+  raw, or seeded and used in puddings and custards [1][2][4].
+- **Chain 2 (dye):** fruit pulp or juice → black dye for hides (Mexico)
+  [2][3][4].
+- **Chain 3 (seed):** fruit cleaned at once → seed washed, air-dried →
+  sown fresh, or stored sealed and refrigerated [2][4].
+- **Non-food:** black heartwood (large trunks only), hard and heavy, for
+  tools, engraving blocks and art [1][2][4]; archaeological digging sticks
+  [6]. Browse: Spanish goats eat large amounts; deer browse lightly [2].
+  Wildlife food, especially for deer and peccary [4]; carnivores disperse
+  the seed [2]. Ornamental and bonsai [3][4].
+- **Medicinal:** not documented for this species; Texas Beyond History
+  only suggests uses by analogy with the eastern persimmon [6].
+- **Not detailed here:** brush control and goat stocking.
 
 ## Open research questions
 
-- Germination rate for fresh seed is reported very differently across
-  sources — over 90% in two independent sources versus only about
-  one-third in a classic seed-propagation manual citing an older study
-  (Finding 4) — an unresolved and significant conflict.
-- Whether cold-moist storage induces or breaks seed dormancy in this
-  species is itself disputed between sources, with most agreeing it
-  induces dormancy (the opposite of most tree-fruit seed) but at least
-  one plant-use database source stating the reverse.
-- Mature plant size is reported quite differently across sources
-  (typically around 3 meters in some sources versus 6-12 meters in at
-  least one university extension horticulture source).
-- Ripening month is reported somewhat inconsistently across sources
-  (a single month in one source versus a two-to-three-month window in
-  others).
-- The male-biased wild-population sex ratio documented in Finding 2
-  rests on two independent but informal field observations rather than
-  a systematic population survey, and should not be treated as a firm
-  figure.
-- No yield figure of any kind — per-tree, per-hectare, or national —
-  was found anywhere for this species, since no commercial fruit
-  orchard production exists to measure; all yield figures here are
-  estimated from plant and fruit size alone.
-- No fruit-composition (nutrition) analysis specific to this species
-  was found; energy content used here is estimated by analogy to the
-  related North American persimmon-genus crop, scaled down to reflect
-  this species' documented juicier, less custard-like, more acidic
-  fruit character.
-- Detailed cold-storage behavior, pollinator identity, adult-plant
-  salinity tolerance, soil micronutrient needs, and detailed Mexican
-  dye-making practice were not researched in depth.
+- **Germination:** 50-90%, over 90% at 20-30 °C [2] vs. 33% for fresh seed
+  [5].
+- **Cold storage:** induces dormancy [4][7] vs. needed before sowing [8].
+- **Sex system:** dioecious [1][2][4] vs. "hermaphrodite" (PFAF) [8]; the
+  10:1 male ratio is anecdotal [12].
+- **Height:** typically 3 m [2] vs. 20-40 ft [3] vs. "up to about 45 feet"
+  [4].
+- **Elevation:** 300-1,700 m [2] vs. sea level to 1,800 m [1].
+- **Soil moisture and pH:** dry and alkaline [4][7] vs. moist (PFAF) [8]
+  and acid-tolerant [3][8].
+- **Light:** full sun [3] vs. shade tolerant [2].
+- **Not sourced:** yield, fruit composition and energy, water use, chill,
+  killing temperature, salinity, nutrients, spacing, fruit storage,
+  labour, pollinators.
+- **Works identified, not yet read:**
+  - Everitt (1984), *J. Range Manage.* 37(2): 189-192 (the archive blocks
+    automated fetches);
+  - Van Auken & Bush (1992), *Texas J. Sci.* 44(2): 167-174;
+  - Vora (1989), *J. Range Manage.* 42(1): 36-40;
+  - the Flora of North America treatment (eFloras blocked);
+  - any fruit-composition analysis.
 
 ## Estimates and derivations
 
-Growing-season length (roughly 120-180 days from bloom to ripe fruit)
-is derived from documented bloom timing (late winter through spring)
-through to documented ripening timing (mid-to-late summer).
+**Unit conversions:**
+- 10-15 ft = 3.0-4.6 m; 35 ft = 10.7 m; 45 ft = 13.7 m [4].
+- 20-40 ft = 6.1-12.2 m [3]; 8-20 ft = 2.4-6.1 m [7].
+- 0.5-1 in = 1.3-2.5 cm [3].
 
-Energy content (estimated around 900 kcal/kg) is estimated at roughly
-70% of the related North American persimmon-genus crop's own
-documented energy content, reasoning that this species' fruit is
-described across multiple sources as juicier, less custard-like, and
-more acidic — implying somewhat less sugar and dry matter per unit
-weight — though no direct compositional analysis exists for this
-species to confirm this.
+**Flowering to fruit (derived):** flowers February-June [2] and fruit
+matures August-September [2], so about 2-7 months from bloom to ripe fruit.
+This is a range of month boundaries, not a measured interval.
 
-Yield tiers are estimated entirely from first principles, since no
-published yield figure of any kind exists for this species: a
-hypothetical planted block at a standard spacing, mostly female plants
-propagated from cuttings with a modest fraction of male plants retained
-for pollination, combined with an assumed per-plant fruit weight at
-maturity, gives the "good" tier; "exceptional" allows for larger plants
-on favorable sites, and "average" and "poor" tiers allow for seedling-
-origin blocks with a higher male fraction and for drought or shallow-
-soil conditions respectively. Wild stands, given their apparently
-strongly male-biased sex ratio (Finding 2), would be expected to yield
-considerably less fruit per unit area than a managed, female-selected
-planting.
-
-A seasonal water-use index is derived from the closest available
-analogy in the standard international crop-evapotranspiration reference
-— a small-leaved, drought-tolerant Mediterranean oil-fruit tree of dry
-limestone hill country — rather than the stone-fruit analogy used for
-the other persimmon-genus crops researched here, since this species'
-native habitat and sclerophyllous leaf form are a much closer physical
-match to that oil-fruit crop; the derived daily yield-penalty rate is
-set low, reflecting this species' well-documented tolerance of extended
-drought and neglect.
-
-Labor-hour estimates by operation are derived by scaling from the
-related North American persimmon-genus crop's own documented and
-estimated labor figures, adjusted down for pruning (reflecting this
-species' documented need for little pruning) and adjusted for harvest
-to reflect its lower estimated per-hectare yield against a short,
-labor-intensive harvest window for small, soft fruit.
-
-Soil nutrient uptake figures are carried over by direct analogy from
-the Asian persimmon entry, since no species-specific nutrient-removal
-study was found; pH tolerance range reflects this species' strong
-native association with alkaline, calcareous and caliche soils, while
-also allowing for its documented tolerance of acid soils in cultivation.
-
-A yield-ramp profile (time to first harvest, ramp to full bearing, peak
-daily yield) is derived from the documented five-to-six-year
-first-fruiting age, with an estimated long ramp to full bearing
-reflecting this species' documented slow growth rate; peak daily yield
-is calculated by dividing the "good" yield tier by the documented
-harvest-window length, and a short on-tree standing period with a
-fast quality-decay rate reflects the fruit's documented tendency to
-drop over a short period and spoil quickly once ripe.
+No other estimates are made in this pass. The old doc's analogy-based
+energy, yield, water, labour, pH-optimum and nutrient figures were dropped.
 
 ## Sources
 
-[1] A general reference encyclopedia article on this species. Supplied:
-regional and indigenous names; native range; plant size and lifespan;
-bark description; leaf size and form, and deciduous-versus-evergreen
-pattern by region; dioecy; flower size and timing; fruit size, seed
-count, and ripening timing; sweetness and astringency by ripeness
-stage; elevation range; habitat; soil alkalinity; wood uses; the
-traditional black dye use; larval host-plant status for two butterfly
-species; and ornamental use. Accessed 2026-10-12, opened directly
-(summarized).
+[1] Wikipedia, "*Diospyros texana*". Supplied: names and Nahuatl origin,
+range, lifespan (citing a Rio Grande Valley tree guide), height (citing
+FEIS), leaf habit, flowers, fruit size, seed count, ripening, elevation
+(citing Flora of North America), habitat, wood, edible and dye uses,
+larval hosts. Accessed 2026-11-23, opened directly.
 
-[2] A federal fire-ecology reference database entry for this species,
-part of a standard North American fire-effects information system.
-Supplied: distribution and elevation range; site and soil
-characteristics; regional climate and rainfall figures; growth rate;
-drought-deciduous leaf habit; root-crown sprouting and root-sucker
-spread; flowering and fruiting timing; bearing age; wildlife seed
-dispersal data; seed non-dormancy, germination rates, scarification
-effect, pulp-inhibition effect, and viability duration; shade tolerance;
-wild-stand density figures; fire response; herbicide resistance;
-browse use and nutrient content; and transplant survival data from a
-reclamation planting. Accessed 2026-10-12, opened directly.
+[2] Carey, J. H. (1994). *Diospyros texana*. Fire Effects Information
+System, USDA Forest Service. Supplied: distribution, habitat, wood,
+wildlife and goat use, browse nutrients, reclamation survival, food and
+dye uses, brush status, herbicide resistance, height, stemflow,
+sclerophyllous and drought-deciduous leaves, bearing age, seed dispersal,
+pulp inhibition, nondormancy, germination, scarification, storage,
+sowing depth, growth rate, soils, elevation, climate, shade tolerance,
+stand density, phenology, fire response. Accessed 2026-11-23, opened
+directly.
 
-[3] A university environmental-horticulture extension publication on
-this species as a landscape tree. Supplied: hardiness-zone range; plant
-size range; growth rate; deciduous-versus-evergreen pattern by
-hardiness zone; wildlife use of the seedy fruit; the traditional black
-dye use; soil tolerance; drought tolerance; disease susceptibility;
-pruning and fertilizing guidance; propagation and bearing-age notes;
-fruit-drop timing; and container and bonsai cultivation use. Accessed
-2026-10-12, PDF extracted.
+[3] Gilman, E. F. and Watson, D. G., *Diospyros texana: Texas Persimmon*,
+UF/IFAS ENH389 (1993, reviewed 2014), doi:10.32473/EDIS-ST230-1993.
+Supplied: height and spread, hardiness zones, leaf habit, fruit size and
+seediness, dye use, soil tolerances, drought tolerance, Verticillium wilt,
+pruning, fertilising, propagation, bearing age, bonsai use, invasive
+potential. Accessed 2026-11-23, opened directly (PDF).
 
-[4] A university-affiliated native-plant database entry for this
-species. Supplied: plant size; leaf-retention pattern by region,
-including a distinctive early-spring mass leaf drop in the southern
-part of the range; bloom timing and flower fragrance; fruit color, size
-and ripeness character; the dye use; water-use level; sun/shade
-tolerance; soil type and pH preference; drought tolerance; seed
-germination behavior and the cold-moist-storage-induces-dormancy
-finding; post-harvest fruit handling guidance; and seedling disease
-susceptibility. Accessed 2026-10-12, opened directly.
+[4] Lady Bird Johnson Wildflower Center, Native Plant Information
+Network, *Diospyros texana* (DITE3). Supplied: height, range, leaf
+habit, bloom time, fruit size, flavour and ripening, water use, soil and
+pH, drought and heat tolerance, wildlife and food uses, dye, larval
+hosts, seed germination and storage, damping-off and root rot, fruit
+cleaning. Accessed 2026-11-23, opened directly.
 
-[5] A classic US federal woody-plant seed-propagation manual's entry
-for the broader persimmon genus. Supplied: this species' size range; a
-historical note on its status as an undesirable rangeland plant; fruit
-size and seed-coat description; a cited study finding no pretreatment
-needed for germination; a separately cited, conflicting study finding
-much lower germination with every tested treatment; a note on the
-related Asian persimmon's documented insect pollination; and general
-genus-level seed data. Accessed 2026-10-12, PDF extracted.
+[5] Olson, D. F., Barnes, R. L. and Johnson, W. G., "*Diospyros* L.,
+persimmon," in *The Woody Plant Seed Manual*, USDA Agriculture Handbook
+727 (2008), pp. 472-475. Supplied: height, rangeland status, genus-level
+bisexual flowers, fruit size and flesh, no pretreatment needed (Vora
+1989), 33% germination of fresh seed (Dirr & Heuser 1987). Accessed
+2026-11-23, opened directly (PDF).
 
-[6] A paleoforaging and ethnobotany blog post on this species, citing a
-published regional ethnobotanical reference work. Supplied: seasonal
-gathering timing; the informal observation on fruiting-tree rarity
-relative to male trees; unripe-fruit astringency; an indoor-ripening
-technique using ethylene from a ripening banana; flavor description;
-the no-mordant dye-making method; and a citation to archaeological
-coprolite evidence. Accessed 2026-10-12, opened directly (underlying
-cited book not independently opened).
+[6] Texas Beyond History (University of Texas at Austin), "Persimmon"
+ethnobotany page. Supplied: archaeological seed deposits, digging sticks,
+the Comanche record, flavour compared with eastern persimmon, the emetic
+anecdote, the *Brayodendron* synonym. Accessed 2026-11-23, opened
+directly.
 
-[7] A peer-reviewed rangeland-science journal article specifically on
-this species' seed germination. Supplied: high germination rate at a
-specific warm temperature range regardless of light; absence of true
-dormancy; unchanged viability after two years at room conditions;
-osmotic- and salt-stress germination response; optimal sowing depth;
-and a finding that passage through a coyote's digestive system did not
-reduce germination. Accessed 2026-10-12, search snippets only (full
-article text could not be retrieved).
+[7] Native Plant Society of Texas, *Diospyros texana*. Supplied: height,
+soils, water need, old-wood bloom and pruning, bloom season, cutting and
+seed propagation, seed storage. Accessed 2026-11-23, opened directly.
 
-[8] A regional native-plant society's informational page on this
-species. Supplied: plant size; evergreen-versus-deciduous pattern by
-region; bloom timing; the bearing-wood/pruning-timing relationship;
-soil and water-use characteristics; cutting-propagation difficulty; the
-cold-moist-storage-induces-dormancy finding; and bearing-age notes.
-Accessed 2026-10-12, opened directly.
+[8] Plants For A Future, *Diospyros texanum*. Supplied: height,
+"hermaphrodite", soils and pH, moisture, fruit, dye, wood, seed
+stratification, cuttings and layering. Accessed 2026-11-23, opened
+directly.
 
-[9] A plant-use reference database entry for this species. Supplied:
-fruit edibility and flavor; the traditional dye use; wood use; bearing
-age; a conflicting seed-storage recommendation (stored seed needing
-cold stratification, with a specific germination timeline); a
-fruit-pulp germination inhibitor; and cutting and layering propagation
-methods. Accessed 2026-10-12, opened directly.
+[9] Stein, Nesbitt and Kamas, *Persimmons*, Texas A&M AgriLife Extension
+E-611. Supplied: range and graft incompatibility. Accessed 2026-11-23,
+opened directly (PDF).
 
-[10] A regional environmental-research organization's native-fruit-tree
-recipe-card publication. Supplied: a specific jam recipe using this
-species' fruit pulp, and its refrigerated shelf life once made.
-Accessed 2026-10-12, search snippet only.
+[10] Texas A&M AgriLife Extension, Travis County, "Persimmons in Austin –
+A Fruit Tree for Everyone". Supplied: fruit size, slow growth, graft
+incompatibility, limestone note, the genus-level water figure. Accessed
+2026-11-23, opened directly.
 
-[11] A university-affiliated regional archaeology and ethnography
-reference website. Supplied: archaeological seed evidence from rock-
-shelter and preserved-waste deposits at a well-studied Texas
-archaeological site; wood-tool evidence from two such sites; the sole
-located ethnographic record of raw fruit consumption by a historic
-indigenous group; a comparative flavor description relative to the
-related North American persimmon-genus crop; and a single informal
-anecdote of dehydration-related stomach upset after eating the fruit.
-Accessed 2026-10-12, opened directly.
+[11] Everitt, J. H. (1984), "Germination of Texas persimmon seed,"
+*Journal of Range Management* 37(2): 189-192, doi:10.2307/3898913.
+Supplied: 15 °C, pH and osmotic results. Accessed 2026-11-23, search
+snippets only.
 
-[12] A university agricultural extension regional fruit-tree guide.
-Supplied: this species' common occurrence around a specific Texas
-urban area, and a direct statement that it is not graft-compatible with
-either of two named related persimmon-genus crops and is therefore not
-used as rootstock for them. Accessed 2026-10-12, opened directly.
-
-[13] Excerpts from a regional naturalist's newsletter on this species.
-Supplied: an informal field observation on male-to-female ratio at one
-river site; the previous-year's-wood flowering habit; persistent calyx
-description; a comparative flavor and juiciness description relative
-to the related North American persimmon-genus crop; and a note on
-historical ink use. Accessed 2026-10-12, opened directly.
-
-[14] A chromosome-count reference database entry for this species.
-Supplied: a consistent diploid chromosome count across three cited
-studies. Accessed 2026-10-12, opened directly.
-
-[15] Search-snippet-level material on genome size within the broader
-persimmon genus, including an agricultural-science literature
-aggregator record, a peer-reviewed molecular phylogenetics and
-evolution journal article, and a review source. Supplied: comparative
-genome-size figures across several diploid and the hexaploid Asian
-persimmon species, used here as the basis for an estimated genome-size
-range for this species. Accessed 2026-10-12, search snippets only.
-
-[16] A regional native-plant organization's tree handbook entry for
-this species. Supplied: the traditional hide-dye use; sun and shade
-tolerance; low water-use characteristics; a landscaping note on
-avoiding female plants where fruit is unwanted; and fresh-seed
-propagation guidance. Accessed 2026-10-12, opened directly.
-
-[17] Search-snippet-level material on hardiness, including a commercial
-seed-supplier website, a fruit-growing discussion forum, a university
-native-plant-database question-and-answer archive entry, and a
-gardening-advice website. Supplied: hardiness-zone figures; a grower-
-reported cold-tolerance anecdote; a documented winter dieback-and-
-resprouting event in one hardiness zone; and general leaf-drop behavior
-under frost or drought. Accessed 2026-10-12, search snippets only.
-
-[18] A standard international crop-evapotranspiration reference work.
-Supplied: no dedicated entry for this species; a closely analogous
-Mediterranean oil-fruit-tree crop-coefficient curve, rooting depth, and
-soil-moisture-depletion allowance, used here as the basis for this
-species' own water-use estimate, in place of the stone-fruit analogy
-used for the other persimmon-genus crops this project has researched.
-Accessed 2026-10-11, opened directly (as cited in this project's own
-prior research on that oil-fruit crop).
-
-[19] Search-snippet-level material on Jewish religious law regarding a
-fruit tree's first three years of fruit, cited by this project's own
-prior research on a separately researched palm-fruit crop. Accessed
-2026-10-10, search snippets only.
-
-[20] A university landscape-plants database entry for this species.
-Supplied: fruit color and edibility description; the traditional dye
-use; wood use; and regional distribution notes. Accessed 2026-10-12,
-search snippet only.
-
-[21] A university campus arboretum database entry for this species.
-Supplied: wildlife fruit consumption, particularly by deer and
-javelina; and the traditional dye use. Accessed 2026-10-12, search
-snippet only.
-
-[22] Search-snippet-level material on fruit uses, including a botanical
-reference website (with an unquantified claim of high lycopene content)
-and a regional food-and-agriculture website describing preserves and
-syrup uses and ripening timing. Accessed 2026-10-12, search snippets
+[12] Snippets: Jim Conrad's Naturalist Newsletter (backyardnature.net) and
+Wildflower Center "Mr. Smarty Plants" answers (sex ratio, sex expression,
+rare fruit set without a male, jelly, dieback in zone 8b); Dirt Doctor
+(freeze damage in northern Texas). Accessed 2026-11-23, search snippets
 only.
-
-[23] This project's own prior internal crop research record for this
-species, re-checked in this pass; it cited no sources of its own, and
-several of its values are corrected or newly sourced in this pass.
-Accessed 2026-10-12.
-
-[24] Search-snippet-level material on tree seeds in spaceflight
-research, including a peer-reviewed space-biology journal article and
-a technology-news article, neither of which included this species or
-genus. Accessed 2026-10-12, search snippets only.
