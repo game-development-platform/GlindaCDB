@@ -746,6 +746,17 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`persimmon_texas--cold`** (Online): a killing temperature or documented freeze event (e.g. February 2021) for this species.
   - **Needed for:** hardiness beyond the 7A-9B zone rating.
 
+### pineapple (2026-11-23)
+
+- [ ] **`pineapple--faostat`** (Online): FAOSTAT item 486 (pineapples), world and top producers, latest year: area harvested, production, yield.
+  - **Needed for:** world-average yield (now 26.4-28 t/ha from snippets).
+- [ ] **`pineapple--labour`** (Online/Library): an itemised labour study giving hours or person-days per hectare by operation (Costa Rica, Ghana, Nigeria, India or Hawaii).
+  - **Needed for:** labour (Not sourced as hours; the NHB budget does not state its area).
+- [ ] **`pineapple--costa-rica`** (Online): the full Costa Rica Huetar Norte case study (54,000 plants/ha, 67 t/ha average, 360- and 668-day cycles).
+  - **Needed for:** modern 'MD-2' density, yield range and plant-crop/ratoon cycle lengths.
+- [ ] **`pineapple--handbook`** (Library): Bartholomew, Paull & Rohrbach (2002), *The Pineapple: Botany, Production and Uses* (CABI).
+  - **Needed for:** forcing-to-harvest days, photoperiod response, cold-damage temperatures, nutrient removal per tonne.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin
