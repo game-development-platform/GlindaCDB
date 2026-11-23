@@ -679,6 +679,21 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`orange--hlb-first-detection`** (Online): a primary record of HLB's first US detection (Miami-Dade, 2005) and Florida production since.
   - **Needed for:** dating the HLB decline in Finding 2.
 
+### persimmon (2026-11-23)
+
+- [ ] **`persimmon--faostat-production`** (Online): FAOSTAT Crops and Livestock, "Persimmons" (item 0587), area harvested, yield and production by country for 2023-2024.
+  - **Needed for:** world totals (snippets give 5.07 vs. 5.9 Mt), Spain's tonnage, and world yield.
+- [ ] **`persimmon--queensland-kit`** (Library): George et al. (2005), *Sweet Persimmon Information Kit*, Queensland DAFF Agrilink Q105102.
+  - **Needed for:** labour hours by operation, water use, yields by tree age, and tropical/subtropical climate limits.
+- [ ] **`persimmon--rojo-brillante-irrigation`** (Online): Intrigliolo et al. (2012), "Regulated Deficit Irrigation of 'Rojo Brillante' Persimmon," *Acta Horticulturae* 1038: 415-422, or a Spanish (IVIA) persimmon irrigation guide.
+  - **Needed for:** seasonal water use and crop coefficients (no FAO-56 row).
+- [ ] **`persimmon--bezoar-review`** (Online): full text of Iwata et al. (2015), review of gastrointestinal bezoars, *World J. Gastrointest. Endosc.* (PMC4400622), or another peer-reviewed review of diospyrobezoars.
+  - **Needed for:** confirming the snippet-level Hazards entry.
+- [ ] **`persimmon--kakishibu`** (Online): a primary or scholarly source on kakishibu (fermented persimmon tannin juice): production, ageing and uses.
+  - **Needed for:** a non-food processing chain (old snippet claims were dropped).
+- [ ] **`persimmon--japan-research-review`** (Online): Yakushiji and Nakatsuka (2007), "Recent Persimmon Research in Japan," *Japanese Journal of Plant Science* 1(2): 42-62.
+  - **Needed for:** Japanese area, yields, dwarfing rootstock performance and photoperiod.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

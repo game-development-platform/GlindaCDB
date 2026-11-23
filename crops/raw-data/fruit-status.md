@@ -111,7 +111,7 @@
 | pear_low_chill | Pyrus communis × P. pyrifolia hybrids | pear-low-chill.md |  | 2026-10-18 | OUT-OF-DATE |
 | peluntan | Artocarpus sericicarpus (gumihan, tarap bulu) |  | `marang` | 2026-11-23 | PROPOSED |
 | persian_lime | C. × latifolia | lime.md | `key_lime`, `lemon` | 2026-11-19 | RESEARCHED |
-| persimmon | Diospyros kaki | persimmon.md |  | 2026-10-11 | OUT-OF-DATE |
+| persimmon | Diospyros kaki | persimmon.md |  | 2026-11-23 | RESEARCHED |
 | persimmon_american | Diospyros virginiana | persimmon-american.md |  | 2026-10-12 | OUT-OF-DATE |
 | persimmon_dateplum | Diospyros lotus | persimmon-dateplum.md |  | 2026-10-12 | OUT-OF-DATE |
 | persimmon_texas | Diospyros texana | persimmon-texas.md |  | 2026-10-12 | OUT-OF-DATE |
