@@ -694,6 +694,21 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`persimmon--japan-research-review`** (Online): Yakushiji and Nakatsuka (2007), "Recent Persimmon Research in Japan," *Japanese Journal of Plant Science* 1(2): 42-62.
   - **Needed for:** Japanese area, yields, dwarfing rootstock performance and photoperiod.
 
+### pomegranate (2026-11-23)
+
+- [ ] **`pomegranate--uc-2010-costs`** (Online): Day, Klonsky and De Moura (2010), UCCE *Sample Costs to Establish and Produce Pomegranates*, southern San Joaquin Valley (the UF/IFAS mirror returned an HTML page), or any newer UC pomegranate cost study.
+  - **Needed for:** current yields by age, water, nitrogen and labour hours (the doc uses the 2005 study).
+- [ ] **`pomegranate--spanish-rdi`** (Online): Intrigliolo et al. (2013), *Irrigation Science* 31: 959-970, doi:10.1007/s00271-012-0372-y, or the 2012 *Options Méditerranéennes* A 103 paper (CIHEAM refused the download).
+  - **Needed for:** crop coefficients, seasonal water use, yield under full and deficit irrigation, and the spring-stress fruit-number effect.
+- [ ] **`pomegranate--nrcp-bahar`** (Online): an ICAR-NRCP (National Research Centre on Pomegranate, Solapur) production guide or the 'Bhagwa' status report.
+  - **Needed for:** bahar regulation steps, Indian spacing, yields, nutrient rates and the blight schedule.
+- [ ] **`pomegranate--production-stats`** (Online): FAOSTAT Pomegranates (if the item exists) or a peer-reviewed world production review, plus NHB area and production for 2023-24.
+  - **Needed for:** world and Indian production (snippets conflict).
+- [ ] **`pomegranate--cold-chill`** (Online): a research source on pomegranate cold hardiness by cultivar and on chill requirement.
+  - **Needed for:** chill (Not sourced) and cultivar cold limits beyond Morton's −11 °C.
+- [ ] **`pomegranate--warfarin-review`** (Online): full text of the 2014 warfarin-fruit interaction review (PubMed 25112306) or the Komperda (2009) case report.
+  - **Needed for:** confirming the snippet-level Hazards entry.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

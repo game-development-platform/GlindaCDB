@@ -1,7 +1,27 @@
 # Pomegranate (*Punica granatum*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/pomegranate.md`
-**Researched:** 2026-10-12
+**Researched:** 2026-10-12 (re-researched 2026-11-23 against the full
+current checklist in `skills/crop-research/SKILL.md` and
+`templates/research-doc.md`.
+- **Re-opened:** Morton's chapter (now read in full, via a reading agent).
+- **Added:** the USDA storage handbook chapter, the 2005 UC Cooperative
+  Extension cost study for the southern San Joaquin Valley, the FAO
+  salt-tolerance table, and snippet-level material on Spanish deficit
+  irrigation, Indian production and bahar seasons, bacterial blight,
+  world production and the warfarin case reports.
+- **Dropped,** because the source could not be re-found or re-opened:
+  the general-encyclopedia article (the alternative cold-hardiness figure,
+  rooting temperature, producer ranking, molasses product, the Socotran
+  relative, the religious and cultural section), the 2012 Spanish
+  conference paper as opened (its yield, Kc curve, fertiliser and
+  stem-water-potential figures; now snippet-level only), the
+  cold-hardy-cultivar nursery listings and chill claims, the Indian
+  district field-trial comparison, the California grower yield claim, the
+  lysimeter studies, the peel-as-feed studies, the first-fruit law
+  snippet, the genome-size estimate, the two internal records, and the
+  tier yields, water budget, rooting depth, harvest labour and nutrient
+  uptake estimates built on them.)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -10,461 +30,370 @@ licensed under this project's MIT license (see repository `LICENSE`).
 
 ## Naming and scope
 
-*Punica granatum* (family Lythraceae, formerly its own family
-Punicaceae), known by many regional names across its native and
-introduced range. This is treated as a single species row: sweet versus
-sour, soft- versus hard-seeded, and dwarf ornamental forms are all
-modeled as cultivar groups within this one entry rather than separate
-crops. A wild sour Himalayan type is included as a cultivar group with
-its own distinct fruit product (a dried souring spice, discussed below).
-A wild relative species native to the island of Socotra is noted only as
-a taxonomic relative, not covered by this research.
+*Punica granatum* L. (Lythraceae; formerly Punicaceae) [1][2].
+- **Origin:** native "from Iran to the Himalayas in northern India";
+  introduced to California by Spanish settlers in 1769 [1].
+- **Fruit:** nearly round with a prominent calyx and a leathery rind; the
+  edible part is the aril around each seed [2]. Seeds are about 52% of
+  whole-fruit weight [1].
+- **Types:** wild fruit is acid; cultivated types are sweet-sour or sweet
+  [2]. Titratable acidity is under 1% in sweet, 1-2% in sweet-sour and
+  over 2% in sour cultivars [2]. Double-flowered ornamentals are largely
+  sterile [2]; var. *nana* is a dwarf ornamental with 5 cm fruit [1].
+- **Scope:** one cropID; sweet, sour, soft- and hard-seeded and dwarf forms
+  are cultivar groups. Anardana (dried sour arils) is a product of this
+  row, not a separate crop.
+- **Gate check (2026-10-12, re-confirmed 2026-11-23): passes.**
 
-This crop shares a general arid-land tree-fruit biology (juice and syrup
-processing chain) with date palm, a related fruit crop this project has
-also researched, and shares a distinctive flowering-regulation practice
-with guava, another related fruit crop this project has also researched.
+**Relatives in this project:** none (no other Lythraceae fruit row).
+
+**Proposed:** none.
 
 ## Research findings
 
-**Finding 1 — origin and global production.** Native to a range spanning
-from Iran to the northern Indian Himalayas, this crop reached California
-with Spanish colonization in the 18th century [1]. Leading producers today
-are India and China, followed by several Middle Eastern, South Asian, and
-Mediterranean countries [3]. A detailed California industry snapshot gives
-a specific statewide yield and acreage figure for one recent season [8].
+**Finding 1 — production is concentrated in India and the Middle East,
+and world figures are poor.**
+- **World (snippets):** "no reliable information" on total production;
+  rough estimates of about 3.0 Mt (2014) and 3.8 Mt (2017), with an
+  Iranian official's 6.5 Mt (2020) far above them [8].
+- **India (snippets):** 2.78 lakh ha and 31.87 lakh t in 2020-21 (NHB);
+  about 3.1 Mt in 2023-24 [7]. Maharashtra holds more than half of
+  production [7]. 'Bhagwa' held 86.1% of Indian area and 88.4% of
+  production in 2016-17 [7]. Exports were 72,011 t in 2023-24 [7].
+- **Others (snippets):** Iran about 1.2-1.3 Mt; China 1.1-1.7 Mt; Turkey
+  0.38-0.65 Mt [8].
+- **California:** Tulare, Fresno and Kern counties [1]; Fresno and Tulare
+  county averages 3.86-5.67 tons/acre in 2000-2004 [3].
 
-**Finding 2 — climate and cold tolerance.** This crop prefers cool winters
-and hot summers, from mild-temperate to subtropical climates [1]. It
-suffers severe injury below a fairly specific cold threshold, though at
-least one cold-hardy cultivar is marketed as tolerating noticeably colder
-conditions [1][3][10]. It can be grown as an ornamental well outside its
-fruiting range, but does not reliably fruit in colder temperate zones [1].
-Semi-arid conditions are favored, and the species is noted as extremely
-drought-tolerant [1]. Wet climates bring root decay [3], and humid
-growing regions require routine fungicide programs against several named
-fungal diseases [11]. Excessive direct sun can scald the fruit rind [1].
-Winter chill requirement figures from nursery sources vary somewhat and no
-independently researched figure was found [10].
+**Finding 2 — the fruit must ripen on the tree.**
+- "The fruit cannot be ripened off the tree even with ethylene
+  treatment" [1]. It is non-climacteric, makes under 0.1 µL/kg·h of
+  ethylene up to 10 °C, and ethylene does not change soluble solids, acid
+  or colour [2].
+- **Maturity:** ripens 6-7 months after flowering [1]. California
+  'Wonderful': titratable acidity under 1.85% and soluble solids at
+  least 17% [2] (Morton: 1.8% and 17%; Israel 15% SSC) [1]. Juice
+  tannin under 0.25% and a red juice colour of at least Munsell 5R-5/12
+  [2]. Growers also listen for a "metallic sound when tapped" [1].
+- **Harvest:** clipped, not pulled [1]; 2-3 picks for the fresh market
+  [3].
 
-**Finding 3 — soil and salinity.** This crop tolerates an unusually wide
-soil range, from calcareous alkaline soils to deep acid loams, and grows
-wild on rocky gravel in parts of its native range [1]. At least one
-regional grower irrigates with brackish water without reported harm,
-though no formal salinity threshold was found [1].
+**Finding 3 — cold storage is limited by chilling injury below 5 °C.**
+- **Chilling:** do not store below 5 °C [2]. Symptoms are rind pitting,
+  browning, decay, pale arils and browned white segments, which show
+  after transfer to 20 °C [2]. Husk scald appears after 8 weeks at 2 °C
+  [2].
+- **Recommended:** 6 °C at 90% RH for 'Hicaznar'; 90-98% RH generally,
+  since the rind dries and darkens at low humidity [2].
+- **Controlled atmosphere:** 3% O2 + 6% CO2; 'Hicaznar' keeps 6 months at
+  6 °C in CA [2].
+- **Morton's figures conflict:** best at 0-5 °C, 7 months at 80-85% RH;
+  2 months at 5 °C and 95% RH, longer at 10 °C [1]. Husk scald on
+  'Wonderful' controlled by 2% O2 at 2 °C [1].
+- **Respiration:** 4-8 mg CO2/kg·h at 5 °C, 8-16 at 10 °C, 16-36 at 20 °C
+  [2].
 
-**Finding 4 — growth habit, spacing, and propagation.** This is a
-multi-stemmed shrub or small tree with a strong tendency to sucker from
-the base [1]. Documented commercial spacing varies by region, with
-several different tree-density figures reported across different growing
-regions [1][4][11]; after an initial establishment period, routine
-maintenance pruning is limited mainly to sucker and dead-wood removal [1],
-with one detailed regional cost study giving a specific seasonal pruning-
-labor figure [11]. Commercial propagation is done from hardwood cuttings
-rather than true seed, since seedlings are highly variable; a specific
-rooting hormone treatment improves success, and a specific warm
-temperature range is optimal for rooting [1][3]. Air-layering and
-transplanting rooted suckers also work. **Grafting has never been
-successfully achieved with this species** [1] — a notable "no grafting
-possible" case, shared with at least one other tree fruit this project
-has researched.
+**Finding 4 — grafting has never worked; trees come from cuttings.**
+- Hardwood cuttings 25-50 cm long; 50 ppm indole-butyric acid "greatly
+  enhances root development and survival"; cuttings stay a year in beds
+  [1]. Branches can be air-layered and suckers transplanted [1].
+- "Grafting has never been successful" [1].
+- **Suckering:** "a strong tendency to sucker from the base" [1]; suckers
+  are removed in winter and again in June to keep a single trunk [3].
 
-**Finding 5 — flowering and pollination.** Flowers occur singly or in
-small clusters at branch tips, and are either hermaphrodite (fruit-
-setting) or functionally male [1]. Bagged, self-pollinated flowers set a
-meaningfully lower fraction of fruit than flowers exposed to cross-
-pollination by insects, making the species self-compatible but benefiting
-from pollinator activity [1]. The tree can bear fruit as early as one year
-after planting, though a somewhat longer establishment period is typical
-before regular bearing begins [1].
+**Finding 5 — partly self-pollinated.**
+- "both self-pollinated and cross-pollinated by insects", with little wind
+  transfer [1].
+- Bagged, selfed flowers set 45% fruit; cross-pollination raised it to 68%
+  [1].
+- Pollen infertility is 6-20% in hermaphrodite and 14-28% in male flowers
+  [1].
 
-**Finding 6 — fruit development, maturity, and a strict "no off-plant
-ripening" rule.** Fruit ripens over several months after flowering [1].
-**Critically, this fruit does not ripen off the tree, even when treated
-with ethylene** [1] — unlike many climacteric fruit, it must be harvested
-fully ripe. Ripeness is judged partly by ear (a distinctive sound when the
-fruit is tapped) and a minimum sugar/acid threshold, and the fruit is
-clipped from the tree rather than pulled, to avoid damaging the crown end
-[1]. Commercial harvest in at least one Mediterranean growing region
-happens across two to three distinct picks over several weeks [4].
+**Finding 6 — Indian growers choose one of three flowering seasons
+(bahar) (snippets).**
+- **Seasons:** ambe (January-May), mrig (June-August) and hasta
+  (September-December) [6].
+- **Method:** after harvest, trees are defoliated and rested 3-4 months
+  before the chosen bahar [6].
+- **Blight:** bacterial blight (*Xanthomonas citri* pv. *punicae*, formerly
+  *X. axonopodis* pv. *punicae*) is worst in mrig bahar, the
+  rainy-season crop [6]. Losses are put at 60-80%, or 60-100% in one
+  review table [6]. In a Karnataka survey, tree severity was 20.8% in
+  mrig vs. 15.8% (ambe) and 17.3% (hasta) [6]. No resistant cultivars
+  [6].
 
-**Finding 7 — a distinctive triple-flowering-season management system used
-in parts of India.** In central and southern India, where the tree does
-not go cold-dormant, it can flower in up to three separate seasonal
-flushes; growers deliberately regulate the tree to produce just one of
-these flushes by withholding irrigation for an extended period, combined
-with pruning and defoliation, choosing the flush based on water
-availability, market timing, and pest pressure [6][7]. Different seasonal
-flushes are documented to differ in fruit yield, fruit weight, and sugar
-content in at least one regional field trial, and the flush associated
-with cooler, drier harvest conditions is generally preferred for export
-due to reduced fruit cracking [6][7]. One major cultivar dominates
-commercial production under this regulated-flowering system in India [6].
-
-**Finding 8 — yield figures vary enormously by region and management
-intensity.** A well-irrigated Spanish commercial orchard of a soft-seeded
-sweet cultivar reaches a specific high yield figure under full irrigation
-[4]. California's statewide average yield is considerably lower than that
-Spanish figure, though at least one individual California grower has
-claimed a notably higher yield, and yields decades earlier were much
-lower still [8]. India, the world's leading producer, reports a yield
-range at full bearing that is lower than the Spanish full-irrigation
-figure but broadly comparable to California's statewide average [6].
-
-**Finding 9 — an unusual deficit-irrigation response: spring water stress
-*increases* fruit number, the opposite of the typical citrus pattern.** A
-detailed Spanish regulated-deficit-irrigation trial found that halving
-irrigation for the entire season produced essentially the same total
-yield as full irrigation, just with meaningfully smaller individual fruit
-and substantially improved water-use efficiency [4]. Critically, water
-stress specifically timed to the flowering and fruit-set period actually
-*raised* fruit number compared to full irrigation — a genuinely unusual
-response, opposite to the typical pattern in citrus, where spring stress
-usually reduces fruit set [4]. Stress during the linear fruit-growth
-period had only a modest negative effect on fruit weight, while stress in
-late season reduced overall crop load [4]. Fruit cracking and sunburn
-rates did not differ meaningfully between irrigation regimes in that
-particular trial, though a more recent Spanish study found increased
-cracking under sustained deficit irrigation during an exceptionally hot
-growing season [4][13].
-
-**Finding 10 — storage behavior and a specific "husk scald" disorder tied
-to an intermediate temperature band.** Whole fruit stores well under cold,
-humid conditions for roughly two months at one commonly recommended
-temperature, or somewhat longer at a slightly warmer temperature that
-avoids chilling injury; one widely cited reference gives a considerably
-longer storage life under less tightly specified conditions, creating some
-disagreement between sources on exactly how long the fruit keeps [1][5].
-A specific disorder, husk scald (browning of the rind while the interior
-arils remain sound), develops after prolonged storage at or below a
-specific cool temperature threshold; a specific controlled-atmosphere
-regime (low oxygen, elevated carbon dioxide) controls both decay and this
-scald disorder for several months at a slightly warmer storage
-temperature [5]. Very long storage of any kind eventually produces
-internal breakdown of the fruit [1].
-
-**Finding 11 — pests, diseases, and a notable preventive bagging
-practice.** A specific fruit-boring moth/butterfly larva is a major pest
-in at least one major growing region, bad enough that fruit is commonly
-individually bagged on the tree as protection against this pest along
-with birds, bats, and squirrels [1]. A specific fungal dry rot can destroy
-a very large share of unprotected fruit without control, and a separate
-soft rot develops after rain near ripening, with a third fungal pathogen
-specifically colonizing already-cracked fruit [1].
-
-**Finding 12 — composition and traditional processing products.** Edible
-arils have a moderate calorie content and notably low protein content per
-unit weight, with a meaningful potassium and vitamin C content [1]. The
-fruit rind and root bark both contain substantial levels of tannin [1].
-Beyond fresh arils, this crop supports an unusually rich set of
-traditional processed products: fresh juice (traditionally pressed at low
-pressure specifically to limit rind-tannin extraction, then fined and
-pasteurized) [1]; a thickened, sweetened syrup product used as a cocktail
-and culinary ingredient; a reduced molasses-like product used in several
-regional culinary traditions [3]; and a distinctive dried, intensely sour
-spice made from sun-drying the arils of the sour wild type over roughly
-one to two weeks, traditionally used in parts of northern India [1][9].
+**Finding 7 — deficit irrigation holds yield (snippets).**
+- In Elche (Spain), 'Mollar de Elche' trees given sustained or regulated
+  deficit irrigation "could maintain yield with better fruit quality and
+  higher water use efficiency" [5].
+- The trial included sustained deficit at 50% of the control, and an
+  RDI-spring treatment at 25% [5]. A separate 2025 study recorded the
+  lowest yield, 35.5 t/ha, under sustained deficit [5].
+- **Cracking:** prevented by regular irrigation, with the last watering
+  15-20 days before harvest [2]. Morton links cracking to over-maturity,
+  rain, low humidity, wind and too little water [1].
 
 ## Agronomic data
 
-- **Life form / season:** Perennial, suckering, multi-stemmed deciduous
-  shrub or small tree.
-- **Climate:** Mediterranean, semi-arid, arid (irrigated), warm-temperate,
-  and subtropical climates, plus select tropical-highland regions; limited
-  mainly by a specific winter cold-injury threshold (Finding 2).
-- **Composition:** A moderate calorie content and notably low protein
-  content per unit weight in the edible arils (Finding 12).
-- **Pollination:** Self-compatible (a meaningful fraction of fruit sets
-  from bagged, self-pollinated flowers), with insect cross-pollination
-  substantially raising fruit set (Finding 5).
-- **Yield:** Extremely wide range depending on region and management
-  intensity, from a low world-average figure up to a high full-irrigation
-  commercial figure (Finding 8; see Estimates below for adopted tier
-  values).
-- **Water use:** No standard international crop-coefficient table exists
-  specifically for this species; at least one major growing region
-  schedules irrigation similarly to citrus instead. A detailed field-
-  measured crop-coefficient curve exists from one Spanish trial, rising
-  from a low spring value to a considerably higher midsummer value.
-  Rooting depth is estimated by analogy to other similarly drought-
-  adapted trees, since no direct rooting-depth study was found. The crop
-  is notably, and unusually, tolerant of substantial irrigation deficits
-  (Finding 9) — rated highly drought-tolerant overall, but with low
-  waterlogging tolerance, since wet soils bring root decay (Finding 3).
-- **Propagation:** Exclusively vegetative (hardwood cuttings, air-layers,
-  or rooted suckers); true seed is used only for breeding, since seedlings
-  vary widely, and grafting has never been successfully achieved with this
-  species (Finding 4).
-- **Labor:** A specific seasonal pruning-labor figure is sourced from one
-  detailed regional establishment-cost study; most other labor figures
-  (notably harvest labor, since fruit is individually clipped across
-  multiple picks) are estimated rather than directly measured, since no
-  dedicated harvest-labor study was found.
-- **Soil:** An unusually wide tolerance, from calcareous alkaline soils to
-  deep acid loams (Finding 3); fertilization rates are documented from at
-  least one detailed Spanish commercial orchard trial.
-- **Stand life:** Can bear fruit as early as one year after planting,
-  though two-and-a-half to three years is more typical for meaningful
-  bearing; productive lifespan itself was not well sourced. Ongoing
-  maintenance consists mainly of sucker removal, given the species'
-  strong suckering habit.
-- **Disease/pest profile:** A specific fruit-boring pest (commonly managed
-  by individually bagging fruit in at least one major growing region), a
-  destructive fungal dry rot, and additional fungal diseases favored by
-  humid growing conditions (Finding 11).
-- **Cultivars:** A wide spread of named cultivars spanning commercial
-  sweet soft-seeded types, hard-seeded types, a dominant Indian cultivar
-  grown under the regulated-flowering system described in Finding 7, a
-  wild sour Himalayan type used for the dried spice product, a cold-hardy
-  type, and dwarf ornamental forms.
-- **Harvest:** Single-stage harvest (fruit must fully ripen on the tree,
-  per Finding 6); in parts of India, harvest timing instead depends on
-  which of three regulated flowering flushes was chosen for that season
-  (Finding 7).
-- **Storage:** A relatively short-to-moderate cold-storage life, with a
-  specific storage-temperature-dependent disorder (husk scald) limiting
-  how cold and how long fruit can be kept without specialized
-  controlled-atmosphere handling (Finding 10).
+- **Life form / season:** a spiny, much-branched deciduous or evergreen
+  shrub or small tree, 6-10 m; very long-lived [1].
+- **Harvest pattern:** one crop a year in California: 'Foothill Early'
+  from mid-late August, 'Early Wonderful' early September, 'Wonderful'
+  from mid-late September [3]. In India, timing follows the chosen bahar
+  (Finding 6) [6].
+- **Days/years to first bearing:** may bear 1 year after planting, but
+  2.5-3 years is more common [1]. Economic crop from year 3; full yield
+  from year 6 [3].
+- **Climate zones:**
+  - **Range:** "primarily mild-temperate to subtropical"; cool winters and
+    hot summers [1]; a long hot summer is needed to mature fruit [2].
+  - **Cold:** "can be severely injured by temperatures below 12º F
+    (-11.11º C)" [1]. It grows outdoors in Washington, D.C., but does not
+    fruit there [1].
+  - **Chill:** Not sourced. In south Florida fruit development is better
+    after a cold winter [1].
+  - **Dry climate:** favours semi-arid conditions; "extremely
+    drought-tolerant" [1]; drought- and salt-tolerant [2].
+  - **Elevation:** "cool altitudes in the interior of Honduras" [1];
+    figures Not sourced.
+- **Composition (per 100 g arils, range across analysts) [1]:** 63-78
+  kcal; moisture 72.6-86.4 g; protein 0.05-1.6 g; fat trace-0.9 g;
+  carbohydrate 15.4-19.6 g; fibre 3.4-5.0 g; potassium 259 mg; vitamin C
+  4-4.2 mg. Vitamin C in juice 0.49-30 mg/100 g by cultivar [2]. Juice is
+  45-65% of whole fruit, 76-85% of the aril [2].
+- **Edibility:** arils raw, juice, syrup, jam, wine [1][2]. Rind is about
+  30% tannin [2].
+- **Pollination:** Finding 5 [1].
+- **Photoperiod sensitivity:** Not sourced.
+- **Yield:**
+  - **California study:** 75, 150, 225 and 300 boxes (28 lb) per acre in
+    years 3, 4, 5 and 6+ [3]; 300 boxes = 4.2 tons/acre = 9.4 t/ha (see
+    Estimates).
+  - **County averages 2000-2004:** 3.86-5.67 tons/acre, 8.7-12.7 t/ha
+    [3].
+  - **Spain (snippet):** 35.5 t/ha was the lowest treatment in one trial
+    [5].
+  - **Packout:** 60-80% of field fruit [3].
+- **Water use:**
+  - **California:** seasonal consumptive use 36 acre-inches (914 mm);
+    45 acre-inches applied at 80% furrow efficiency; 9 irrigations from
+    April to early September [3].
+  - **Young trees:** 10, 15, 27.5, 37.5 and 45 acre-inches applied in
+    years 1-5 [3].
+  - **FAO-56:** no pomegranate row (checked).
+  - **Morton:** "the plant must be irrigated" for good fruit; brackish
+    water used in Israel "with no adverse effect" [1].
+- **Propagation:** Finding 4 [1]. Bare-root trees planted in January,
+  headed back [3]; 1% replanted in year 2 [3]. Clean stock: Not sourced.
+- **Labor (California, mature orchard, per acre) [3]:**
+  - **Hand labour:** 26.8 h winter prune and sucker, 4.5 h summer sucker,
+    9.0 h irrigation (9 × 1 h), and 29.5 h picking: 69.8 h in all.
+  - **Machine:** 12.5 h cultural plus 1.5 h harvest.
+  - **Harvest crew:** 20 pickers with ladders and bags; bins of 800-900
+    lb.
+- **Soil:**
+  - **Range:** "calcareous, alkaline soil" to "deep, acidic loam"; wild on
+    gravel in northern India [1]. The California study assumes deep,
+    well-drained class I-II soil, ripped 1.2-1.5 m [3].
+  - **pH:** Not sourced as numbers.
+  - **Salinity:** "salt-tolerant" [2], but FAO rates it moderately
+    sensitive (MS) for shoot growth, with no threshold [4].
+  - **Nitrogen:** 16.75, 26.8 and 44.2 lb/acre in years 1-3, then 100;
+    mature orchards 75-125 lb/acre in March-April [3] (see Estimates).
+- **Storage (postharvest):** Finding 3 [1][2]. Do not sprinkle or top-ice
+  [2]. No US grades; Turkish size classes 150-500 g [2].
+- **Establishment:**
+  - **Spacing:** 18 × 18 ft (5.5 m), 134 trees/acre (331/ha), with some
+    closer plantings [3]; 3.5-5.5 m by soil fertility [1].
+  - **Pits:** 60 cm deep and wide, pre-fertilised; cut back to 60-75 cm
+    [1].
+  - **Training:** branches shortened for 3 years, after which only suckers
+    and dead wood are removed [1].
+  - **Orchard life:** 25 years in the cost study [3].
+- **Cultivars:**
+  - **California and Israel:** 'Wonderful' (from a Florida cutting,
+    propagated in California in 1896; large, dark purple-red) [1][2];
+    'Foothill Early', 'Early Wonderful' [3].
+  - **Spain:** 'Mollar', 'Tendral' [2]; 'Mollar de Elche' [5].
+  - **India:** 'Bhagwa' (dominant) [7]; 'Bedana' (soft seeds), 'Kandhari'
+    (hard seeds), 'Dholka' (non-suckering, evergreen) [1].
+  - **Others:** 'Hicaznar' (Turkey), 'Schahvar' and 'Robab' (Iran),
+    'Zehri' and 'Gabsi' (Tunisia) [2]; 'Paper Shell', 'Spanish Ruby' [1].
+- **Weather response:**
+  - **Cold:** Climate zones [1]. In March, an irrigation may be needed for
+    frost protection [3]; California uses sprinklers, which also protect
+    against frost [1].
+  - **Sun:** "Too much sun exposure causes sunscald" [1].
+  - **Rain at ripening:** soft rot and cracking [1]; bacterial blight in
+    the rainy season (Finding 6) [6].
+- **Water regime:** upland, irrigated; no flooded regime.
+- **Harvest stages / windows:** Finding 2 [1][2][3]. Over-maturity causes
+  cracking [1].
+- **Soil biology:** Not sourced (no nematode or replant data this pass).
+- **Invasiveness / biosecurity:** naturalized in Bermuda, recorded 1621
+  [1]. Quarantine: "None" for fresh fruit in HB66 [2]. Weed-list status:
+  Not sourced.
+- **Controlled environment:** Not sourced.
 
 ## Hazards
 
-- The root and stem bark contain alkaloid compounds that have been used
-  medicinally (historically, as an anti-parasitic treatment), but which
-  cause vomiting, impaired vision, and paralysis in overdose; the edible
-  arils themselves are not a hazard. **TO BE ADDRESSED** — a fuller
-  write-up of this root/bark plant-toxin hazard is deferred until this
-  project has a place for this kind of health/safety data.
-- A weak-evidence drug interaction between pomegranate juice and a common
-  blood-thinning medication has been described in isolated case reports.
-  **TO BE ADDRESSED** — this interaction is deferred pending this
-  project's general handling of fruit-juice/medication interaction
-  hazards (shared with at least one other fruit crop this project has
-  researched).
-- The fruit rind contains substantial tannin, which commercial juice
-  processing specifically manages by pressing at low pressure and fining
-  with gelatin to avoid an overly astringent product; the peel's tannin
-  content likewise limits its usefulness as livestock feed unless
-  processed (ensiling has been shown to lower tannin content).
+- **Bark and root alkaloids:** pelletierine and isopelletierine, used
+  against tapeworms; overdoses are "emetic and purgative" and cause pupil
+  dilation, dimmed sight, muscle weakness and paralysis [1].
+- **Tannin:** desired level in the edible part is "no more than 0.25%"
+  [1].
+- **Warfarin (case reports, snippets):** a handful of case reports link
+  pomegranate juice to changed INR in warfarin patients. Lab studies show
+  CYP2C9 and CYP3A inhibition, but there is no controlled trial [9].
+- **Pests:**
+  - **India:** pomegranate butterfly *Virachola isocrates* can destroy a
+    whole crop; fruit is bagged against it and against birds, bats and
+    squirrels [1].
+  - **California:** flat mite (*Brevipalpus lewisi*), omnivorous leafroller
+    and aphids are treated [3].
+  - **Minor:** stem borer, whitefly, thrips, mealybugs, scale [1].
+- **Diseases:**
+  - **Bacterial blight (India):** Finding 6 [6].
+  - **Dry rot:** *Phomopsis* or *Zythia versoniana* "may destroy as much
+    as 80% of the crop" unsprayed [1].
+  - **Heart rot:** *Aspergillus* and *Alternaria*, developing on the tree;
+    no registered controls in California [2][3].
+  - **Postharvest:** gray mold (*Botrytis*), green mold (*Penicillium*),
+    *Cladosporium* [2]; *Alternaria* in cracked fruit [1].
+- **Ergot / mycotoxin:** none reported this pass.
+
+**TO BE ADDRESSED** — the bark alkaloid and warfarin hazards are deferred
+until this project has a place for health-and-safety data.
 
 ## Uses and processing
 
-- **Chains:** whole fruit → scored and broken open → arils (plus peel) →
-  eaten fresh, or pressed at controlled low pressure → juice → further
-  processed into a thickened syrup product, a reduced molasses-like
-  product, or wine. Sour wild-type fruit → arils removed → sun-dried over
-  one to two weeks → a dried souring spice. Peel → dried → traditional
-  dye, tanning, and folk-medicine uses, plus limited use as livestock
-  feed after tannin reduction. Hardwood cuttings → rooted in nursery beds
-  → planted as the sole commercial propagation method.
-- Not covered in detail by this research: bark and root medicinal
-  preparations (noted above as a toxicity hazard rather than a food use);
-  flower and leaf dye uses; wood use; frozen-aril and frozen-juice
-  products.
-
-This fruit carries an unusually dense cluster of religious and cultural
-significance across several traditions: it is a traditional Jewish New
-Year food, associated with imagery on ceremonial religious objects and
-vestments in that tradition (with a widely repeated but not formally
-authoritative folk association with a specific seed count); it is named
-among the fruits of paradise in the Quran; in Hinduism it is linked to
-prosperity and fertility and to specific deities; in Zoroastrian tradition
-it figures in the Persian new year and autumn festivals, weddings, and is
-traditionally planted at fire temples; in ancient Greek myth it is
-associated with the underworld and a specific goddess; it carries a
-broader folk association with fertility and abundance in Armenian and
-other regional traditions, including at least one dedicated harvest
-festival; and it appears in at least one early Christian mosaic paired
-with an early Christian symbol.
+- **Chain 1 (fresh):** clipped in 2-3 picks → bins → packing shed: cooled,
+  packed in trays or bulk cartons → stored at 5-6 °C and 90-98% RH (Finding
+  3) [2][3].
+- **Chain 2 (juice):** arils basket-pressed, or whole fruit pressed below
+  100 psi "to avoid undue yield of tannin"; tannin (up to 0.175%)
+  precipitated with gelatin; pasteurised 30 minutes, settled 2 days,
+  strained and bottled [1]. Culls can go to juice [3].
+- **Chain 3 (syrup, wine):** grenadine, thick syrup, jelly, wine [1].
+- **Chain 4 (anardana):** arils of sour fruit sun-dried 10-15 days and sold
+  as a spice in northern India [1].
+- **Non-food:** tannin from trunk bark (10-25%), root bark (28%), leaves
+  (11%) and rind (up to 26%); dyes from rind and flowers; ink from leaves;
+  hard pale-yellow wood for walking sticks [1].
+- **Not detailed here:** molasses, frozen arils, peel as feed.
 
 ## Open research questions
 
-- Storage-life figures conflict between a long-standing general reference
-  (several months at a specific temperature/humidity combination) and
-  more detailed postharvest-science sources giving shorter, more
-  temperature-specific windows — not fully reconciled.
-- Cold-hardiness figures vary across sources, from a research-sourced
-  injury threshold to considerably colder tolerance claims for at least
-  one specific cold-hardy cultivar — not reconciled.
-- Winter chill-hour requirement figures vary meaningfully across nursery
-  sources and no independently researched figure was found.
-- Yield figures diverge sharply between a high-intensity Mediterranean
-  commercial figure and the world's leading producing country's full-
-  bearing average — likely reflecting real differences in irrigation and
-  management intensity rather than a single representative figure.
-- The exact timing windows for each of the three regulated flowering
-  flushes used in Indian production are given somewhat differently across
-  sources — likely reflecting genuine regional variation rather than a
-  true contradiction.
-- A world-average yield figure for this crop specifically is difficult to
-  source cleanly and is treated here as a rough estimate weighted toward
-  the largest producing countries.
-- Harvest-labor figures were not found in any dedicated source and are
-  estimated here rather than measured.
-- Productive lifespan of the plant was not well sourced.
-- Chromosome number was not confirmed in the sources consulted this pass.
-- Production and cultivar information specific to at least one other
-  major traditional producing country (outside the sources consulted
-  this pass) was not researched in this pass.
+- **Storage:** 6 °C (HB66) vs. 0-5 °C (Morton); 7 months at 80-85% RH
+  (Morton) vs. 2 months at 5 °C.
+- **Salinity:** "salt-tolerant" [2] vs. FAO's moderately sensitive [4].
+- **World production:** no reliable figure; estimates range from 3.8 to
+  6.5 Mt [8].
+- **India:** 2020-21 NHB figures vs. 2023-24 estimates [7].
+- **Spain:** 35.5 t/ha vs. California's 9.4 t/ha study yield; the Spanish
+  figures are snippet-level only.
+- **Not sourced:** chill, photoperiod, pH figures, elevation figures, crop
+  coefficients, soil biology, weed-list status, controlled environment.
+- **Works identified, not yet read:**
+  - Day, Klonsky and De Moura (2010), UCCE sample costs for pomegranates,
+    southern San Joaquin Valley (the newer study);
+  - Intrigliolo et al. (2013), "Pomegranate trees performance under
+    sustained and regulated deficit irrigation," *Irrigation Science* 31:
+    959-970, doi:10.1007/s00271-012-0372-y;
+  - Intrigliolo et al. (2012), *Options Méditerranéennes* A 103
+    (CIHEAM; download refused);
+  - ICAR-NRCP status report on 'Bhagwa' (download failed);
+  - FAOSTAT "Pomegranates," if the item exists.
 
 ## Estimates and derivations
 
-World-average and poor-tier yield figures are derived by weighting
-heavily toward the production practices of the world's two largest
-producing countries, whose documented full-bearing yield range sits well
-below the high-intensity Mediterranean commercial figure used for the
-"good" tier; the "exceptional" tier is derived from a documented
-above-average California grower claim.
+**Yields to t/ha** [3]: 300 boxes × 28 lb = 8,400 lb = 4.2 short tons/acre;
+4.2 × 2.2417 = 9.4 t/ha. County averages 3.86 × 2.2417 = 8.7 t/ha;
+5.67 × 2.2417 = 12.7 t/ha.
 
-Seasonal water-use figures are derived from the one detailed field-
-measured crop-coefficient curve available, combined with an estimated
-stage-length breakdown for a representative growing season, since no
-standard international crop-coefficient table exists for this species;
-rooting depth and the corresponding drought-buffer period before yield
-penalty begins are estimated by analogy to other similarly drought-
-adapted trees, cross-checked against one Spanish orchard's documented
-soil depth. The notably small yield-penalty-per-dry-day figure reflects
-the documented finding that even a 50%-irrigation regime produced
-essentially unchanged total yield, with the effect showing up mainly as
-smaller fruit rather than lost yield.
+**Tree density** [3]: 134 ÷ 0.404686 = 331 trees/ha. At 9.4 t/ha, about
+28 kg of fruit per tree.
 
-Most labor-hour figures besides pruning (which is directly sourced from
-one detailed regional cost study) are estimated, including harvest labor,
-which is derived from the documented yield figure divided by an assumed
-hand-picking rate appropriate to a large, individually clipped fruit.
+**Water** [3]: 36 acre-inches × 25.4 = 914 mm consumptive use; 45 × 25.4 =
+1,143 mm applied.
 
-Soil nutrient-uptake figures are carried over by analogy from a different
-small tree-fruit crop this project has researched, since no dedicated
-nutrient-removal study was found for this species; soil pH optimum is
-estimated within the sourced calcareous-to-acid tolerance range.
+**Nitrogen** [3]: 100 lb/acre × 0.4536 ÷ 0.404686 = 112 kg N/ha; range
+75-125 lb/acre = 84-140 kg/ha.
 
-Genome size (roughly 0.34 pg, 1C) is derived from a published genome-
-assembly size estimate for one named cultivar, converted using the
-standard base-pairs-per-picogram conversion factor.
+**Labour** [3]: 26.80 + 4.50 + 9.00 + 29.54 = 69.84 hand hours per acre ÷
+0.404686 = 173 h/ha; machine 12.53 + 1.48 = 14.01 h/acre = 35 h/ha.
+Picking: 29.54 h ÷ 4.2 tons = 7.0 h per ton.
+
+**Temperatures** [1]: 12 °F = −11.1 °C.
 
 ## Sources
 
-[1] A classic mid-20th-century reference work on warm-climate fruit crops,
-chapter on this species. Supplied: origin and spread, climate and cold-
-injury threshold, drought tolerance, soil tolerance and brackish-water
-irrigation, propagation methods including the no-grafting finding,
-spacing and pruning, suckering habit, flowering and pollination/fruit-set
-figures, bearing age, irrigation practice, maturity indices, the no-off-
-plant-ripening finding, harvest method, cracking, storage conditions and
-duration, pests and diseases, traditional uses and products, composition,
-tannin and alkaloid toxicity, medicinal uses, and named cultivars.
-Accessed 2026-10-12, opened directly.
+[1] Morton (1987), *Fruits of Warm Climates*, "Pomegranate," pp. 352-355,
+as hosted by Purdue University's Center for New Crops. Supplied:
+- origin and spread; description and suckering; cultivars;
+- pollination and fruit-set figures; climate and cold injury; soil;
+- propagation and the no-grafting statement; spacing and pruning;
+  irrigation and brackish water; bearing age;
+- fruit development, maturity and no off-tree ripening; harvest,
+  cracking and sunscald; storage;
+- pests, diseases and fruit bagging; juice, syrup and anardana;
+- the composition table; tannin, alkaloids and toxicity; non-food uses.
 
-[2] [Internal legacy-document cross-check material not carried forward
-into this public synthesis.]
+Accessed 2026-11-23, opened directly (whole chapter, via a reading
+agent).
 
-[3] A community-maintained general reference encyclopedia article on this
-species. Supplied: an alternative cold-hardiness figure, root decay in
-wet climates, propagation and rooting-temperature detail, flower
-description, producer ranking, named traditional processed products, peel
-dye use, the wild Socotran relative species, and religious/cultural
-significance across several traditions. Accessed 2026-10-12, opened
-directly (partial, due to article length).
+[2] Pekmezci and Erkan, "Pomegranate," in USDA ARS Agriculture Handbook
+66, *The Commercial Storage of Fruits, Vegetables, and Florist and
+Nursery Stocks* (2004 draft, archived copy). Supplied: producing
+countries and cultivars, quality criteria, juice and tannin content,
+maturity indices, size classes, storage conditions, CA, chilling injury,
+husk scald, ethylene, respiration, cracking and irrigation cut-off,
+internal breakdown, postharvest diseases, quarantine. Accessed 2026-11-23,
+opened directly (PDF).
 
-[4] A peer-reviewed agricultural-research-conference proceedings article
-on regulated deficit irrigation in this crop, from a Spanish research
-institution. Supplied: orchard spacing and cultivar, field-measured
-crop-coefficient curve, reference evapotranspiration and rainfall figures,
-drip-irrigation schedule, full- and deficit-irrigation application
-totals, yield and yield-component figures under different irrigation
-regimes, water-use efficiency, fruit cracking and sunburn rates, stem
-water potential measurements, fertilization rates, and harvest timing.
-Accessed 2026-10-12, PDF extracted.
+[3] Day, Andris, Klonsky and De Moura, *Sample Costs to Establish and
+Produce Pomegranates, San Joaquin Valley – South, Furrow Irrigation*, UC
+Cooperative Extension PG-VS-05 (2005), archived copy. Supplied:
+- site preparation, cultivars and harvest dates;
+- spacing, planting, orchard life;
+- pruning and suckering;
+- irrigation by year and for mature trees, consumptive use;
+- nitrogen by year;
+- pests treated, diseases, harvest crew, picks and packout;
+- yields by year and county averages 2000-2004;
+- labour and machine hours by operation.
 
-[5] Search-snippet-level material on postharvest handling, including a
-university postharvest technology center's produce-facts and maturity/
-quality reference pages, an international refrigeration-institute
-conference record on postharvest-quality recommendations, and a peer-
-reviewed study on controlled-atmosphere storage and husk-scald reduction.
-Accessed 2026-10-12, search snippets only.
+Accessed 2026-11-23, opened directly (PDF).
 
-[6] Search-snippet-level material on the Indian regulated-flowering
-practice, including a national agricultural-research-council open-access
-journal article, a regional agricultural-science-management journal
-article with a specific district-level field-trial yield comparison, a
-traditional-knowledge journal article on indigenous desert-region flower-
-regulation practice, a national research-center study with detailed
-water-withholding and defoliation-treatment results, a grower-facing
-cultivation guide, and a rural-development-bank model project-scheme
-reference. Accessed 2026-10-12, search snippets only.
+[4] Tanji and Kielen, *Agricultural Drainage Water Management in Arid and
+Semi-Arid Areas*, FAO Irrigation and Drainage Paper 61 (2002), Annex 1,
+Table A1.2. Supplied: pomegranate moderately sensitive (shoot growth).
+Accessed 2026-11-23, opened directly. FAO-56 (Allen et al. 1998, Tables
+11-12) was also checked and has no pomegranate row.
 
-[7] Search-snippet-level material on the specific seasonal timing of the
-three regulated flowering flushes, including a national horticulture-
-board model-project report, a national research-center advisory
-publication, and a grower-facing pomology reference page. Accessed
-2026-10-12, search snippets only.
+[5] Spanish deficit-irrigation sources, snippets only: Intrigliolo et al.
+(2012), *Options Méditerranéennes* A 103 (CIHEAM); Intrigliolo et al.
+(2013), *Irrigation Science* 31: 959-970; a 2012 Elche study abstract;
+Porras-Jorge et al. (2025), *Plants* 14(2): 164. Accessed 2026-11-23.
 
-[8] Search-snippet-level material on California production statistics,
-including an agricultural-marketing-resource-center crop profile, an
-agricultural trade-press article quoting one grower's above-average yield
-claim, an older government-era yield reference, and a university
-fruit-and-nut research-information-center page with production-tonnage
-and research-planting-density figures. Accessed 2026-10-12, search
-snippets only.
+[6] Indian bahar and bacterial blight sources, snippets only: a 2025 study
+on *X. citri* pv. *punicae* (*BMC Microbiology*); a 2024 review of
+pomegranate production challenges; a review table citing Bagal et al.
+(2022); a Karnataka bahar survey; an MDPI *Horticulturae* 8(5): 441
+study. Accessed 2026-11-23.
 
-[9] Search-snippet-level material on the dried sour-aril spice product,
-including a university thesis-repository record evaluating wild-type
-fruit for this product's development in a specific Himalayan growing
-region, and a presentation covering cultivar types and this product.
-Accessed 2026-10-12, search snippets only.
+[7] Indian production sources, snippets only: NHB Solapur district
+brochure (2020-21 figures); Press Information Bureau releases (Maharashtra
+share, 2023-24 exports); an ICAR status report on 'Bhagwa' (2016-17
+shares); trade sources for 2023-24 output. Accessed 2026-11-23.
 
-[10] Search-snippet-level material on cold hardiness and chill requirement,
-including several commercial nursery plant listings for one specific
-cold-hardy cultivar (with somewhat inconsistent hardiness and chill-hour
-claims across listings) and a gardening-forum discussion. Accessed
-2026-10-12, search snippets only (nursery marketing claims, treated as
-lower-confidence).
+[8] World production snippets: a Turkish review (DergiPark) giving the
+2014 and 2017 estimates and the "no reliable information" statement;
+Iranian officials' figures via news sites; a statistics-ranking site.
+Accessed 2026-11-23.
 
-[11] A university agricultural-extension publication on establishment
-costs and production practices for this crop in a specific U.S. growing
-region, based on several years of grower data. Supplied: spacing
-comparisons across growing regions, detailed seasonal pruning-labor
-hours, a fungicide program and associated disease list, and establishment
-cost detail. Accessed 2026-10-12, opened directly.
-
-[12] [Internal farm-scenario material not carried forward into this
-public synthesis; see source [1] for the underlying bearing-age and
-climate-zone findings it drew on.]
-
-[13] Search-snippet-level material on more recent Spanish irrigation
-research, including a peer-reviewed open-access journal article on
-sustained-deficit irrigation water savings and increased cracking during
-an exceptionally hot season, and a conference-proceedings paper noting
-that no standard crop-coefficient table exists for this species and that
-at least one growing region schedules it similarly to citrus. Accessed
-2026-10-12, search snippets only.
-
-[14] Search-snippet-level material on lysimeter-based water-use studies,
-including two peer-reviewed agricultural-water-management journal
-articles (one on a research planting's evapotranspiration measurements,
-one on lysimeter evapotranspiration and crop-coefficient behavior under
-salinity). Accessed 2026-10-12, search snippets only; underlying values
-not directly reviewed.
-
-[15] Search-snippet-level material referencing case-report literature on
-a juice/medication interaction, cross-referenced against this project's
-general handling of a similar interaction documented for a different
-fruit. Accessed 2026-10-12, search snippets only.
-
-[16] Search-snippet-level material on peel as livestock feed, including a
-veterinary-medical-society journal article on dried and ensiled peel
-by-product feeding trials in sheep, a veterinary-science open-access
-journal, and two agricultural-science-research journal articles. Accessed
-2026-10-12, search snippets only.
-
-[17] Search-snippet-level material on a Jewish agricultural-law concept
-relevant to a newly planted perennial crop's first few years of fruit,
-cross-referenced against this project's research on a different fruit
-crop where the same concept was previously documented. Accessed
-2026-10-10, search snippets only.
-
-[18] Search-snippet-level material on genome-size assemblies, including a
-peer-reviewed plant-science review-journal article compiling several
-named-cultivar genome-assembly sizes, an agricultural-research-library
-record on a reference-quality genome sequence for one Indian cultivar,
-and a peer-reviewed horticulture-research journal article on a further
-named-cultivar assembly. Accessed 2026-10-12, search snippets only.
+[9] Warfarin sources, snippets only: Komperda (2009), *Pharmacotherapy*
+29: 1002; Jarvis et al. (2010), *Emergency Medicine Journal* 27: 74; a
+Turkish emergency-medicine case report; "A Comprehensive Review of
+Potential Warfarin-Fruit Interactions" (PubMed 25112306). Accessed
+2026-11-23.
