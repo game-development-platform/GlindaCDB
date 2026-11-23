@@ -709,6 +709,17 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`pomegranate--warfarin-review`** (Online): full text of the 2014 warfarin-fruit interaction review (PubMed 25112306) or the Komperda (2009) case report.
   - **Needed for:** confirming the snippet-level Hazards entry.
 
+### persimmon_american (2026-11-23)
+
+- [ ] **`persimmon_american--fdc-composition`** (Online): USDA FoodData Central 169943, "Persimmons, native, raw" (the API was rate-limited).
+  - **Needed for:** full composition per 100 g (only energy and a derived vitamin C figure are in the doc).
+- [ ] **`persimmon_american--cultivar-ploidy`** (Online/Library): a horticultural source listing named American persimmon cultivars by chromosome race (60 vs. 90), e.g. Reich, *Uncommon Fruits for Every Garden*, or the American Pomological Society's work on northern persimmon cultivars.
+  - **Needed for:** which cultivars need a matching pollinizer.
+- [ ] **`persimmon_american--wsu-overview`** (Online): Washington State University, *Persimmons: An Over-View of Cultivars, Production, Harvesting, and Marketing* (57 pp), or ATTRA (2010), *Persimmons, Asian and American*.
+  - **Needed for:** chill, water use, nutrient rates, yields by age and orchard harvest labour.
+- [ ] **`persimmon_american--equine-impaction`** (Online): the Banse et al. retrospective on persimmon impaction in equids, or Cummings et al. (1997), *J. Vet. Diagn. Invest.*
+  - **Needed for:** confirming the snippet-level Hazards entry.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

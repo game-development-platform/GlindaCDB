@@ -1,7 +1,25 @@
 # Persimmon, American (*Diospyros virginiana*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/persimmon-american.md`
-**Researched:** 2026-10-12
+**Researched:** 2026-10-12 (re-researched 2026-11-23 against the full
+current checklist in `skills/crop-research/SKILL.md` and
+`templates/research-doc.md`.
+- **Re-opened:** the Forest Service silvics chapter, the NRCS plant guide,
+  the University of Kentucky crop profile and the Wisconsin farm-trial
+  page.
+- **Added:** the Forest Service fire-effects review, Penn State and Purdue
+  extension pages, the Texas A&M and UF/IFAS persimmon guides (rootstock
+  use), the FAO salt-tolerance table, and snippet-level material on
+  composition and equine persimmon impaction.
+- **Dropped,** because the source could not be re-found or re-opened:
+  the general-encyclopedia article (the named tetraploid cultivars, the
+  named hybrids other than 'Kasandra' and 'Russian Beauty', the wartime
+  button use, brandy and candy, the beer-song reference), the
+  pulp-processing and indigenous-use snippets, the nursery chill-hour
+  and hardiness-zone snippets, the wetland-indicator snippet, the
+  first-fruit law snippet, the internal record, and the tier yields,
+  stone-fruit water estimate, nutrient analogy, pH estimate and
+  yield-ramp profile built on them.)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -10,468 +28,380 @@ licensed under this project's MIT license (see repository `LICENSE`).
 
 ## Naming and scope
 
-Modeled as *Diospyros virginiana*, the common or eastern persimmon,
-native to the eastern United States. Its varieties (a fuzzy-leaved
-type, and distinct Oklahoma and Florida forms) and its two distinct
-chromosome races (a northern hexaploid type and a southern tetraploid
-type, which set fruit differently) are treated here as cultivar groups
-rather than separate entries; documented interspecific hybrids between
-this species and the Asian persimmon are noted as cultivars within this
-entry as well.
+*Diospyros virginiana* L. (Ebenaceae), common, American or eastern
+persimmon; also simmon and possumwood [1][2].
+- **Varieties:** var. *pubescens* (fuzzy), var. *platycarpa* (Oklahoma),
+  var. *mosieri* (Florida) [1][2][4]; "not generally formally recognized"
+  [2].
+- **Chromosome races:** a 90-chromosome race native to the northern US and
+  a 60-chromosome race native to Kentucky and the South [3].
+- **Fruit:** a persistent berry, 1.9-5.1 cm, with 1-8 flat seeds, sometimes
+  seedless [1].
+- **Scope:** one cropID; varieties, chromosome races and kaki × virginiana
+  hybrids are cultivar groups.
+- **Gate check (2026-10-12, re-confirmed 2026-11-23): passes.** A separate
+  species from kaki, with its own small, soft fruit used mainly as pulp.
 
-This species is a genuinely distinct crop from the Asian persimmon this
-project has also researched — far hardier, bearing small soft fruit
-used mostly as pulp rather than firm fruit, propagated largely from
-seedling and wild-type trees (including old-field thickets that spread
-by root suckers), and split into the two fruit-set-behavior chromosome
-races just described. It shares with that entry its rootstock seed,
-seedling, scionwood, nursery-tree, leaf and leaf-tea items, and its
-sowing, grafting and leaf-drying processes; its fruit, pulp, dried
-fruit, fermented beverage, and roasted-seed products are treated
-separately, since they differ meaningfully from the Asian persimmon's
-own fruit products. This species is also, notably, the usual rootstock
-used for growing the Asian persimmon in the southern United States, as
-documented in that entry.
+**Relatives in this project:**
+- Asian persimmon (`persimmon`, `persimmon.md`): this species is its main
+  rootstock in the southern US [9][10];
+- date-plum (`persimmon_dateplum`, `persimmon-dateplum.md`);
+- Texas persimmon (`persimmon_texas`, `persimmon-texas.md`): not graft
+  compatible with this species [9].
+
+**Proposed:** none.
 
 ## Research findings
 
-**Finding 1 — a genuinely cold-hardy fruit tree whose native range
-spans a huge swath of the eastern and central United States.** The
-species' native range runs from southern New England and Long Island
-to southern Florida, west to southeastern Iowa, eastern Kansas,
-Oklahoma and central Texas, though notably absent from the main
-Appalachian mountain range itself. It grows best in Mississippi Valley
-bottomland soils, but also tolerates dry sterile sands, rocky
-hillsides, wet flats, sloughs and swamp margins, and readily colonizes
-abandoned cropland, roadsides and fencerows as a pioneer species; it is
-also very shade-tolerant, persisting in forest understory. Documented
-cold hardiness is substantial: at least one named cultivar is hardy to
-roughly −32°C, and trees in a northern US state survived an extreme
-cold event of roughly −35°C in one documented winter without injury.
-Flowering happens relatively late in spring, after leaves are more than
-half grown, which lets this species generally escape the spring frosts
-that damage other fruit crops — though a late freeze can still damage
-flowers and cause fruit drop in some years [2][4][8].
+**Finding 1 — very cold-hardy, and late bloom avoids spring frost.**
+- **Cold:** "hardy to temperatures of 20 to 25° below zero" °F (−29 to
+  −32 °C) without injury [7]; hardy to zone 4 and −25 °F (−32 °C) [6].
+  'Meader' and the hybrid 'Russian Beauty' survived −31.6 °F (−35.3 °C) in
+  Wisconsin in January 2009 with no visible injury [8].
+- **Range climate:** humid throughout; best commercial development with
+  1,220 mm of annual precipitation, about 460 mm in the growing season;
+  average summer maximum 35 °C and winter −12 °C [1].
+- **Late bloom:** flowers open on current-season shoots once leaves are
+  more than half grown [1]. Trees stay dormant longer than most fruit
+  trees. In 2012 they were still dormant while others bloomed, and
+  escaped a freeze that took most other fruit [8]. A late freeze can
+  still damage flowers and cause fruit drop [1].
 
-**Finding 2 — two distinct chromosome races set fruit in fundamentally
-different ways, a critical pollination-management fact.** This species
-has a northern form with 90 chromosomes (hexaploid) and a southern form
-with 60 chromosomes (tetraploid). Most named cultivars belong to the
-hexaploid race and set fruit parthenocarpically — that is, without
-pollination at all — giving fruit with few or no seeds; several named
-tetraploid cultivars exist as well. Critically, a pollinizer tree must
-match the chromosome race of the trees it is meant to pollinate: one
-documented guideline suggests one male tree is sufficient for at least
-twenty-three female trees of the same race, but a male tree of the
-wrong race provides no pollination benefit. Only one widely available
-cultivar is documented as reliably self-fertile, and its fruit is never
-seedless as a result; sex expression in some trees can also vary from
-year to year [1][2][3][8].
+**Finding 2 — the two chromosome races set fruit differently.**
+- **Races:** most named cultivars are of the 90-chromosome race, which
+  sets fruit parthenocarpically, so pollination is not needed and fruit
+  have few or no seeds [3].
+- **Sexes:** normally dioecious [1][3]. "In only rare instances are trees
+  self-pollinating" [7]. Sex expression can vary from year to year [8].
+- **Pollinizers:** one male "seems sufficient to pollinate at least 23
+  pistillate trees of the same race" [1].
+- **Self-fertile cultivars:** 'Meader' is "the only available American
+  selection that is reliably self-fertile", and its fruit "are never
+  seedless" [8]. 'Prok' gives seedless fruit without a male [6][12].
+  'Yates' is described as "self-pollinating" [6].
 
-**Finding 3 — astringency and frost have a genuinely disputed
-relationship across sources.** Unripe fruit is extremely astringent, as
-in the related Asian persimmon. One classic US Forest Service silvics
-reference states plainly that "after a frost... the flesh is pleasing
-in taste," and a general reference encyclopedia article likewise states
-that frost or extended ripening (bletting) makes the fruit sweet; but a
-university extension crop-profile source for this species pushes back,
-stating that the popular belief that frost is specifically needed is
-not well founded, and that the fruit instead simply requires a long
-ripening period regardless of frost exposure. Fruit that is ripe but
-still astringent can be treated with ethylene gas or frozen to remove
-the remaining astringency; drying also removes it. At least one
-documented cultivar ripens early but loses its astringency unusually
-slowly even once otherwise ready [1][2][3][8].
+**Finding 3 — frost is not needed to remove astringency (sources
+disagree).**
+- The silvics chapter says the pulp is "very astringent when not ripe,
+  but after a frost ... the flesh is pleasing in taste" [1].
+- Kentucky: "It is popularly believed that a hard frost is required ...
+  but actually persimmons just require a long period for ripening" [3].
+  Purdue: the frost idea "is incorrect"; many varieties lose astringency
+  "long before frost" [7]. Penn State: fruit usually ripens "near or
+  after the first frost" [6].
+- **Removal:** ripe but still astringent fruit can be treated with
+  ethylene or frozen; drying also removes astringency [3].
 
-**Finding 4 — yield and labor data come from one detailed regional
-orchard-economics source, and labor figures conflict with a grower's
-own harvest-rate observation.** A university crop-profile budget for
-this species documents bearing trees of named cultivars yielding up to
-roughly 41-45 kg of fruit per tree, and a standard 80-trees-per-acre
-planting yielding roughly 2 tons of saleable fruit per acre once past
-year four. The same source gives labor figures of roughly 60 hours per
-acre for general production tasks, 150-250 hours per acre for harvest,
-and 60 hours per acre for packing and grading; but converting those
-production and packing figures plus a documented grower's own fruit-
-gathering rate (knocking ripe fruit onto tarps and hand-sorting it) into
-a per-hectare harvest-labor estimate gives a notably higher number than
-the budget's own harvest-labor figure — an unresolved internal
-conflict kept visible here rather than silently reconciled. The fruit
-is not machine-harvestable; it ripens unevenly, requiring several hand
-picking passes, and is difficult to pull from the tree unless very ripe
-[3][8].
+**Finding 4 — the only cost budget gives 2 tons/acre and hundreds of
+labour hours.**
+- **Kentucky budget (80 trees/acre):** after year 4, 2 tons of saleable
+  fruit/acre (4,000 lb at $2.75) [3].
+- **Labour:** about 60 h/acre production, 150-250 h harvest and 60 h
+  packing and grading [3].
+- **Grower rate:** an Indiana grower knocks fruit onto tarps; two people
+  pick up 20 lb of usable, decalyxed fruit an hour, and sorting and
+  washing give 60 lb an hour ready to process [3]. This implies far more
+  harvest hours than the budget (see Estimates).
+- **Per tree:** named cultivars "can yield as much as 90 to 100 pounds"
+  (41-45 kg) [3].
+- **Harvest:** no machine harvest; it needs multiple hand passes because
+  ripening is uneven, and fruit is hard to pull unless very soft [8].
 
-**Finding 5 — essentially pest-free by the standards of commercial tree
-fruit, but with one genuinely serious wound-borne disease.** This
-species is repeatedly described across multiple independent sources as
-largely free of serious pests. The major exception is a fungal wilt
-disease that has killed large numbers of trees in parts of the
-southeastern US; it enters through wounds made by wood-boring insects,
-has no known resistant cultivars, and is managed chiefly by burning
-diseased trees to limit spread. Other documented but less serious pests
-include a persimmon-specific wood-boring insect, a webworm, a large
-hawkmoth caterpillar sometimes called the hickory horned devil, a
-bagworm, a psyllid, an ambrosia beetle, and fungal leaf spot and
-anthracnose diseases [2][3][4][8].
+**Finding 5 — few pests, but persimmon wilt kills trees in the South.**
+- *Cephalosporium diospyri* wilt "kills many trees in central Tennessee
+  and the Southeastern States" [1]. Infected trees live 1-2 years after
+  wilting [1][2].
+- **Spread and control:** infection needs a wound, mostly from the twig
+  girdler and powderpost beetle [1]. There are no resistant trees [1].
+  Burn diseased trees and seal wounds [1][2].
+- **Kentucky:** the disease has not been found there [3].
+- Otherwise "a number of insects attack persimmon but normally do no
+  serious harm" [1].
 
-**Finding 6 — a crop with deep indigenous and folk-food traditions
-distinct from the Asian persimmon's own uses.** Early indigenous
-peoples of the species' native range dried the fruit on mats for
-winter storage, and dried fruit was historically incorporated into
-bread and puddings; dried fruit has also historically been fermented
-with hops, cornmeal or wheat bran into a traditional beer, referenced
-in at least one historical plantation-era Christmas song. Documented
-further traditional uses include brandy, molasses and candy-making;
-roasted, ground seed as a coffee substitute; use of the hard seed coat
-historically as an improvised button material during a wartime material
-shortage; leaf tea; an indelible ink made from the fruit; and folk-
-medicine use of the bark and unripe fruit. The wood is notably heavy,
-hard and close-grained, historically valued for golf club heads,
-textile shuttles, plane bodies, shoe lasts and turned items, though the
-dark, ebony-like heartwood prized for some of these uses takes roughly
-a century to form. The fruit is also an important wildlife food,
-eaten by numerous bird and mammal species [1][2][4][7].
-
-**Finding 7 — simultaneously a drought-tolerant crop and a documented
-pasture and old-field weed.** The species is repeatedly described as
-well adapted to high sunlight and low water supply, and mature trees
-on this species' own deep taproot are considered highly drought
-tolerant, though the same university crop-profile source urges some
-caution and recommends avoiding genuinely droughty soils in a managed
-planting. At the other extreme, this species also grows naturally on
-wet flats, sloughs and swamp margins, and is classified under a
-standard wetland-indicator system as a facultative wetland species;
-however, prolonged flooding or submergence during the growing season
-can kill young trees specifically, even though established adult trees
-tolerate occasional wet sites well. Separately and significantly, this
-species is a documented weed of unimproved pasture land: it spreads via
-thickets of root suckers and root-collar sprouts, including regrowth
-after fire or cutting, and is managed (imperfectly) with herbicide or
-fire, since it readily re-sprouts after either [2][3][4].
+**Finding 6 — a pasture weed that resprouts after fire and herbicide.**
+- "Often considered noxious in pastures and fields"; root-sucker thickets
+  [1]. A weed on abandoned fields because it "fails to reach commercial
+  size" [4].
+- **Fire:** sprouts vigorously from roots and root crown after fire or
+  cutting [2][4]. One Oklahoma summer burn raised stems from 542 to 750
+  per ha; a late-winter burn raised them from 17 to 583 [4].
+- **Herbicide:** easily defoliated, but resprouts from stem and roots [1].
+  Herbicide treatment works best in May, when leaves are fully expanded
+  [1][4].
+- **Invasiveness:** FEIS classes it "Noninvasive" (native) [4];
+  introduced into Europe [1].
 
 ## Agronomic data
 
-- **Life form / season:** Deciduous perennial tree, typically 9-18
-  meters (up to 21-24 meters on the best sites), though shrubby
-  (roughly 4.6-6.1 meters) on dry, poor old-field sites; slow-growing,
-  with a deep taproot that makes larger wild or seedling trees difficult
-  to transplant [2][4].
-- **Harvest pattern:** Perennial bearing; soft-ripe fruit is picked in
-  several rounds over an extended season, or knocked onto tarps and
-  gathered by hand, from September into winter [2][3][8].
-- **Climate:** Cool-temperate through warm-temperate and subtropical
-  climates, including a distinct Florida variety; the species favors
-  humid climates generally, with documented best commercial development
-  under substantial annual and growing-season rainfall [2][8][9].
-- **Food status:** Raw-edible once soft-ripe; unripe fruit is extremely
-  astringent and not edible in that state [2][3].
-- **Pollination:** Varies by chromosome race — most northern
-  (hexaploid) named cultivars are parthenocarpic and do not require
-  pollination, while southern (tetraploid) cultivars and most wild
-  trees do require pollination, with a pollinizer tree needed for every
-  twenty-three or more female trees of the matching race. Pollinators
-  include insects and wind, and the species is also a significant
-  honey-bee forage source [1][2][4].
-- **Yield:** No national or world yield statistic exists for this
-  largely wild and niche crop; a documented university extension
-  orchard-economics budget gives a managed-orchard saleable-yield
-  figure used here as a world-average-equivalent benchmark, with "good"
-  derived from the same source's per-tree yield figures at standard
-  planting density, and "exceptional" and "poor" estimated around that
-  benchmark to allow for closer spacing or heavy-cropping cultivars on
-  one end and wild, alternate-bearing, partly-male seedling stands on
-  the other.
-- **Water use:** No dedicated reference crop coefficient exists for
-  this species in the standard international crop-evapotranspiration
-  reference; a closely analogous stone-fruit crop-coefficient curve is
-  used here as the basis, as for the related Asian persimmon, though
-  this species' deep taproot and drought-adapted habit suggest its
-  actual water use may run somewhat lower than the analogy implies.
-- **Establishment:** Grafted nursery trees, one- to two-year-old
-  seedlings, or root cuttings with sealed ends, planted in moist, deep
-  soil to accommodate the taproot; seed is sown after cold
-  stratification. Documented commercial spacing is roughly 198 trees
-  per hectare [2][3].
-- **Labor:** A documented university extension orchard-economics budget
-  gives roughly 60 hours per acre for general production tasks, 150-250
-  hours per acre for harvest, and 60 hours per acre for packing and
-  grading; a separate grower-reported fruit-gathering rate, converted
-  to a per-hectare basis, implies a notably higher harvest-labor figure,
-  an unresolved conflict addressed in Finding 4.
-- **Soil:** Thrives on almost any soil type, from dry sterile sands to
-  river-bottom and rocky-hillside sites, though it performs best on
-  moist, well-drained loams; it tolerates hot, dry, poor and urban
-  soils well and responds well to fertilizer application. Estimated
-  optimal pH around 6.0 (range roughly 4.5-7.5), reflecting its common
-  occurrence on naturally acidic soil types [2][3].
-- **Stand life:** Grafted trees bear from around year three; seedling
-  trees take four to nine years, with wild trees sometimes not bearing
-  until year ten; full production can take up to ten years in managed
-  settings, while wild trees reach their documented optimum bearing age
-  at twenty-five to fifty years. Trees can live to roughly 150 years,
-  and good crops tend to occur roughly every second year (an alternate-
-  bearing pattern) [2][3][4].
-- **Disease/pest profile:** A fungal wilt disease (serious, wound-borne,
-  no known resistant cultivars); a persimmon-specific wood-boring
-  insect; a webworm; a large hawkmoth caterpillar; a bagworm; a psyllid;
-  an ambrosia beetle; fungal leaf spot and anthracnose diseases [2][3][4][8].
-- **Cultivars:** Named hexaploid cultivars include a widely sold,
-  heavy-cropping type that served as the female parent of many
-  20th-century cultivars and shows few of the dark flecks that
-  otherwise mar processed pulp; a cold-hardy, early-ripening,
-  self-fertile type that gives seedless fruit without a pollinizer; and
-  the only reliably self-fertile selection documented, which is never
-  seedless and is suited to cool summers, though it loses astringency
-  unusually slowly. Several further hexaploid cultivars are specifically
-  noted for having few or no dark flecks, making them preferred for
-  processed pulp. Named tetraploid cultivars include at least one
-  seedless type and several others documented only by name. Documented
-  interspecific hybrids with the Asian persimmon include types noted
-  for extreme cold-hardiness, intermediate hardiness and fruit size, and
-  one Eastern European breeding-program release.
+- **Life form / season:** deciduous tree, normally 9-18 m, to 21-24 m on
+  the best sites; 4.6-6.1 m shrubs on dry old fields [1]. 5-12(-21) m
+  [2]. Slow-growing, with a strong taproot [1].
+- **Harvest pattern:** one crop a year, ripening September to November;
+  fruit falls from September to late winter [1]. 'Prok' ripens August to
+  October [12]; 'Early Golden' mid-September, 'John Rick' early October
+  (southern Indiana) [7].
+- **Days/years to first bearing:** grafted trees from year 3 (2-4 years
+  [6]); seedlings 4-9 years; full production up to 10 years [3]. Wild
+  trees bear best at 25-50 years, sometimes from year 10 [1][2].
+- **Climate zones:** zones 4-9 [8]; Finding 1. Chill: Not sourced. Best on
+  elevated sites in Kentucky for a longer freeze-free season [3].
+- **Composition (snippets, USDA "Persimmons, native, raw", FDC 169943)
+  [11]:** 127 kcal per 100 g; vitamin C about 66 mg per 100 g (see
+  Estimates). Seeds and fruits are low in crude protein, fat and calcium
+  but high in nitrogen-free extract and tannin [1][4].
+- **Edibility:** ripe fruit raw, cooked or dried [4]; the silvics chapter
+  says unripe pulp is "very astringent" [1]. Penn State: "The seeds and
+  skin can be consumed" [6].
+- **Pollination:** Finding 2 [1][3][7][8]. Flowers are a honey source
+  [1][2].
+- **Photoperiod sensitivity:** Not sourced.
+- **Yield:**
+  - **Kentucky budget:** 2 tons/acre (4.5 t/ha) saleable after year 4 [3].
+  - **Per tree:** 41-45 kg [3]; at 80 trees/acre this would be 3.6-4.0
+    short tons/acre, 8.1-9.0 t/ha (see Estimates).
+  - **Seed:** 45 kg of fruit yields 4.5-13.6 kg of clean seed, at 2,640
+    seeds per kg [1].
+  - **Biennial:** good crops about every 2 years [1][2]; thin half the
+    fruit within a month of bloom in the "on" year [7].
+- **Water use:** Not sourced as figures. "Well adapted to an environment
+  of high insolation and low water supply" [1]. Mature trees are
+  "somewhat drought-tolerant", but droughty soils should be avoided [3].
+  Water newly planted trees; established trees need water only in drought
+  [6]. FAO-56 has no row (checked with the Asian persimmon).
+- **Propagation:**
+  - **Seed:** stratify 2-3 months at 1-4 °C, soak 2-3 days and sow 13 mm
+    deep [1]. Purdue gives 60-90 days at 50 °F (10 °C) or fall sowing [7];
+    FEIS gives 365 days at 5-10 °C and about 80% germination [4].
+    Viability is lost to heat, cold or drying [1].
+  - **Vegetative:** root cuttings 15-20 cm × 8 mm with sealed ends [1][4].
+  - **Grafting:** chip budding, cleft or whip grafting; top-working wild
+    suckers is a quick route to cultivars [1].
+  - **Nursery:** stock 15 cm apart, root-pruned yearly; transplant 1-2
+    year stock into moist deep soil [1].
+  - **Clean stock:** Not sourced.
+- **Labor:** Finding 4 [3]. Little pruning once bearing [3]; prune to
+  limit height [8].
+- **Soil:**
+  - **Range:** "very dry, sterile, sandy woodlands to river bottoms to
+    rocky hillsides"; mostly Alfisols, Ultisols, Entisols, Inceptisols
+    [1].
+  - **Best:** river terraces with clays and heavy loams [2][4]; moist,
+    well-drained loams for fruit [3]. Avoid waterlogged and droughty soils
+    [3].
+  - **pH:** "slightly acidic" [6]; figures Not sourced.
+  - **Salinity:** FAO rates it sensitive (S), with no threshold [5].
+  - **Nutrients:** "responds well to fertilizer" [1]; fertiliser usually
+    unnecessary in home gardens [7]. Rates: Not sourced.
+- **Storage (postharvest):** just above freezing for about 2-3 weeks [3];
+  ripe fruit up to 3 days in a refrigerator; pulp frozen up to a year
+  [6]. Fruit hangs on the tree into winter, "unaffected by freezing
+  temperatures" [3].
+- **Establishment:**
+  - **Spacing:** 20 ft × 27 ft (6.1 × 8.2 m), 80 trees/acre (198/ha) [3];
+    20 × 20 ft in home plantings [7].
+  - **Training:** modified central leader [3].
+  - **Transplanting:** difficult because of the taproot [1][3].
+  - **Planting life:** 50-75 years [8]; trees reach 150 years [2].
+- **Cultivars:**
+  - **Few black flecks (better pulp):** 'Prok', 'Killen', 'Claypool',
+    'I-115', 'Dollywood', '100-42', '100-43', '100-45', 'Early Golden',
+    'John Rick', 'C-100' [3].
+  - **Cold-hardy:** 'Prok' (northern edge) [12]; 'Meader' (−25 °F, cool
+    summers, slow to lose astringency) [8]; 'Yates' (cold- and
+    heat-tolerant) [6].
+  - **Indiana:** 'Early Golden', 'John Rick', 'Woolbright', 'Miller',
+    'Killen', 'Ennis' (seedless) [7].
+  - **Hybrids with kaki:** 'Kasandra' (hardy in Kentucky) [3], 'Russian
+    Beauty' [8]. Hybrids with *D. kaki* and *D. lotus* have been reported
+    [1].
+- **Weather response:**
+  - **Late freeze:** Finding 1 [1][8].
+  - **Flooding:** prolonged flooding or submergence in the growing season
+    kills young trees [1].
+  - **Shade:** very shade-tolerant [1].
+  - **Fire:** Finding 6 [2][4].
+- **Water regime:** upland; tolerates wet flats, sloughs and swamp
+  margins in the Mississippi Delta [2][4]. No flooded regime.
+- **Harvest stages / windows:** soft-ripe fruit; for fresh sale pick by
+  hand, keeping the cap [3]. Ripe fruit may be yellow, orange, reddish or
+  blue [3].
+- **Soil biology:** moderately susceptible to cotton root rot (Texas) [9].
+  Replant: Not sourced.
+- **Invasiveness / biosecurity:** native; a pasture weed (Finding 6)
+  [1][4].
+- **Controlled environment:** Not sourced; the taproot makes container
+  growing hard [6].
+- **Rootstock use:** the best rootstock for Asian persimmon in Texas [9].
+  It tolerates wet soil and drought, is cold-hardy and graft compatible,
+  but suckers and is less uniform [10].
 
 ## Hazards
 
-Documented pests and diseases include a fungal wilt disease (serious,
-wound-borne, with no known resistant cultivars), a persimmon-specific
-wood-boring insect, a webworm, a large hawkmoth caterpillar, a
-bagworm, a psyllid, an ambrosia beetle, and fungal leaf spot and
-anthracnose diseases. This species is also a documented pasture and
-old-field weed, spreading via root-sucker and root-collar-sprout
-thickets that re-sprout readily after herbicide or fire treatment.
+- **Horses (snippets):** fruit tannins can form gastric phytobezoars in
+  horses, causing colic, weight loss, ulceration and sometimes
+  perforation. A review of 13 equids (2001-2008) found most presented in
+  fall or early winter [13].
+- **Other livestock:** hogs relish the fruit, but it "may, however, cause
+  sickness in livestock" [1][4].
+- **Pests:**
+  - **Borers:** *Agrilus fuscipennis*; the persimmon borer (*Sannina
+    uroceriformis*), which damages young trees and nursery stock [1].
+  - **Defoliators:** webworm (*Seiarctica echo*) and hickory horned devil
+    (*Citheronia regalis*) can severely damage young plants [1].
+  - **Others:** twig girdler (*Oncideres cingulata*), false powderpost
+    beetle [1]; psyllid, bagworm and ambrosia beetle [3].
+  - **Wildlife:** songbirds, raccoons, opossums, squirrels and deer eat the
+    fruit [3].
+- **Diseases:** persimmon wilt (Finding 5) [1]; leaf spot [3]; anthracnose
+  [8].
+- **Ergot / mycotoxin:** none reported this pass.
 
-**TO BE ADDRESSED** — unripe fruit is extremely astringent and a
-documented cause of a specific type of stomach bezoar, as in the
-related Asian persimmon. Fruit and seeds of this species are also
-documented to cause colic and gastrointestinal obstruction in horses,
-and fruit consumption is separately noted as potentially causing
-sickness in hogs and cattle. Deferred until this project has a place
-for this kind of health/safety data.
+**TO BE ADDRESSED** — equine phytobezoars, and human bezoars (as for the
+Asian persimmon), are deferred until this project has a place for
+health-and-safety data.
 
 ## Uses and processing
 
-- **Chains:** soft fruit has its calyx removed and is passed through a
-  food mill into pulp (commonly frozen for storage) and separated seed
-  (yielding roughly 0.1-0.3 kg of clean seed per kg of fruit); seed is
-  cold-stratified and sown into seedlings, which are either grafted
-  with named cultivar wood or grown on ungrafted; seed is also roasted
-  and ground into a coffee substitute; ripe fruit is dried on mats into
-  a traditional dried product, which is in turn fermented with hops,
-  cornmeal or wheat bran into a traditional beer; leaves are used for
-  tea.
-- Not covered by this research in detail: wood harvesting and timber
-  use (golf club heads, textile shuttles, and other turned goods);
-  brandy, molasses and candy production; indelible ink and folk-
-  medicine preparations; honey production; and the wild form of this
-  species as a distinct foraged resource.
-
-As with the related Asian persimmon, Jewish religious law treats this
-species' fruit under the same first-three-years fruit prohibition
-applied to fruit trees generally, counted from the date of planting.
-Beyond that, no ritual or religious use specific to this species was
-found; its indigenous and colonial-era food traditions are culinary
-rather than ceremonial, and its documented association with a
-traditional Christmas-season fermented beverage is a secular folk
-custom rather than a religious one.
+- **Chain 1 (fresh):** hand-picked with the cap → stored just above 0 °C
+  for 2-3 weeks [3].
+- **Chain 2 (pulp):** soft fruit → calyx removed → food mill or colander
+  separates pulp from skin and seeds → used fresh or frozen up to a year
+  [3][6]. Products: pudding, cookies, cakes, custard, ice cream, sherbet,
+  preserves [2][3].
+- **Chain 3 (dried):** fruit dried [3]; dried fruit added to baked goods,
+  or fermented with hops, cornmeal or wheat bran into a beer [1].
+- **Chain 4 (seed):** dried, roasted, ground seed as a coffee substitute
+  [1][2]; cleaned seed is stratified for rootstocks (Propagation).
+- **Non-food:** hard, close-grained wood (specific gravity 0.79) for
+  turnery, plane stocks, shoe lasts, shuttles and golf club heads [1][2];
+  indelible ink from the fruit; inner bark and unripe fruit in folk
+  medicine [1]; honey [1][2]; erosion control [1][2].
 
 ## Open research questions
 
-- Chill-hour requirement for this species has no reliably sourced
-  figure; commercial nursery sources suggest roughly 100-200 hours,
-  while this project's own prior internal research record had used an
-  unsourced, considerably higher figure — the discrepancy is not
-  resolved here.
-- The frost-and-astringency relationship described in Finding 3 remains
-  a genuine, unresolved conflict between classic reference sources and
-  at least one more recent university extension source.
-- Drought tolerance is described as uniformly high in some sources but
-  with notable caution in at least one university extension source,
-  and documented harvest-labor figures conflict by roughly a factor of
-  two between a budget source and a grower-reported gathering rate
-  (Finding 4) — both left open here rather than artificially resolved.
-- Hardiness-zone range is reported somewhat inconsistently across
-  nursery and extension sources (zone 4 through 9, with some sources
-  suggesting a narrower range).
-- Detailed pulp yield per kilogram of fresh fruit, dried-fruit weight
-  ratio, seed storage life, and salinity tolerance were not researched
-  in depth.
-- Soil nutrient uptake and pH tolerance figures are carried over by
-  analogy from the related Asian persimmon rather than measured
-  directly for this species.
+- **Frost and astringency:** the silvics chapter [1] vs. the Kentucky and
+  Purdue extension pages [3][7].
+- **Stratification:** 2-3 months at 1-4 °C [1], 60-90 days at 10 °C [7],
+  or 365 days at 5-10 °C [4].
+- **Harvest labour:** 150-250 h/acre [3] vs. about 400 h/acre implied by
+  the grower rate (see Estimates).
+- **Yield:** 2 tons/acre budget vs. 3.6-4.0 tons/acre from per-tree figures
+  [3].
+- **Ploidy by cultivar:** which named cultivars are 60- vs.
+  90-chromosome (the encyclopedia list was dropped).
+- **Not sourced:** chill, photoperiod, pH figures, water use, nutrient
+  rates, clean stock, replant, controlled environment, full composition.
+- **Works identified, not yet read:**
+  - Reich (2004), *Uncommon Fruits for Every Garden* or a similar
+    horticultural text on American persimmon cultivars and ploidy;
+  - ATTRA (2010), *Persimmons, Asian and American*;
+  - Washington State University, *Persimmons: An Over-View of Cultivars,
+    Production, Harvesting, and Marketing* (57 pp);
+  - USDA FoodData Central 169943 (API rate-limited this pass);
+  - Banse et al., the equine persimmon impaction case series.
 
 ## Estimates and derivations
 
-Growing-season length (roughly 120-200 days from bloom to ripe fruit)
-is derived from documented bloom timing (spring, where the species
-grows best) through to documented ripening timing (September through
-November across most of the range, with at least one cold-hardy
-cultivar ripening as early as August in a warmer growing region).
+**Yield to t/ha** [3]: 2 short tons/acre × 2.2417 = 4.5 t/ha. Per tree:
+90-100 lb × 0.4536 = 41-45 kg × 80 trees = 3.3-3.6 t/acre, i.e. 3.6-4.0
+short tons/acre = 8.1-9.0 t/ha. That is about twice the budget's saleable
+figure, consistent with culls and with not every tree reaching the
+maximum.
 
-Yield tiers are derived primarily from the one detailed university
-extension orchard-economics source available: the world-average-
-equivalent tier is taken directly from that source's documented
-saleable-yield figure for a managed orchard (since no true national or
-world statistic exists for this still largely wild and niche crop), the
-"good" tier is derived from the same source's per-tree yield figure at
-standard planting density, and "exceptional" and "poor" tiers are
-estimated around that benchmark — "exceptional" allowing for closer
-spacing or heavier-cropping cultivars, "poor" reflecting wild or
-seedling stands with roughly half-male trees, small seedy fruit, and
-alternate bearing.
+**Tree density** [3]: 80 ÷ 0.404686 = 198 trees/ha.
 
-A seasonal water-use index is derived from a closely analogous
-stone-fruit crop-coefficient curve (the closest match in the standard
-international crop-evapotranspiration reference, since this species has
-no dedicated entry there), integrated across an estimated growing
-season and combined with a deep rooting-depth assumption reflecting the
-species' well-documented deep taproot; the associated drought-buffer
-estimate is accordingly longer than for many other tree-fruit crops.
+**Harvest labour from the grower rate** [3]: 4,000 lb ÷ 20 lb per
+two-person hour = 200 two-person hours = 400 person-hours/acre (988/ha),
+before the sorting and washing step. The budget gives 150-250 h/acre.
 
-Labor-hour estimates by operation are derived directly from the
-documented university extension orchard-economics budget for most
-operations, with the harvest-labor estimate kept as an explicit,
-unresolved range reflecting the conflict between that budget's own
-figure and a converted grower-reported gathering rate (Finding 4).
+**Vitamin C** [11]: 16.5 mg per 25 g fruit × 4 = 66 mg/100 g (derived
+from a snippet; not read from the database).
 
-Soil nutrient uptake figures are carried over by direct analogy from
-the related Asian persimmon (itself an estimate), since no
-species-specific nutrient-removal study was found; pH tolerance range
-is estimated from the species' well-documented occurrence on
-naturally acidic soil types.
-
-A yield-ramp profile (time to first harvest, ramp to full bearing, peak
-daily yield) is derived from the documented years-to-bearing figures
-(year three for grafted trees, up to year ten for full production);
-peak daily yield is calculated by dividing the "good" yield tier by an
-estimated multi-week harvest window reflecting the extended,
-multiple-pass picking season; a long on-tree standing period and low
-decay rate reflect the species' documented tendency for ripe fruit to
-hang on the tree into winter largely unaffected by freezing.
+**Temperatures** [6][7][8]: −20 °F = −28.9 °C; −25 °F = −31.7 °C;
+−31.6 °F = −35.3 °C; 50 °F = 10 °C.
 
 ## Sources
 
-[1] A general reference encyclopedia article on this species. Supplied:
-common names, tree size, wood and heartwood characteristics, dioecy,
-insect and wind pollination, fruit description, the frost/bletting
-sweetening claim, parthenocarpic cultivars, bearing-age range, native
-range, historical indigenous cultivation, the two chromosome races and
-named tetraploid cultivars, named interspecific hybrids with the Asian
-persimmon, named cultivars generally, traditional uses (pie, pudding,
-molasses, candy, leaf tea, coffee substitute, beer, brandy, vitamin C
-content), wildlife use, and the wartime button-material use. Accessed
-2026-10-12, opened directly (summarized).
+[1] Halls, "Diospyros virginiana L. Common Persimmon," in Burns and
+Honkala (tech. coords.), *Silvics of North America*, Vol. 2, *Hardwoods*,
+USDA Forest Service Agriculture Handbook 654 (1990). Supplied:
+- native range and habitat; climate; soils; flowering, sexes and fruit;
+- bearing age, biennial crops, seed yield and count; stratification and
+  sowing; flooding;
+- root cuttings, grafting, nursery practice; sprouting and thickets;
+- growth, height, shade tolerance; insects and persimmon wilt;
+- pasture weed status and herbicide control; wood and other uses;
+- frost and astringency; pollinizer ratio; livestock; varieties and
+  hybrids.
 
-[2] A classic US federal forestry reference work's chapter on this
-species, part of a standard North American silvics compendium.
-Supplied: native range and habitat; climate and rainfall tolerance;
-soil adaptability; flowering timing, dioecy, and the documented
-pollinizer-ratio guideline; fruit description, ripening and fall;
-bearing-age range and alternate bearing; seed yield per unit fruit
-weight and seed count per unit weight; germination and stratification
-requirements; seed viability; sowing method; flooding effects on young
-trees; root-cutting and grafting propagation; sprouting and thicket
-formation; tree size and growth rate; shade tolerance; named varieties;
-pests and the fungal wilt disease; herbicide control; wood properties
-and traditional uses; traditional beverage, coffee-substitute, ink and
-folk-medicine uses; honey production; wildlife and livestock interaction;
-and its status as a pasture weed. Accessed 2026-10-12, opened directly.
+Accessed 2026-11-23, opened directly (PDF).
 
-[3] A university center-for-crop-diversification extension crop-profile
-publication on this species. Supplied: fruit size; marketing and
-product notes, including frozen pulp; dark-fleck variation and
-preferred cultivars for processed pulp; dioecy and the two chromosome
-races; parthenocarpy; site and soil guidance; propagation and
-stratification duration; planting spacing; pruning guidance; pest
-notes; bearing-age figures; hand-harvest method with calyx attached;
-documented per-tree yield; the frost-versus-long-ripening astringency
-position; fruit persistence into winter; storage duration; ethylene and
-freezing treatment for astringency removal; documented labor-hour
-figures by operation; grower-reported gathering rates; and a documented
-per-acre saleable-yield figure. Accessed 2026-10-12, PDF extracted.
+[2] USDA NRCS, *Plant Guide: Common Persimmon* (*Diospyros virginiana*).
+Supplied: alternate names, uses, description, varieties, distribution,
+adaptation, bearing age, lifespan, fire and sprouting, defoliators and
+wilt. Accessed 2026-11-23, opened directly (PDF).
 
-[4] A federal plant-conservation agency plant guide for this species.
-Supplied: taproot and erosion-control characteristics; wood uses; folk-
-medicine, food, coffee-substitute, and honey uses; wildlife use;
-physical description; named varieties; distribution; habitat
-adaptability (wet flats, sloughs, swamp margins; old fields; thicket
-formation from root suckers); bearing-age figures and alternate
-bearing; documented lifespan; fire response and sprouting; and pest
-notes including the fungal wilt disease. Accessed 2026-10-12, PDF
-extracted.
+[3] Kaiser and Ernst, *American Persimmon*, CCD-CP-001, Center for Crop
+Diversification, University of Kentucky (2017). Supplied:
+- marketing and products; low-fleck cultivars; chromosome races and
+  parthenocarpy;
+- site and soil; propagation, spacing and training;
+- pests and wilt status; bearing age; harvest; per-tree yield;
+- frost and ripening; storage; astringency removal;
+- labour hours and the grower's gathering rate; costs and saleable
+  yield.
 
-[5] This project's own prior internal crop research record for this
-species, re-checked and substantially re-sourced in this pass against
-the primary sources listed here; several of its values (including an
-unsourced chill-hour figure and unsourced yield tiers) are corrected or
-flagged as unresolved in this pass. Accessed 2026-10-12.
+Accessed 2026-11-23, opened directly (PDF).
 
-[6] Search-snippet-level material on pulp processing and freezing,
-including a university botany-department informational page, a
-homesteading-lifestyle website, and a fruit-growing discussion forum.
-Supplied: food-mill processing method; frozen-pulp storage duration and
-practice; cultivar-dependent pulp smoothness; and flavor-change notes
-on frozen pulp. Accessed 2026-10-12, search snippets only.
+[4] Coladonato, "Diospyros virginiana," Fire Effects Information System,
+USDA Forest Service (1992, as currently served). Supplied: varieties,
+distribution, sites, invasiveness status, regeneration, fire response and
+Oklahoma stem densities, wildlife and livestock, stratification and
+germination, weed status, herbicide, damaging agents. Accessed 2026-11-23,
+opened directly.
 
-[7] Search-snippet-level material on indigenous and colonial-era uses,
-including a small liberal-arts college's plant information pages, a
-university library exhibit, an arboretum plant profile, a Native
-American news outlet feature, and a homesteading-and-foraging blog.
-Supplied: historical indigenous drying practice and terminology;
-historical colonial-era description; traditional bread and pudding
-uses; a specific indigenous community's traditional beverage; a
-historical folk song referencing a traditional Christmas-season
-beverage; and historical period description generally. Accessed
-2026-10-12, search snippets only; secondary sources with some
-conflicting dates.
+[5] Tanji and Kielen, *Agricultural Drainage Water Management in Arid and
+Semi-Arid Areas*, FAO Irrigation and Drainage Paper 61 (2002), Annex 1,
+Table A1.2. Supplied: the sensitive rating. Accessed 2026-11-23, opened
+directly.
 
-[8] A university agricultural-research-center informational page
-documenting observations from a working farm's trial planting of this
-species. Supplied: hardiness-zone range; one cultivar's specific cold-
-tolerance figure; a documented extreme cold-survival event; long
-dormancy duration; late bloom timing and its frost-avoidance benefit in
-one documented year; years-to-bearing figures; self-fertility of one
-named cultivar; variable sex expression; one named interspecific hybrid
-cultivar; hand-harvest-only practice; uneven ripening; fruit softness;
-pruning practice for harvest-height management; and anthracnose disease
-notes. Accessed 2026-10-12, opened directly (summarized).
+[6] Penn State Extension, "Native Persimmon in the Garden and the Kitchen"
+(updated 2025). Supplied: zone and cold tolerance, soil, size, watering,
+bearing age, cultivars ('Prok', 'Yates', 'Elmo'), ripening and frost,
+storage, pulp freezing, edibility of seeds and skin. Accessed 2026-11-23,
+opened directly.
 
-[9] Search-snippet-level material on hardiness, chill requirement and
-cultivars, including a university extension plant-toolbox entry, a
-plant-database website, a gardening-advice website, two commercial
-nursery websites, a fruit-growing discussion forum, and a university
-extension regional note. Supplied: one cultivar's cold-hardiness and
-early-ripening characteristics; hardiness-zone ranges from multiple
-sources; chill-hour figures from nursery sources; one cultivar's
-documented heavy per-tree yield claim; forum discussion of relative
-cultivar earliness; and a note on northern-origin cultivars receiving
-insufficient winter chill in subtropical growing conditions. Accessed
-2026-10-12, search snippets only; mostly nursery and forum sources.
+[7] Hayden, *Persimmons*, Purdue University Extension HO-108-W. Supplied:
+cold hardiness, size, flowers, the frost statement, seeds, dioecy and
+rare self-pollination, propagation and seed stratification, spacing,
+fertiliser, biennial bearing and thinning, Indiana cultivars. Accessed
+2026-11-23, opened directly.
 
-[10] Search-snippet-level material on nutrition composition, including
-a standard US federal nutrient-database entry (via a nutrition-
-information aggregator and an agricultural-extension PDF report).
-Supplied: energy, protein and vitamin C content per standard serving.
-Accessed 2026-10-12, search snippets only.
+[8] University of Wisconsin CIAS, *Uncommon Fruit*, "Persimmon" (Carandale
+Farm trial). Supplied: hardiness zones, years to harvest, planting life,
+no machine harvest, 'Meader' traits and its −31.6 °F survival, late
+dormancy and the 2012 freeze, variable sex expression, harvest
+difficulty, 'Russian Beauty', anthracnose. Accessed 2026-11-23, opened
+directly.
 
-[11] A standard international crop-evapotranspiration reference work.
-Supplied: no dedicated entry for this species; a closely analogous
-stone-fruit crop-coefficient curve, rooting depth, and soil-moisture-
-depletion allowance, used here as the basis for this species' own
-water-use estimate, as for the related Asian persimmon. Accessed
-2026-10-11, opened directly (archived page).
+[9] Stein, Nesbitt and Kamas, *Persimmons*, Texas A&M AgriLife Extension
+E-611. Supplied: rootstock use, root-rot susceptibility, the Texas
+persimmon's graft incompatibility. Accessed 2026-11-23, opened directly
+(PDF).
 
-[12] This project's own prior research on the closely related Asian
-persimmon entry, providing family-level comparison material and
-confirming this species' role as that crop's usual southern-US
-rootstock. Accessed 2026-10-12.
+[10] Sarkhosh, Huff and Andersen, *Japanese Persimmon Cultural Practices
+in Florida*, UF/IFAS HS1389 (2020), doi:10.32473/EDIS-hs1389-2020.
+Supplied: rootstock traits. Accessed 2026-11-23, opened directly (PDF).
 
-[13] Search-snippet-level material on Jewish religious law regarding a
-fruit tree's first three years of fruit, cited by this project's own
-prior research on a separately researched palm-fruit crop. Accessed
-2026-10-10, search snippets only.
-
-[14] Search-snippet-level material on habitat and wetland-indicator
-status, including a university extension plant-profile page and a
-university plant-database entry. Supplied: a standard wetland-
-indicator classification for this species. Accessed 2026-10-12, search
+[11] Composition snippets: nutrient-aggregator pages reproducing USDA SR
+09265 / FDC 169943 "Persimmons, native, raw". Accessed 2026-11-23, search
 snippets only.
+
+[12] NC State Extension Plant Toolbox, *Diospyros virginiana* 'Prok'.
+Supplied: cold hardiness, early ripening, seedless fruit without a male.
+Accessed 2026-11-23, search snippets only.
+
+[13] Equine sources, snippets only: Cummings et al. (1997), *J. Vet.
+Diagn. Invest.* (PubMed 9249173); a 2000 *JAVMA* case report; Banse et
+al., AAEP 2009 retrospective via *The Horse*; eXtension Horses
+"Are persimmons potentially harmful to horses?". Accessed 2026-11-23.
