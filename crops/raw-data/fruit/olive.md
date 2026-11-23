@@ -1,7 +1,33 @@
 # Olive (*Olea europaea*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/olive.md`
-**Researched:** 2026-10-11
+**Researched:** 2026-10-11 (re-researched 2026-11-23 against the full
+current checklist in `skills/crop-research/SKILL.md` and
+`templates/research-doc.md`.
+- **Re-opened:** the FAO crop-yield-response-to-water olive chapter, the
+  USDA storage handbook chapter, the UC sample-costs study for
+  super-high-density oil olives, the FAO-56 crop-coefficient tables and
+  the FAO salt-tolerance table.
+- **Added:** the UC Davis postharvest guidelines, a UC master food
+  preserver curing guide, FAOSTAT area figures via FranceAgriMer, IOC
+  market data for 2022/23-2024/25, the *Weeds of Australia* olive fact
+  sheet, a 2024 review of *Xylella fastidiosa* in Apulia, and
+  snippet-level material on self-incompatibility, winter flower
+  induction and frost thresholds.
+- **Dropped,** because the source could not be re-found or re-opened:
+  the general-encyclopedia claims (area by country, 11.6 Mha, 58
+  countries, oil per tree, curing times, cured-olive nutrition,
+  polyphenol content, pollen allergen rating, pit fuel), the Tunisian
+  alternate-bearing figures (57%/61%), the propagation-by-cuttings
+  snippets, the milling-delay snippets (24 h/12 h), the two-phase versus
+  three-phase mass balance and malaxation temperature, the feed-database
+  byproduct figures, the acrylamide abstract, the harvest-method rate
+  snippets, the religious-practice snippets (Temple oil, Catholic holy
+  oils, Quranic verses, first-fruit law), the "1 million versus 21
+  million trees" Xylella press figures, the internal classification
+  record, and the estimated photosynthesis, labour and nutrient-removal
+  derivations built on them. Each is either replaced below or listed as
+  a request.)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -10,463 +36,449 @@ licensed under this project's MIT license (see repository `LICENSE`).
 
 ## Naming and scope
 
-Modeled as the single cultivated species *Olea europaea* subsp.
-*europaea* (Oleaceae), an evergreen tree grown mainly between 30° and
-45° latitude in both hemispheres [2]. Oil and table cultivars are
-treated as cultivar groups rather than separate crop entries, and
-green, turning and black fruit are treated as harvest stages of the
-same crop rather than separate products, since this matches how the
-fruit is actually grown and marketed. About 90% of world production
-goes to oil and 10% to table olives by one source's figure, though
-another gives 80/20 — the two are not reconciled [1][2]. Hundreds of
-cultivars exist, spanning a wide range of self-compatibility [1][6].
-The wild ancestor (oleaster) is a separate, largely unmanaged form not
-covered in depth here.
+*Olea europaea* L. (Oleaceae), the cultivated olive, subsp. *europaea*
+[1][3][9].
+- **Range:** an evergreen tree grown mainly between 30° and 45° latitude
+  in both hemispheres [1]; native to the eastern Mediterranean [3], or
+  more broadly to southern Europe, northern Africa and western Asia [9].
+- **Fruit:** a drupe like cherry and other stone fruit; the mesocarp is
+  eaten or pressed for oil [3].
+- **Scope:** one cropID covering oil and table cultivars, and green,
+  turning and black fruit as harvest stages of the same crop [3][4].
+- **Out of scope:** African olive (subsp. *cuspidata*), a separate weedy
+  subspecies [9]; the wild oleaster.
+- **Gate check (2026-10-11, re-confirmed 2026-11-23): passes.** No other
+  row in this project grows *Olea*.
 
-Olive shares long-lived, Mediterranean-to-arid perennial tree biology
-and multi-stage fruit products with date palm, and shares its oil-
-bearing-fruit processing pattern (the same crushing/extraction step
-used for the fruit's oil) with avocado — both closely related crops
-this project has also researched.
+**Relatives in this project:** none (no other Oleaceae crop row).
+
+**Proposed:** none.
 
 ## Research findings
 
-**Finding 1 — the crop is sensitive to waterlogging, not tolerant of
-it, contrary to what an earlier internal record for this project
-claimed.** A standard crop-water-use reference states plainly that
-olive trees are sensitive to waterlogging and to temperatures below
-−10°C, and specifically recommends irrigating poorly drained or
-clayey soils only once or twice a week, to avoid prolonged root
-exposure to wet soil; irrigation of such soils is also noted to raise
-the risk of Verticillium wilt in young orchards [2]. This directly
-contradicts an earlier internal classification of the crop as
-extremely waterlogging-tolerant, which this research corrects. By
-contrast, the crop's extreme drought tolerance is well supported:
-trees survive leaf water potentials of −7 to −8 MPa and rehydrate
-within a week of rain, and sparse traditional plantings survive on as
-little as 150-200 mm of annual rainfall [2].
+**Finding 1 — sensitive to waterlogging, extremely drought-resistant.**
+- **Waterlogging:** "Olive trees are sensitive to waterlogging and
+  temperatures below −10 °C" [1]. In poorly drained or clayey soils,
+  irrigate only once or twice a week to avoid long root exposure to wet
+  soil [1].
+- **Drought:** trees rehydrate within three days after reaching −4.0 MPa
+  leaf water potential, and within a week of rain after −8.0 MPa [1].
+  −7 to −8 MPa is "close to a survival state" [1].
+- **Rainfall:** trees survive sparse plantings on 150-200 mm a year, but
+  economic production needs much more; above about 600 mm, rainfed
+  production holds on soils with good water-holding capacity [1].
+- **Roots:** most absorbing roots in the top 1 m; 2-3 m or more in deep
+  alluvium; under 0.5 m on marginal soils [1].
 
-**Finding 2 — oil is the dominant product, and oil-bound fruit carries
-a hard same-day processing deadline.** Fruit holds roughly 10-25% oil
-by fresh weight at harvest, with one super-high-density production
-budget assuming 16-18% [2][5]. Fruit destined for oil must be milled
-within 24 hours of harvest, and some mills aim for within 12 hours,
-since stored fruit ferments and develops elevated acidity along with
-off-flavour defects [16]. Modern mills crush the fruit, knead the
-resulting paste (malaxation) at around 27°C, and separate oil from
-solids in a centrifugal decanter, using either a two-phase process
-(the dominant method in Spain, yielding mostly wet pomace and little
-wastewater) or a three-phase process (yielding a drier cake alongside
-a substantial volume of wastewater per tonne processed) [11][12].
+**Finding 2 — yield responds to water along a parabola.**
+- **Shape:** yield barely falls at small ETc cuts, then drops faster; the
+  curve is parabolic, so water productivity rises as ET falls [1].
+- **Córdoba:** over 700 mm of ETc is needed for maximum fruit yield; with
+  400 mm effective rain, at least 300 mm of irrigation [1].
+- **Small amounts pay:** farmers in southern and northeastern Spain
+  (350-500 mm rain) reach up to 30 kg/ha of fresh fruit per mm from
+  100-150 mm of irrigation on formerly rainfed groves [1]. In central
+  Italy, under 100 mm gave over 80% of fully irrigated yield [1].
+- **Table olives (California):** a 21% cut in applied water did not
+  change yield or revenue; at 62% of full applied water, yield fell 10%
+  and revenue 25% because fruit were smaller [1]. In the study table,
+  consumptive use fell from 881 mm (12.0 t/ha) to 546 mm (10.8 t/ha) [1].
+- **Deficit strategies:** regulated deficit irrigation supplies 30-70% of
+  full need; 50 mm raises yield significantly in subhumid climates,
+  about 100 mm in drier ones [1].
+- **Sensitive stages:** floral development to fruit set, initial rapid
+  fruit growth, and oil accumulation (mid-August to end of October in
+  the Northern Hemisphere) [1].
+- **Oil quality:** more water lowers phenolic compounds, so irrigated oils
+  are "usually less bitter and pungent" than rainfed ones [1].
 
-**Finding 3 — the crop survives severe drought but still responds
-strongly to irrigation.** A standard crop-water-use reference gives an
-olive crop coefficient (Kc) of about 0.65 early season, rising to 0.70
-at mid- and late-season under 40-60% ground cover; a separate FAO
-reference on olive specifically recommends monthly coefficients of
-roughly 0.45-0.75, lowest in midsummer when stomata partially close
-[2][4]. Yield responds to evapotranspiration (ET) along a parabolic
-curve: one well-studied Spanish growing region needs over 700 mm of
-seasonal ET for maximum yield, and converting formerly rainfed groves
-to even modest irrigation (100-150 mm/year) can raise fruit yield by
-up to roughly 30 kg/ha per additional millimetre of water. In a
-separate California table-olive study, yield held steady down to about
-79% of full water supply, but fell by about 10% in yield (and a larger
-share of revenue, through smaller fruit) at 62% of full supply.
-Regulated deficit irrigation strategies typically supply 30-70% of
-full water requirement, timed to avoid the crop's most sensitive
-stages: water deficits during flowering and fruit set, and again
-during oil accumulation later in the season, cost the most yield [2].
+**Finding 3 — three production systems.**
+- **Traditional:** 50-100 trees/ha, rainfed, heavily pruned, under 1 to
+  5 t/ha of fruit [1].
+- **Intensive:** 200-550 trees/ha, single trunk for shakers; irrigated
+  orchards start bearing in year 2-4 and average up to 10-15 t/ha [1].
+- **Super-high-density hedgerow:** 1,000-2,000 trees/ha, over-the-row
+  harvesters, irrigation needed; 5-15 t/ha in years 3-7 and 10-14 t/ha
+  over 10 years, with doubts about long-term sustainability and cultivar
+  fit; about 100,000 ha worldwide [1].
+- **UC 2016 super-high-density budget ('Arbequina', Sacramento
+  Valley):** 726 trees/acre at 5 × 12 ft; 25-year economic life;
+  economic crop in year 3 and full yield (5.0 tons/acre) from year 5; 18
+  acre-inches of drip water a year from year 3 under controlled deficit;
+  only 6.88 h/acre of the grower's own labour, with harvest ($350/acre)
+  and all pruning contracted [4]. That is about 11.2 t/ha, 1,794
+  trees/ha and 457 mm (see Estimates).
 
-**Finding 4 — flowering needs sustained winter chill, and cold
-tolerance has firm limits.** The crop needs at least 10 weeks below
-12°C for abundant flowering; without adequate chill, flower buds are
-scarce and uneven [2]. The full reproductive cycle runs 15-18 months,
-from flower-bud induction in the summer before flowering through to
-autumn harvest, and fewer than 2% of flowers ultimately set fruit [2].
-Cold tolerance is bounded fairly narrowly: leaf damage has been
-reported around −7°C in one regional study and review, with a separate
-extension source placing leaf and small-stem damage at about −8°C and
-severe damage at about −11°C; mature trees are generally injured below
-roughly −10°C, and cultivation becomes effectively impossible below
-about −12°C, varying somewhat by cultivar [1][2][9].
+**Finding 4 — flowering needs winter cold.**
+- **Chill:** "at least 10 weeks below 12 °C are usually needed for
+  abundant flowering"; without it, flower buds are scarce and uneven [1].
+- **Mechanism (snippet):** *FT* gene expression in leaves rises in winter;
+  trees given an artificial warm winter kept low *FT* and did not flower
+  [13]. No fixed chill quantity triggers all buds (snippet) [13].
+- **Cycle:** 15-18 months from flower-bud induction (previous summer) to
+  ripening; flowering in late spring, a month or two after many
+  deciduous trees; fruit set under 2% of flowers; pit hardening about two
+  months after set; oil accumulates from late summer [1].
+- **Oil content:** 10-25% of fresh weight at harvest [1]; 12-25% by
+  cultivar [3]; 16-18% assumed for 'Arbequina' [4].
 
-**Finding 5 — table olives require debittering, through several
-distinct curing methods.** Raw fruit is bitter and inedible due to
-oleuropein, a plant compound that must be removed or broken down
-before eating [1][15]. Documented curing styles include: a Spanish
-style using dilute lye on green fruit followed by washing and a lactic
-fermentation in brine (roughly one to seven months total); a
-California "black ripe" style using repeated lye treatment with
-forced air oxidation and a ferrous-gluconate colour fixative, followed
-by canning and heat sterilization; a Greek style using salt brine and
-yeast fermentation on fully ripe black fruit over six to twelve months;
-a dry-salt cure for small black olives using roughly a 1:2 salt-to-fruit
-ratio over five to six weeks; and a water-cured style for cracked
-green fruit, using daily water changes followed by a vinegar-salt
-finish [3][13][15]. California-style black ripe olives have been found
-to carry measurable acrylamide from their sterilization step. Because
-olives are a low-acid food, home canning of any cured style requires a
-pressure canner, not a simple water-bath method [15].
+**Finding 5 — fresh olives are chilling-sensitive and inedible.**
+- **Storage:** 5-7.5 °C, 90-95% RH. Below 5 °C causes chilling injury:
+  visible after more than 2 weeks at 0 °C, 5 weeks at 2 °C or 6 weeks at
+  3 °C [2][3]. Susceptibility runs 'Sevillano' > 'Ascolano' >
+  'Manzanillo' > 'Mission' [2][3].
+- **Symptoms:** tan-to-brown flesh by the pit, spreading until the fruit
+  looks "boiled" [2][3].
+- **Warm-side limit:** nailhead (surface pitting) after over 6 weeks at
+  10 °C or over 12 weeks at 7.5 °C [2][3].
+- **CA:** 2-3% O2 + 0-1% CO2 delays softening up to 12 weeks at 5 °C or 9
+  weeks at 7.5 °C; below 2% O2 gives off-flavours; above 5% CO2 for over
+  4 weeks causes internal browning and decay [2][3]. Black olives should
+  be processed at once, or held up to 4 weeks in 2% O2 at 5 °C [2][3].
+- **Edibility:** "Fresh olives are not edible" [3]; the bitter compound
+  is oleuropein, removed by curing [12].
 
-**Finding 6 — three distinct production systems carry very different
-yield and labour profiles.** Traditional rainfed groves, planted at
-low density (roughly 50-100 trees/ha), are hand- or pole-harvested onto
-nets and yield under 1 to about 5 t/ha. Intensive irrigated groves, at
-moderate density (roughly 200-550 trees/ha), are harvested with trunk
-shakers and average 10-15 t/ha. Super-high-density hedgerow systems, at
-very high density (roughly 1,000-2,000 trees/ha), are harvested with
-over-the-row mechanical harvesters and yield roughly 10-14 t/ha over a
-ten-year average; this system now covers roughly 100,000 ha worldwide,
-though its long-term sustainability has been questioned [2][5]. One
-detailed super-high-density production budget (Arbequina cultivar,
-California's Sacramento Valley) documents roughly 726 trees per acre,
-about 457 mm of water applied annually under controlled deficit
-irrigation, a mature yield of roughly 11.2 t/ha from year five onward,
-only about 7 hours per acre of the grower's own labour (with harvest
-and mechanical pruning contracted out), and an assumed 25-year economic
-life [5]. For table olives specifically, harvest alone accounts for
-roughly 50-70% of total production labour [3].
+**Finding 6 — *Xylella fastidiosa* is killing Apulia's groves.**
+- **Outbreak:** desiccation first noticed in October 2013 near Gallipoli
+  (Lecce), the EU's first field outbreak [11]. More than 8,000 km² is
+  infected, 40% of the region, and "millions of olive trees" have been
+  killed [11].
+- **Vector:** the meadow spittlebug *Philaenus spumarius* [11].
+- **Cultivars:** 'Leccino' and 'Favolosa' are partially resistant;
+  'Ogliarola salentina' and 'Cellina di Nardò' very susceptible [11].
+- **Oil:** Lecce province output fell 80%, to 3,979 tons in 2019-2020
+  [11]. Apulia averages roughly 315,000 tons of oil a year [11].
+- **Control:** EU containment rules apply; there is no therapeutic cure
+  [11].
 
 ## Agronomic data
 
-- **Life form / season:** Evergreen perennial tree to about 10 m,
-  flowering in late spring and harvested in autumn through winter [1].
-- **Harvest pattern:** One crop per year, with pronounced alternate
-  bearing between "on" and "off" years; in one irrigated Tunisian
-  orchard, off years produced roughly 57% less fruit and 61% less oil
-  than on years [10].
-- **Climate:** Mediterranean and semi-arid climates, plus irrigated
-  arid regions; humid subtropical climates are marginal, limited by
-  insufficient winter chill and fruit-fly pressure [2].
-- **Food status:** Not raw-edible — the fruit is bitter (oleuropein)
-  and must be cured before eating [1][15].
-- **Pollination:** Variable by cultivar; most cultivars are partly or
-  fully self-incompatible under a single gene with two alleles, though
-  a substantial number of named cultivars are self-compatible; wind is
-  the typical pollen vector [1][6].
-- **Yield:** A world-average figure of roughly 1.8 t/ha reflects a mix
-  of production systems worldwide; a reasonable "good" irrigated/
-  intensive or super-high-density yield is in the 10-14 t/ha range, with
-  exceptional intensive performance reaching 15 t/ha; traditional
-  rainfed groves in poor years can fall below 0.5 t/ha. Roughly 11.6
-  million hectares are in production worldwide across about 58
-  countries, with the ten largest (all Mediterranean) producers
-  accounting for about 95% of the total [1].
-- **Water use:** Drought tolerance is extreme and waterlogging
-  tolerance is low (Finding 1); the crop coefficient curve runs roughly
-  0.65-0.70 through the season, with most absorbing roots in the top
-  metre of soil (depths of 1.2-1.7 m overall, shallower on marginal
-  soils, deeper in favourable alluvium) [2][4]. The most water-sensitive
-  growth stages are flowering through fruit set, and the oil-accumulation
-  period in late summer; the period between fruit-pit hardening and
-  late summer tolerates a managed deficit well, and is commonly used for
-  regulated deficit irrigation [2].
-- **Establishment:** Rooted leafy semi-hardwood cuttings under mist
-  (with cultivar-dependent rooting success, generally better in summer
-  than autumn), or grafted nursery trees on seedling rootstock for
-  hard-to-root cultivars; layering and root suckers are also used
-  traditionally [1][8].
-- **Labor:** Highly system-dependent. A detailed super-high-density
-  budget documents only about 7 hours per acre of grower labour beyond
-  contracted mechanical harvest and pruning; traditional hand-harvest
-  systems (pole-beating onto nets, or hand stripping for table fruit)
-  are far more labour-intensive, with table-olive harvest alone making
-  up roughly half to two-thirds of total production labour [3][5][17].
-- **Soil:** Calcareous soils and limestone slopes are preferred, and the
-  crop tolerates lime well; moderately salt-tolerant; any well-drained
-  light soil suits it, but wet soils should be avoided (Finding 1) [1][2][4].
-- **Stand life:** First harvest comes as early as year 3 in
-  super-high-density systems (full production by year 5), compared with
-  roughly years 2-4 for intensive systems and year 5 (full production
-  by years 7-9) for traditional groves. Economic life in a modern
-  super-high-density system is assumed at 25 years, though individual
-  trees are documented living for centuries, with some claims reaching
-  into the thousands of years [1][2][5][10].
-- **Disease/pest profile:** A fruit fly capable of destroying entire
-  table-olive crops and cutting oil value sharply; a bacterial pathogen
-  that has killed large numbers of trees in at least one Mediterranean
-  region; Verticillium wilt; olive knot (a bacterial disease); peacock
-  spot; black scale; and an olive-specific moth are all documented
-  [1][5][10].
-- **Cultivars:** Named oil cultivars span a wide range of oil content
-  (roughly 15-28%), cold hardiness, and polyphenol levels (which affect
-  oil pungency and shelf life); table cultivars are selected instead for
-  fruit size and chilling-injury resistance; several cultivars serve a
-  dual oil-and-table purpose.
+- **Life form / season:** evergreen tree, 2-10 m, occasionally 15 m [9].
+  FAO-56 uses a 3-5 m height [5]. Economic life 25 years in a
+  super-high-density orchard [4].
+- **Harvest pattern:** one crop a year, autumn to winter; table olives in
+  California mid-September to mid-November [2][3]; oil olives at colour
+  change in October-November [4]. Alternate bearing is noted [1];
+  magnitude not sourced this pass.
+- **Days/years to first bearing:** year 2-4 (irrigated intensive) [1];
+  year 3, full yield year 5 (super-high-density) [1][4].
+- **Climate zones:**
+  - **Latitude:** 30-45° in both hemispheres [1].
+  - **Chill:** at least 10 weeks below 12 °C (Finding 4) [1].
+  - **Cold:** sensitive below −10 °C [1]. Snippet-level thresholds: leaf
+    drop and twig die-back below −7 °C for most cultivars, and heavy
+    losses below −12 °C [10]; acute damage at −8.6 °C [10]; fruit
+    damaged below −1.7 °C and young trees killed below −5.5 °C [10].
+    Damage depends on duration, hardening, stage and season [10].
+  - **Frost as a quality event:** frozen fruit is not sourced here as a
+    quality defect this pass. Late flowering cuts bloom-frost risk [1].
+  - **Heat:** shoot growth stops above 35 °C [1].
+  - **Elevation:** Not sourced.
+- **Composition:** Not sourced this pass (the USDA database refused
+  automated access).
+- **Edibility:** not raw-edible; must be cured (Finding 5) [3][12].
+- **Pollination:** wind-pollinated by default; snippet-level only.
+  Saumitou-Laprade et al. (2017) describe a diallelic sporophytic
+  self-incompatibility system with two groups: cultivars fail to cross
+  within a group and succeed across groups [14]. The model is contested
+  [14]. Some cultivars are self-fertile (snippet) [14].
+- **Photoperiod sensitivity:** Not sourced for olive. Flower induction is
+  driven by winter cold (Finding 4) [13].
+- **Yield:**
+  - **World:** 2.1 t/ha average on 9.2 Mha (2009) [1]. FAOSTAT gives
+    11.1 Mha of olive area in 2023, 2.6 Mha of it in Spain and 1.9 Mha in
+    Tunisia [7].
+  - **By system:** under 1-5, up to 10-15, and 10-14 t/ha (Finding 3)
+    [1].
+  - **California:** 5.0 tons/acre (about 11.2 t/ha) super-high-density
+    oil fruit [4]; 12.0 t/ha table-olive control (Finding 2) [1].
+  - **Oil:** 210 gallons/acre budgeted (about 1.8 t/ha) [4] (see
+    Estimates).
+- **Water use:**
+  - **FAO-56 [5]:** Kc 0.65 initial, 0.70 mid, 0.70 end at 40-60% ground
+    cover; stage lengths 30/90/60/90 days (270 days, from March,
+    Mediterranean). Spanish monthly Kc (60% cover), January to December:
+    0.50, 0.50, 0.65, 0.60, 0.55, 0.50, 0.45, 0.45, 0.55, 0.60, 0.65,
+    0.50 [5].
+  - **FAO-66 [1]:** recommended Kc 0.45-0.75 by month, lowest in
+    midsummer (partial stomatal closure); semi-arid 0.65-0.75 spring,
+    0.50-0.55 summer, 0.60-0.70 autumn; arid 0.45-0.55, 0.50-0.55,
+    0.55-0.65. Up to 0.8-1.0 in winter and spring with permanent grass
+    cover. Higher values for table fruit [1].
+  - **Budget:** 18 acre-inches (457 mm) applied in a mature
+    super-high-density orchard [4].
+- **Propagation:** nursery trees ($2.15 each in the UC budget) [4];
+  methods not sourced this pass. Clean stock: do not plant on ground with
+  a Verticillium history or after cotton [4]. Viral degeneration: Not
+  sourced.
+- **Labor:**
+  - **Super-high-density:** 6.88 h/acre own labour (6.31 cultural, 0.57
+    postharvest), about 17 h/ha, plus contracted harvest, hedging,
+    topping and skirting [4].
+  - **Table olives:** harvest is 50-70% of production labour cost and
+    30-40% of gross returns [2][3].
+- **Soil:**
+  - **Lime and salt:** traditionally grown on marginal land for "high
+    resistance to drought, lime and salinity" [1].
+  - **Salinity:** rated moderately tolerant (MT) for seedling growth and
+    fruit yield, with no threshold or slope given [6]. Trees "yield well
+    when irrigated with saline waters" [1].
+  - **Nutrients (UC):** 40 lb N/acre a year (about 45 kg/ha) and 80
+    lb/acre potassium through the drip, March-July, set by leaf analysis
+    [4].
+  - **Site preparation:** ripped to 3 ft [4].
+- **Storage (postharvest):** 5-7.5 °C, 90-95% RH (Finding 5) [2][3].
+  Respiration 10-20 mg CO2/kg·h at 5 °C and 40-80 at 20 °C [2].
+  Ethylene production very low, but fruit is moderately sensitive above
+  1 µL/L [2].
+- **Establishment:**
+  - **UC:** GPS-marked north-south rows; bamboo stake per tree on a
+    single 30-inch wire; 1% replanted in year 2; central leader; mechanical
+    tipping from year 2, and skirting, hedging and topping from year 3 to
+    keep trees 10-12 ft tall [4].
+  - **Weed control:** pre-emergent strip before planting and mowed
+    resident cover between rows [4].
+- **Cultivars:**
+  - **Oil:** 'Arbequina' (super-high-density) [4]; 'Picual', 'Leccino',
+    'Frantoio', 'Morisca', 'Cornicabra' (in water studies) [1].
+  - **Table (California):** 'Sevillano', 'Ascolano', 'Manzanillo',
+    'Mission' [2][3]; 'Ascolano' and 'Barouni' soften in curing [12].
+  - **Xylella response:** Finding 6 [11].
+- **Weather response:**
+  - **Cold:** see Climate zones [1][10].
+  - **Rain, temperature and wind at bloom** reduce fruit set further [1].
+  - **Hot sun at harvest:** fruit sunburn and grade as culls if left out
+    [2][3].
+- **Water regime:** irrigated or rainfed upland; no flooded regime;
+  waterlogging harmful (Finding 1) [1].
+- **Harvest stages / windows:**
+  - **Green (table):** mature when fruit exudes white juice when
+    squeezed [2][3].
+  - **Straw to black (oil):** oil can be taken from straw colour to
+    black-ripe; partly ripe fruit makes better oil [3]. Phenolics peak at
+    the start of ripening, when the skin is still partly green [1].
+  - **Black (table):** 3-4 months after the green stage [2][3].
+- **Soil biology:** Verticillium wilt (*Verticillium dahliae*) is worse in
+  irrigated orchards, especially young ones, with inoculum denser in wet
+  areas [1]. Replant: Not sourced.
+- **Invasiveness / biosecurity:**
+  - **Australia:** subsp. *europaea* is widely naturalised in southern
+    and eastern Australia, most commonly in south-eastern South
+    Australia; a significant environmental weed in South Australia and
+    an environmental weed in Victoria, Western Australia, New South
+    Wales, Queensland and the ACT; spread by birds and foxes, and
+    suckers after damage [9]. Non-cultivated olives are declared plants
+    in South Australia [9].
+  - **African olive:** subsp. *cuspidata* is a significant environmental
+    weed in New South Wales and on Norfolk Island [9].
+  - **Quarantine:** olive fruit fly (*Bactrocera oleae*) limits fresh
+    olive trade from California [2]; *Xylella* containment (Finding 6)
+    [11].
+- **Controlled environment:** Not sourced.
 
 ## Hazards
 
-Oleuropein makes raw fruit bitter and effectively inedible, though not
-acutely poisonous; curing is required before consumption [1][15].
-Lye used in curing poses an occupational chemical-burn hazard, managed
-by adding lye to water (never the reverse), wearing gloves, and
-keeping vinegar on hand to neutralize splashes [15]. Documented pests
-and diseases include a fruit fly causing severe crop and oil-value
-losses, a bacterial pathogen responsible for large-scale tree deaths in
-at least one region, Verticillium wilt, olive knot, peacock spot, black
-scale, and an olive-specific moth. Olive pollen is also a recognized
-airborne allergen, separate from any food-related hazard [1].
+- **Bitterness:** oleuropein makes raw fruit inedible [3][12].
+- **Botulism (home canning):** olives are a low-acid food and must be
+  pressure-canned, never water-bath canned [12]. The guide gives 60
+  minutes (pints) or 70 minutes (quarts) at 10 lb (weighted) or 11 lb
+  (dial gauge) [12].
+- **Lye:** use 100% sodium hydroxide; add lye to water, never water to
+  lye; wear gloves and goggles; keep a 1:1 vinegar-water rinse at hand;
+  avoid aluminium [12].
+- **Pests and diseases:**
+  - olive knot (bacterial), controlled with copper after harvest and
+    before bloom [4];
+  - Verticillium wilt, which kills trees [1][4];
+  - olive fruit fly, which prefers large, watery fruit [1];
+  - black scale, mainly in dense, shaded orchards [4];
+  - *Xylella fastidiosa* subsp. *pauca* (Finding 6) [11].
+- **Ergot / mycotoxin:** none reported this pass.
 
-**TO BE ADDRESSED** — because olives are a low-acid food, home-canned
-cured olives carry a botulism risk without a pressure canner; and
-California-style black ripe olives carry measurable acrylamide from
-their heat-sterilization step. Both deferred until this project has a
-place for this kind of health/safety data.
-
-**TO BE ADDRESSED** — rancid press cake and olive-mill byproducts used
-as livestock feed carry their own antinutritional and palatability
-concerns, and olive mill wastewater is a recognized environmental
-hazard (phytotoxic). Deferred for the same reason.
+**TO BE ADDRESSED** — botulism in home-canned olives, lye burns, and
+olive pollen allergy are deferred until this project has a place for
+health-and-safety data.
 
 ## Uses and processing
 
-- **Chains:** oil-bound fruit is crushed, kneaded (malaxed) at around
-  27°C, and separated in a decanter, yielding oil plus either wet
-  pomace (two-phase process, dominant in Spain) or a drier cake plus
-  substantial wastewater (three-phase process); traditional stone-mill
-  and press extraction is also still used. Cake can be further
-  processed into destoned pulp (feed) and stones (fuel). Table olives
-  follow one of several distinct curing paths — Spanish-style lye and
-  brine, California black-ripe (lye, oxidation, then canning), Greek
-  brine-and-ferment, dry-salt, or water-cured — before sale. Prunings
-  are used as firewood and leaf fodder. Nursery propagation uses
-  cuttings, seedling rootstocks, and grafting.
-- Not covered by this research in detail: canning and sterilizing of
-  black ripe olives; pomace oil and solvent-refined olive oil; olive
-  leaf extract and tea; pitting and stuffing of table olives; the wild
-  ancestor form.
-
-Olive oil and olive branches carry deep, independently documented
-religious significance across several traditions. In Judaism, pure
-olive oil was specified for the Temple menorah, produced by hand-
-pounding and draining rather than pressing, with the first drop kept
-separate for that specific use; separately, Jewish law treats a fruit
-tree's first three years of fruit as forbidden and the fourth year's
-fruit as holy within the Land of Israel, with special rules for when a
-replanted tree's count restarts. In Catholic Christianity, olive oil is
-the traditional base for the three holy oils (chrism and the oils of
-catechumens and of the sick), consecrated by a bishop, typically at a
-Holy Thursday service; since 1970 another plant oil has been permitted
-in necessity, a change some traditionalist Catholics have disputed. The
-olive tree and its oil are referenced directly in the Quran, including
-a well-known verse describing a "blessed olive tree, neither of the
-east nor of the west," and in an oath invoking the fig and the olive
-together. Olive branches also appear in Mediterranean Christian Palm
-Sunday observance.
+- **Chain 1 (oil):** picked at colour change by over-the-row harvester →
+  field bins → straight to the mill [4]. Milling steps and delays were
+  not re-sourced this pass.
+- **Chain 2 (table, home scale) [12]:**
+  - **Water-cured:** cut fruit, water changed daily for at least a week,
+    then a vinegar-salt finish brine; ready in about 4 days more; not
+    shelf-stable.
+  - **Brine-cured (fermented):** 8 oz salt per gallon for 7 days, then 1
+    lb per gallon for at least 2 months.
+  - **Dry-salt:** small black fruit, 1 lb salt per 2 lb fruit, ready in
+    5-6 weeks.
+  - **Lye-cured:** 2 oz lye per gallon for 10-12 hours (up to 30) until
+    lye reaches the pit, then 4-5 days of rinsing.
+- **Commercial table styles:** California black-ripe and Spanish green
+  for green fruit; Greek or Italian style for black fruit [3].
+- **World volumes (IOC):** olive oil 2,760,000 t (2022/23), 2,564,000 t
+  (2023/24, provisional) and 3,375,500 t (2024/25 estimate); table
+  olives 2,828,500 t (2023/24) and 3,178,000 t (2024/25) [8]. Egypt has
+  23% of table-olive output [8].
+- **Oil versus table share:** about 90% of fruit goes to oil [1]. The IOC
+  tonnages suggest about 15-18% table (see Estimates).
+- **Not detailed here:** mill types and byproducts, pomace oil,
+  wastewater, leaf products, pitting and stuffing.
 
 ## Open research questions
 
-- The oil-versus-table production share is given differently across
-  sources (roughly 90/10 versus 80/20).
-- Years to first commercial crop vary by production system and source
-  (roughly 2-5 years).
-- Leaf-frost damage thresholds differ slightly between sources (around
-  −7°C versus −8°C).
-- A manual harvest-rate figure from one field study reads as possibly
-  garbled in the original source and should be treated cautiously.
-- Tree losses from a bacterial pathogen outbreak in one Mediterranean
-  region are reported very differently across sources (roughly one
-  million versus twenty-one million trees).
-- The total duration of Spanish-style debittering (one to seven months)
-  describes the whole curing process, not a single step, and should not
-  be read as a single fixed figure.
-- Detailed labour figures for establishment, pruning, and curing
-  (outside of harvest and one documented super-high-density budget) rest
-  on estimates rather than direct measurement.
-- Soil nutrient-removal figures (nitrogen, phosphorus, potassium per
-  tonne of fruit) are estimated rather than drawn from a dedicated
-  nutrient-removal study.
-- A numeric soil pH tolerance range is carried over as an estimate
-  consistent with the crop's documented preference for calcareous soils
-  and tolerance of lime, rather than drawn from a sourced pH study.
-- Malaxation time, oil shelf life, and a detailed bloom-frost
-  sensitivity table were not located in the sources used here.
-- Orthodox Christian holy-oil practice, and the full rules behind at
-  least one protected-origin table-olive style, were not researched in
-  this pass.
+- **Oil-to-gallons arithmetic in the UC study:** 42 gallons/ton is called
+  "18 percent oil", but 42 × 7.58 lb ÷ 2,000 lb is 15.9% (see Estimates).
+- **Cold thresholds:** −7, −8.6, −10 and −12 °C come from different
+  sources and conditions [1][10].
+- **Self-incompatibility model:** diallelic (two groups) or multi-allelic
+  [14].
+- **Xylella toll:** "millions" killed [11]; no firm count read.
+- **Alternate bearing size:** Not sourced this pass.
+- **Not sourced:** composition, elevation, photoperiod, propagation
+  methods, milling delays and extraction systems, viral degeneration,
+  controlled-environment growing, frost-damaged oil, nutrient removal.
+- **Works identified, not yet read:**
+  - the 2022 *Plants* review of olive cold stress (PMC9144808);
+  - Haberman et al. (2017), *Plant, Cell and Environment* 40(8);
+  - Saumitou-Laprade et al. (2017), *Evolutionary Applications* 10(9):
+    860-880;
+  - UC ANR 8267, *Olives: Safe Methods for Home Pickling* (2007);
+  - Connor and Fereres (2005), *Horticultural Reviews* 31: 155-229;
+  - Gucci and Tattini (1997), salinity tolerance in olive, *Horticultural
+    Reviews* 21: 177-214;
+  - Barranco, Fernández-Escobar and Rallo (eds.), *El Cultivo del Olivo*.
 
 ## Estimates and derivations
 
-Growing-season length (roughly 150-240 days from fruit set to harvest)
-is derived from the documented flowering timing (late spring) through
-to the latest harvested stage (black fruit, into early winter), as
-distinct from the much longer full 15-18 month reproductive cycle
-measured from flower-bud induction the previous summer.
+**Super-high-density yield** [4]: 5.0 short tons/acre × 2.2417 = 11.2
+t/ha. Year 3: 2.7 × 2.2417 = 6.1 t/ha; year 4: 4.0 × 2.2417 = 9.0 t/ha.
 
-A "good" yield of about 11,200 kg/ha is derived directly from a
-documented super-high-density production budget's reported yield in
-short tons per acre, converted to metric units, and falls within the
-range given elsewhere for intensive and super-high-density systems
-generally.
+**Oil per hectare** [4]: 210 gal/acre × 7.58 lb/gal = 1,592 lb × 0.4536 =
+722 kg/acre ÷ 0.404686 = 1,784 kg/ha (about 1.8 t/ha).
 
-Water-use parameters (crop-coefficient-weighted seasonal water index,
-drought-buffer days before yield penalty, and penalty rate per dry day)
-are derived from a standard crop-water-use reference's stage-length and
-coefficient tables, combined with a documented deficit-irrigation yield
-study's reported yield loss at a given water-supply percentage, to
-back-calculate an approximate daily yield-penalty rate; the resulting
-figures should be treated as order-of-magnitude estimates given the
-crop's genuinely parabolic (not linear) yield response to water.
+**Oil percentage check** [4]: 42 gal × 7.58 lb = 318 lb per 2,000 lb =
+15.9%. At 18%: 0.18 × 2,000 ÷ 7.58 = 47.5 gal/ton. At 16%: 0.16 × 2,000
+÷ 7.58 = 42.2 gal/ton, not the 39 stated. The study's gallons appear to
+be extracted oil below fruit oil content.
 
-Peak daytime carbon uptake is derived from a documented leaf-level
-photosynthesis rate, converted to an areal daily estimate and adjusted
-downward for midday stomatal closure under heat and water stress.
+**Density and water** [4]: 726 trees/acre ÷ 0.404686 = 1,794 trees/ha.
+18 acre-inches × 25.4 = 457 mm.
 
-Labour-hour estimates by operation are derived chiefly from the
-documented super-high-density budget's own labour hours (established
-system) combined with field-study harvest-rate figures for pole-and-net,
-hand-rake, and mechanical-shaker harvest methods (other systems);
-establishment, pruning, and curing labour outside of these specific
-sources are rougher estimates.
+**Labour** [4]: (6.31 + 0.57) = 6.88 h/acre ÷ 0.404686 = 17 h/ha.
 
-Soil nutrient uptake (roughly 4 kg N, 0.6 kg P, and 5 kg K per tonne of
-fruit) is derived from the super-high-density budget's documented
-fertilizer application rate divided by its yield — an application-rate
-proxy, not a true removal measurement — with phosphorus and potassium
-treated as estimates.
+**Nitrogen** [4]: 40 lb/acre × 0.4536 ÷ 0.404686 = 45 kg/ha; 80 lb × 0.4536
+÷ 0.404686 = 90 kg/ha potassium.
+
+**Water productivity gain** [1]: 30 kg/ha/mm × 100-150 mm = 3.0-4.5 t/ha
+of extra fruit.
+
+**Table-olive deficit** [1]: T5 used 546 ÷ 881 = 62% of control water,
+recorded as 56.3% of relative ETc, for 90% of yield. The text's "62
+percent" is the consumptive-use ratio.
+
+**Chill as hours** [1]: 10 weeks × 7 × 24 = 1,680 h below 12 °C, if
+continuous. A minimum, not a chill-unit model.
+
+**Table share of fruit** [8]: oil 2,564,000 t ÷ 0.16-0.20 extraction =
+12.8-16.0 Mt of oil fruit (extraction rate assumed, from the 16-18% oil
+content [4]). Table share = 2.83 ÷ (2.83 + 12.8 to 16.0) = 15-18%.
+
+**Respiration heat** [2]: 10-20 mg CO2/kg·h × 61 = 610-1,220 kcal per
+tonne per day at 5 °C.
 
 ## Sources
 
-[1] A general reference encyclopedia article on the olive. Supplied:
-taxonomy, domestication, height and bloom timing, frost-injury
-threshold, soil preferences, propagation methods, self-incompatibility
-genetics, tree longevity, oil yield per tree, recent area and
-production-by-country statistics, major pests and diseases, oil-versus-
-table production share, curing-time ranges, nutrition of cured green
-olives, polyphenol content, use of pits as biomass fuel, and pollen
-allergenicity rating. Accessed 2026-10-11, opened directly (partial).
+[1] Gucci and Fereres (lead authors), with Goldhamer, "Olive," in
+Steduto, Hsiao, Fereres and Raes, *Crop Yield Response to Water*, FAO
+Irrigation and Drainage Paper 66 (2012), section 4.1, pp. 300-313.
+Supplied:
+- latitude, area, yield, the 90/10 split and the three systems;
+- the reproductive cycle, chill, fruit set and oil content;
+- waterlogging and cold sensitivity, drought physiology and roots;
+- Kc tables, the production function, the table-olive study and RDI;
+- Verticillium, fruit fly and salinity.
 
-[2] A standard international crop-water-response reference's chapter on
-olive, within a broader crop-yield-response-to-water technical series.
-Supplied: area and yield by production system, reproductive cycle
-length and chill requirement, waterlogging and cold-temperature
-sensitivity, fruit set rate, oil content, drought physiology and water
-potentials, root depth, growth-stage water sensitivity, monthly crop
-coefficients and seasonal tables, the yield-versus-water production
-function, a table-olive deficit-irrigation study's yield results, one
-region's detailed seasonal water budget, deficit-irrigation strategies,
-Verticillium wilt, fruit fly, and salinity tolerance. Accessed
-2026-10-11, PDF extracted.
+Accessed 2026-11-23, opened directly (PDF).
 
-[3] A USDA agricultural handbook chapter on commercial olive storage,
-part of a broader reference work on commercial fruit and vegetable
-storage. Supplied: harvest maturity indices by stage, harvest labour
-share of total production labour, harvest season timing, storage
-temperature and humidity, controlled-atmosphere storage, chilling-
-injury timing and cultivar susceptibility ranking, ethylene sensitivity,
-respiration rate, specific storage disorders, and oil content range.
-Accessed 2026-10-11, PDF extracted.
+[2] Crisosto and Kader, "Olive," in USDA ARS Agriculture Handbook 66,
+*The Commercial Storage of Fruits, Vegetables, and Florist and Nursery
+Stocks* (2004 draft, archived copy). Supplied: quality criteria, maturity
+indices, harvest labour share, storage, CA, chilling injury, ethylene,
+respiration, disorders and quarantine. Accessed 2026-11-23, opened
+directly (PDF).
 
-[4] A standard international crop-evapotranspiration reference work.
-Supplied: olive-specific stage lengths, crop coefficients, typical crop
-height, rooting depth, soil-moisture-depletion allowance, and salinity
-tolerance rating. Accessed 2026-10-11, opened directly.
+[3] Crisosto and Kader, *Olives: Postharvest Quality Maintenance
+Guidelines*, UC Davis Pomology Department. Supplied: the same storage
+material plus edibility, harvest stages and the oil-quality note.
+Accessed 2026-11-23, opened directly (PDF).
 
-[5] A university cooperative extension sample-costs study for
-establishing and operating a super-high-density olive-oil orchard in
-California, drip-irrigated. Supplied: oil yield per unit of fruit,
-planting density, assumed economic life, annual water allocation, site
-preparation, trellis and training method, named disease and pest
-pressures, fertilization program, mechanical pruning, contracted
-harvest timing, yield by orchard age, oil content and extraction rate,
-and detailed labour hours and costs. Accessed 2026-10-11, PDF extracted.
+[4] Lightle, Sumner and Murdock, *Sample Costs for Olive Oil: Establish a
+Super-High Density Olive Orchard and Produce Olives for Oil, Arbequina
+Variety, Drip Irrigation, Sacramento Valley* (UC Cooperative Extension
+and UC Agricultural Issues Center, 2016). Supplied:
+- spacing, density, life and tree cost;
+- water, fertiliser, site preparation, trellis and training;
+- pests and diseases;
+- yield curve, oil conversion and price;
+- labour hours and costs.
 
-[6] A university cooperative extension reference on major world olive
-oil cultivars, including several California table cultivars for
-comparison. Supplied: oil content, cold hardiness, fruit size,
-polyphenol level, and pollinizer compatibility for numerous named
-cultivars, including self-sterile cultivars and known incompatible
-cultivar pairs. Accessed 2026-10-11, PDF extracted, supplemented by
-search-snippet-level cultivar trial and nursery material.
+Accessed 2026-11-23, opened directly (PDF).
 
-[7] This project's own prior internal crop classification for olive,
-re-checked against the primary sources above; an internal record of
-which classification values appeared to need correction. Accessed
-2026-10-11.
+[5] Allen, Pereira, Raes and Smith, *Crop Evapotranspiration*, FAO
+Irrigation and Drainage Paper 56 (1998), chapter 6, Tables 11 and 12 and
+footnote 24. Supplied: olive Kc, height, stage lengths and the Spanish
+monthly Kc. Accessed 2026-11-23, opened directly.
 
-[8] Search-snippet-level material on olive propagation by cuttings,
-including multiple university and institutional studies on rooting
-hormone treatment, cultivar-dependent rooting success rates, seasonal
-timing effects, and grafting of hard-to-root cultivars onto seedling
-rootstock. Accessed 2026-10-11, search snippets only.
+[6] Tanji and Kielen, *Agricultural Drainage Water Management in Arid and
+Semi-Arid Areas*, FAO Irrigation and Drainage Paper 61 (2002), Annex 1,
+Table A1.2. Supplied: the moderately tolerant rating. Accessed
+2026-11-23, opened directly.
 
-[9] Search-snippet-level material on olive cold hardiness, including a
-peer-reviewed horticultural science journal postprint, a regional field
-study, a university extension fruit-and-nut production guide, and a
-historical freeze-damage study examining cultivar and cultural
-practice effects. Accessed 2026-10-11, search snippets only.
+[7] FranceAgriMer, *Marché de l'huile d'olive – Campagne 2023-2024*
+(October 2025), citing FAOSTAT. Supplied: 11.1 Mha of world olive area
+in 2023 (Spain 2.6 Mha, Tunisia 1.9 Mha, EU over 5 Mha, 45%). Accessed
+2026-11-23, opened directly (PDF).
 
-[10] Search-snippet-level material on alternate bearing and orchard
-decline, including an irrigated-orchard study quantifying "off"-year
-yield loss, grower and extension guidance on years to first and full
-bearing by cultivar, and press/industry coverage of a bacterial-pathogen
-outbreak's tree losses in one Mediterranean growing region. Accessed
-2026-10-11, search snippets only.
+[8] International Olive Council, "World Market of Olive Oil and Table
+Olives – Data From December 2024" (17 December 2024). Supplied: world oil
+and table-olive production for 2022/23-2024/25 and Egypt's share.
+Accessed 2026-11-23, opened directly.
 
-[11] A livestock-feed-composition reference database's entries on olive
-oil cake and byproducts, and on dried olive leaves and branches.
-Supplied: cake yield by extraction system, composition, vegetation
-water, and feeding limits. Accessed 2026-10-11, opened directly.
+[9] *Weeds of Australia* fact sheet, "*Olea europaea*" (Identic/Lucid).
+Supplied: origin, habit, Australian naturalisation, weed status,
+dispersal and legislation for subsp. *europaea* and *cuspidata*.
+Accessed 2026-11-23, opened directly.
 
-[12] Search-snippet-level material on olive milling, including a
-regional mass-balance study of two-phase versus three-phase extraction
-systems, industry adoption figures, and technical material on
-malaxation temperature and its effect on yield, quality, and off-flavour
-risk. Accessed 2026-10-11, search snippets only.
+[10] Cold-threshold sources, snippets only: a 2022 *Plants* review of
+olive cold stress (PMC9144808; the page served a reCAPTCHA), a 2024
+*Frontiers in Plant Science* study citing Barranco and Gómez-del Campo
+(2005), a secondary source citing León et al. (2016), a UC Cooperative
+Extension presentation, and an Australian industry article. Accessed
+2026-11-23.
 
-[13] Search-snippet-level material on table-olive processing, including
-a university olive research center's technical material on debittering
-methods, duration, and wastewater volume by curing style, and an
-international olive-sector trade body's table-olive reference material.
-Accessed 2026-10-11, search snippets only.
+[11] Serio, Imbriani, Girelli, Miglietta, Scortichini and Fanizzi, "A
+Decade after the Outbreak of *Xylella fastidiosa* subsp. *pauca* in
+Apulia (Southern Italy): Methodical Literature Analysis of Research
+Strategies," *Plants* 13(11): 1433 (2024), doi:10.3390/plants13111433
+(PMC11175074). Supplied: detection date, area, toll, vector, cultivar
+responses, oil losses and containment. Accessed 2026-11-23, opened
+directly (about a third of the text read; the rest by summary only and
+not used).
 
-[14] A peer-reviewed food chemistry journal study on acrylamide
-formation during California-style black ripe olive processing.
-Supplied: measured acrylamide concentration range and contributing
-factors. Accessed 2026-10-11, search snippet only (abstract).
+[12] UCCE Master Food Preservers of Amador/Calaveras County, *Curing,
+Preserving and Eating Olives!* (October 2019), summarising UC ANR
+publication 8267. Supplied: low-acid status and pressure canning, fresh
+storage, the four curing methods with quantities and times,
+preservation options, lye safety and curing defects. Accessed 2026-11-23,
+opened directly (PDF).
 
-[15] A university cooperative extension master food preserver program's
-guide to curing, preserving, and eating olives, supplemented by a
-companion extension guide on lye-curing practice. Supplied: low-acid
-food-safety status and pressure-canning requirement, harvest-stage
-guidance, fresh storage temperature and chilling-injury risk, detailed
-water-cure, brine-cure, dry-salt-cure and lye-cure methods with
-quantities and timing, and storage guidance for dry-salt olives.
-Accessed 2026-10-11, PDF extracted.
+[13] Haberman et al., "A possible role for FLOWERING LOCUS T-encoding
+genes in interpreting environmental and internal cues affecting olive
+(*Olea europaea* L.) flower induction," *Plant, Cell and Environment*
+40(8) (2017), and a 2023 *Plants* paper on olive chilling accumulation,
+snippets only. Accessed 2026-11-23.
 
-[16] Search-snippet-level material on pre-milling fruit storage,
-including an olive-oil trade publication's discussion of common oil
-defects linked to delayed milling, an industry council's technical note
-on acceptable delay windows, and a storage-quality study tracking
-acidity, peroxide value, and phenol content over time. Accessed
-2026-10-11, search snippets only.
-
-[17] Search-snippet-level material on olive harvesting methods,
-including peer-reviewed and institutional studies comparing hand
-harvest, hand rakes, stem shakers, canopy shakers, and comb harvesters
-by efficiency and daily output, and regional data on grove density.
-Accessed 2026-10-11, search snippets only.
-
-[18] Search-snippet-level material on the Temple menorah's oil
-requirements in Jewish tradition, including rabbinic teaching sources
-and classical commentary describing hand-pounded, undrained,
-unpressed oil and the status of the first drop produced. Accessed
-2026-10-11, search snippets only.
-
-[19] Search-snippet-level material on Catholic holy-oil practice,
-including a general reference encyclopedia article, a Catholic
-reference dictionary's note on the 1970 permission for other plant
-oils in necessity, and coverage of a traditionalist Catholic
-organization's objection to that change. Accessed 2026-10-11, search
-snippets only.
-
-[20] Search-snippet-level material on the olive's appearance in the
-Quran, including a Quranic word-root concordance and several Islamic
-reference and commentary sites discussing the relevant verses.
-Accessed 2026-10-11, search snippets only.
-
-[21] Search-snippet-level material on Jewish law regarding a fruit
-tree's first three years of fruit and how replanting affects that
-count, from religious-law reference sources. Accessed 2026-10-10,
-search snippets only.
+[14] Saumitou-Laprade et al. (2017), *Evolutionary Applications* 10(9),
+and the replies and later papers on olive self-incompatibility, snippets
+only. Accessed 2026-11-23.

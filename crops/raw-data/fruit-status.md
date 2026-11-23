@@ -101,7 +101,7 @@
 | muscadine | Vitis rotundifolia | grape.md | `american_grape`, `grape` | 2026-11-17 | RESEARCHED |
 | natsudaidai | Citrus natsudaidai (natsumikan, incl. amanatsu) | natsudaidai.md | `daidai`, `hassaku`, `hetsuka_daidai`, `hyuganatsu`, `haruka`, `kunenbo` | 2026-11-17 | RESEARCHED |
 | nectarine | Prunus persica, smooth-skinned | nectarine.md | `peach`, `peach_low_chill` | 2026-11-23 | RESEARCHED |
-| olive | Olea europaea | olive.md |  | 2026-10-11 | OUT-OF-DATE |
+| olive | Olea europaea | olive.md |  | 2026-11-23 | RESEARCHED |
 | orange | Citrus × sinensis | orange.md | `bitter_orange`, `mandarin`, `cam_xoan`, `clementine` | 2026-10-10 | OUT-OF-DATE |
 | oriental_melon | Cucumis melo Makuwa group; chamoe, makuwa uri | oriental-melon.md |  | 2026-10-06 | OUT-OF-DATE |
 | papaya | Carica papaya | papaya.md | `mountain_papaya` | 2026-09-29 | OUT-OF-DATE |

@@ -647,6 +647,25 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`nectarine--layne-bassi-2008`** (Library): Layne, D. R. and D. Bassi (eds.) (2008), *The Peach: Botany, Production and Uses*, CAB International, Wallingford.
   - **Needed for:** nectarine-specific chapters on world production, cultivars, pollination, elevation and replant.
 
+### olive (2026-11-23)
+
+- [ ] **`olive--ucanr-8267`** (Online): Yada, S. and L. J. Harris (2007), *Olives: Safe Methods for Home Pickling*, UC ANR Publication 8267, doi:10.3733/ucanr.8267, https://escholarship.org/uc/item/55d9628m (bot-challenge page for scripts).
+  - **Needed for:** the primary curing recipes and canning times, in place of the county summary.
+- [ ] **`olive--cold-review-2022`** (Online): the 2022 *Plants* review "Cold Stress, Freezing Adaptation, Varietal Susceptibility of *Olea europaea* L." (PMC9144808; reCAPTCHA, MDPI access denied).
+  - **Needed for:** frost thresholds by organ and stage, cultivar hardiness, frost effects on oil, and any elevation limits.
+- [ ] **`olive--saumitou-2017`** (Online): Saumitou-Laprade, P., et al. (2017), "Elucidation of the genetic architecture of self-incompatibility in olive," *Evolutionary Applications* 10(9): 860-880, with the replies in the same issue (PMC5680433, PMC5680419, PMC5680420).
+  - **Needed for:** the incompatibility groups of major cultivars and pollinizer planning.
+- [ ] **`olive--haberman-2017`** (Library): Haberman, A., et al. (2017), *Plant, Cell and Environment* 40(8), on *FT* genes and olive flower induction.
+  - **Needed for:** the winter-cold flowering mechanism and whether photoperiod plays any part.
+- [ ] **`olive--fdc-table-olives`** (Online): USDA FoodData Central, SR Legacy "Olives, ripe, canned" and "Olives, pickled, canned or bottled, green" (API rate-limited this pass).
+  - **Needed for:** composition per 100 g of cured olives.
+- [ ] **`olive--connor-fereres-2005`** (Library): Connor, D. J. and E. Fereres (2005), "The physiology of adaptation and yield expression in olive," *Horticultural Reviews* 31: 155-229.
+  - **Needed for:** alternate bearing, chill, cold limits, photoperiod and elevation in one review.
+- [ ] **`olive--milling-delay`** (Online): an IOC or university technical note on maximum fruit holding time before milling, and two-phase versus three-phase decanter mass balance.
+  - **Needed for:** the oil processing chain dropped this pass.
+- [ ] **`olive--el-cultivo-del-olivo`** (Library): Barranco, D., R. Fernández-Escobar and L. Rallo (eds.), *El Cultivo del Olivo* (Mundi-Prensa, latest edition).
+  - **Needed for:** propagation, cultivars, alternate bearing, nutrition and replant.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin
