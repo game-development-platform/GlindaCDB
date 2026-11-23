@@ -558,6 +558,42 @@ are never committed: this project keeps citations and findings only.
   Malaysiana* 13:10-25.
   - **Needed for:** var. *echinatus* and *kakus* in Sabah.
 
+### medlar (2026-11-23)
+
+- [ ] **`medlar--cristofori-2019`** (Library): Cristofori, V., Silvestri,
+  C., Pica, A.L., Bertazza, G. and Bignami, C. (2019), "Evaluation of four
+  medlar cultivars: agronomical, pomological and qualitative traits,"
+  *European Journal of Horticultural Science* 84(6):350-358,
+  doi:10.17660/eJHS.2019/84.6.4.
+  - **Needed for:** measured yield per tree and per hectare on quince
+    (Yield, Estimates).
+- [ ] **`medlar--baird-thieret-1989`** (Library): Baird, J.R. and Thieret,
+  J.W. (1989), "The medlar (*Mespilus germanica*, Rosaceae) from antiquity
+  to obscurity," *Economic Botany* 43(3):328-372, doi:10.1007/BF02858732.
+  - **Needed for:** history, cultivars, uses and any ritual use.
+- [ ] **`medlar--glew-2003`** (Library): Glew, R.H., Ayaz, F.A., Sanz, C.,
+  VanderJagt, D.J., Huang, H.-S., Chuang, L.-T. and Strnad, M. (2003),
+  "Changes in sugars, organic acids and amino acids in medlar (*Mespilus
+  germanica* L.) during fruit development and maturation," *Food
+  Chemistry* 83(3):363-369.
+  - **Needed for:** the sugar-during-bletting conflict (Finding 1).
+- [ ] **`medlar--selcuk-erkan-2015`** (Library): Selcuk, N. and Erkan, M.
+  (2015), medlar quality during long-term storage in the Palliflex
+  controlled-atmosphere system, *Postharvest Biology and Technology*
+  100:81-90.
+  - **Needed for:** controlled-atmosphere storage life of hard fruit.
+- [ ] **`medlar--tuik-series`** (Online): Turkish Statistical Institute,
+  crop production statistics, medlar (*muşmula*) tree numbers, area and
+  production by year and province (https://data.tuik.gov.tr or
+  veriportali.tuik.gov.tr; not reached this pass).
+  - **Needed for:** a yield per bearing tree and the trend after 2020
+    (Finding 2).
+- [ ] **`medlar--eu-2019-2072-consolidated`** (Online): the current
+  consolidated text of Commission Implementing Regulation (EU) 2019/2072,
+  Annexes III and IX, on EUR-Lex.
+  - **Needed for:** confirming the current fire-blight protected zones
+    and host-genus wording (Invasiveness / biosecurity).
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

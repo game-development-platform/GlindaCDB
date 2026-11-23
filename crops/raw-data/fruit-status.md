@@ -10,6 +10,7 @@
 | artocarpus_mutabilis | Artocarpus mutabilis |  | `marang` | 2026-11-23 | PROPOSED |
 | asian_pear | Pyrus pyrifolia and related species | asian-pear.md | `korla_pear` | 2026-11-17 | RESEARCHED |
 | avocado | Persea americana | avocado.md |  | 2026-11-17 | RESEARCHED |
+| azarole | Crataegus azarolus (Mediterranean medlar) |  | `medlar` | 2026-11-23 | PROPOSED |
 | babaco | Vasconcellea × heilbornii | babaco.md |  | 2026-11-17 | RESEARCHED |
 | bachang | Mangifera foetida (horse mango) | bachang.md | `mango`, `kuini`, `bambangan`, `binjai`, `wet_tropics_mangoes`, `kasturi`, `kemang` | 2026-11-22 | RESEARCHED |
 | bambangan | Mangifera pajang | bambangan.md | `mango`, `bachang`, `kuini`, `binjai`, `wet_tropics_mangoes` | 2026-11-22 | RESEARCHED |
@@ -94,7 +95,7 @@
 | mangosteen | Garcinia mangostana | mangosteen.md | `button_mangosteen`, `charichuelo`, `garcinia_dulcis` | 2026-11-23 | RESEARCHED |
 | marang | Artocarpus odoratissimus (terap, tarap) | marang.md | `jackfruit`, `champedak`, `breadfruit`, `lakoocha`, `peluntan`, `pingan`, `artocarpus_mutabilis` | 2026-11-23 | RESEARCHED |
 | mata_kucing | Dimocarpus longan ssp. malesianus (syn. D. malesianus) | mata-kucing.md | `longan`, `rambutan`, `isau`, `longan_echinatus` | 2026-11-23 | RESEARCHED |
-| medlar | Mespilus germanica | medlar.md | `loquat` | 2026-10-07 | OUT-OF-DATE |
+| medlar | Mespilus germanica | medlar.md | `loquat`, `quince`, `pear`, `azarole`, `service_tree` | 2026-11-23 | RESEARCHED |
 | meyer_lemon | Citrus × meyeri | meyer-lemon.md | `lemon` | 2026-10-03 | OUT-OF-DATE |
 | mountain_papaya | Vasconcellea pubescens | mountain-papaya.md |  | 2026-10-03 | OUT-OF-DATE |
 | muscadine | Vitis rotundifolia | grape.md | `american_grape`, `grape` | 2026-11-17 | RESEARCHED |
@@ -106,7 +107,7 @@
 | papaya | Carica papaya | papaya.md |  | 2026-09-29 | OUT-OF-DATE |
 | peach | Prunus persica | peach.md |  | 2026-10-12 | OUT-OF-DATE |
 | peach_low_chill | Prunus persica, subtropical peaches | peach-low-chill.md |  | 2026-10-18 | OUT-OF-DATE |
-| pear | Pyrus communis | pear.md | `korla_pear`, `loquat` | 2026-10-12 | OUT-OF-DATE |
+| pear | Pyrus communis | pear.md | `korla_pear`, `loquat`, `medlar` | 2026-10-12 | OUT-OF-DATE |
 | pear_low_chill | Pyrus communis × P. pyrifolia hybrids | pear-low-chill.md |  | 2026-10-18 | OUT-OF-DATE |
 | peluntan | Artocarpus sericicarpus (gumihan, tarap bulu) |  | `marang` | 2026-11-23 | PROPOSED |
 | persian_lime | C. × latifolia | lime.md | `key_lime`, `lemon` | 2026-11-19 | RESEARCHED |
@@ -122,13 +123,14 @@
 | pomelo | Citrus maxima | pomelo.md |  | 2026-10-03 | OUT-OF-DATE |
 | pulasan | Nephelium ramboutan-ake, syn. N. mutabile | pulasan.md | `longan`, `lychee` | 2026-10-03 | OUT-OF-DATE |
 | purple_passionfruit | Passiflora edulis | passionfruit.md | `yellow_passionfruit` | 2026-09-30 | OUT-OF-DATE |
-| quince | Cydonia oblonga | quince.md | `japanese_quince`, `loquat` | 2026-10-02 | OUT-OF-DATE |
+| quince | Cydonia oblonga | quince.md | `japanese_quince`, `loquat`, `medlar` | 2026-10-02 | OUT-OF-DATE |
 | rambutan | Nephelium lappaceum | rambutan.md | `longan`, `lychee`, `mata_kucing` | 2026-09-30 | OUT-OF-DATE |
 | rangpur_lime | Citrus × limonia (mandarin × citron) |  | `key_lime`, `mandarin` | 2026-11-19 | PROPOSED |
 | raspberry | Rubus idaeus | raspberry.md |  | 2026-09-29 | OUT-OF-DATE |
 | red_currant | Ribes rubrum | red-currant.md |  | 2026-10-01 | OUT-OF-DATE |
 | satsuma | Citrus unshiu | satsuma.md | `kunenbo`, `mandarin`, `clementine` | 2026-10-03 | OUT-OF-DATE |
 | seed_watermelon | Citrullus lanatus seed types and C. mucosospermus | watermelon.md | `citron_melon`, `watermelon` | 2026-10-10 | OUT-OF-DATE |
+| service_tree | Sorbus domestica |  | `medlar` | 2026-11-23 | PROPOSED |
 | shiikuwasha | Citrus depressa (Okinawan sour citrus) |  | `hetsuka_daidai`, `kunenbo` | 2026-11-19 | PROPOSED |
 | sour_cherry | P. cerasus | cherry.md | `sweet_cherry` | 2026-09-28 | OUT-OF-DATE |
 | strawberry | Fragaria × ananassa | strawberry.md | `woodland_strawberry` | 2026-10-10 | OUT-OF-DATE |
