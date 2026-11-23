@@ -792,6 +792,15 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`pomelo--culture`** (Library): Groff, *Culture and Varieties of Siamese Pummelos*, and *The Citrus Industry* Vol. I pummelo section.
   - **Needed for:** bearing age, labour, soil, cultivar seasons (Not sourced).
 
+### pulasan (2026-11-23)
+
+- [ ] **`pulasan--statistics`** (Online): Malaysian Department of Agriculture fruit statistics (or DOSM crop tables) with pulasan planted area, harvested area and production for recent years (the DOA site did not respond).
+  - **Needed for:** yield and production scale (Not sourced).
+- [ ] **`pulasan--flower-biology`** (Online): full text of Djuita et al. (2016), *Int. J. Plant Biology* 7(1): 6149, and Junaidi et al. (2025), *Jurnal Biodjati* 10(2): 217-228.
+  - **Needed for:** bisexual-flower pollen conflict and pollinators.
+- [ ] **`pulasan--culture`** (Library/Online): bearing age, yield per tree, storage life and soil needs, e.g. PROSEA Timbers (Uji 1998), Mardaleni et al. (2022) full text, Malaysian or Indonesian extension material.
+  - **Needed for:** bearing age, storage, soil, labour (Not sourced).
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin
