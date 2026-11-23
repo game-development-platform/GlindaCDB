@@ -100,13 +100,13 @@
 | mountain_papaya | Vasconcellea pubescens | mountain-papaya.md | `papaya`, `babaco` | 2026-11-23 | RESEARCHED |
 | muscadine | Vitis rotundifolia | grape.md | `american_grape`, `grape` | 2026-11-17 | RESEARCHED |
 | natsudaidai | Citrus natsudaidai (natsumikan, incl. amanatsu) | natsudaidai.md | `daidai`, `hassaku`, `hetsuka_daidai`, `hyuganatsu`, `haruka`, `kunenbo` | 2026-11-17 | RESEARCHED |
-| nectarine | Prunus persica, smooth-skinned | nectarine.md |  | 2026-10-18 | OUT-OF-DATE |
+| nectarine | Prunus persica, smooth-skinned | nectarine.md | `peach`, `peach_low_chill` | 2026-11-23 | RESEARCHED |
 | olive | Olea europaea | olive.md |  | 2026-10-11 | OUT-OF-DATE |
 | orange | Citrus × sinensis | orange.md | `bitter_orange`, `mandarin`, `cam_xoan`, `clementine` | 2026-10-10 | OUT-OF-DATE |
 | oriental_melon | Cucumis melo Makuwa group; chamoe, makuwa uri | oriental-melon.md |  | 2026-10-06 | OUT-OF-DATE |
 | papaya | Carica papaya | papaya.md | `mountain_papaya` | 2026-09-29 | OUT-OF-DATE |
-| peach | Prunus persica | peach.md |  | 2026-10-12 | OUT-OF-DATE |
-| peach_low_chill | Prunus persica, subtropical peaches | peach-low-chill.md |  | 2026-10-18 | OUT-OF-DATE |
+| peach | Prunus persica | peach.md | `nectarine` | 2026-10-12 | OUT-OF-DATE |
+| peach_low_chill | Prunus persica, subtropical peaches | peach-low-chill.md | `nectarine` | 2026-10-18 | OUT-OF-DATE |
 | pear | Pyrus communis | pear.md | `korla_pear`, `loquat`, `medlar` | 2026-10-12 | OUT-OF-DATE |
 | pear_low_chill | Pyrus communis × P. pyrifolia hybrids | pear-low-chill.md |  | 2026-10-18 | OUT-OF-DATE |
 | peluntan | Artocarpus sericicarpus (gumihan, tarap bulu) |  | `marang` | 2026-11-23 | PROPOSED |

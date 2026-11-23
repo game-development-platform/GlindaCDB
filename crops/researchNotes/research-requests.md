@@ -626,6 +626,27 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`mountain-papaya--ciren-odepa-area`** (Online): CIREN/ODEPA fruit cadastre series for papayo by region.
   - **Needed for:** reconciling 180 ha (2019), 225 ha and 103 ha (Coquimbo 2024).
 
+### nectarine (2026-11-23)
+
+- [ ] **`nectarine--wen-1995`** (Library): Wen, I.-C., K. E. Koch and W. B. Sherman (1995), "Comparing fruit and tree characteristics of two peaches and their nectarine mutants," *Journal of the American Society for Horticultural Science* 120: 1-3.
+  - **Needed for:** measured peach-versus-nectarine differences in fruit size, firmness, colour and tree traits.
+- [ ] **`nectarine--weinberger-1975`** (Library): Weinberger, J. H. (1975), *Growing Nectarines*, USDA Agricultural Research Service, Agriculture Information Bulletin 379.
+  - **Needed for:** pollination and self-fertility, cracking, disease susceptibility and US practice.
+- [ ] **`nectarine--crisosto-1999`** (Online): Crisosto, C. H., F. G. Mitchell and Z. Ju (1999), "Susceptibility to chilling injury of peach, nectarine, and plum cultivars grown in California," *HortScience* 34: 1116-1118.
+  - **Needed for:** per-cultivar chilling-injury ratings for nectarines.
+- [ ] **`nectarine--gibert-cracks`** (Online): Gibert et al., the INRAE papers on natural cuticular cracks of nectarine, their link to irrigation, and *Monilinia laxa* infection (search hint: HAL record hal-03935451; Gibert et al. 2007 and 2009). HAL served a bot-challenge page.
+  - **Needed for:** crack density, timing, the irrigation effect and infection rates.
+- [ ] **`nectarine--ufifas-mg374`** (Online): UF/IFAS EDIS MG374, *Florida Peach and Nectarine Varieties* (current revision), https://ask.ifas.ufl.edu/publication/MG374 (redirect loop for scripts).
+  - **Needed for:** the current Florida nectarine cultivar table (chill units, fruit development period, flesh type) and settling the 100-200 vs. 200-300 chill-unit conflict.
+- [ ] **`nectarine--amygdalin-review`** (Online): the review "Amygdalin: Toxicity, Anticancer Activity and Analytical Procedures for Its Determination in Plant Seeds," *Molecules* (2021), PMC8069783 (reCAPTCHA).
+  - **Needed for:** confirming the 196 vs. 710 mg HCN/kg kernel figures and their primary source.
+- [ ] **`nectarine--jin-2020`** (Library): Jin, J., et al. (2020), "Selection of Pru p 3 hypoallergenic peach and nectarine varieties," *Allergy* 75(5): 1256-1260, doi:10.1111/all.14102, with its supplementary table.
+  - **Needed for:** nectarine Pru p 3 contents by variety and month.
+- [ ] **`nectarine--hpwra`** (Online): Hawaii-Pacific Weed Risk Assessment, *Prunus persica*, https://plantpono.org/wp-content/uploads/Prunus-persica.pdf (text not extractable by script).
+  - **Needed for:** the score, outcome and naturalisation evidence.
+- [ ] **`nectarine--layne-bassi-2008`** (Library): Layne, D. R. and D. Bassi (eds.) (2008), *The Peach: Botany, Production and Uses*, CAB International, Wallingford.
+  - **Needed for:** nectarine-specific chapters on world production, cultivars, pollination, elevation and replant.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin
