@@ -666,6 +666,19 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`olive--el-cultivo-del-olivo`** (Library): Barranco, D., R. Fernández-Escobar and L. Rallo (eds.), *El Cultivo del Olivo* (Mundi-Prensa, latest edition).
   - **Needed for:** propagation, cultivars, alternate bearing, nutrition and replant.
 
+### orange (2026-11-23)
+
+- [ ] **`orange--uc-navel-costs`** (Online): the latest UC Cooperative Extension / UC Agricultural Issues Center sample cost study for navel oranges, San Joaquin Valley (coststudies.ucdavis.edu returned 403).
+  - **Needed for:** spacing, years to bearing, yield by age, water, nitrogen, frost protection, labour hours by operation.
+- [ ] **`orange--ufifas-production-guide`** (Online): UF/IFAS *Florida Citrus Production Guide*, current edition (HLB, nutrition and irrigation chapters).
+  - **Needed for:** HLB management, its yield effect, and nutrient rates.
+- [ ] **`orange--faostat-area`** (Online): FAOSTAT Crops and Livestock, "Oranges" (item 0571), area harvested, yield and production for 2023-2024.
+  - **Needed for:** world area and yield (FAS gives tonnage only).
+- [ ] **`orange--blood-anthocyanin`** (Online): a peer-reviewed paper on temperature and anthocyanin accumulation in blood oranges (e.g. work on 'Tarocco' or 'Moro' in Sicily and the Ruby gene).
+  - **Needed for:** the cold-night colour threshold for the blood group.
+- [ ] **`orange--hlb-first-detection`** (Online): a primary record of HLB's first US detection (Miami-Dade, 2005) and Florida production since.
+  - **Needed for:** dating the HLB decline in Finding 2.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin
