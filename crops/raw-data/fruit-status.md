@@ -125,7 +125,7 @@
 | pulasan | Nephelium ramboutan-ake, syn. N. mutabile | pulasan.md | `rambutan`, `longan`, `lychee` | 2026-11-23 | RESEARCHED |
 | purple_passionfruit | Passiflora edulis | passionfruit.md | `yellow_passionfruit` | 2026-09-30 | OUT-OF-DATE |
 | quince | Cydonia oblonga | quince.md | `japanese_quince`, `loquat`, `medlar` | 2026-10-02 | OUT-OF-DATE |
-| rambutan | Nephelium lappaceum | rambutan.md | `longan`, `lychee`, `mata_kucing`, `pulasan` | 2026-09-30 | OUT-OF-DATE |
+| rambutan | Nephelium lappaceum | rambutan.md | `longan`, `lychee`, `mata_kucing`, `pulasan` | 2026-11-23 | RESEARCHED |
 | rangpur_lime | Citrus × limonia (mandarin × citron) |  | `key_lime`, `mandarin` | 2026-11-19 | PROPOSED |
 | raspberry | Rubus idaeus | raspberry.md |  | 2026-09-29 | OUT-OF-DATE |
 | red_currant | Ribes rubrum | red-currant.md |  | 2026-10-01 | OUT-OF-DATE |

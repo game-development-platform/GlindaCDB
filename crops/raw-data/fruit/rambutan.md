@@ -1,7 +1,30 @@
 # Rambutan (*Nephelium lappaceum*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/rambutan.md`
-**Researched:** 2026-09-30
+**Researched:** 2026-09-30 (re-researched 2026-11-23 against the full
+current checklist in `skills/crop-research/SKILL.md` and
+`templates/research-doc.md`.
+- **Re-opened:** Morton's "Rambutan" chapter, the Wikipedia "Rambutan"
+  article, the HB66 "Rambutan" chapter, the Isenberg et al. (2016) aril
+  toxin paper, the Sanford et al. (2018) seed toxin paper, the FHIA
+  agroforestry guide (Honduras, 2018), and FAO-61 Annex 1 (still no
+  entry for rambutan or *Nephelium*).
+- **Added:** UH-CTAHR PD-86 (corky bark disease), and snippets on
+  Hawaii flowering and NAA research, Northern Territory irrigation
+  agnotes, and Thai production.
+- **Dropped,** because the source could not be re-found or re-opened: the
+  Hawaii phenology report (induction temperature, 2-4 weeks of stress,
+  leaf-curl cue, weeks to maturity), the Hawaii male-flower induction
+  report (replaced by NIFA project snippets), the postharvest bulletin
+  archived by a rare-fruit group (spintern stomata, cultivar chilling
+  floors; HB66 cites the same O'Hare work), the unnamed food-composition
+  table, the Costa Rica ministry sheet, the TFNet pages, the Puerto Rico
+  cultivar trials, the Hawaii diversification bulletin, the online course
+  module, the unidentified labour-days snippet, the nursery cold-tolerance
+  snippets, and the estimates built by analogy (labour, water stage
+  lengths, rooting depth, yield tiers, days to first harvest). The old
+  claim of "pronounced alternate bearing" is reversed: Morton says
+  "biennial bearing is rare" [1].)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -10,515 +33,352 @@ licensed under this project's MIT license (see repository `LICENSE`).
 
 ## Naming and scope
 
-*Nephelium lappaceum* (Sapindaceae), a hairy-skinned soapberry-family
-fruit native to the Malay archipelago, known by a number of regional
-names. Over 200 cultivars have been selected from clonal lines across
-tropical Asia [2]. Several related fruit this project has also researched
-or identified as candidates include a subtropical soapberry-family
-relative with a similar cluster-borne-aril fruit structure, a further
-closely related species not yet researched by this project at the time
-of this entry, and this crop's own close relative (a related *Nephelium*
-species with a sweeter, spineless, freestone aril and an edible seed,
-separately researched and confirmed distinct from this crop). An
-unrelated tropical fruit in a different genus, sometimes compared
-informally to this crop, is noted but not covered here.
+*Nephelium lappaceum* L. (Sapindaceae); synonyms *Euphoria nephelium* DC.,
+*Dimocarpus crinita* Lour. [1]. From Malay *rambut*, "hair" [1][2]. Other
+names: chom chom (Vietnam), ser mon (Cambodia), ngo (Thailand) [1][2].
+- **Cultivars:** "well over 200" clones across tropical Asia; centre of
+  diversity Indonesia [2].
+- **Scope:** one cropID. Pulasan (*N. ramboutan-ake*) has its own row.
+- **Gate check (2026-09-30, re-confirmed 2026-11-23): passes,** against
+  lychee and longan:
+  - strictly humid-tropical, within 12-15° of the equator [2];
+  - flowering triggered by water stress, not cold [6][7];
+  - most grafted cultivars bear only functionally female flowers and need
+    pollen from elsewhere (Finding 2) [1][7];
+  - aril free of measurable hypoglycin A and MCPG, unlike lychee and
+    longan (Finding 4) [4].
 
-This crop passes this project's distinctiveness check clearly against its
-closest subtropical relative on several grounds: this crop is strictly
-humid-tropical in climate requirement, while its relative is subtropical
-and needs a cool winter; this crop's flowering is triggered by a period of
-water stress rather than cold; this crop is stored several degrees
-warmer than its relative; this crop has a distinctive sex system
-(described in Finding 2) that commonly leaves grafted orchards short on
-pollen, a problem its relative does not share; and this crop's edible
-aril carries no measurable level of a specific toxin class found in
-measurable amounts in its relative's aril.
+**Relatives in this project:**
+- pulasan (`pulasan`, `pulasan.md`), the same genus;
+- longan (`longan`), lychee (`lychee`) and mata kucing (`mata_kucing`),
+  other Sapindaceae fruits.
+
+**Proposed:** none.
 
 ## Research findings
 
-**Finding 1 — flowering is triggered by drought, not cold.** Flower
-induction requires warm mean temperatures together with two to four weeks
-of genuine water stress applied to mature, dormant terminal buds [3]. The
-practical grower's cue in at least one major Southeast Asian producing
-country is to withhold irrigation until terminal leaf margins visibly
-curl upward, then apply a modest irrigation pulse to trigger flowering
-[3]; a separate regional guidance source gives a specific soil-water-
-tension range to hold during this induction period [11]. Heavy rain
-during the induction window pushes the tree into vegetative leaf growth
-instead of flowering [3]. Cultivars differ meaningfully in how long a dry
-spell they need to induce flowering, ranging from roughly two weeks to a
-full month depending on cultivar [17]. In a typical monsoon climate, each
-tree flowers just once a year, though early- and late-flowering cultivars
-together can give two effective cropping seasons within a region [3]. In
-an unusually even, non-monsoonal tropical climate (a documented Hawaiian
-research site), trees instead flowered two to three times a year, quite
-unpredictably, because individual shoots never rested in synchrony with
-each other [3].
+**Finding 1 — water stress triggers flowering.**
+- "Rambutan flowers in response to water stress"; a monsoon followed by a
+  dry season is the typical trigger [6].
+- Hawaii has short dry spells in winter and spring, "permitting one crop
+  in late spring and another in early summer" [6]. NIFA project snippets:
+  flowering follows stress by about one to two months, giving 2 crops in
+  12 months [7].
+- Malaya: main crop in June, a lesser one in December. Philippines: flowers
+  late March-early May, fruit July-October [1]. Costa Rica: one season,
+  flowering at the start of the April rains, fruit ripe August-September
+  [2]. Honduras north coast: harvest from August, to December in places
+  [5].
+- **NT agnote snippets [8]:** about 80% of fine roots in the top 15 cm;
+  60-80 kPa soil tension "to reduce leaf flushing and induce flowering"
+  (depth cut off in the snippet).
+- "The dry season should not last much over 3 months" [1].
 
-**Finding 2 — pollen is genuinely scarce in commercial budded orchards,
-due to a distinctive three-way flower/tree sex system.** Trees fall into
-three functional types: purely male trees that shed pollen; trees whose
-flowers are hermaphrodite in structure but function purely as female,
-since their anthers never actually open; and trees bearing a mix of that
-female-functioning type alongside a smaller proportion of flowers that
-function as male [1][12]. Commercially grafted cultivars are almost all
-of the purely female-functioning type, and the male-functioning flower
-share even on mixed-type trees can be well under 1% of a flower cluster
-[12]. This pollen shortage leads directly to poor fruit set and
-produces characteristic aril-less, parthenocarpic fruit when pollination
-fails [12]. Seedling-grown trees run the opposite direction — a very
-large share, documented at anywhere from roughly a third up to roughly
-two-thirds depending on source, turn out purely male [1][2]. Growers
-address this pollen shortage in three documented ways: interplanting
-dedicated male trees or a specific pollen-rich cultivar; physically
-hanging cut male flower clusters in the canopy of female-functioning
-trees; or applying a specific synthetic plant-hormone spray to flower
-clusters at an early bloom stage, which induces male-functioning flowers
-to develop within about a week [12].
+**Finding 2 — grafted orchards are short of pollen.**
+- Three flower kinds: male, hermaphrodite functioning as male (h.f.m.),
+  and hermaphrodite functioning as female (h.f.f.) [1].
+- Philippines 1965-67: 'Seematjan' bore only h.f.f. flowers, so male
+  trees "necessary"; 'Seenjonja' and 'Maharlika' mostly h.f.f. with a few
+  h.f.m. [1].
+- Hawaii (NIFA snippets): grafted panicles carry h.f.f. flowers with
+  "<1.0%" h.f.m.; NAA sprayed on female panicles early in flower opening
+  induces functionally male flowers with viable pollen; registration of
+  NAA for this use was being pursued (status not confirmed) [7].
+- **Seedlings:** "the ratio of female to male trees is 4 or 5 to 7"; one
+  Philippine seedling orchard had 67% males; "hardly 5% of female trees
+  give a profitable yield" [1]. Wikipedia: "as many as 2/3" male [2].
+- **Conflict:** "Most commercial cultivars are hermaphroditic" [2] vs.
+  grafted cultivars bearing almost entirely functionally female flowers
+  [1][7].
 
-**Finding 3 — the fruit's spiny appendages dry out quickly: roughly two
-weeks of cold storage, only a few days at room temperature.** This fruit
-is non-climacteric, with very low ethylene output, and green,
-under-ripe fruit stays sour rather than ripening further off the plant
-[4][5]. The fruit's characteristic soft spiny appendages (spinterns)
-carry roughly five times the stomatal density of the fruit body itself;
-they lose water and visibly brown well before the flesh is affected,
-making spintern/skin darkening the dominant postharvest quality defect
-[4][5]. Documented shelf-life figures vary considerably by storage
-regime: roughly two weeks under a specific cool, humid, sealed-film
-storage condition; several days at a moderate room temperature; and only
-two to three days at high ambient tropical temperature [4][5]. A specific
-chilling-injury temperature floor is documented, below which the fruit is
-damaged, with that floor varying somewhat by cultivar [4][5]. Notably, the
-edible flesh itself survives even fairly cold storage reasonably well for
-a few weeks, even as the skin and spiny appendages darken from cold
-exposure [4].
+**Finding 3 — short shelf life; the spines go first.**
+- Non-climacteric, ethylene <0.04 µL/kg/h [3]. Green fruit is sour; pick
+  16-28 days after colour break; over-ripe fruit goes watery [3].
+- **Storage [3]:**
+  - 8-15 °C, 90-95% RH: 14-16 days;
+  - 20 °C, 60% RH: 3-5 days;
+  - sealed film bags or CA (7-12% CO2, 3-5% O2 at 10 °C): 14-21 days;
+  - 5 °C: up to 3 weeks, but skin and spines turn brownish-red while the
+    aril stays good.
+  - HB66's chilling table lists 10 °C as the lowest safe temperature
+    ("darkening of exocarp") [3].
+- Morton: to local market "within 3 days of picking"; sealed polyethylene
+  bags at "40º F (10º C)" and 95% RH kept fruit 12 days [1] (the two
+  temperatures disagree; see Estimates).
+- Darkening comes from dehydration and mechanical injury; skin splitting
+  follows heavy rain late in fruit growth in thin-skinned cultivars [3].
+- Export practice (Honduras): water dip, 2% thiabendazole dip, perforated
+  bags, 2.2 kg cartons of 64-72 fruit, by air [5].
 
-**Finding 4 — no measurable level of a specific hypoglycemia-associated
-toxin pair in the edible flesh, and only a low level in the seed.**
-Dedicated chemical analyses found the edible aril free of measurable
-levels of either of two related hypoglycemia-associated toxin compounds
-characteristic of this plant family [6]. The seed itself showed, at most,
-a low level of one of the two compounds and no measurable level of the
-more dangerous of the two — notably, this species was the only soapberry-
-family seed tested in that study without any measurable level of that
-more dangerous compound, in contrast to a much higher level found in a
-closely related fruit's seed [7]. The seed is nonetheless still described
-in classic reference material as bitter and mildly narcotic, with trace
-alkaloid content and documented saponin and tannin content in its outer
-coat; it is traditionally roasted before being eaten in at least one
-Southeast Asian country [1].
+**Finding 4 — the aril is free of the soapberry toxins.**
+- Isenberg et al. (2016): hypoglycin A (HGA) and MCPG "were below the
+  1 μg/g LRL for all five fruit arils" of rambutan; canned rambutan also
+  below. Lychee arils reached HGA 1.00-21.2 and MCPG 1.35-9.73 μg/g;
+  longan arils HGA 1.08-2.45 μg/g [4].
+- Sanford et al. (2018), seeds (μg/g dried seed): rambutan MCPG
+  <LRL-1.88, HGA <LRL (n = 5); "HGA was observed in all soapberry seeds
+  tested, except for rambutan". Longan HGA 45.3-3,540; mamoncillo
+  90.5-970; lychee MCPG up to 3,420 [4].
+- Morton still calls the seeds "bitter and narcotic", with alkaloid traces
+  and saponin and tannin in the testa; seeds are roasted and eaten in the
+  Philippines, "reputedly poisonous when raw" [1].
 
-**Finding 5 — documented yields span a wide 2-20 t/ha range, while real
-labor-cost data remain thin.** Documented yield figures range from a
-national general average in one major Southeast Asian producing country,
-through several intensively managed Central American and Caribbean trial
-and commercial figures in the low-to-mid teens of tonnes per hectare, up
-to the high end of a broader regional range for mature, well-managed
-orchards [1][9][10][14][17]. Individual mature trees are documented
-bearing a wide range of total fruit weight per season, and yields swing
-considerably from year to year on the same tree — a pattern of pronounced
-alternate bearing [1]. The only labor-hour figure found for this crop is
-a single snippet-level estimate of total labor days per productive
-hectare per year from one Central American source; essentially all other
-labor-hour figures used in this research are estimates rather than
-directly sourced measurements.
+**Finding 5 — yields of about 5-14 t/ha.**
+- **Honduras (FHIA budget) [5]:** bearing from year 3; 46,000 fruit/ha
+  in year 3, 133,000 in year 4, 244,000 in year 5, 400,000 a year from
+  year 7 to year 25 (estimated 12.2-13.8 t/ha at full bearing).
+- **Philippines [1]:** 21 selections averaged 120 kg/tree over 4 years;
+  "the general average is only 106 lbs (48 kg)". Single trees bore 200 kg
+  one season and 60 kg the next. "Biennial bearing is rare" because
+  bearing shoots flush and fruit again the next year [1].
+- Wikipedia: 5,000-6,000 fruit (60-70 kg) per tree; 1.2 t/ha in young
+  orchards up to 20 t/ha in mature ones [2].
+- **Hawaii:** 120 t from 24 harvested ha in 1997 [2]; 204 t from 70 farms
+  in 2008, worth US$1.08 million [6].
+- **Countries (2014) [2]:** Thailand 450,000 t, Indonesia 100,000 t,
+  Malaysia 60,000 t. Thai OAE forecast for 2025: 0.21 million t (snippet)
+  [9].
 
 ## Agronomic data
 
-- **Life form / season:** Perennial evergreen tropical tree, often quite
-  large in the wild but kept to a considerably smaller managed canopy
-  height through regular post-harvest pruning in commercial orchards.
-- **Harvest pattern:** Typically one crop a year under a monsoon-style dry
-  season, harvested over several weeks; in climates without a pronounced
-  dry season, flowering (and therefore harvest) can occur two to three
-  times a year, though unpredictably (Finding 1).
-- **Climate:** Strictly humid-tropical lowland, within a fairly narrow
-  latitude band of the equator and generally below roughly 500-600 m
-  elevation; frost-free climate only, since frost kills the tree.
-- **Composition:** A moderately high calorie content for a fresh fruit,
-  with modest protein; composition figures vary somewhat across different
-  source analyses (see Open research questions).
-- **Pollination:** Insect-pollinated, with pollination quality directly
-  tied to the tree's sex-type composition described in Finding 2; a
-  genuine shortage of pollen-producing flowers in commercial clonal
-  orchards is a well-documented management challenge rather than classic
-  self-incompatibility.
-- **Yield:** A very wide 2-20 t/ha range across growing regions and
-  management intensity (Finding 5; see Estimates below for adopted tier
-  values).
-- **Water use:** No standard international crop-coefficient table exists
-  for this species; water-use parameters here are estimated from a
-  regional crop-factor guidance source (itself based on pan-evaporation
-  multipliers rather than a standard reference-evapotranspiration
-  approach), tempered by analogy to other humid-tropical tree-fruit
-  crop-coefficient values. Roughly 80% of fine roots are documented
-  concentrated in the top 15 cm of soil in at least one study, implying a
-  genuinely shallow effective rooting depth and low tolerance for soil
-  moisture depletion — this tree does not tolerate low soil moisture well
-  and needs frequent, often daily, irrigation during fruit fill. The
-  induction stage (Finding 1) is the one deliberate exception, where
-  water stress is actively required rather than avoided.
-- **Propagation:** Overwhelmingly by patch-budding or Forkert-budding
-  onto seedling rootstocks, with air-layering and inarching used to a
-  lesser extent (air-layered plants often die after transplanting,
-  per one source); true seed is used only for rootstocks and breeding,
-  not for fruiting trees, given the male/female sex-ratio issue described
-  in Finding 2. This crop's own close relative is itself documented as an
-  alternate rootstock option.
-- **Labor:** Essentially all labor-hour figures besides one unverified
-  total-labor-days snippet are estimated by analogy to a closely related
-  cluster-harvested soapberry-family fruit this project has researched,
-  given the shared harvest method (cutting fruit clusters with a length
-  of stem attached).
-- **Soil:** A moderately acidic pH preference; deep, well-drained,
-  organically rich soils (clay loam, rich sandy loam, or deep peat) are
-  preferred, and good drainage is specifically required.
-- **Stand life:** Budded/grafted trees typically begin flowering a few
-  years after planting, reach a stable full-bearing plateau several years
-  later, and have a documented productive life of at least several
-  decades in at least one detailed regional production budget; the crop
-  shows pronounced alternate bearing, with large year-to-year swings in
-  individual-tree yield.
-- **Disease/pest profile:** A specific stem-canker fungal disease
-  weakening branches (severe enough in at least one region to cause
-  branches to break under fruit load), powdery mildew, and additional
-  canker diseases; documented pests include mealybugs and scale insects
-  on the fruit itself, fruit flies, leafcutter ants, thrips, a large
-  true-bug pest, a twig-boring insect, and fruit predation by birds and
-  flying foxes.
-- **Cultivars:** A very large number of named clonal selections (over
-  200 overall) from Thailand, Malaysia, Indonesia, and the Philippines in
-  particular, varying in skin color, fruit size, sugar content, chilling
-  tolerance, flowering intensity, and — critically — the proportion of
-  male-functioning flowers they produce, which determines whether a given
-  cultivar needs a separate pollinizer.
-- **Harvest:** Fruit clusters are cut with a length of stem attached,
-  often using a long pole pruner from a ladder onto catch cloths, during
-  the cooler hours of the day; individual fruit are then detached from
-  clusters during sorting and packing.
-- **Storage:** A notably narrow range of safe storage temperatures (a
-  cultivar-dependent chilling floor below which the skin and spiny
-  appendages darken, but genuine damage sets in); roughly two weeks of
-  storage life under ideal cool, humid, sealed conditions, far less at
-  warmer temperatures (Finding 3).
+- **Life form / season:** evergreen tree 15-25 m, trunk to 60 cm [1][2].
+  Light pruning only, for form [1].
+- **Harvest pattern:** one or two crops a year (Finding 1); harvest runs
+  four to seven weeks [2].
+- **Days/years to first bearing:**
+  - budded trees flower 2.5-3 years after field planting [1];
+  - production "a partir del tercer año" (from year 3), full and stable by
+    year 7 [5];
+  - seedlings bear in 5-6 years [1].
+- **Climate zones:**
+  - sea level to 500-600 m, humid, well-distributed rain [1]; to 500 m
+    [2]; 0-800 m, 2,000-3,000 mm rain, 26-32 °C mean (rambutan-plantain-
+    mahogany system) [5];
+  - Oriental Mindoro: 27.3 °C mean, 82% RH, 180 cm rain on about 165 days
+    [1];
+  - within 12-15° of the equator [2].
+  - Frost and cold thresholds: Not sourced.
+  - Shelter from strong wind during flowering and fruiting [1].
+- **Composition (per 100 g edible portion, Ceylon) [1]:** moisture 82.3 g,
+  protein 0.46 g, carbohydrate 16.02 g (reducing sugars 2.9, sucrose 5.8),
+  fibre 0.24 g, Ca 10.6 mg, P 12.9 mg, ascorbic acid 30 mg. USDA has only
+  canned-in-syrup data (82 kcal); "raw fruit data are unpublished" [2].
+- **Edibility:** aril raw, stewed, canned in syrup, or as a Malayan
+  preserve with seeds and cloves [1][2]; seed roasted (Finding 4) [1].
+- **Pollination:** insects; functional dioecy (Finding 2) [1][7]. Pollinator
+  species: Not sourced.
+- **Photoperiod sensitivity:** Not sourced.
+- **Yield:** Finding 5.
+- **Water use:**
+  - NT agnote crop factors (× pan evaporation): 0.6-0.8 end of wet to
+    flowering, 1.0 flowering to early fill, 1.2 early fill to harvest, 1.0
+    harvest to end of wet; an older agnote gives 0.76 before flowering, or
+    0.5 to promote earlier flowering (snippets) [8].
+  - "Irrigation is given as needed in dry seasons" [1].
+  - FAO-56 has no rambutan Kc. Rooting depth: about 80% of fine roots in
+    the top 15 cm [8].
+- **Propagation:**
+  - patch-budding preferred; 83.6% success in May and 82% in June-July
+    (Oriental Mindoro) [1];
+  - inarching works onto 5-9-month seedlings of rambutan, pulasan or
+    *N. intermedium*, but is cumbersome [1];
+  - air-layers often die after transplanting; cleft-, splice- and
+    side-grafting "not too satisfactory" [1][2];
+  - Honduras: seed germinates in 15-22 days; budding 6 months after
+    bagging; 7-8 months in the nursery [5].
+  - **Seed:** germinates in 9-25 days; 87-95% when 2 days old, 50-65% after
+    a week; drying kills it; washed seed keeps 3-4 weeks in moist sawdust
+    [1].
+- **Labor:**
+  - Honduras establishment year (rambutan with plantain and mahogany):
+    53,240 lempiras of labour at L 220 per day, about 242 person-days per
+    ha for the whole system; rambutan-only tasks include 5 days layout, 3
+    days holing, 1 day formative pruning [5].
+  - Mature-orchard labour by task: Not sourced.
+  - Harvest is by 4 m pole pruner from a ladder onto cloth, in cool hours;
+    baskets hold 400-450 fruit [5].
+- **Soil:** deep clay loam, rich sandy loam or deep peat, well drained [1];
+  more than 1 m deep, sandy loam to clay loam, pH 5.5-6.5 (Honduras
+  system) [5]. Hilly, well-drained sites [2].
+- **Nutrients:** a 6,720 kg/ha harvest removes about 15 kg N, 2 kg P,
+  11.5 kg K, 5.9 kg Ca and 2.67 kg Mg per ha (Malaya) [1]. Philippine
+  practice: 1 kg ammonium sulphate plus 1 kg 12-24-12 per tree after
+  harvest, and 1 kg ammonium sulphate at the end of the rains [1].
+- **Storage (postharvest):** Finding 3 [1][3].
+- **Establishment:**
+  - Philippines: at least 10 m apart, 12 m on rich soil [1];
+  - Honduras: 8 × 8 m (156 trees/ha square, 179 triangular), planted 2-3
+    months into the rains, interplanted with pineapple, plantain, cassava
+    and mahogany [5].
+- **Cultivars [1][2]:**
+  - Malaya: 'Chooi Ang', 'Peng Thing Bee', 'Ya Tow', 'Azimat', 'Ayer Mas';
+  - Indonesia: 'Binjai', 'Lebak Bulus', 'Rapiah', 'Cimacan', 'Sinyonya'
+    (leading); Ochse's 'Seematjan', 'Seenjonja', 'Seelengkeng' and others;
+  - Philippines: 21 selections, e.g. 'Princess Caroline' (200 kg/tree at
+    8 years, 44% flesh), 'Roxas', 'Zamora'; 'Maharlika', 'Seenjonja',
+    'Seematjan';
+  - yellow types: 'Atjeh koonig', 'Rambutan gading'.
+- **Weather response:** heavy rain late in fruit fill splits thin skins
+  [3]; poor filling after dry conditions just after flowering [3]; wind
+  damage at flowering and fruiting [1].
+- **Water regime:** mostly rain-fed with dry-season irrigation [1][8].
+- **Soil biology:** Not sourced.
+- **Invasiveness / biosecurity:** fruit-fly host; quarantine treatments are
+  irradiation or heat (heat browns the skin) [3]. Corky bark
+  (*Dolabra nepheliae*) was first found in Hawaii in 1984 [6].
+- **Controlled environment:** a USDA greenhouse in Hilo (where corky bark
+  was isolated, 2007) [6]; otherwise Not sourced.
 
 ## Hazards
 
-- The seed carries a low level of one, but no measurable level of the
-  more dangerous of two hypoglycemia-associated toxin compounds
-  characteristic of this plant family; the edible aril itself carries no
-  measurable level of either compound (Finding 4). **TO BE ADDRESSED** —
-  a fuller write-up of this plant-family toxin-class hazard is deferred
-  until this project has a place for this kind of plant-toxin health/
-  safety data, shared with other soapberry-family fruit this project has
-  researched.
-- The seed additionally carries trace alkaloid content along with
-  saponin and tannin in its outer coat, consistent with classic
-  reference descriptions of the seed as "bitter and narcotic"; it is
-  traditionally roasted before being eaten in at least one country.
-- No livestock-feed hazard data were found for seed byproducts.
+- **Seed:** Finding 4; low MCPG, no measurable HGA [4]; "bitter and
+  narcotic" [1].
+- **Rind:** "said to contain a toxic saponin and tannin" [1].
+- **Diseases:**
+  - corky bark / stem canker, *Dolabra nepheliae*: raised black cankers;
+    branches break under the crop; no chemical control; use clean
+    budwood [5][6]. Morton names stem canker as *Fomes lignosus*
+    (Philippines) and *Ophioceras* sp. (Malaya), "can be fatal" [1];
+  - powdery mildew (*Oidium*) [1];
+  - postharvest: *Colletotrichum gloeosporioides*, *Botryodiplodia
+    theobromae*, *Pestalotiopsis*, *Phomopsis* [3].
+- **Pests:** mealybug (*Pseudococcus lilacinus*), giant bug (*Tessaratoma
+  longicorne*), mango twig-borer, Oriental fruit fly; birds and flying
+  foxes [1]. Mealybugs on fruit do not damage the flesh [3].
+- **Ergot / mycotoxin:** none reported this pass.
+
+**TO BE ADDRESSED** — the Sapindaceae toxin data (shared with lychee,
+longan, mamoncillo and ackee) is deferred until this project has a place
+for plant-toxin data.
 
 ## Uses and processing
 
-- **Chains:** fruit clusters → cut with stem attached → individual fruit
-  detached, sorted, and packed → stored cool. Culls or fresh fruit →
-  peeled, aril separated from the seed → preserved, stewed as a dessert,
-  or made into a fruit syrup. Seeds → roasted and eaten in at least one
-  country, or dried and pressed for a solid white fat used traditionally
-  in soap- and candle-making. Rind → dried, sold traditionally as an
-  astringent remedy and used as a tannin source for dyes. Prunings →
-  fuel.
-- Not covered in detail by this research: canned-in-syrup processing
-  detail; the specific hormone-spray and hung-male-panicle pollination
-  aids described in Finding 2; export fungicide-dip treatment detail;
-  timber use (the wood is documented as difficult to dry without
-  splitting); broader folk-medicine uses beyond the seed and rind uses
-  noted above.
+- **Chain 1 (fresh):** clusters cut with pole pruners → caught on cloth →
+  baskets → local sale in sacks or boxes; export: dipped, bagged, 2.2 kg
+  cartons by air [5].
+- **Chain 2 (preserve):** peeled fruit boiled → flesh separated → seeds
+  boiled soft → combined with sugar (and cloves) about 20 minutes → jars
+  [1].
+- **Chain 3 (canned):** peeled fruit → canned in syrup, "on a limited
+  scale" [1][2].
+- **Chain 4 (seed fat):** kernels → 37-43% solid white fat resembling
+  cacao butter (arachidic 34.7%, oleic 45.3%); possible soap and candles
+  [1][2].
+- **Other:** wood for construction, apt to split [1]; rind sold dried as a
+  medicine in Malaya; leaf, bark and root remedies [1].
 
 ## Open research questions
 
-- Storage chilling-injury threshold is given somewhat differently across
-  sources — a single conservative "lowest safe temperature" figure from
-  one long-standing commercial storage reference versus somewhat lower,
-  cultivar-specific chilling floors from a dedicated postharvest-
-  physiology source — not fully reconciled, though likely reflecting
-  genuine cultivar variation rather than a true contradiction.
-- Protein and vitamin C content differ meaningfully between a food-
-  composition-database figure and a classic warm-climate-fruit reference
-  work's figure — not reconciled.
-- The proportion of seedling-grown trees that turn out male is given
-  quite differently across sources (roughly a third versus roughly two-
-  thirds) — not reconciled, and this matters considerably for breeding
-  and rootstock-nursery planning.
-- Pre-harvest irrigation guidance conflicts between a source recommending
-  an irrigation cutoff several weeks before harvest and another source
-  recommending daily irrigation essentially through to fruit maturity —
-  not reconciled.
-- Water-use parameters are derived from a regional pan-evaporation-based
-  crop-factor source whose underlying stage lengths were not explicitly
-  given and had to be assumed from a generic seasonal calendar; a
-  dedicated lysimeter or sap-flow study would be considerably more
-  reliable.
-- Rooting depth and soil-moisture-depletion allowance are estimated
-  rather than directly measured, cross-checked only indirectly against a
-  documented "more than three days without water causes stress" field
-  observation.
-- Labor-hour figures for every operation besides a single unverified
-  total-labor-days snippet are estimates by analogy to a related
-  cluster-harvested fruit crop, not direct measurements.
-- No formal salinity-tolerance study or reference-table entry was found
-  for this species.
-- A regional government agricultural-extension series that would likely
-  have strengthened both the water-use and yield figures for this crop
-  returned access errors when consulted and was only available at
-  snippet level.
+- **Lowest safe storage temperature:** 10 °C (HB66 table) vs. 8-15 °C
+  storage vs. up to 3 weeks at 5 °C with a good aril [3].
+- **Morton's storage temperature:** "40º F (10º C)" [1].
+- **Male share of seedlings:** 58-64% (from Morton's ratio) vs. 67% (one
+  orchard) vs. "as many as 2/3" [1][2].
+- **Cultivar sex:** "most commercial cultivars are hermaphroditic" [2] vs.
+  functionally female grafted cultivars [1][7].
+- **Fruit weight:** 5,000-6,000 fruit = 60-70 kg/tree, about 11-13 g per
+  fruit [2], vs. 64-72 fruit per 2.2 kg, about 31-34 g [5].
+- **Morton's yield units:** 'Seematjan' "16 lbs/acre (16 kg/ha)" and
+  similar per-area Philippine figures look misprinted; not used.
+- **Not sourced:** frost limits, salinity (no FAO-61 entry [10]), Kc,
+  photoperiod, pollinator species, mature-orchard labour.
+- **Works identified, not yet read:**
+  - NT agnotes 662 and D38 (rambutan irrigation; the site refused
+    automated fetches);
+  - Kawabata et al. (2005), "Overview of rambutan phenology, flowering,
+    and fruit set in Hawaii";
+  - O'Hare (1995), *Postharvest Biol. Technol.* 6: 189-199;
+  - Thai OAE national statistics.
 
 ## Estimates and derivations
 
-Growing-timeline figures (days from planting to first harvest) are
-derived by combining a documented years-to-first-flowering figure for
-budded trees with a documented weeks-from-flowering-to-fruit-maturity
-figure, giving a combined estimate in the range of roughly 1,000-1,300
-days; one detailed regional production budget's convention of counting
-meaningful production from the third year onward is used as the adopted
-first-harvest figure.
+**FHIA full-bearing yield [5]:** 2.2 kg / 72 fruit = 30.6 g; 2.2 kg / 64
+fruit = 34.4 g. 400,000 fruit/ha × 30.6-34.4 g = 12.2-13.8 t/ha. Year 3:
+46,000 × 30.6-34.4 g = 1.4-1.6 t/ha. Per tree at 156 trees/ha: 400,000 /
+156 = 2,564 fruit, or 78-88 kg.
 
-Yield tiers are derived by bracketing a national general-average figure
-and a specific national benchmark figure for the "average" tier; by
-combining a detailed regional production budget's plateau-year
-fruit-count figure (converted to weight using a documented export-carton
-fruit-count range) with two further intensively managed trial yield
-figures for the "good" tier; and by using the high and low ends of a
-broader regional yield-range source for the "exceptional" and "poor"
-tiers respectively.
+**Philippine per-tree yields as per-area [1]:** at 100 trees/ha (10 m
+square), 120 kg/tree = 12 t/ha and 48 kg/tree = 4.8 t/ha. Spacing from
+[1]; combining the two is an assumption.
 
-Seasonal water-use figures (crop-coefficient-days and the associated
-seasonal water totals) are derived from a regional pan-evaporation-based
-crop-factor source, converting assumed seasonal stage lengths and
-multiplier values into an estimated crop-coefficient figure, moderated
-downward somewhat since the raw conversion would otherwise imply an
-unusually high water demand relative to other humid-tropical tree-fruit
-crops this project has researched; this remains one of the weaker
-estimates in this entry and would benefit from a dedicated field study.
+**Hawaii 1997 [2]:** 120 t / 24 ha = 5.0 t/ha.
 
-Effective rooting depth and the soil-moisture-depletion allowance are
-estimated from the documented concentration of fine roots in the topsoil,
-cross-checked against a documented field observation of stress onset
-after roughly three days without irrigation under standard soil-moisture-
-holding assumptions.
+**Nutrient removal per tonne [1]:** dividing by 6.72 t/ha: N 2.2, P 0.30,
+K 1.71, Ca 0.88, Mg 0.40 kg/t.
 
-Labor-hour figures across all operations besides harvest are estimated,
-while harvest labor specifically is derived by analogy to a closely
-related, similarly cluster-harvested soapberry-family fruit crop's
-documented hand-harvest rate, adjusted qualitatively for this crop's
-taller trees and pole-pruner harvest method.
+**Energy [1]:** protein 0.46 × 4 + carbohydrate 16.02 × 4 = 65.9 kcal/100
+g, about 660 kcal/kg, excluding fat (Morton gives none).
 
-Soil nitrogen/phosphorus/potassium removal-per-tonne figures are derived
-directly from one classic reference work's documented nutrient-removal
-figures for a specific yield level, converted to standard metric units
-and expressed per tonne of fruit.
+**Male seedlings [1]:** 7 / (4 + 7) = 64%; 7 / (5 + 7) = 58%.
 
-The yield-profile's peak daily harvest rate and on-tree standing-quality
-decay rate are derived from the adopted "average" yield tier divided by
-an assumed harvest-window length, with the standing-quality decay rate
-set from the documented observation that over-ripe fruit quickly becomes
-watery rather than improving with time on the tree.
+**Morton storage temperature [1]:** 40 °F = 4.4 °C, while 10 °C = 50 °F;
+one of the two printed numbers is wrong. 60 °F = 15.6 °C (as printed).
+
+**Wikipedia fruit weight [2]:** 60,000-70,000 g / 5,000-6,000 fruit =
+10-14 g per fruit.
+
+No other estimates are made in this pass.
 
 ## Sources
 
-[1] A classic mid-20th-century reference work on warm-climate fruit
-crops, chapter on this species. Supplied: naming and synonyms, tree and
-fruit dimensions, origin, named Philippine and Indonesian cultivars with
-yield figures, flower types, climate and elevation range, soil
-preference, seed germination and viability, the male-seedling-share
-finding, budding success rates and alternate rootstock options, spacing,
-fertilization, nutrient-removal figures for a specific yield level,
-seasonal timing, harvest method, per-tree and per-hectare yield figures,
-a short-shelf-life market constraint, cold sealed-bag storage guidance,
-pests and diseases, food uses, composition, seed and rind toxicity, seed
-fat content, wood use, and folk-medicine uses. Accessed 2026-09-30,
-opened directly (summarized).
+[1] Morton, J. (1987), *Fruits of Warm Climates*, "Rambutan," pp.
+262-265, as hosted by Purdue University's Center for New Crops. Supplied:
+names, tree and fruit description, flower types, distribution, cultivars
+and per-tree yields, climate, soil, seed and propagation, spacing,
+fertilizer, nutrient removal, seasons, harvest, yield and bearing,
+sex-system trials, keeping quality, pests and diseases, food uses,
+composition, toxicity, seed fat, wood, medicinal uses. Accessed
+2026-11-23, opened directly.
 
-[2] A community-maintained general reference encyclopedia article on this
-species. Supplied: cultivar count and related species, tree size, fruit
-cluster description, male-and-female tree system, latitude and elevation
-range, male-seedling-share figure, flowering-season pattern, harvest-
-window length, per-tree fruit-count and weight figures, yield range by
-orchard age, production figures by country for one recent year, canned-
-product nutrition figures, seed fat content, and historical introductions
-to new growing regions. Accessed 2026-09-30, opened directly
-(summarized).
+[2] Wikipedia, "Rambutan". Supplied: etymology, tree and fruit size,
+history, canned composition, seed fatty acids, cultivars, uses,
+latitude and elevation, propagation, seasons, per-tree and per-ha yields,
+Hawaii 1997, production by country, distribution. Accessed 2026-11-23,
+opened directly.
 
-[3] A university tropical-agriculture research-station report on flower
-and fruit-development phenology of this species in a Hawaiian growing
-region. Supplied: flower-induction conditions (temperature threshold,
-water-stress duration, bud dormancy, leaf-curl cue, irrigation-pulse
-trigger, citing several earlier agronomic sources), the rain-versus-
-flushing relationship, once-a-year-versus-multiple-flowering contrast
-between monsoon and even tropical climates, cultivar-specific flowering
-intensity and flushing behavior, fruit-growth-stage timing and weeks-to-
-maturity figures, named-cultivar size and sugar-content figures across
-two growing regions, a daily-irrigation-during-fruit-fill recommendation
-citing an earlier agronomic source, and regional climate description.
-Accessed 2026-09-30, PDF extracted.
+[3] Ketsa, S. and Paull, R.E., "Rambutan," in USDA Agriculture Handbook
+66, *The Commercial Storage of Fruits, Vegetables, and Florist and
+Nursery Stocks* (2016), pp. 527-529, plus its Table 1 tables of
+respiration and chilling sensitivity. Supplied: fruit description,
+maturity, packaging, storage, CA, display, chilling, ethylene,
+respiration, disorders, pathology, quarantine, fresh-cut. Accessed
+2026-11-23, opened directly (PDF text).
 
-[4] A postharvest-handling chapter on this crop in a long-standing
-federal agricultural handbook on commercial storage of fruits and
-vegetables. Supplied: fruit description, packing guidance, cooling
-method, storage temperature/humidity/duration figures at two storage
-temperatures, controlled-atmosphere guidance, maturity indices, display
-handling guidance, chilling-injury temperature and observed effects,
-ethylene and respiration behavior, physiological disorders, plant-
-pathology detail, quarantine treatment detail, fresh-cut handling limits,
-and the lowest documented safe storage temperature. Accessed 2026-09-30,
-PDF extracted.
+[4] Isenberg, S.L. et al. (2016), "Quantification of Toxins in Soapberry
+(Sapindaceae) Arils: Hypoglycin A and Methylenecyclopropylglycine," *J.
+Agric. Food Chem.* 64(27): 5607-5613; and Sanford, A.A. et al. (2018),
+"Quantitative HPLC-MS/MS Analysis of Toxins in Soapberry Seeds:
+Methylenecyclopropylglycine and Hypoglycin A," *Food Chem.* 264: 449-454.
+Supplied: aril and seed HGA and MCPG for rambutan and comparison
+species. Accessed 2026-11-23, opened directly (PMC, via a fetch agent).
 
-[5] A horticultural postharvest-research-group bulletin article on
-postharvest physiology and storage of this crop, archived by a rare-fruit
-growers' association. Supplied: maturity timing after color break, sugar-
-content range, non-climacteric ripening behavior, the spintern stomatal-
-density finding, packaging guidance, cultivar-specific storage
-temperatures and shelf-life figures, and cultivar-specific chilling-
-injury floors. Accessed 2026-09-30, opened directly (summarized).
+[5] FHIA and SOCODEVI (2018), *Guía técnica: producción de rambután en
+sistemas agroforestales*, La Lima, Honduras. Supplied: nursery and
+propagation, site requirements, spacing and densities, interplanting,
+corky bark, harvest method and season, export handling, prices,
+establishment labour, yields by year, costs. Accessed 2026-11-23, opened
+directly (PDF).
 
-[6] A peer-reviewed agricultural and food chemistry journal article
-quantifying two specific hypoglycemia-associated toxin compounds in
-several soapberry-family fruit arils. Supplied: this species' aril toxin
-levels (below the detection threshold for both compounds in a five-fruit
-sample), alongside comparison figures for three other related fruit.
-Accessed 2026-09-30, opened directly (summarized).
+[6] Combs, B., Nickum, M. and Nelson, S. (2012), "Corky Bark Disease of
+Rambutan," UH-CTAHR PD-86. Supplied: water-stress flowering, Hawaii's
+two crops, 2008 production, *Dolabra nepheliae* symptoms, spread and
+hosts. Accessed 2026-11-23, opened directly (PDF).
 
-[7] A peer-reviewed food chemistry journal article using a quantitative
-chromatography-mass-spectrometry method to measure the same two toxin
-compounds in soapberry-family seeds. Supplied: this species' seed toxin
-levels across a five-seed sample (a low level of one compound, none of
-the other), alongside comparison figures for several related species
-including one with a markedly higher level of the more dangerous
-compound, a note on this species being the only one tested without any
-measurable level of that compound, and a reference to an existing import
-safety limit used for a related toxic fruit. Accessed 2026-09-30, full
-text opened via a biomedical-literature repository.
+[7] Snippets: USDA NIFA project pages, "Flowering, fruit set and
+production of rambutan, lychee and longan in Hawaii" (University of
+Hawaii), on the timing of flowering after stress, the <1.0% h.f.m.
+flowers, NAA induction and IR-4 registration. Accessed 2026-11-23, search
+snippets only.
 
-[8] A national food-composition reference table (compiling data from a
-long-standing national food-composition summary volume), entry for raw
-fruit of this species. Supplied: energy, water, protein, fat,
-carbohydrate, fiber, vitamin C, and potassium content per unit weight.
-Accessed 2026-09-30, opened directly.
+[8] Snippets: Northern Territory Department of Agriculture agnotes on
+rambutan irrigation (No. 662 and D38), on root distribution, crop
+factors and soil tension. Accessed 2026-11-23, search snippets only.
 
-[9] A regional agricultural-research-foundation technical production
-guide for this crop grown in agroforestry systems in one Central American
-country, produced under an international development-cooperation
-project. Supplied: propagation and planting practice, seed germination
-timing, planting-season timing, spacing and planting-density options,
-site requirements (soil pH, elevation, rainfall), pest and disease
-detail including a specific stem-canker disease, harvest practice and
-timing, export-handling treatment detail, documented yield figures by
-orchard age, canopy-management pruning practice, a detailed establishment
-labor budget in labor-days, and a multi-decade production-cost series.
-Accessed 2026-09-30, PDF extracted.
+[9] Snippet: a Thai Office of Agricultural Economics forecast (via
+*The Nation*) of 2025 rambutan output. Accessed 2026-11-23, search
+snippet only.
 
-[10] A national ministry of agriculture's technical crop-profile sheet
-for this crop in one Central American country. Supplied: national
-planted area, a specific documented yield figure for the third
-productive year, export-volume figures, harvest-frequency practice, and
-an establishment-cost figure. Accessed 2026-09-30, PDF extracted.
-
-[11] Search-snippet-level material from a regional government
-agricultural-extension series on growing, irrigating, and fertilizing
-this crop in a specific tropical growing region (the source pages
-themselves returned access errors when revisited). Supplied: spacing
-guidance, the documented topsoil root-concentration finding, daily or
-twice-daily irrigation guidance during fruit fill, a documented stress-
-onset timeframe after irrigation is withheld, a specific yield figure at
-a given orchard age and planting density, per-tree fruit-count and weight
-figures, seasonal irrigation crop-factor multipliers, and specific soil-
-water-tension targets for induction and fruit-fill stages. Accessed
-2026-09-30, search snippets only.
-
-[12] A university tropical-agriculture research-station report on
-inducing male flower production in this species using a synthetic
-plant-hormone treatment, in a Hawaiian growing region. Supplied: the
-three-way flower/tree sex-type system, the proportion of male-functioning
-flowers on mixed-type trees, the deformed-fruit effect of excluding
-pollinating insects, the parthenocarpic aril-less fruit effect of pollen
-shortage, a specific pollen-rich cultivar used as an orchard pollinizer,
-the hormone-spray treatment protocol and its effect timeline, the
-responsive bud-development stage, grower practices using male trees and
-hung male flower clusters, and flowering-duration figures for the
-pollen-rich cultivar. Accessed 2026-09-30, PDF extracted.
-
-[13] A tropical-fruit information network's variety and agronomic-
-management reference pages for this crop. Supplied: named-cultivar trait
-figures (size, aril percentage, sugar content), the topsoil root-
-concentration finding, young-tree irrigation guidance, a recommendation
-to withhold water at flower initiation and before harvest, early-years
-weeding practice, formative pruning guidance, and a note linking water
-stress to premature ripening and fruit splitting. Accessed 2026-09-30,
-opened directly (summarized; individual authorship not shown).
-
-[14] Search-snippet-level material on cultivar trials in Puerto Rico and
-general reference to Australian commercial cultivars, including a peer-
-reviewed horticultural-technology journal article and a conference
-abstract. Supplied: multi-year yield and fruit-quality figures across
-eight named cultivars at two trial sites, best- and worst-performing
-cultivars by yield, named-cultivar fruit-weight figures, and named
-Australian commercial cultivars. Accessed 2026-09-30, search snippets
-only (some tabular data partially garbled).
-
-[15] A university tropical-agriculture extension-series bulletin on
-candidate tropical fruit crops for diversification in a Hawaiian growing
-region. Supplied: native range, countries where the crop is grown,
-Hawaiian trial-site detail, a popular descriptive nickname for the fruit,
-propagation methods, a count of named clonal selections, maximum
-documented per-tree yield, and a note on canned-product processing; the
-same source also discusses this crop's close relative as a related fruit
-needing further development. Accessed 2026-09-30, PDF extracted (layout
-partially scrambled in extraction).
-
-[16] An agricultural-university online course lecture module covering
-this crop and a related fruit together (soil, climate, planting,
-varieties, and nutrient/water management). Supplied: composition
-figures, sugar-content range, processing and product uses, fruit-size and
-cluster-size figures, climate requirements, named cultivars, an
-alternative male-seedling-share figure, budding practice and rootstock-
-age guidance, spacing, mixed-cultivar planting guidance, temporary shade
-practice for young plants, the sex-system description, flower-opening
-timing, weeks-from-fruit-set-to-maturity figure, parthenocarpic-fruit
-note, per-tree yield figures, shelf-life figures at two temperature
-conditions, and pest/disease detail. Accessed 2026-09-30, PDF extracted
-(individual authorship and institution not shown).
-
-[17] Search-snippet-level material on flowering induction, yields, and
-storage, including a university postharvest-technology-center produce
-fact sheet (not independently accessible when revisited), an
-international tropical-fruit-network seminar presentation on off-season
-production technique, a specialist tropical-fruit trade-magazine article,
-a peer-reviewed horticultural-conference proceedings article on a
-regional supply chain, and general review material. Supplied: a
-storage-temperature optimum and shelf-life range, cultivar-specific
-chilling-injury timing thresholds, named-cultivar drought-induction-
-duration figures, a broader regional yield range, a national benchmark
-yield figure, and a specific regional per-unit-area yield range. Accessed
-2026-09-30, search snippets only.
-
-[18] A single search-snippet-level labor-cost estimate for this crop in
-one Central American country (the specific source page could not be
-matched to an identifiable publisher). Supplied: an estimated total
-labor-days-per-productive-hectare-per-year figure covering all
-maintenance and harvest operations, and a separate estimate for
-establishment-year labor. Accessed 2026-09-30, search snippet only
-(publisher not identified; treated as a lower-confidence figure).
-
-[19] Search-snippet-level material from gardening and nursery websites on
-cold tolerance of this species. Supplied: growth-slowing and leaf-loss
-temperature thresholds, a severe-cold-damage threshold, a note that frost
-kills the tree outright, and general wind/cold protection guidance for
-young trees. Accessed 2026-09-30, search snippets only (non-academic,
-lower-confidence sources).
-
-[20] A standard international agricultural-drainage-water-management
-reference work's crop-salt-tolerance data annex. Supplied: confirmation
-that no entry exists for this species or its genus in the reference
-table (checked by searching the full table). Accessed 2026-09-30, opened
-directly (full table text searched).
+[10] FAO Irrigation and Drainage Paper 61, *Agricultural Drainage Water
+Management in Arid and Semi-Arid Areas* (2002), Annex 1. Supplied: no
+entry for rambutan or *Nephelium* (full table searched). Accessed
+2026-11-23, opened directly.

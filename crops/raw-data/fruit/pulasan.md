@@ -6,7 +6,7 @@ current checklist in `skills/crop-research/SKILL.md` and
 `templates/research-doc.md`.
 - **Re-opened:** Morton's "Pulasan" chapter and the Wikipedia "Pulasan"
   article.
-- **Added:** the PROSEA "Nephelium (minor species)" treatment, the ICRAF
+- **Added:** UH-CTAHR PD-86 (corky bark, added after the rambutan pass), the PROSEA "Nephelium (minor species)" treatment, the ICRAF
   Agroforestree Database sheet, the University of Hawaii CTAHR propagation
   guide, the USDA ARS Hilo Nephelium collection page, the Mardaleni et al.
   (2022) Riau fruit study (abstract), and snippets on the Djuita et al.
@@ -180,7 +180,7 @@ kapulasan (Indonesia), bulala (Philippines, Tagalog), ngoh-khonsan
   dry weather [1][3].
 - **Water regime:** rain-fed (no irrigation reported) [1][3].
 - **Soil biology:** Not sourced.
-- **Invasiveness / biosecurity:** Not sourced.
+- **Invasiveness / biosecurity:** shares corky bark with rambutan (Hazards) [10]; otherwise Not sourced.
 - **Controlled environment:** Not sourced.
 
 ## Hazards
@@ -190,6 +190,9 @@ kapulasan (Indonesia), bulala (Philippines, Tagalog), ngoh-khonsan
 - **Disease:** powdery mildew on trees and fruit, "does not seriously
   affect their quality"; "No other diseases or pests have been reported"
   (minor Nephelium species) [3].
+- **Corky bark** (*Dolabra nepheliae*): UH-CTAHR reports the disease on
+  pulasan as well as rambutan and lychee, inside and outside Hawaii [10].
+  This contradicts PROSEA's "no other diseases" for the minor species.
 - **Ergot / mycotoxin:** none reported this pass.
 
 **TO BE ADDRESSED** — the bark and leaf HCN note is deferred until this
@@ -215,6 +218,8 @@ project has a place for plant-toxin data.
   [3] vs. viable pollen in anthers that never open (Djuita) [8].
 - **Pollinators:** "mainly bees" (genus) [3] vs. a hoverfly and a moth
   at Bogor [8].
+- **Diseases:** "No other diseases or pests have been reported" (PROSEA)
+  [3] vs. corky bark on pulasan (CTAHR) [10].
 - **Propagation:** by seed where planted (PROSEA) [3] vs. seed not
   favoured (Morton, Wikipedia) [1][2].
 - **Tree height:** 10-15 m [1] vs. up to 15(-36) m [3].
@@ -302,3 +307,7 @@ snippets only.
 [9] Snippet: PROSEA Timbers *Nephelium* treatment (Uji 1998), on
 flowering frequency and seed oil and fat uses. Accessed 2026-11-23,
 search snippets only.
+
+[10] Combs, B., Nickum, M. and Nelson, S. (2012), "Corky Bark Disease of
+Rambutan," UH-CTAHR PD-86. Supplied: *Dolabra nepheliae* on pulasan.
+Accessed 2026-11-23, opened directly (PDF).

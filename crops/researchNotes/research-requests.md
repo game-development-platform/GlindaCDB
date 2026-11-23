@@ -801,6 +801,19 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`pulasan--culture`** (Library/Online): bearing age, yield per tree, storage life and soil needs, e.g. PROSEA Timbers (Uji 1998), Mardaleni et al. (2022) full text, Malaysian or Indonesian extension material.
   - **Needed for:** bearing age, storage, soil, labour (Not sourced).
 
+### rambutan (2026-11-23)
+
+- [ ] **`rambutan--irrigation`** (Online): Northern Territory agnotes 662 and D38 on rambutan irrigation (the NT site refused automated fetches), or any Kc or sap-flow study.
+  - **Needed for:** water use, rooting depth, induction soil tension (snippets only).
+- [ ] **`rambutan--flowering`** (Online/Library): Kawabata et al. (2005) on Hawaii rambutan phenology and the NAA male-flower work, with induction temperatures and stress duration.
+  - **Needed for:** flowering induction and pollen management (snippets only).
+- [ ] **`rambutan--storage`** (Online): O'Hare (1995), *Postharvest Biol. Technol.* 6: 189-199, for cultivar chilling floors.
+  - **Needed for:** storage conflict (10 °C lowest safe vs. 5 °C for 3 weeks).
+- [ ] **`rambutan--composition`** (Online): a raw-rambutan composition table (FoodData Central has only canned).
+  - **Needed for:** composition (only Morton's Ceylon analysis).
+- [ ] **`rambutan--statistics`** (Online): Thai OAE or NSO rambutan area, production and yield, plus FAOSTAT if listed.
+  - **Needed for:** national yields (2014 tonnage only).
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin
