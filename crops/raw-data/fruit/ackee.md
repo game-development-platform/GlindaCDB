@@ -50,7 +50,7 @@ on every count:
 - lychee (`lychee`, `lychee.md`) and longan (`longan`, `longan.md`): the
   same family [3]. Their docs use ackee's 100 ppm hypoglycin A limit as
   the yardstick for their own toxins.
-- mamoncillo (`mamoncillo`, proposed): shares the name "akee" in
+- mamoncillo (`mamoncillo`, `mamoncillo.md`): shares the name "akee" in
   Barbados [1].
 
 **Proposed:** none new.

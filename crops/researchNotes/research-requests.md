@@ -420,6 +420,24 @@ are never committed: this project keeps citations and findings only.
   `binjai--kostermans-bompard-1993`; its *M. odorata* entry is needed
   too.
 
+### mamoncillo (2026-11-23)
+
+- [ ] **`mamoncillo--bystrom-2009`** (Online): "Phenolics, sugars,
+  antimicrobial and free-radical-scavenging activities of *Melicoccus
+  bijugatus* Jacq. fruits from the Dominican Republic and Florida"
+  (2009), PMID 19444610.
+  - **Needed for:** pulp sugars and composition, and its author list.
+- [ ] **`mamoncillo--pulp-hga`** (Online): any measurement of hypoglycin
+  A in mamoncillo pulp, and in roasted or cooked seeds.
+  - **Needed for:** the Hazards section (pulp safety, roasted-seed use).
+- [ ] **`mamoncillo--yield`** (Online): yield per tree and years to first
+  bearing in Puerto Rico, Florida or Colombia (for example, UF/IFAS or
+  the Puerto Rico Agricultural Experiment Station).
+  - **Needed for:** Yield and first bearing, both Not sourced.
+- [ ] **`mamoncillo--acevedo-monograph`** (Library): Acevedo-Rodríguez,
+  P., the monograph on *Talisia* and *Melicoccus* (Flora Neotropica).
+  - **Needed for:** taxonomy, sexes and native range.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

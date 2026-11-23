@@ -82,7 +82,7 @@
 | loquat | Eriobotrya japonica | loquat.md | `medlar`, `quince`, `pear` | 2026-11-20 | RESEARCHED |
 | lowbush_blueberry | Vaccinium angustifolium, V. myrtilloides | lowbush-blueberry.md | `blueberry`, `lingonberry`, `cranberry`, `bilberry`, `half_high_blueberry` | 2026-11-20 | RESEARCHED |
 | lychee | Litchi chinensis | lychee.md | `longan`, `rambutan`, `pulasan`, `ackee`, `mamoncillo` | 2026-11-20 | RESEARCHED |
-| mamoncillo | Melicoccus bijugatus (Spanish lime) |  | `longan`, `lychee`, `ackee` | 2026-11-20 | PROPOSED |
+| mamoncillo | Melicoccus bijugatus (Spanish lime, quenepa, guinep) | mamoncillo.md | `longan`, `lychee`, `ackee` | 2026-11-23 | RESEARCHED |
 | mandarin | Citrus reticulata | mandarin.md | `kunenbo`, `satsuma`, `orange`, `bitter_orange`, `rangpur_lime`, `tachibana`, `clementine`, `tangelo` | 2026-11-20 | RESEARCHED |
 | mango | Mangifera indica | mango.md | `cashew`, `pistachio`, `kuini`, `bachang`, `binjai`, `bambangan`, `kasturi` | 2026-11-20 | RESEARCHED |
 | mangosteen | Garcinia mangostana | mangosteen.md |  | 2026-10-01 | OUT-OF-DATE |

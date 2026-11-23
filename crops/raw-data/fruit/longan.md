@@ -53,7 +53,7 @@ Chinese [1].
   in `ackee.md`.
 - **Mamoncillo** (`mamoncillo`, *Melicoccus bijugatus*): a Caribbean
   Sapindaceae fruit tested alongside longan, with seed HGA of 90.5-970
-  µg/g [6].
+  µg/g [6]. Since researched in `mamoncillo.md`.
 
 ## Research findings
 

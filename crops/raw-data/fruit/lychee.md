@@ -47,12 +47,12 @@ licensed under this project's MIT license (see repository `LICENSE`).
 - pulasan (`pulasan`, `pulasan.md`);
 - ackee (`ackee`, `ackee.md`): its hypoglycin A import limit is the
   yardstick for lychee toxin (Finding 2) [10];
-- mamoncillo (`mamoncillo`, proposed): the West Indian *quenepe*, from
+- mamoncillo (`mamoncillo`, `mamoncillo.md`): the West Indian *quenepe*, from
   which the French Haitian name *quenepe chinois* distinguishes lychee
   [1].
 
-**Proposed:** none new (mamoncillo is already proposed; ackee has
-since been researched).
+**Proposed:** none new (mamoncillo and ackee have since been
+researched).
 
 ## Research findings
 
