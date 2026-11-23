@@ -16,7 +16,7 @@
 | banana_passionfruit | Passiflora tripartita var. mollissima | banana-passionfruit.md |  | 2026-11-17 | RESEARCHED |
 | bergamot | Citrus bergamia | bergamot.md | `lemon` | 2026-11-17 | RESEARCHED |
 | bilberry | Vaccinium myrtillus | bilberry.md | `lingonberry`, `lowbush_blueberry`, `blueberry`, `cranberry` | 2026-11-22 | RESEARCHED |
-| binjai | Mangifera caesia | binjai.md | `mango`, `bachang`, `bambangan`, `kuini`, `kemang`, `wet_tropics_mangoes` | 2026-11-22 | RESEARCHED |
+| binjai | Mangifera caesia | binjai.md | `mango`, `bachang`, `bambangan`, `kuini`, `kemang`, `wet_tropics_mangoes`, `kasturi` | 2026-11-22 | RESEARCHED |
 | bitter_orange | Citrus × aurantium | bitter-orange.md | `orange`, `chinotto`, `laraha`, `daidai`, `lemon`, `mandarin` | 2026-11-17 | RESEARCHED |
 | black_raspberry | Rubus occidentalis | black-raspberry.md |  | 2026-11-17 | RESEARCHED |
 | blackberry | Rubus subgenus Rubus | blackberry.md |  | 2026-11-17 | RESEARCHED |
@@ -65,7 +65,7 @@
 | japanese_quince | Chaenomeles japonica | japanese-quince.md | `mugua`, `quince` | 2026-11-19 | RESEARCHED |
 | jujube | Ziziphus jujuba | jujube.md | `indian_jujube` | 2026-11-19 | RESEARCHED |
 | kabosu | Citrus sphaerocarpa (Ōita sour citrus) | kabosu.md | `hetsuka_daidai`, `daidai`, `yuzu`, `sudachi`, `kunenbo`, `ichang_papeda` | 2026-11-19 | RESEARCHED |
-| kasturi | Mangifera casturi |  | `bachang`, `mango` | 2026-11-22 | PROPOSED |
+| kasturi | Mangifera casturi (Kalimantan mango) | kasturi.md | `bachang`, `mango`, `binjai` | 2026-11-22 | RESEARCHED |
 | kemang | Mangifera kemanga |  | `bachang`, `mango`, `binjai` | 2026-11-22 | PROPOSED |
 | key_lime | C. × aurantiifolia | lime.md | `persian_lime`, `citron`, `rangpur_lime`, `makrut_lime` | 2026-11-19 | RESEARCHED |
 | kiwiberry | Actinidia arguta; A. kolomikta as a cultivar group | kiwiberry.md | `kiwifruit` | 2026-11-19 | RESEARCHED |
@@ -84,7 +84,7 @@
 | lychee | Litchi chinensis | lychee.md | `longan`, `rambutan`, `pulasan`, `ackee`, `mamoncillo` | 2026-11-20 | RESEARCHED |
 | mamoncillo | Melicoccus bijugatus (Spanish lime) |  | `longan`, `lychee`, `ackee` | 2026-11-20 | PROPOSED |
 | mandarin | Citrus reticulata | mandarin.md | `kunenbo`, `satsuma`, `orange`, `bitter_orange`, `rangpur_lime`, `tachibana`, `clementine`, `tangelo` | 2026-11-20 | RESEARCHED |
-| mango | Mangifera indica | mango.md | `cashew`, `pistachio`, `kuini`, `bachang`, `binjai`, `bambangan` | 2026-11-20 | RESEARCHED |
+| mango | Mangifera indica | mango.md | `cashew`, `pistachio`, `kuini`, `bachang`, `binjai`, `bambangan`, `kasturi` | 2026-11-20 | RESEARCHED |
 | mangosteen | Garcinia mangostana | mangosteen.md |  | 2026-10-01 | OUT-OF-DATE |
 | marang | Artocarpus odoratissimus |  | `jackfruit` | 2026-11-19 | PROPOSED |
 | mata_kucing | Dimocarpus longan ssp. malesianus | mata-kucing.md | `longan` | 2026-10-03 | OUT-OF-DATE |

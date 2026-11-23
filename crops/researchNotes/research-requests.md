@@ -364,6 +364,42 @@ are never committed: this project keeps citations and findings only.
   the origin of Clementine tangerine," *Euphytica* 31: 167-173 (1982).
   - **Needed for:** the origin debate.
 
+### kasturi (2026-11-22)
+
+- [ ] **`kasturi--iucn-2016`** (Online): Rhodes, L. and Maxted, N.,
+  "*Mangifera casturi*," *The IUCN Red List of Threatened Species*
+  (2016), doi:10.2305/IUCN.UK.2016-3.RLTS.T32059A61526819.en.
+  - **Where:** iucnredlist.org (needs JavaScript).
+  - **Needed for:** the assessment's range, threats and population notes.
+- [ ] **`kasturi--ayala-silva-2013`** (Online): Ayala-Silva, T., Gubbuk,
+  H. and Urbina, C., "Physico-chemical evaluation of 'Casturi' mango,"
+  *Proc. Fla. State Hort. Soc.* 126 (2013), full text.
+  - **Where:** journals.flvc.org (the PDF link returns a viewer page to
+    scripts).
+  - **Needed for:** flowering, tree data and the full descriptor set.
+- [ ] **`kasturi--pertanian-repository`** (Online): the Ministry of
+  Agriculture document on kasturi at repository.pertanian.go.id
+  (bitstream 148f1d74-…; the download failed).
+  - **Needed for:** confirming the Rp 7,500/kg price and its year, and
+    the farmers' reasons for not planting.
+- [ ] **`kasturi--gunawan-2024`** (Online): Gunawan and colleagues,
+  ethnobotany and conservation of kasturi by the Banjar people,
+  *Biodiversitas* (2024).
+  - **Needed for:** local uses, harvest practice, any ritual use.
+- [ ] **`kasturi--barbosa-gamez-2017`** (Library): Barbosa Gámez, I. and
+  colleagues, "Changes in the nutritional quality of five *Mangifera*
+  species harvested at two maturity stages," *J. Sci. Food Agric.*
+  (2017).
+  - **Needed for:** composition values per 100 g.
+- [ ] **`kasturi--ledesma-2025`** (Library): Ledesma, N. and Arisandi,
+  N., *Acta Horticulturae* 1415: XIII International Mango Symposium
+  (2025), doi:10.17660/ActaHortic.2025.1415.22.
+  - **Needed for:** accessions in the US and South Kalimantan, bearing
+    and propagation.
+- Kostermans and Bompard (1993) is already requested as
+  `binjai--kostermans-bompard-1993`; its *M. casturi* entry is needed
+  too (bearing, embryony, sap).
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

@@ -80,7 +80,7 @@ foetida* [4]. Chromosome number 2n = 40 [1].
 - kasturi (`kasturi`, *M. casturi*): commonly cultivated in Kalimantan
   under the name kastooree. It grafts well on mango, and Fairchild uses it
   as an interstock for other wild mangoes [5]. Also host to the oriental
-  fruit fly [12] (snippet).
+  fruit fly [12] (snippet). Since researched in `kasturi.md`.
 
 Other species in the sources (*M. torquenda*, *M. laurina*, *M.
 lalijiwa*, *M. griffithii* and more) are not proposed. No food use

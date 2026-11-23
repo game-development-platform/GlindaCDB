@@ -46,6 +46,9 @@ licensed under this project's MIT license (see repository `LICENSE`).
 **Relatives in this project:**
 - cashew (`cashew`, nut category): same family [1];
 - pistachio (`pistachio`, nut category): same family.
+- kasturi (`kasturi`, `kasturi.md`): a South Kalimantan *Mangifera*
+  proposed to be a natural hybrid of mango and *M. quadrifida*; also
+  used as a graft interstock on mango (see that doc).
 
 **Proposed** (wet-tropics *Mangifera*; the genus has 64 species, more
 than 27 with edible fruit, centred on Sumatra, Borneo and the Malay
