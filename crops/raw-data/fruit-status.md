@@ -118,7 +118,7 @@
 | pineapple | Ananas comosus | pineapple.md |  | 2026-11-23 | RESEARCHED |
 | pingan | Artocarpus sarawakensis (mountain tarap) |  | `marang` | 2026-11-23 | PROPOSED |
 | plantain | Musa AAB and other cooking bananas | banana.md | `banana`, `highland_banana` | 2026-11-17 | RESEARCHED |
-| plum | Prunus domestica, European plum | plum.md | `japanese_plum` | 2026-09-28 | OUT-OF-DATE |
+| plum | Prunus domestica, European plum | plum.md | `japanese_plum` | 2026-11-23 | RESEARCHED |
 | pomegranate | Punica granatum | pomegranate.md |  | 2026-11-23 | RESEARCHED |
 | pomelo | Citrus maxima | pomelo.md |  | 2026-10-03 | OUT-OF-DATE |
 | ponderosa_lemon | Citrus hybrid, 'Ponderosa' lemon (presumed lemon × citron) |  | `meyer_lemon` | 2026-11-23 | PROPOSED |

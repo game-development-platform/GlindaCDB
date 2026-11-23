@@ -1,7 +1,27 @@
 # Plum (*Prunus domestica*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/plum.md`
-**Researched:** 2026-09-28
+**Researched:** 2026-09-28 (re-researched 2026-11-23 against the full
+current checklist in `skills/crop-research/SKILL.md` and
+`templates/research-doc.md`.
+- **Re-opened:** the Wikipedia *Prunus domestica* article, the HB66 "Plum
+  and Fresh Prune" chapter, the FAO-66 plum and peach chapters, FAO-56,
+  FAO-61 Annex 1, the frost critical-temperature table, the amygdalin
+  study, and USDA NASS (2025 summary).
+- **Added:** the UC 2012 Sacramento Valley prune cost study (the old doc
+  cited a later edition that was not re-found), Wikipedia on plum pox,
+  powidl, slivovitz and damson, and snippets on plum pox costs, world
+  production, chill and self-fertility.
+- **Dropped,** because the source could not be re-found or re-opened: the
+  UC drought-management prune guide (about 1 m seasonal ET), the prune
+  dehydration bulletin (tray loading, drying time, 20% moisture), the
+  Serbian proceedings (yield history, brandy share), the hobby brandy site,
+  the Northeastern extension bulletin (thinning hours, bearing years,
+  yields), the Woody Plant Seed Manual chapter, the Ontario cultivar guide,
+  the nursery pages, the encyclopedia articles on single cultivars, the
+  unidentified world-yield snippet, and the estimates built by analogy
+  (labour, N-P-K removal, pH bounds, water-buffer days, yield tiers,
+  60-185-day season).)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -10,502 +30,370 @@ licensed under this project's MIT license (see repository `LICENSE`).
 
 ## Naming and scope
 
-This covers the European plum, *Prunus domestica*, a hexaploid (2n=48)
-species whose wild ancestor is now thought to be *P. cerasifera* alone
-rather than an older hypothesis of a *P. cerasifera* × *P. spinosa* hybrid
-origin [1]. It includes several named market/subspecies groups treated
-together here since they share the same underlying biology: prune plums
-(dried-type cultivars bred for high sugar content), damsons and bullaces,
-greengages, and mirabelles [1]. Explicitly **not covered**: the Japanese
-plum (*P. salicina*), a different species that dominates fresh-plum
-production in California and China and does not cross-pollinate with
-European plum [4][10] — it would need its own separate research entry.
-World production statistics commonly lump plums, Japanese plums, and sloes
-together under one combined category [2], so world totals cited below
-reflect that broader lump rather than European plum alone.
+*Prunus domestica* L. (Rosaceae), European plum [1]. Hexaploid; once
+thought to be *P. spinosa* × *P. cerasifera*, but cytogenetic evidence
+implicates *P. cerasifera* as the sole wild stock [1].
+- **Subspecies groups:** ssp. *domestica* (prune plums, zwetschge); ssp.
+  *insititia* (damsons, bullaces); ssp. *intermedia* (egg plums, including
+  'Victoria'); ssp. *italica* (gages); ssp. *syriaca* (mirabelles); and
+  others. "The subspecies cross easily" [1].
+- **Prunes** are European plum cultivars that can be dried whole; the
+  Japanese plum (*P. salicina*) is mainly for fresh use [2][5].
+- **Statistics:** FAOSTAT's "plums and sloes" lumps both species; China
+  (mostly Japanese plum) leads [5][16].
+- **Scope:** one cropID; the subspecies groups are cultivar groups.
+- **Gate check (2026-09-28, re-confirmed 2026-11-23): passes.**
 
-This crop shares close taxonomic and cultivation similarity with other
-*Prunus* stone fruit this project has also researched (notably a related
-cherry entry, which shares many of the same trait patterns).
+**Relatives in this project:**
+- Japanese plum (`japanese_plum`, `japanese-plum.md`), a separate species
+  with lower chill needs [5];
+- cherry plum (`cherry_plum`, `cherry-plum.md`), the likely wild
+  progenitor [1];
+- ume (`ume`, `ume.md`).
+
+**Proposed:** none.
 
 ## Research findings
 
-**Finding 1 — a crop substantially defined by its preserved, dried, and
-distilled forms, not just fresh eating.** Prune-type plums are simply
-European plum cultivars bred with enough sugar content to dry whole
-successfully [4]. In commercial prune production, fruit is mechanically
-harvested by shaking trees into catch bins, dumped in water, spread one
-fruit deep on trays, and tunnel-dried for roughly half a day to about 20%
-final moisture [7]; growers are typically paid on a dry-weight basis at
-roughly a 3:1 fresh-to-dry conversion ratio [5]. In Central European
-tradition, prune-type plums are cooked for many hours with no added sugar
-into a thick plum butter that keeps for months even unsealed once it
-reaches a high enough sugar concentration [18]. In parts of the Balkans,
-a large share of the crop has historically gone to distilled plum brandy,
-with the proportion diverted to brandy falling substantially in recent
-decades compared to historical highs [11].
+**Finding 1 — prunes are dried, mechanically harvested plums.**
+- Fresh prunes are picked when at least 50% of the surface is red or
+  purple, with SSC of at least 16% ('Moyer') or 19% ('French') [2].
+- California 'Improved French' orchards: a custom harvester "shakes,
+  catches and dumps fruit into bins", and the fruit goes to dehydrators
+  [3]. "Dehydration reduces the weight of fresh prunes by approximately
+  3:1" [3].
+- California prunes, dried basis: 35,000 bearing acres and 2.10 tons/acre
+  in 2025 (2.47 in 2023); 73,210 tons utilised, all processed [4].
+- **Powidl:** plums cooked for several hours without added sweeteners;
+  picked "as late as possible, ideally after the first frosts"; keeps a
+  long time [12].
+- **Slivovitz:** plum spirit of 40-70% ABV, from damsons, fermented with
+  kernels left unbroken; inscribed by UNESCO for Serbia in 2022 [13].
 
-**Finding 2 — a distinctive "chilling injury killing zone" rather than a
-simple cold threshold.** Plums store well at a narrow near-freezing
-temperature band and high humidity, with some cultivars keeping over five
-weeks under ideal conditions. Critically, most plum and fresh-prune
-cultivars actually develop chilling injury (flesh translucency and
-browning, sometimes called internal or gel breakdown) specifically when
-stored at a *moderately* cool temperature band well above freezing but
-still refrigerated — not at the coldest storage temperature, and the
-damage only becomes visible once the fruit is subsequently warmed [4].
-This is a distinctive pattern: unlike crops that suffer chilling injury at
-any low temperature, plums are safe at the coldest storage point, damaged
-in an intermediate band, and fine again once truly warm. Plums are also
-climacteric fruit, producing ethylene that rises sharply with ripeness and
-storage temperature, and slow-ripening cultivars can be artificially
-ripened off the plant with an ethylene treatment [4].
+**Finding 2 — chilling injury at 2-8 °C, not at 0 °C.**
+- Store at −1.1 to 0 °C and 90-95% RH; the freezing point is −2 to −1 °C
+  depending on SSC [2].
+- "Most plum and fresh prune cultivars are susceptible to chilling injury
+  when stored at 5 °C"; symptoms appear on ripening after storage at 2-8 °C
+  [2]. Fresh 'French' and 'Moyer' prunes: internal breakdown is delayed at
+  −1.1 °C [2].
+- Internal browning of 'Italian' prunes starts before harvest and is linked
+  to high temperatures and delayed harvest [2].
 
-**Finding 3 — plum pox (sharka) is the defining disease of this crop, and
-it spreads through propagation material itself, not just field exposure.**
-Plum pox virus spreads initially via budding and grafting material and
-then through aphid vectors within orchards; it has been reported across
-dozens of countries on every inhabited continent except Oceania, though at
-least one major producing country achieved full eradication [9]. Global
-economic losses are estimated in the low billions of euros over several
-recent decades, though a notably higher older estimate exists and the two
-figures are not reconciled [9][24]. Control relies on certified
-disease-free nursery stock, eradication of infected trees, resistant or
-hypersensitive cultivars (including at least one transgenic resistant
-cultivar), and vector management [9]. This is a notable case where the
-propagation pathway itself, not just field biology, carries a major
-disease risk.
+**Finding 3 — plum pox (sharka) spreads in nursery stock.**
+- First seen in Bulgaria around 1916-17; transmitted by aphids (non-
+  persistently) and in infected plant material; "Long distance spread
+  usually occurs as a result of the movement of infected nursery stock"
+  [11].
+- No cure; infected trees must be destroyed. Control: surveys, certified
+  nursery stock, aphid control, removal of infected trees [11]. The
+  transgenic 'C5' (HoneySweet) is resistant [11].
+- It "may have largely wiped out" the old landrace called Požegača,
+  Quetsche or German prune [11].
+- **Costs (snippets):** over €10,000 million worldwide in about 30 years
+  (Cambra et al. 2006); €2.4 × 10⁹ for 1995-2023 and probably over
+  €13 × 10⁹ since the 1910s-20s (Cambra and colleagues 2025) [15].
 
-**Finding 4 — the orchard reliably over-sets fruit and requires active
-thinning.** A single prune tree can set many thousands of fruit where the
-canopy can only properly size a small fraction of that number, so
-commercial growers routinely thin in late spring, sometimes by
-mechanically shaking the tree in alternate years [5][6]. Hand-thinning
-labor is measured at several hours per acre depending on cultivar [10].
-Heavily cropped trees need physical limb support unless adequately
-thinned [5].
+**Finding 4 — heavy fruit set needs thinning and bees.**
+- "Plum trees bloom very profusely and thinning is required", whether
+  manual, chemical or mechanical [5].
+- UC: trees may overcrop, and mechanical thinning by shaking is assumed in
+  alternate years; limbs are tied with twine from year 5 [3].
+- "Bees are considered essential for setting a marketable crop": one hive
+  per acre in the mature orchard [3].
+- **Self-fertility conflict:** FAO-66 says "Most commercial plum cultivars
+  are not self-pollinating" [5]; 'Stanley' is self-fertile (snippets)
+  [17].
 
-**Finding 5 — establishment timelines and orchard lifespan are
-well-documented.** One detailed commercial cost study plants young trees
-at a density of roughly 150 trees per acre on a modern rootstock, with
-first economically meaningful crop in year four, full production by year
-seven, and an expected productive orchard life of about twenty years, with
-yields rising steadily each year from first cropping to full production
-[5]. A separate regional extension source gives a somewhat earlier first
-fruiting year and a somewhat later full-production year, alongside a
-documented commercial yield range [10].
-
-**Finding 6 — pollination is species-bound and partly cultivar-dependent,
-with some source disagreement.** European and Japanese plums will not
-cross-pollinate each other [10][20]. Several European cultivars are
-described by some sources as self-fertile but cropping better with a
-pollinizer partner [21], while a separate extension source states that
-most European plums require cross-pollination [10] — a genuine conflict.
-Even nominally self-fertile commercial prune orchards are still given
-substantial honeybee hive density, since good bee activity is considered
-essential for reliable fruit set [5]. Plums bloom notably earlier than
-apple, making spring frost a bigger practical risk [10], with documented
-bud-kill temperature tables by bloom stage [8].
-
-**Finding 7 — among the more salt-sensitive stone fruits with an actual
-documented threshold.** Plum and prune are rated moderately salt-sensitive,
-with yield loss beginning at a specific salinity threshold and increasing
-at a fairly steep rate per unit beyond that point — a more sensitive
-rating than several other stone fruit (apricot, peach, almond, all rated
-simply "Sensitive"), while one other related stone fruit has no
-documented salinity threshold at all [15].
-
-**Finding 8 — documented yield ranges are wide, reflecting a large
-range of production intensity.** Historical non-irrigated orchards in one
-major Eastern European producing country improved from a low single-digit
-t/ha average to several times that figure with modern techniques [11]. A
-well-managed California orchard at full production reaches a considerably
-higher fresh-weight yield [5], and recent national statistics for
-California plums and prunes (mostly a mix of species) show yields in a
-broadly similar high range [3]. A global average yield figure for the
-combined plum-and-sloe statistical category is considerably lower,
-reflecting the inclusion of much lower-intensity production systems
-worldwide [23]. World production is measured in the low tens of millions
-of tonnes annually, with one East Asian country (where most production is
-actually the separate Japanese plum species) dominating, followed by
-several Eastern European and South American producers [2].
+**Finding 5 — prunes tolerate water stress better than fresh plums.**
+- Prune dry-matter accumulation is less sensitive to stress than fresh
+  weight [5].
+- In deep Sacramento Valley soils, 4 years without irrigation passed
+  before trunk growth fell, and 5 years before yield fell; irrigation
+  cutoff up to 37 days before harvest did not reduce 'French' dry yield
+  [5].
+- Letting midday SWP fall to about −1.5 MPa by harvest (about 50-60% ETc
+  from spring) kept economic returns over 3 years [5].
+- Re-watering stressed prune trees induces fruit-end cracking [5].
+- Deficit irrigation could save about 10-20% of applied water with little
+  or no yield loss (Japanese plum trials) [5].
 
 ## Agronomic data
 
-- **Life form / season:** Perennial deciduous fruit tree; perennial
-  bearing pattern, harvested either across several hand passes (fresh
-  market) or in a single mechanical shake (prune/drying type) [4][5].
-- **Climate:** Cool-temperate to Mediterranean and semi-arid climates;
-  European plums require meaningfully more winter chill than Japanese
-  plums, which rules out the warmest temperate zones for this entry [20].
-- **Composition:** Roughly 460 kcal and 7 g protein per kg fresh weight is
-  the adopted figure, though the underlying composition source is not
-  confirmed to be species-specific and may actually reflect Japanese plum
-  composition given that country's production dominance [12]. The dried
-  product (prunes) is far more calorically dense, at roughly 2,400 kcal
-  and nearly 22 g protein per kg, with correspondingly lower water content
-  [13].
-- **Pollination:** Insect (bee)-pollinated and at least partly
-  cross-pollination-dependent; European and Japanese plum are mutually
-  incompatible (Finding 6).
-- **Yield:** A wide documented range from a low world-average figure
-  (reflecting low-intensity mixed production) up to a high full-production
-  commercial figure (Finding 8; see Estimates below for adopted tier
-  values).
-- **Water use:** A standard international crop-water-use reference
-  provides stone-fruit crop-coefficient values, supplemented by detailed
-  peach-specific half-monthly values used as a first approximation for
-  plum, since dedicated plum figures are sparser. Root-zone depth is deep
-  (roughly 1.0-2.0 m, with roughly 1.5-2 m considered the practically
-  effective scheduling depth). The crop is specifically documented as
-  waterlogging-sensitive (alongside iron-chlorosis and salinity
-  sensitivity), which is a major reason several rootstocks are
-  specifically selected and marketed for wet or heavy-soil tolerance.
-  Fruit-growth-stage-specific deficit-irrigation guidance is unusually
-  well documented: the mid-season pit-hardening stage tolerates the
-  deepest deficits with the least yield risk, while the final fruit-swell
-  stage before harvest is considerably more sensitive for fresh-market
-  fruit (though less so for dried-type fruit, where dry-matter yield
-  proved essentially insensitive to a fairly late pre-harvest irrigation
-  cutoff in at least one trial); sudden re-watering of a previously
-  stressed tree is specifically documented to induce fruit-end cracking.
-  One detailed regional water-budget example for a commercial drying-plum
-  orchard documents roughly a meter of seasonal evapotranspiration.
-- **Propagation:** Exclusively vegetative — a selected cultivar is budded
-  or grafted onto a rootstock; no true-seed propagation is used
-  commercially. Several distinct rootstocks are used depending on soil
-  conditions (including specific wet-tolerant options) and cold hardiness
-  needs; essentially all commercial plum rootstocks are noted to sucker
-  heavily from the root system, requiring ongoing removal.
-- **Labor:** Hand harvest and hand thinning are both significant labor
-  inputs; the hand-thinning figure is relatively well sourced, while most
-  other labor-hour figures for this crop are estimated by analogy to
-  related stone fruit rather than directly measured, since cost studies
-  for this crop more often report dollar costs than labor hours directly.
-- **Soil:** Moderate pH preference (roughly neutral to mildly acidic);
-  well-drained soil is generally preferred, though specific rootstocks
-  extend tolerance to wetter or heavier soils.
-- **Stand life:** A productive orchard life of roughly twenty years is
-  documented in one detailed cost study, with annual pruning (alternating
-  between hand pruning and mechanical topping in some systems) and decline
-  driven mainly by the plum pox disease described in Finding 3, plus
-  several canker-type fungal diseases entering pruning wounds.
-- **Disease/pest profile:** Plum pox virus is the single defining disease
-  (Finding 3); additional named fungal canker diseases and a notable
-  bacterial/fungal wood disease are documented as orchard-life-limiting
-  factors.
-- **Cultivars:** A genuinely wide named cultivar spread across several
-  distinct subspecies/market-type groups (prune/drying types, dessert
-  "egg plum" types, gage types, mirabelle types, and damson/preserving
-  types), each with somewhat different fruit characteristics, maturity
-  timing, and intended use; at least one modern breeding line has been
-  specifically selected for hypersensitive resistance to plum pox virus
-  and is used as a resistance-breeding parent.
-- **Harvest:** Either several successive hand passes for fresh-market
-  fruit, or a single mechanical shake-and-catch pass for drying-type
-  fruit, with harvest timing varying widely by cultivar from mid-to-late
-  summer through late autumn depending on the growing region.
-- **Storage:** A relatively short fresh-storage window (roughly two to
-  three weeks under ideal cold, humid conditions for most cultivars, with
-  some cultivars keeping meaningfully longer) is the dominant constraint
-  for fresh fruit; the dried product keeps for many months by contrast
-  (Finding 2).
+- **Life form / season:** deciduous tree, a large shrub or small tree [1].
+  Fruiting period 5-35 years [5]; UC orchard life 30 years [3].
+- **Harvest pattern:** one crop a year; prunes in one mechanical shake [3];
+  fresh plums hand-picked [2].
+- **Days/years to first bearing:** economic production from year 4, full
+  production in year 7 [3]. Bloom to harvest: Not sourced.
+- **Climate zones:**
+  - **Climate:** temperate, to meet chill; "relatively late flowering"
+    compared with Japanese plum [5]. Bloom late February to mid-April
+    (Northern Hemisphere) [5].
+  - **Chill (snippets):** European plums need 700 to over 1,000 chill
+    hours (University of Tennessee); 'Stanley' about 700-800 or 800 hours
+    [17].
+  - **Frost (bud kill, °F, 30-minute exposure, European prune plum, WSU
+    Prosser data)** [9]:
+
+    | Stage | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+    |---|---|---|---|---|---|---|---|---|
+    | 10% kill | 14 | 17 | 20 | 24 | 26 | 27 | 28 | 28 |
+    | 90% kill | 0 | 3 | 7 | 16 | 22 | 23 | 23 | 23 |
+
+    Stages: first swell, side white, tip green, tight cluster, first
+    white, first bloom, full bloom, post bloom. °C in Estimates.
+  - **Shelter:** early flowering needs a spot "away from frosts and cold
+    winds" [1].
+- **Composition:** prunes (dried, uncooked) about 240 kcal/100 g
+  (snippets of FDC 168162) [18]. Raw plums: not confirmed this pass (the
+  FDC API was rate-limited), and the FDC raw-plum entry does not separate
+  species.
+- **Edibility:** raw, cooked, dried, spread (powidl), distilled [1][12]
+  [13]. Some varieties are sour and need cooking with sugar [1].
+- **Pollination:** bees; partly self-fertile (Finding 4) [3][5][17].
+- **Photoperiod sensitivity:** Not sourced.
+- **Yield:**
+  - UC full production: 12 green (4 dry) tons/acre from year 7; years 4-6
+    give 2.4, 4.0 and 8.0 green tons/acre [3].
+  - California 2023-2025: 2.47, 2.17 and 2.10 dry tons/acre [4].
+  - World (plums and sloes): 4.3 t/ha over more than 2.5 million ha in
+    2009 [5]; about 13 million t on 2.7 million ha in 2024 (snippets)
+    [16].
+  - Conversions in Estimates.
+- **Water use:**
+  - **Kc (FAO-56 stone fruit):**
+    - no ground cover, killing frost: 0.45 / 0.90 / 0.65;
+    - no ground cover, no frosts: 0.55 / 0.90 / 0.65;
+    - active cover, killing frost: 0.50 / 1.15 / 0.90;
+    - active cover, no frosts: 0.80 / 1.15 / 0.85;
+    - maximum height 3 m [7].
+  - **Root depth and depletion:** 1.0-2.0 m, p = 0.50 [7].
+  - **FAO-66 advice:** use peach Kc as a first approximation [5]. Peach at
+    Lleida: 0.25 (1-15 March), rising to 1.05 in July to mid-August,
+    falling to 0.45 by early November [6].
+  - **Pan evaporation:** plum trees (*P. salicina*) used 92% of class-A
+    pan in midsummer on Tatura trellis and 82% as vase or palmette [5].
+  - **Rainfed:** early varieties need as little as 300 mm a season, and
+    midseason varieties at least 400-500 mm [5].
+  - **UC applied water:** 30 acre-inches a year from year 4 (9, 18 and 24
+    in years 1-3), by drip twice weekly April-September [3].
+- **Propagation:** budded trees from a nursery; 2% replanted in year 2
+  [3]. Rootstocks are used to cope with waterlogging, iron chlorosis and
+  salinity [5]. Clean stock: certified nursery material against plum pox
+  [11].
+- **Labor (UC, per acre, mature):**
+  - total cultural time 43.01 h, of which "Prune & Sucker" is 34.00 h;
+  - labour 9.37 h of machine operator and 35.20 h non-machine;
+  - harvest, hauling and drying are custom-hired, with no hours given [3].
+- **Soil:**
+  - **Texture:** adapts to different soils, but is sensitive to
+    waterlogging and iron chlorosis [5]. UC assumes adequately drained
+    class II soil, deep-ripped 2-3 ft [3].
+  - **pH:** Not sourced this pass.
+  - **Salinity:** FAO-61, threshold 2.6 dS/m, slope 31%/dS/m, moderately
+    sensitive (Hoffman et al. 1989) [8]. FAO-56 Table 23: threshold 1.5
+    dS/m, slope 18.0, sensitive [7].
+  - **Nutrients:** UC mature rate 150 lb N/acre through the drip,
+    April-June, rising from 10 lb in year 1. Sulphate of potash 300 lb a
+    year from year 4 [3].
+- **Storage (postharvest):** Finding 2 [2].
+  - **CA:** 1-2% O2 with 3-5% CO2 cuts decay [2].
+  - **Respiration:** 2-3 (0 °C), 8-12 (10 °C) and 16-24 (20 °C) mg
+    CO2/kg·h [2].
+  - **Ethylene:** 0.01-5 µL/kg·h at 0 °C, up to 0.1-200 µL/kg·h at 20 °C
+    [2].
+  - **Fresh-cut:** 2-5 days at 0 °C [2].
+  - **Prunes:** the California marketing season for dried prunes runs
+    August 20 to April 15 [4].
+- **Establishment:** 'Improved French' at 17 × 14 ft, 183 trees/acre;
+  planted in March; topped after planting; training from the second
+  dormant season [3].
+- **Cultivars:**
+  - prune types 'Improved French' [3], 'French' and 'Moyer' [2], and
+    'Italian' [2];
+  - 'Stanley' [17];
+  - RHS Award of Garden Merit cultivars include 'Victoria', 'Czar',
+    'Opal', 'Oullins Gage', 'Imperial Gage', 'Marjory's Seedling' and
+    'Jefferson' [1];
+  - damsons "unlike prunes cannot be successfully dried" [14];
+  - transgenic 'C5' [11].
+- **Weather response:** spring frost (Climate zones) [9]; rain at harvest
+  causes fruit brown rot, sprayed one year in five [3]; high temperatures
+  near maturity cause internal browning [2].
+- **Water regime:** irrigated in most arid and semi-arid plantings [5].
+- **Soil biology:** replanting on old orchard ground requires fumigation
+  (Telone C-35) of the tree rows [3]. Gophers in establishment years [3].
+- **Invasiveness / biosecurity:** plum pox is spread in nursery stock
+  (Finding 3) [11]. California plums exported to Taiwan must be free of
+  listed pests [2].
+- **Controlled environment:** Not sourced.
 
 ## Hazards
 
-- The seed kernel (pit) contains a cyanogenic glycoside at levels that
-  vary substantially by cultivar and ripeness stage, posing a toxicity
-  risk if crushed kernels are consumed in quantity; ripe flesh itself is
-  not a hazard. Fermented-mash distillation (as for plum brandy) is
-  specifically documented to pick up an off-odor from crushed stones above
-  a certain concentration threshold, which growers/distillers use as a
-  practical warning sign. **TO BE ADDRESSED** — a fuller write-up of
-  stone-fruit-kernel cyanogenic-glycoside hazards is deferred until this
-  project has a place for this kind of plant-toxin health/safety data.
-- Plum brandy distillation carries a methanol-concentration hazard in the
-  earliest fraction of the distillate ("heads"), which traditional
-  distillation practice addresses by discarding the first portion of each
-  batch. **TO BE ADDRESSED** — a fuller write-up of distilled-spirit
-  processing hazards is deferred for the same reason.
+- **Diseases:**
+  - plum pox [11];
+  - brown rot (printed as *Monilia fructicola*; the most important
+    postharvest disease), gray mold and Rhizopus rot [2];
+  - UC sprays for brown rot, russet scab and rust [3].
+- **Pests:** aphids, peach twig borer, scale, spider and European red
+  mites; gophers and squirrels [3].
+- **Kernels:** amygdalin, highly variable by plum type: 17.5 mg/g (green
+  plum) down to 0.44 mg/g (red); 0.03 mg/g in tinned prune slices [10].
+  The types tested are not identified to species.
+- **Ergot / mycotoxin:** none reported this pass.
+
+**TO BE ADDRESSED** — cyanogenic kernels [10]; methanol in home-distilled
+plum spirit (Czech home production moved to certified distilleries "to
+prevent errors during the distillation process (leading to concentration of
+toxic methanol)") [13]. Deferred until this project has a place for
+health-and-safety data.
 
 ## Uses and processing
 
-- **Chains:** fresh fruit → cooled, sorted, and packed for fresh sale; or
-  → tunnel-dried into prunes, with pits removed; or → cooked into a
-  long-simmered, unsweetened plum butter. A separate processing chain
-  exists for distilled spirits: pitted plums are fermented for roughly two
-  weeks at a moderate ambient temperature, then double-distilled, with the
-  early "heads" fraction discarded from the second distillation to manage
-  methanol content.
-- A closely related stone fruit this project has also researched (a wild
-  hedgerow relative in the same broader fruit group counted together with
-  this crop in some international production statistics) is a
-  wild-gathered product rather than an orchard crop, and is noted here
-  only for that statistical overlap.
-- Not covered by this research in detail: prune juice as a distinct
-  product; kernel oil; other subspecies-group products (jam, candied
-  fruit, specific regional preserves) beyond what is noted above.
+- **Chain 1 (prunes):** shaken into catch frames → bins → hauled → dried
+  about 3:1 → graded dried prunes [3][4].
+- **Chain 2 (fresh):** hand-picked → dumped, washed, sorted and sized →
+  forced-air cooled to near 0 °C → stored at −1.1 to 0 °C [2].
+- **Chain 3 (powidl):** late-picked plums cooked for hours without sugar
+  → stored spread [12].
+- **Chain 4 (spirit):** damsons crushed without breaking kernels →
+  fermented → distilled once or more → slivovitz 40-70% ABV [13].
+- **Other:** canning, jam, jelly [2]; damson preserves and jams [14].
+- **Not detailed here:** prune juice, kernel oil, the damson dye claim
+  (a 2005 English Nature report found no documentary evidence) [14].
 
 ## Open research questions
 
-- Whether a separate, closely related stone-fruit species (notably
-  distinct in chill requirement, self-fertility, and lack of
-  cross-compatibility with this crop, and responsible for most fresh-plum
-  production in at least two major producing countries) should be treated
-  as an entirely separate research entry is a clear open question; this
-  research explicitly does not cover that species.
-- Pollination requirements are genuinely disputed across sources: some
-  describe most European plum cultivars as self-fertile (though cropping
-  better with a partner cultivar), while another source states that most
-  plums require cross-pollination outright; commercial practice (providing
-  substantial hive density even to nominally self-fertile orchards)
-  suggests growers hedge against this uncertainty in practice.
-- The adopted caloric/protein composition figure is not confirmed to be
-  specific to this species rather than a close relative, given that the
-  dominant producing countries for "plums" in composition databases
-  mostly grow the other species.
-- Economic-loss estimates for the defining viral disease of this crop
-  (Finding 3) conflict substantially between sources (a lower, more
-  recent multi-decade estimate versus a considerably higher older one) and
-  are not reconciled here.
-- Labor-hour figures for every operation besides hand-thinning are
-  estimated by analogy to other stone fruit rather than directly measured,
-  since available cost studies for this crop report dollar costs rather
-  than labor hours for most operations.
-- Nitrogen/phosphorus/potassium removal-per-tonne figures are carried over
-  by analogy from a related stone fruit rather than measured directly for
-  this crop; no dedicated nutrient-removal study was found.
-- A world-average yield figure specific to this crop alone is difficult to
-  source cleanly, since major international statistics combine it with a
-  closely related species and with a wild hedgerow relative under one
-  combined category.
+- **Salinity:** 2.6 dS/m, MS (FAO-61) vs. 1.5 dS/m, S (FAO-56) [7][8].
+- **Self-fertility:** most cultivars not self-pollinating [5] vs.
+  self-fertile 'Stanley' [17].
+- **Orchard life:** 30 years (UC 2012) [3] vs. a fruiting period of 5-35
+  years [5]; the old doc's 20 years came from an edition not re-found.
+- **Plum pox costs:** over €10 billion in 30 years (2006) vs. €2.4 billion
+  for 1995-2023 (2025) [15].
+- **Slivovitz fruit:** "Only Damson plums" [13], while other European
+  plum spirits use quetsche and other plums [13].
+- **Not sourced:** bloom-to-harvest days, raw-plum composition, pH,
+  photoperiod, nutrient removal per tonne, hours for harvest and thinning,
+  fresh-market European plum yields.
+- **Works identified, not yet read:**
+  - FAOSTAT (item 521);
+  - the University of Tennessee plum publication W895F (it blocked
+    automated fetches);
+  - a current UC prune cost study;
+  - Cambra and colleagues (2025);
+  - FDC 169949 and 168162 directly.
 
 ## Estimates and derivations
 
-Growing-season length (bloom to harvest, roughly 60-185 days) is derived
-by combining a cooler-climate example (shorter season, early fresh
-cultivars) with a warmer-climate commercial drying-plum example (longer
-season, late-maturing cultivar), reflecting the wide spread between early
-fresh and late drying cultivars.
+**Frost table, °F to °C [9]:**
+- 10% kill: −10.0, −8.3, −6.7, −4.4, −3.3, −2.8, −2.2, −2.2 °C;
+- 90% kill: −17.8, −16.1, −13.9, −8.9, −5.6, −5.0, −5.0, −5.0 °C.
 
-Yield tiers are derived from the documented range in Finding 8: a good
-yield figure near the midpoint of one major producing country's modern
-improved range; an exceptional yield figure near the high end of
-full-production commercial figures from a detailed cost study (cross-
-checked against recent national statistics); and a poor yield figure near
-the midpoint of that same country's older, non-irrigated range.
+**Yields (1 short ton/acre = 2.2417 t/ha):**
+- UC full production: 12 green tons/acre = 26.9 t/ha fresh; 4 dry
+  tons/acre = 9.0 t/ha dry [3].
+- California 2023-2025: 2.47 / 2.17 / 2.10 dry tons/acre = 5.5 / 4.9 /
+  4.7 t/ha dry; × 3 (the UC dry ratio) = 16.6 / 14.6 / 14.1 t/ha fresh
+  [3][4].
+- World 2024: 13 million t ÷ 2.7 million ha = 4.8 t/ha (plums and sloes)
+  [16].
 
-Seasonal water-use totals are derived from a standard international
-crop-water-use reference's stone-fruit stage-length and crop-coefficient
-tables, cross-checked against a detailed half-monthly peach-specific
-curve used as a first approximation for plum; both approaches converge on
-a broadly similar total seasonal crop-coefficient-days figure, which is
-then combined with standard soil-moisture-holding assumptions to estimate
-a drought-buffer period before yield penalty begins.
+**Spacing [3]:** 183 trees/acre × 2.471 = 452 trees/ha.
 
-Labor-hour figures for most operations besides hand-thinning (which is
-directly sourced) are estimated either by analogy to a closely related
-stone fruit's labor profile, or derived from a documented dollar-cost rate
-divided by a documented regional hourly labor cost, treating the result as
-an upper-bound estimate since cost-study rates typically include margin
-beyond pure labor cost.
+**Water [3]:** 30 acre-inches = 762 mm a year applied.
 
-Nitrogen/phosphorus/potassium removal-per-tonne figures are carried over
-by analogy from a closely related stone fruit's measured composition,
-since no dedicated removal study was found for this crop specifically.
+**Nitrogen [3]:** 150 lb/acre × 1.121 = 168 kg N/ha.
 
-Soil pH tolerance bounds and root-zone depth are likewise carried over by
-analogy from the same related stone fruit where this crop's own sources
-gave only a preferred range rather than tolerance limits.
+**Labour [3]:** 9.37 + 35.20 = 44.57 h/acre = 110 h/ha (excluding custom
+harvest, hauling and drying); pruning and suckering 34 h/acre = 84 h/ha.
+
+No other estimates are made in this pass.
 
 ## Sources
 
-[1] A community-maintained general reference encyclopedia article on this
-species. Supplied: ploidy, wild-ancestor hypothesis, and named subspecies
-groups. Accessed 2026-09-28, opened directly.
+[1] Wikipedia, "*Prunus domestica*". Supplied: description, ploidy and
+ancestry, subspecies groups, RHS cultivars, uses, shelter from frost.
+Accessed 2026-11-23, opened directly.
 
-[2] A community-maintained general reference encyclopedia article
-compiling international agricultural production statistics by country.
-Supplied: recent world production total (combined plum-and-sloe
-statistical category) and leading producing countries. Accessed
-2026-09-28, opened directly.
+[2] Crisosto, C. H. and Kader, A. A., "Plum and Fresh Prune," in USDA
+Agriculture Handbook 66 (2016). Supplied: prune definition and history,
+maturity indices, picking and packing, precooling, storage, freezing
+point, CA, chilling injury, ethylene, respiration, internal browning,
+postharvest diseases, quarantine, fresh-cut. Accessed 2026-11-23, full
+handbook text (downloaded in an earlier session) re-read.
 
-[3] A national agricultural statistics agency's annual noncitrus fruit and
-nut production summary report. Supplied: acreage, yields on both fresh and
-dry bases, utilization, and season notes for one major producing region.
-Accessed 2026-09-28, PDF extracted.
+[3] Buchner, R. P., Connell, J. H., Niederholzer, F. J., DeBuse, C. J.,
+Klonsky, K. M. and De Moura, R. L. (2012), *Sample Costs to Establish a
+Prune Orchard and Produce Prunes (Dried Plums), Sacramento Valley, French
+Variety & Low-Volume Irrigation*, UC Cooperative Extension. Supplied:
+spacing, orchard life, planting, nutrition, water, bees, pests, yields by
+year, dry ratio, harvest method, thinning, hours and labour rates.
+Accessed 2026-11-23, opened directly (PDF).
 
-[4] A postharvest handling chapter on this crop in a long-standing federal
-agricultural handbook on commercial storage of fruits and vegetables.
-Supplied: species comparison, maturity indices, cooling and storage
-guidance, chilling-injury temperature band, ethylene behavior, controlled-
-atmosphere guidance, storage disorders, and general use. Accessed
-2026-09-28, PDF extracted.
+[4] USDA NASS, *Noncitrus Fruits and Nuts 2025 Summary* (May 2026).
+Supplied: California prune acreage, yield, production, utilisation, price
+and marketing season, 2023-2025. Accessed 2026-11-23, text release
+(downloaded in an earlier session) re-read.
 
-[5] A university cooperative-extension commercial cost-of-production study
-for establishing and operating a drying-plum orchard in a specific
-California growing region. Supplied: rootstock, spacing, orchard
-lifespan, yield by orchard age, fresh-to-dry conversion ratio, applied
-water and nitrogen rates, pollination/hive practice, pruning and thinning
-practice, and harvest method. Accessed 2026-09-28, PDF extracted.
+[5] Intrigliolo, D. S., Castel, J. R. and Naor, A., "Plum," in Steduto et
+al., *Crop Yield Response to Water*, FAO Irrigation and Drainage Paper 66
+(2012). Supplied: species and climates, 2009 world area and yield, soil
+sensitivities, fruiting period, rainfed thresholds, bloom timing,
+pollination, thinning, growth stages, water-stress effects, pan-based use,
+peach-Kc advice, deficit strategies. Accessed 2026-11-23, text (downloaded
+in an earlier session) re-read.
 
-[6] A university cooperative-extension drought-management guidance
-publication specific to commercial drying-plum production in California.
-Supplied: seasonal evapotranspiration total, bloom and harvest timing,
-fruit-set-versus-canopy-capacity relationship, thinning practice, harvest
-firmness guidance, and deficit-irrigation staging. Accessed 2026-09-28,
-PDF extracted.
+[6] The same FAO-66, "Peach" chapter, Table 1 (half-monthly Kc, Lleida).
+Accessed 2026-11-23, re-read.
 
-[7] A mid-20th-century agricultural research bulletin article on
-parallel-flow prune dehydration practice. Supplied: tunnel-dryer tray
-loading, air and fruit temperature limits, drying duration, and final
-moisture target. Accessed 2026-09-28, PDF extracted.
-
-[8] A university extension and plant-diagnostic-laboratory critical-
-temperature reference table for frost damage on fruit trees, compiling
-data originally developed by another regional university. Supplied:
-bud-kill temperature thresholds by bloom stage for this crop. Accessed
-2026-09-28, PDF extracted.
-
-[9] A peer-reviewed plant-pathology journal article estimating the costs
-of the defining viral disease of this crop and reviewing its management.
-Supplied: multi-decade economic loss estimate, geographic spread,
-eradication status in at least one major producing country, and
-management measures including a resistant breeding line. Accessed
-2026-09-28, opened (article page and abstract).
-
-[10] A regional university cooperative-extension bulletin on commercial
-plum production. Supplied: species comparison, pollination rules,
-rootstock and suckering behavior, soil pH guidance, spacing, years to
-bearing, yield range, thinning labor hours, a named canker disease,
-harvest firmness guidance, storage guidance, and bloom/frost timing.
-Accessed 2026-09-28, opened directly.
-
-[11] A peer-reviewed horticultural-conference proceedings article on plum
-production in one major Eastern European producing country. Supplied:
-area, production, historical-to-modern yield improvement, and the
-proportion of the crop historically and recently diverted to brandy
-production. Accessed 2026-09-28, opened (abstract page).
-
-[12] A national food-composition reference database entry for raw plums.
-Supplied: calorie, protein, and water content per unit weight; not
-confirmed to be specific to this species rather than a close relative.
-Accessed 2026-09-28, opened (structured data).
-
-[13] A national food-composition reference database entry for dried
-plums (prunes), uncooked. Supplied: calorie, protein, and water content
-per unit weight. Accessed 2026-09-28, opened (structured data).
-
-[14] A standard international crop-evapotranspiration reference work.
-Supplied: stone-fruit crop-coefficient values and a footnote specifically
-naming this crop. Accessed 2026-09-28, opened directly.
-
-[15] A standard international agricultural-drainage-water-management
-reference work's crop-salt-tolerance data annex. Supplied: a salinity
-threshold and yield-loss-per-unit figure for this crop, with several
-other stone fruit given for comparison. Accessed 2026-09-28, opened
-directly.
-
-[16] A federal forest-service woody-plant-seed propagation manual chapter
-covering several related stone-fruit genera. Supplied: bloom and ripening
-timing at one research site, fruit size, seed weight and seed count per
-unit weight, stratification requirements, and nursery practice. Accessed
-2026-09-28, PDF extracted.
-
-[17] A peer-reviewed food-chemistry journal article measuring a
-cyanogenic-glycoside compound across several commercially available stone-
-fruit kernel and seed products. Supplied: compound concentration across
-several plum kernel samples. Accessed 2026-09-28, PDF extracted.
-
-[18] A community-maintained general reference encyclopedia article on a
-traditional Central European unsweetened plum butter preparation.
-Supplied: cooking method, sugar-concentration endpoint, keeping quality,
-and uses. Accessed 2026-09-28, opened directly.
-
-[19] A specialist hobbyist/producer website on traditional plum brandy
-production. Supplied: fermentation duration and temperature, crushed-
-stone concentration guidance, double-distillation practice, and the
-heads-discarding practice for methanol management. Accessed 2026-09-28,
+[7] Allen et al. (1998), FAO-56, Table 12 (stone fruit Kc and height),
+Table 22 (rooting depth, p) and Table 23 (salinity). Accessed 2026-11-23,
 opened directly.
 
-[20] Multiple university cooperative-extension home-garden fruit-growing
-pages. Supplied: rootstock guidance, wet-soil-tolerant rootstock options,
-cross-pollination incompatibility between this species and the related
-Japanese plum, relative chill requirement, and pH guidance. Accessed
-2026-09-28, search snippets only; which specific statement traces to which
-individual page was not confirmed.
+[8] FAO Irrigation and Drainage Paper 61, Annex 1, salt tolerance of
+woody crops: plum/prune 2.6 dS/m, 31%, MS (Hoffman et al. 1989). Accessed
+2026-11-23, opened directly.
 
-[21] Multiple commercial nursery product pages on two named cultivars.
-Supplied: self-fertility notes and chill-hour estimates. Accessed
-2026-09-28, search snippets only.
+[9] Colorado State University (H. J. Larsen, 2004), "Santa Rosa (Japanese)
+Plum Bud Stages & Critical Temperatures," giving European prune plum data
+from WSU Prosser (1964-76). Accessed 2026-11-23, PDF re-read.
 
-[22] A peer-reviewed horticultural-science journal article and several
-commercial grower pages on chilling and heat requirements of the related
-Japanese plum species. Supplied: chill-unit range across cultivars, a
-particularly low-chill named cultivar, and a note that most Japanese plum
-cultivars are self-unfruitful. Accessed 2026-09-28, search snippets only.
+[10] Bolarinwa, I. F., Orfila, C. and Morgan, M. R. A. (2014), "Amygdalin
+content of seeds, kernels and food products commercially-available in the
+UK," *Food Chemistry* 152: 133-139. Supplied: plum kernel and prune-slice
+amygdalin. Accessed 2026-11-23, PDF re-read.
 
-[23] An unidentified source within a search-result set on global plum
-yield statistics. Supplied: a global average combined plum-and-sloe yield
-figure for one recent year. Accessed 2026-09-28, search snippet only; the
-underlying international statistics database itself was not opened
+[11] Wikipedia, "Plum pox". Supplied: history, transmission, spread in
+nursery stock, management, 'C5', landrace loss. Accessed 2026-11-23,
+opened directly.
+
+[12] Wikipedia, "Powidl". Supplied: method, late harvest, keeping. Accessed
+2026-11-23, opened directly.
+
+[13] Wikipedia, "Slivovitz". Supplied: fruit, process, ABV, regional
+names, methanol note, 2022 UNESCO inscription. Accessed 2026-11-23,
+opened directly.
+
+[14] Wikipedia, "Damson". Supplied: subspecies, uses, non-drying, the dye
+claim and the 2005 English Nature report. Accessed 2026-11-23, opened
 directly.
 
-[24] A review article on the defining viral disease of this crop, held in
-an institutional repository, along with a research-network record on a
-resistance-breeding parent cultivar. Supplied: a considerably higher
-alternative multi-decade economic loss estimate, a broader aphid-vector
-species count, and a note on export difficulty in affected regions.
-Accessed 2026-09-28, search snippets only; full authorship not confirmed
-from the available listing.
+[15] Snippets on plum pox costs: Cambra et al. (2006), *Bulletin OEPP/EPPO*
+36: 202-204; Cambra and colleagues (2025). Accessed 2026-11-23, search
+snippets only.
 
-[25] A chapter on yield response to water of fruit trees and vines in a
-standard international crop-water-productivity reference work. Supplied:
-water-budget scheduling approach, effective rooting depth guidance, and a
-canopy-air-temperature stress indicator. Accessed 2026-09-28, PDF
-extracted.
+[16] Snippets on world production: IndexBox plum-and-sloe market reports;
+a Hungarian trade magazine (China about 7 million t in 2023; Romania and
+Serbia about 0.5 million t each); a Serbian economics paper. Accessed
+2026-11-23, search snippets only.
 
-[26] A plum-specific chapter in the same standard international crop-
-water-productivity reference work. Supplied: species-level water-need
-comparison, waterlogging sensitivity, fruit-growth-stage definitions,
-stage-specific stress effects for both fresh and drying-type fruit, stem-
-water-potential and trunk-shrinkage indicators, pan-evaporation-based
-water use, relative-yield-versus-applied-water functions, deficit
-strategies, re-watering-induced fruit cracking, and rainfed minimum
-rainfall guidance. Accessed 2026-09-29, PDF extracted.
+[17] Snippets on chill and self-fertility: University of Tennessee W895F
+(700 to over 1,000 chill hours); nursery pages ('Stanley' 700-800 or 800
+hours); Texas A&M ('Stanley' self-fruitful); RHS ('Stanley' self-fertile).
+Accessed 2026-11-23, search snippets only.
 
-[27] A peach-specific chapter in the same standard international crop-
-water-productivity reference work, used as a first-approximation analogy
-for this crop given sparser dedicated plum data. Supplied: half-monthly
-crop-coefficient values, crop-coefficient-versus-light-interception
-relationship, stem-water-potential limits and percentage-of-water-need by
-fruit growth stage and soil depth, crop-load interaction with deficit
-irrigation, and visual leaf-stress indicators. Accessed 2026-09-29, PDF
-extracted.
-
-[28] A provincial ministry of agriculture cultivar guide, produced with a
-university partner, covering named plum cultivars. Supplied: harvest
-timing at one reference growing site, fruit description, pollination
-behavior, and intended use for several named cultivars. Accessed
-2026-09-29, opened directly.
-
-[29] A community-maintained general reference encyclopedia article on a
-named dessert/cooking cultivar. Supplied: subspecies group, fruit
-description, maturity timing, self-fertility, a disease susceptibility
-note, and history. Accessed 2026-09-29, opened directly.
-
-[30] A community-maintained general reference encyclopedia article on a
-named dessert cultivar group. Supplied: fruit description and size,
-taxonomy, history, uses, and a true-to-seed propagation note. Accessed
-2026-09-29, opened directly.
-
-[31] A community-maintained general reference encyclopedia article on a
-named regional cultivar with protected geographical status. Supplied:
-subspecies group, fruit description, harvest timing, regional production
-volume and share of world output, and uses. Accessed 2026-09-29, opened
-directly.
-
-[32] A community-maintained general reference encyclopedia article on a
-named preserving-type cultivar group. Supplied: subspecies group, fruit
-description and flavor, history, and uses including hedging/windbreak
-use. Accessed 2026-09-29, opened directly.
+[18] Snippets reproducing FDC 168162, "Plums, dried (prunes), uncooked"
+(240 kcal/100 g). Accessed 2026-11-23, search snippets only; the FDC API
+was rate-limited.

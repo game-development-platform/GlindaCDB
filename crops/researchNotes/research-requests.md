@@ -757,6 +757,19 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`pineapple--handbook`** (Library): Bartholomew, Paull & Rohrbach (2002), *The Pineapple: Botany, Production and Uses* (CABI).
   - **Needed for:** forcing-to-harvest days, photoperiod response, cold-damage temperatures, nutrient removal per tonne.
 
+### plum (2026-11-23)
+
+- [ ] **`plum--composition`** (Online): FDC 169949 ("Plums, raw") and 168162 ("Plums, dried (prunes), uncooked") directly (the API was rate-limited), or a European-plum-specific composition table.
+  - **Needed for:** raw-fruit composition and energy (not confirmed this pass).
+- [ ] **`plum--faostat`** (Online): FAOSTAT item 521 (plums and sloes), world and top producers, latest year.
+  - **Needed for:** world yield (now 4.8 t/ha from snippets).
+- [ ] **`plum--cost-study`** (Online): the current UC prune (dried plum) cost study, and any European fresh-plum or Serbian/Romanian budget with hours.
+  - **Needed for:** harvest and thinning hours, orchard life (20 vs. 30 years), fresh-market yields.
+- [ ] **`plum--chill-ph`** (Online): University of Tennessee W895F (blocked) or another extension source on European plum chill hours, pH range and self-fertility by cultivar.
+  - **Needed for:** chill, pH and pollination (partly snippet-level now).
+- [ ] **`plum--harvest-timing`** (Online/Library): bloom-to-harvest days for prune and fresh European plum cultivars.
+  - **Needed for:** days to harvest (Not sourced).
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin
