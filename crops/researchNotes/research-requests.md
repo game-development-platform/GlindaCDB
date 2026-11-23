@@ -594,6 +594,23 @@ are never committed: this project keeps citations and findings only.
   - **Needed for:** confirming the current fire-blight protected zones
     and host-genus wording (Invasiveness / biosecurity).
 
+### meyer_lemon (2026-11-23)
+
+- [ ] **`meyer-lemon--curk-2016`** (Online): Curk et al. (2016), "Phylogenetic origin of limes and lemons revealed by cytoplasmic and nuclear markers," *Annals of Botany* 117(4) (PMC4817432). The PMC OAI service would not return it.
+  - **Needed for:** the maternal parent and the first cytoplasm placement.
+- [ ] **`meyer-lemon--citrus-nz-stats`** (Online): Citrus New Zealand industry statistics: Meyer area, production, export volume and value.
+  - **Needed for:** a Meyer-only area, yield per hectare and the export figure (only all-lemon census area so far).
+- [ ] **`meyer-lemon--freshplaza-date`** (Online): the publication date of the FreshPlaza Gisborne citrus report (the date was missing from the extracted page).
+  - **Needed for:** dating the 24% Japan sales rise.
+- [ ] **`meyer-lemon--postharvest`** (Online): a Meyer-specific storage temperature and storage-life study.
+  - **Needed for:** the Storage line; the lemon regime is unsafe given chill sensitivity.
+- [ ] **`meyer-lemon--juice-chemistry`** (Online): measured soluble solids, titratable acidity and juice yield for Meyer.
+  - **Needed for:** Composition and the "sweeter lemon" claim.
+- [ ] **`meyer-lemon--citrus-industry-1967`** (Library): *The Citrus Industry*, Vol. 1 (1967), the Meyer lemon description.
+  - **Needed for:** reading the full text that UC Riverside quotes, including the ban and the historical plantings.
+- [ ] **`meyer-lemon--te-ara-1966`** (Online): the 1966 New Zealand encyclopedia (Te Ara archive) citrus table.
+  - **Needed for:** confirming the snippet-level 58 ha Meyer figure.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin
