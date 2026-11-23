@@ -11,7 +11,7 @@
 | asian_pear | Pyrus pyrifolia and related species | asian-pear.md | `korla_pear` | 2026-11-17 | RESEARCHED |
 | avocado | Persea americana | avocado.md |  | 2026-11-17 | RESEARCHED |
 | azarole | Crataegus azarolus (Mediterranean medlar) |  | `medlar` | 2026-11-23 | PROPOSED |
-| babaco | Vasconcellea × heilbornii | babaco.md |  | 2026-11-17 | RESEARCHED |
+| babaco | Vasconcellea × heilbornii | babaco.md | `mountain_papaya` | 2026-11-17 | RESEARCHED |
 | bachang | Mangifera foetida (horse mango) | bachang.md | `mango`, `kuini`, `bambangan`, `binjai`, `wet_tropics_mangoes`, `kasturi`, `kemang` | 2026-11-22 | RESEARCHED |
 | bambangan | Mangifera pajang | bambangan.md | `mango`, `bachang`, `kuini`, `binjai`, `wet_tropics_mangoes` | 2026-11-22 | RESEARCHED |
 | banana | Musa AAA dessert | banana.md | `highland_banana`, `plantain` | 2026-11-17 | RESEARCHED |
@@ -97,14 +97,14 @@
 | mata_kucing | Dimocarpus longan ssp. malesianus (syn. D. malesianus) | mata-kucing.md | `longan`, `rambutan`, `isau`, `longan_echinatus` | 2026-11-23 | RESEARCHED |
 | medlar | Mespilus germanica | medlar.md | `loquat`, `quince`, `pear`, `azarole`, `service_tree` | 2026-11-23 | RESEARCHED |
 | meyer_lemon | Citrus × meyeri | meyer-lemon.md | `lemon`, `citron`, `sweet_lemon`, `ponderosa_lemon` | 2026-11-23 | RESEARCHED |
-| mountain_papaya | Vasconcellea pubescens | mountain-papaya.md |  | 2026-10-03 | OUT-OF-DATE |
+| mountain_papaya | Vasconcellea pubescens | mountain-papaya.md | `papaya`, `babaco` | 2026-11-23 | RESEARCHED |
 | muscadine | Vitis rotundifolia | grape.md | `american_grape`, `grape` | 2026-11-17 | RESEARCHED |
 | natsudaidai | Citrus natsudaidai (natsumikan, incl. amanatsu) | natsudaidai.md | `daidai`, `hassaku`, `hetsuka_daidai`, `hyuganatsu`, `haruka`, `kunenbo` | 2026-11-17 | RESEARCHED |
 | nectarine | Prunus persica, smooth-skinned | nectarine.md |  | 2026-10-18 | OUT-OF-DATE |
 | olive | Olea europaea | olive.md |  | 2026-10-11 | OUT-OF-DATE |
 | orange | Citrus × sinensis | orange.md | `bitter_orange`, `mandarin`, `cam_xoan`, `clementine` | 2026-10-10 | OUT-OF-DATE |
 | oriental_melon | Cucumis melo Makuwa group; chamoe, makuwa uri | oriental-melon.md |  | 2026-10-06 | OUT-OF-DATE |
-| papaya | Carica papaya | papaya.md |  | 2026-09-29 | OUT-OF-DATE |
+| papaya | Carica papaya | papaya.md | `mountain_papaya` | 2026-09-29 | OUT-OF-DATE |
 | peach | Prunus persica | peach.md |  | 2026-10-12 | OUT-OF-DATE |
 | peach_low_chill | Prunus persica, subtropical peaches | peach-low-chill.md |  | 2026-10-18 | OUT-OF-DATE |
 | pear | Pyrus communis | pear.md | `korla_pear`, `loquat`, `medlar` | 2026-10-12 | OUT-OF-DATE |

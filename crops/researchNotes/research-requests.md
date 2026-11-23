@@ -611,6 +611,21 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`meyer-lemon--te-ara-1966`** (Online): the 1966 New Zealand encyclopedia (Te Ara archive) citrus table.
   - **Needed for:** confirming the snippet-level 58 ha Meyer figure.
 
+### mountain_papaya (2026-11-23)
+
+- [ ] **`mountain-papaya--inia-status-bulletin`** (Online): the INIA (Chile) bulletin on the current status of papayo cultivation used in the 2026-10-03 doc (regional yields, year-4/5 peak, 7-8-year cycle); not re-found this pass.
+  - **Needed for:** a sourced yield per hectare and the yield-by-age curve.
+- [ ] **`mountain-papaya--nrc-1989`** (Online): National Research Council, *Lost Crops of the Incas* (1989), "Highland Papayas," pp. 252-261, via the free NAP PDF (the online reader serves page images only).
+  - **Needed for:** Andean (non-Chilean) cultivation, frost tolerance and yield.
+- [ ] **`mountain-papaya--moya-leon-2004`** (Online): Moya-León et al. (2004), *Postharvest Biology and Technology* 34(2): 211-218, full text.
+  - **Needed for:** storage temperature and storage life.
+- [ ] **`mountain-papaya--mendez-2025`** (Online): Méndez et al. (2025), *Horticulturae* 11: 1165, full text (MDPI blocked automated access).
+  - **Needed for:** postharvest temperatures, packaging and 1-MCP practice.
+- [ ] **`mountain-papaya--fia-pyt-2014-0033`** (Online): the FIA final report for project PYT-2014-0033.
+  - **Needed for:** the replant-barrier cause, the viruses present, planting density and selection yields.
+- [ ] **`mountain-papaya--ciren-odepa-area`** (Online): CIREN/ODEPA fruit cadastre series for papayo by region.
+  - **Needed for:** reconciling 180 ha (2019), 225 ha and 103 ha (Coquimbo 2024).
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin
