@@ -509,6 +509,55 @@ are never committed: this project keeps citations and findings only.
   doi:10.1016/j.cub.2022.04.062, full text.
   - **Needed for:** the traits separating *A. mutabilis* from marang.
 
+### mata_kucing (2026-11-23)
+
+- [ ] **`mata_kucing--wong-1988-isau`** (Online): Wong, K.C., Ibrahim
+  Yusof, Pearce, K.G. and Alau Tayan, D. (1988), "ISAU - A potential
+  tropical longan (Dihocarpus longan) of Sarawak," 3rd National Biology
+  Symposium, 22-24 Nov. 1988, Subang Jaya, Selangor. UPM repository
+  record 51601 (http://psasir.upm.edu.my/id/eprint/51601/); also a CORE
+  copy (https://core.ac.uk/download/153827606.pdf). Both timed out or
+  returned a challenge page.
+  - **Needed for:** fruit and aril weights by accession, taste,
+    propagation results (Finding 3).
+- [ ] **`mata_kucing--doa-fruit-statistics`** (Online): Jabatan Pertanian
+  Malaysia (Department of Agriculture), *Statistik Tanaman Buah-Buahan*
+  (Fruit Crop Statistics), any recent year, with its mata kucing row.
+  doa.gov.my timed out; a 2021 copy is on Scribd (document 696554090).
+  - **Needed for:** planted area, harvested area and production by state
+    (Finding 2, Yield).
+- [ ] **`mata_kucing--unimas-2006-isau-cuttings`** (Online): UNIMAS thesis,
+  "Vegetative propagation of Isau (Dimocarpus Longana var. Malesianus
+  Leenh.) by cuttings" (2006), https://ir.unimas.my/id/eprint/18089/
+  (timed out).
+  - **Needed for:** rooting success and the planting-material constraint.
+- [ ] **`mata_kucing--jitipari-2024-ihau`** (Online): a 2024 paper in
+  *JITIPARI* (Universitas Slamet Riyadi) on Kalimantan local fruits
+  including *ihau*,
+  https://ejurnal.unisri.ac.id/index.php/jtpr/article/download/10314/5887
+  (timed out; authors and title not yet recorded).
+  - **Needed for:** proximate composition and vitamin C.
+- [ ] **`mata_kucing--lim-2013`** (Library): Lim, T.K. (2013), *Edible
+  Medicinal and Non-Medicinal Plants*, Vol. 6, *Fruits*, Springer,
+  pp. 30-38 (var. *echinatus*, doi:10.1007/978-94-007-5628-1_5; var.
+  *malesianus*, doi:10.1007/978-94-007-5628-1_6).
+  - **Needed for:** composition, uses and agronomy for both varieties.
+- [ ] **`mata_kucing--wong-2001`** (Library): Wong, K.C. (2001),
+  "Variations of local longan in Malaysia," *Acta Horticulturae*
+  558:103-106, doi:10.17660/ActaHortic.2001.558.12.
+  - **Needed for:** the full fruit and vegetative data for the four groups.
+- [ ] **`mata_kucing--wong-gan-1992`** (Library): Wong, K.C. and Gan, Y.Y.
+  (1992), "The diversity of Dimocarpus longan ssp. malesianus var.
+  malesianus in Sarawak," *Acta Horticulturae* 292:29-39.
+  - **Needed for:** the Sarawak race survey.
+- [ ] **`mata_kucing--leenhouts-1971`** (Library): Leenhouts, P.W. (1971),
+  "A revision of Dimocarpus (Sapindaceae)," *Blumea* 19:113-131.
+  - **Needed for:** variety definitions and ranges.
+- [ ] **`mata_kucing--van-welzen-1988`** (Library): van Welzen, P.C., Lamb,
+  A. and Wong, W.W.W. (1988), "Edible Sapindaceae in Sabah," *Nature
+  Malaysiana* 13:10-25.
+  - **Needed for:** var. *echinatus* and *kakus* in Sabah.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

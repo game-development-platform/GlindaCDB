@@ -64,6 +64,7 @@
 | hyuganatsu | Citrus tamurana (Miyazaki hybrid, tachibana parent) | hyuganatsu.md | `hetsuka_daidai`, `natsudaidai`, `yuzu`, `haruka`, `tachibana` | 2026-11-19 | RESEARCHED |
 | ichang_papeda | Citrus cavaleriei (syn. *C. ichangensis*) | kabosu.md | `kabosu`, `yuzu` | 2026-11-19 | REJECTED |
 | indian_jujube | Ziziphus mauritiana | indian-jujube.md | `jujube` | 2026-11-19 | RESEARCHED |
+| isau | Dimocarpus longan ssp. malesianus var. malesianus, Sarawak 'isau' race |  | `mata_kucing` | 2026-11-23 | PROPOSED |
 | jackfruit | Artocarpus heterophyllus | jackfruit.md | `breadfruit`, `champedak`, `kwai_muk`, `lakoocha`, `marang` | 2026-11-19 | RESEARCHED |
 | japanese_plum | Prunus salicina | japanese-plum.md | `cherry_plum`, `plum`, `ume` | 2026-11-19 | RESEARCHED |
 | japanese_quince | Chaenomeles japonica | japanese-quince.md | `mugua`, `quince` | 2026-11-19 | RESEARCHED |
@@ -82,7 +83,8 @@
 | laraha | *C.* × *aurantium*, Curaçao landrace | bitter-orange.md | `bitter_orange` | 2026-11-17 | REJECTED |
 | lemon | Citrus × limon | lemon.md | `persian_lime`, `citron`, `bitter_orange`, `meyer_lemon`, `sweet_lemon`, `bergamot` | 2026-11-19 | RESEARCHED |
 | lingonberry | Vaccinium vitis-idaea | lingonberry.md | `blueberry`, `cranberry`, `lowbush_blueberry`, `bilberry` | 2026-11-19 | RESEARCHED |
-| longan | Dimocarpus longan | longan.md | `lychee`, `rambutan`, `pulasan`, `mata_kucing`, `ackee`, `mamoncillo` | 2026-11-20 | RESEARCHED |
+| longan | Dimocarpus longan | longan.md | `lychee`, `rambutan`, `pulasan`, `mata_kucing`, `ackee`, `mamoncillo`, `longan_echinatus` | 2026-11-20 | RESEARCHED |
+| longan_echinatus | Dimocarpus longan var. echinatus |  | `mata_kucing`, `longan` | 2026-11-23 | PROPOSED |
 | loquat | Eriobotrya japonica | loquat.md | `medlar`, `quince`, `pear` | 2026-11-20 | RESEARCHED |
 | lowbush_blueberry | Vaccinium angustifolium, V. myrtilloides | lowbush-blueberry.md | `blueberry`, `lingonberry`, `cranberry`, `bilberry`, `half_high_blueberry` | 2026-11-20 | RESEARCHED |
 | lychee | Litchi chinensis | lychee.md | `longan`, `rambutan`, `pulasan`, `ackee`, `mamoncillo` | 2026-11-20 | RESEARCHED |
@@ -91,7 +93,7 @@
 | mango | Mangifera indica | mango.md | `cashew`, `pistachio`, `kuini`, `bachang`, `binjai`, `bambangan`, `kasturi` | 2026-11-20 | RESEARCHED |
 | mangosteen | Garcinia mangostana | mangosteen.md | `button_mangosteen`, `charichuelo`, `garcinia_dulcis` | 2026-11-23 | RESEARCHED |
 | marang | Artocarpus odoratissimus (terap, tarap) | marang.md | `jackfruit`, `champedak`, `breadfruit`, `lakoocha`, `peluntan`, `pingan`, `artocarpus_mutabilis` | 2026-11-23 | RESEARCHED |
-| mata_kucing | Dimocarpus longan ssp. malesianus | mata-kucing.md | `longan` | 2026-10-03 | OUT-OF-DATE |
+| mata_kucing | Dimocarpus longan ssp. malesianus (syn. D. malesianus) | mata-kucing.md | `longan`, `rambutan`, `isau`, `longan_echinatus` | 2026-11-23 | RESEARCHED |
 | medlar | Mespilus germanica | medlar.md | `loquat` | 2026-10-07 | OUT-OF-DATE |
 | meyer_lemon | Citrus × meyeri | meyer-lemon.md | `lemon` | 2026-10-03 | OUT-OF-DATE |
 | mountain_papaya | Vasconcellea pubescens | mountain-papaya.md |  | 2026-10-03 | OUT-OF-DATE |
@@ -121,7 +123,7 @@
 | pulasan | Nephelium ramboutan-ake, syn. N. mutabile | pulasan.md | `longan`, `lychee` | 2026-10-03 | OUT-OF-DATE |
 | purple_passionfruit | Passiflora edulis | passionfruit.md | `yellow_passionfruit` | 2026-09-30 | OUT-OF-DATE |
 | quince | Cydonia oblonga | quince.md | `japanese_quince`, `loquat` | 2026-10-02 | OUT-OF-DATE |
-| rambutan | Nephelium lappaceum | rambutan.md | `longan`, `lychee` | 2026-09-30 | OUT-OF-DATE |
+| rambutan | Nephelium lappaceum | rambutan.md | `longan`, `lychee`, `mata_kucing` | 2026-09-30 | OUT-OF-DATE |
 | rangpur_lime | Citrus × limonia (mandarin × citron) |  | `key_lime`, `mandarin` | 2026-11-19 | PROPOSED |
 | raspberry | Rubus idaeus | raspberry.md |  | 2026-09-29 | OUT-OF-DATE |
 | red_currant | Ribes rubrum | red-currant.md |  | 2026-10-01 | OUT-OF-DATE |
