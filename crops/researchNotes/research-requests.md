@@ -814,6 +814,17 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`rambutan--statistics`** (Online): Thai OAE or NSO rambutan area, production and yield, plus FAOSTAT if listed.
   - **Needed for:** national yields (2014 tonnage only).
 
+### raspberry (2026-11-23)
+
+- [ ] **`raspberry--cost-study`** (Online): a current WSU or OSU red raspberry enterprise budget (establishment and annual operations, machine vs. hand harvest).
+  - **Needed for:** non-harvest labour, planting-year yields (Not sourced).
+- [ ] **`raspberry--nutrient-removal`** (Online/Library): N-P-K removed per tonne of fruit and prunings.
+  - **Needed for:** soil nutrient uptake (Not sourced).
+- [ ] **`raspberry--composition`** (Online): FoodData Central 167755 read directly (API was rate-limited).
+  - **Needed for:** confirming composition taken via Wikipedia.
+- [ ] **`raspberry--pollination`** (Online): self-fertility of commercial red raspberry cultivars and bee contribution to drupelet set.
+  - **Needed for:** pollination (hive density only).
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

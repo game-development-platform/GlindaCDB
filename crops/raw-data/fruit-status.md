@@ -20,8 +20,8 @@
 | bilberry | Vaccinium myrtillus | bilberry.md | `lingonberry`, `lowbush_blueberry`, `blueberry`, `cranberry` | 2026-11-22 | RESEARCHED |
 | binjai | Mangifera caesia | binjai.md | `mango`, `bachang`, `bambangan`, `kuini`, `kemang`, `wet_tropics_mangoes`, `kasturi` | 2026-11-22 | RESEARCHED |
 | bitter_orange | Citrus × aurantium | bitter-orange.md | `orange`, `chinotto`, `laraha`, `daidai`, `lemon`, `mandarin`, `pomelo` | 2026-11-17 | RESEARCHED |
-| black_raspberry | Rubus occidentalis | black-raspberry.md |  | 2026-11-17 | RESEARCHED |
-| blackberry | Rubus subgenus Rubus | blackberry.md |  | 2026-11-17 | RESEARCHED |
+| black_raspberry | Rubus occidentalis | black-raspberry.md | `raspberry` | 2026-11-17 | RESEARCHED |
+| blackberry | Rubus subgenus Rubus | blackberry.md | `raspberry` | 2026-11-17 | RESEARCHED |
 | blackcurrant | Ribes nigrum | blackcurrant.md |  | 2026-11-17 | RESEARCHED |
 | blueberry | Vaccinium corymbosum | blueberry.md | `lingonberry`, `lowbush_blueberry`, `bilberry`, `half_high_blueberry` | 2026-11-17 | RESEARCHED |
 | bokbunja | Rubus coreanus | bokbunja.md |  | 2026-11-17 | RESEARCHED |
@@ -127,7 +127,7 @@
 | quince | Cydonia oblonga | quince.md | `japanese_quince`, `loquat`, `medlar` | 2026-10-02 | OUT-OF-DATE |
 | rambutan | Nephelium lappaceum | rambutan.md | `longan`, `lychee`, `mata_kucing`, `pulasan` | 2026-11-23 | RESEARCHED |
 | rangpur_lime | Citrus × limonia (mandarin × citron) |  | `key_lime`, `mandarin` | 2026-11-19 | PROPOSED |
-| raspberry | Rubus idaeus | raspberry.md |  | 2026-09-29 | OUT-OF-DATE |
+| raspberry | Rubus idaeus | raspberry.md | `black_raspberry`, `blackberry` | 2026-11-23 | RESEARCHED |
 | red_currant | Ribes rubrum | red-currant.md |  | 2026-10-01 | OUT-OF-DATE |
 | satsuma | Citrus unshiu | satsuma.md | `kunenbo`, `mandarin`, `clementine` | 2026-10-03 | OUT-OF-DATE |
 | seed_watermelon | Citrullus lanatus seed types and C. mucosospermus | watermelon.md | `citron_melon`, `watermelon` | 2026-10-10 | OUT-OF-DATE |
