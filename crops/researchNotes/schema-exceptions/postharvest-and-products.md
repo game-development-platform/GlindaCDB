@@ -54,12 +54,16 @@ plain name with the cropID, doc and Finding.
   - `pear` (`pear.md`, Finding 4): winter cultivars need 15-60 days at −1 °C by cultivar (or ethylene at
     100 µL/L, 20 °C, 2-3 days) before they will ripen, then 4-9 days at 15-24 °C; unchilled fruit shrivel
     without ripening; most fail to soften at 30 °C.
+  - `pear_low_chill` (`pear-low-chill.md`, Finding 4): picked hard as it yellows and ripened off the
+    tree; Florida ripens it at room temperature, while Oklahoma says hybrids need 2 days to 2 weeks of
+    chilling first or they shrivel and rot; the imported 15.5-18 °C window for 'Kieffer' was not re-found
+    this pass (request `pear_low_chill--kieffer-ripening`).
   - Imported: peach, plum, apricot, papaya, guava, kiwifruit (off-plant ripening); avocado (never ripens
     on the tree); banana (scheduled ethylene ripening at 14-18 °C over 4-10 days; fails above about 25
     °C); cantaloupe (softens but gains no sugar off the vine); honeydew (ethylene treatment); durian (the
     husk gives off ethylene); quince (stored, then ripened at 20 °C); medlar (inedible until bletted, 2-3
     weeks cool or frost on the tree);
-    low-chill pear (softens only at 15.5-18 °C); Asian persimmon (astringent types need CO2 or ethanol
+     Asian persimmon (astringent types need CO2 or ethanol
     treatment, drying, or freezing); Asian pear (climacteric in some cultivars, not others).
     Counter-cases: pomegranate and sweet cherry don't ripen off the plant.
 - **Possible home:** a "Ripening / conditioning" line under "Storage" (required or not, regime, days,

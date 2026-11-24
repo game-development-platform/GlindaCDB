@@ -950,6 +950,29 @@ Also relevant here, already requested under nectarine and peach: `nectarine--lay
 - [ ] **`pear--quince-incompatibility`** (Library): a pear propagation or rootstock reference (e.g. Webster & Wertheim, "Apple and pear rootstocks"; or *Pear: Production, Postharvest and Biotechnology*).
   - **Needed for:** which cultivars are quince-incompatible, how soon it shows, and interstem practice.
 
+### pear_low_chill (2026-11-24)
+
+Also relevant here, already requested under pear: `pear--orchard-chill`, `pear--kilayim-table`.
+
+- [ ] **`pear_low_chill--egypt-dormancy`** (Online): Fathi and Hussein (2007), "Better combination of defoliation and dormancy breaking agent for pear orchards," https://journals.ekb.eg/article_220647.html; Samra et al. (2009), https://journals.ekb.eg/article_116620.html (the journal site timed out on 2026-11-24).
+  - **Needed for:** the rates, dates, bud-burst and yield figures opened directly (Finding 1).
+- [ ] **`pear_low_chill--egypt-rootstock`** (Online): "Effect of some pear rootstocks on growth, fruiting and resistance to fire blight disease of 'Le-Conte' pear cultivar," https://fjard.journals.ekb.eg/article_192988.html; and the 2016 North Middle Nile Delta rootstock study, https://journals.ekb.eg/article_176567.html.
+  - **Needed for:** yields by rootstock, the fire-blight and chlorosis results, and salt tolerance (Finding 5).
+- [ ] **`pear_low_chill--kieffer-ripening`** (Library): the 1940s Southern horticulture bulletin giving a 15.5-18 °C (60-65 °F) ripening window and 2-3 month cold storage for 'Kieffer' (seen in an earlier pass via a university digital-collections search; title to identify).
+  - **Needed for:** the ripening temperature window and whether a chilling step is needed (Finding 4; Open research questions).
+- [ ] **`pear_low_chill--uga-c742`** (Online): Krewer, G., and P. Bertrand (2017), *Home Garden Pears*, University of Georgia Extension Circular 742 (the fieldreport.caes.uga.edu link returned 404).
+  - **Needed for:** Georgia cultivar, pollination (sterile-pollen cultivars) and blight notes.
+- [ ] **`pear_low_chill--texas-pears`** (Online): Lipe, J. A., C. Lyons and L. Stein, "Home Fruit Production—Pears," Texas A&M AgriLife (B-1598; the aggie-horticulture page returned 404, the county copy a bot check).
+  - **Needed for:** the Texas zones, chill figures and the 'Kieffer' blight rating opened directly.
+- [ ] **`pear_low_chill--sc-callery-rule`** (Online): the South Carolina Department of Plant Industry (Clemson) rule text banning sale of Bradford pear and pears on Callery rootstock from 1 October 2024.
+  - **Needed for:** the exact scope of the rootstock ban and what stocks nurseries now use (Finding 5).
+- [ ] **`pear_low_chill--cultivar-releases`** (Library): Andrews, C. P., and W. B. Sherman (1979), "Hybrid pear cultivars for Florida," *Proc. Fla. State Hort. Soc.* 92: 266-267; Deyton, D. E., and J. C. Cummins (1991), "History of pear breeding in Tennessee," *Fruit Varieties Journal* 45(3): 143-146.
+  - **Needed for:** parentage and release dates of 'Flordahome', 'Hood', 'Orient' and 'Tenn' (Open research questions).
+- [ ] **`pear_low_chill--hedrick-pears`** (Online): Hedrick, U. P., *The Pears of New York* (1921), Project Gutenberg 46994 (503 on 2026-11-24), 'Kieffer' and 'Le Conte' entries.
+  - **Needed for:** opening the cultivar histories directly (Finding 6).
+- [ ] **`pear_low_chill--florida-rootstock-trial`** (Library): the five-year UF/IFAS rootstock study of 'Flordahome' and 'Hood' on *P. calleryana*, *P. betulifolia*, OH×F 51/97/333 and quince cited in HS1393 (authors to identify; probably *Proc. Fla. State Hort. Soc.*).
+  - **Needed for:** growth and survival figures by rootstock (Finding 5).
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

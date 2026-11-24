@@ -85,6 +85,8 @@ plain name with the cropID, doc and Finding.
     doesn't reliably come true; about 6% of seedlings are outcrosses that lose nematode resistance and
     are culled by their lack of red leaves, so seed blocks are isolated and cuttings are taken only from
     grafted trees.
+  - `pear_low_chill` (`pear-low-chill.md`, Propagation): pears do not come true from seed, so cultivars
+    are sold budded or grafted onto Callery or *P. betulifolia* seedlings.
   - Imported: mangosteen and porang (apomictic); mango (polyembryonic cultivar groups come true, others
     don't); Key lime and citrus rootstocks (nucellar seed); oregano (seedlings don't keep the parent's
     chemotype).
@@ -171,6 +173,9 @@ plain name with the cropID, doc and Finding.
 - **Seen in:**
   - `peach_low_chill` (`peach-low-chill.md`, Finding 6): 'Flordaguard' is a peach grown for rootstock
     seed, recommended for low-chill peach, nectarine and plum.
+  - `pear_low_chill` (`pear-low-chill.md`, Finding 5): the standard stock is *P. calleryana*, grown from
+    seed; it is not a crop row in this project, and is now an invasive whose sale is banned in several
+    states.
   - Imported: date-plum (rootstock seed for Asian persimmon); quince (pear and medlar rootstock); golden
     currant; sour orange (classic citrus stock; tristeza kills sweet orange on it); cherry plum; squash
     as a graft stock for oriental melon.

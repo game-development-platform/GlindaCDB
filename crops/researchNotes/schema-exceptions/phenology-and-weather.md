@@ -106,8 +106,12 @@ plain name with the cropID, doc and Finding.
     flower buds in low-chill cultivars, a chill ceiling as well as a floor; hydrogen cyanamide advanced
     maturity 10-19 days but cut set or yield by over 40% in three Australian trials, and worked only when
     timed by bud stage.
+  - `pear_low_chill` (`pear-low-chill.md`, Finding 1): in Egypt 'Le Conte' is defoliated with zinc
+    sulphate (15 November) and then sprayed with hydrogen cyanamide (15 January); Dormex at 1% plus 3%
+    mineral oil was a cheaper substitute for 4% hydrogen cyanamide; garlic extract and urea phosphite
+    were tried as alternatives (snippet only).
   - Imported: low-chill apple (hydrogen cyanamide plus oil gave a crop with zero chill hours; hand
-    defoliation in the tropics); low-chill pear (dormancy-breaker substitute); artichoke (gibberellin
+    defoliation in the tropics);  artichoke (gibberellin
     substitutes for cold); jujube (chill speeds but is not required); olive (chill counted in weeks below
     12 °C, a different unit).
 - **Possible home:** extend the chill angle: unit, substitutes, negation rule.
@@ -126,6 +130,9 @@ plain name with the cropID, doc and Finding.
   - `pear` (`pear.md`, Weather response): a 10%/90% bud-kill table across eight stages, from 15/0 °F at
     scales separating to 28/24 °F at full bloom (for 'Bartlett'; 'd'Anjou' may bloom earlier and be more
     tender); fire-blight blossom risk is tracked in degree-hours above 65 °F.
+  - `pear_low_chill` (`pear-low-chill.md`, Weather response): 26 °F (−3.3 °C) usually kills *open*
+    blossoms; early bloom (5-29 March) made all three hybrids very susceptible to late-spring freezes in
+    Mississippi.
   - Imported: grapefruit (−2.2 °C for 6 hours or more); Korla pear (a table of thresholds by organ, and
     freeze wounds that lead to canker); lingonberry (hardiness depends on snow cover); blackcurrant (2 °C
     for two days at bloom cut yield about 60%, with no frost); passionfruit and date palm (rain at

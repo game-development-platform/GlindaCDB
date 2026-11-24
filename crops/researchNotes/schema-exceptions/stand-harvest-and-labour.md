@@ -22,6 +22,8 @@ plain name with the cropID, doc and Finding.
   - `pear` (`pear.md`, Days/years to first bearing and Life form / season): commercial yield from year
     3-4, rising to full production in year 8 (10, 20, 30, 35, 45-50 bins/acre), then 25 productive years;
     perry trees take a decade or more to bear and can stay fully productive for 250 years.
+  - `pear_low_chill` (`pear-low-chill.md`, Finding 3): first significant crop in the 4th season, then
+    2.5-9.9 lb/tree until a jump to 149-194 lb/tree in the 7th (Mississippi).
   - Imported: asparagus (no harvest in year 1, light in year 2, full from year 3; cutting in year 1 cost
     23% of the five-year yield; Fusarium decline at 8-20 years); sweet cherry (full at year 6, about 25
     years); plum (0.23 / 0.38 / 0.76 / 1.0 of full yield in years 4-7); mangosteen (6-20 years to bear);
@@ -126,6 +128,9 @@ plain name with the cropID, doc and Finding.
   - `peach_low_chill` (`peach-low-chill.md`, Findings 2 and 5, Weather response): chemical defoliation in
     late November; summer topping at 100 cm, 150 cm and 200 cm and cutting back after harvest; rootstock
     sucker removal; mounting freeze-protection emitters on PVC risers each winter.
+  - `pear_low_chill` (`pear-low-chill.md`, Labor and Hazards): cutting out fire blight 8-10 inches below
+    infection with tool sterilising; copper every 10-14 days from bloom for leaf spot; dormant oil in
+    mid-January for scale; streptomycin at bloom; trunk wraps against herbicide uptake through thin bark.
   - Imported: potato (hilling; vine kill 7-21 days before harvest to set skins); yam, tomato, eggplant
     (staking; yam poles 2-5 m); cauliflower (blanching; not needed in green cultivars); endive (tying to
     blanch); jicama and arrowroot (flower removal); horseradish (lifting side roots twice a season);
@@ -165,18 +170,23 @@ plain name with the cropID, doc and Finding.
   - `pear` (`pear.md`, Finding 3 and Yield): revenue falls faster than yield under water deficit (slope
     1.3 against 1.0-1.2) because fruit under 65 mm is penalised; a heavy crop suppresses next year's
     bloom; budget yields run from about 39.5 t/ha at 242 trees/acre to about 70 t/ha at 558.
+  - `pear_low_chill` (`pear-low-chill.md`, Labor): Oklahoma says pears need crop-load thinning every
+    season, to one fruit per cluster, or they give small fruit, alternate bearing and broken limbs.
   - Imported: giant granadilla (a maximum number of fruit carried at once); peach (thinning curves trade
     fruit size against yield by cultivar); cashew (about 450 kg/ha whether 44 or 278 trees/ha).
 - **Possible home:** a "Load and density" note under "Yield".
 
 ## 38 — Loss on the plant once ripe
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Harvest stages / windows" gives the window but not how fast quality falls inside
   it, or losses from seed shed before harvest.
-- **Seen in (imported):** snake melon (hollow fruit rise from 9-17% to 44-64% in two days); salsify (wind
-  blows the plumed seed away); American lotus (late pods drop seed into the water); radish (prime for only
-  a few days, so it is sown every week or two).
+- **Seen in:**
+  - `pear_low_chill` (`pear-low-chill.md`, Finding 4): fruit left on the tree soften unevenly, soften at
+    the core and gain stone cells (grit).
+  - Imported: snake melon (hollow fruit rise from 9-17% to 44-64% in two days); salsify (wind blows the
+    plumed seed away); American lotus (late pods drop seed into the water); radish (prime for only a few
+    days, so it is sown every week or two).
 - **Possible home:** a "Deterioration on the plant" line under "Harvest stages / windows".
 
 ## 39 — Disorders in the field from water or nutrient swings, and rain cracking

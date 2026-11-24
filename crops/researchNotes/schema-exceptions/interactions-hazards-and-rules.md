@@ -43,8 +43,12 @@ plain name with the cropID, doc and Finding.
   - `pear` (`pear.md`, Climate zones and Hazards): fire blight, with insufficient chill, limits expansion
     into warm regions; a few active cankers per acre can defeat a spray programme, and streptomycin
     resistance is widespread in California.
+  - `pear_low_chill` (`pear-low-chill.md`, Findings 1 and 2): fire-blight tolerance, with chill, decides
+    which pears can be grown in the US South; the European 'Moonglow' was dead within five years in a
+    Mississippi trial while the hybrids survived; the imported bloom-warmth-and-wetting forecast was not
+    re-sourced this pass.
   - Imported: grape (Pierce's disease makes European grapes uneconomic in the US Southeast, where
-    muscadine is resistant); low-chill pear (fire blight forecast from warmth and wetting during bloom);
+    muscadine is resistant);
     taro (leaf blight destroyed Samoa's crop in 1993; recovery by breeding).
 - **Possible home:** a "Disease limits on range" note under "Climate zones" or "Weather response".
 
@@ -87,12 +91,16 @@ plain name with the cropID, doc and Finding.
 
 ## 59 — Effects on the land and neighbours beyond the crop
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** nothing records services or harms the crop causes beyond its own yield.
-- **Seen in (imported):** moth bean (binds sand); Kernza (perennial roots cut nitrate leaching); jujube
-  (windbreak rows protect neighbouring fields; its nectar harms managed bees); lotus root (paddy runoff of
-  nitrogen, phosphorus and organic load; heavy-metal uptake used for clean-up); American lotus (can take
-  over a pond and harm fishing and boating).
+- **Seen in:**
+  - `pear_low_chill` (`pear-low-chill.md`, Finding 5): its standard rootstock, *P. calleryana*, is an
+    invasive spread by birds, with suckers and wild seedlings that grow into thorny forms; reported
+    outside cultivation in 152 counties in 25 US states.
+  - Imported: moth bean (binds sand); Kernza (perennial roots cut nitrate leaching); jujube (windbreak
+    rows protect neighbouring fields; its nectar harms managed bees); lotus root (paddy runoff of
+    nitrogen, phosphorus and organic load; heavy-metal uptake used for clean-up); American lotus (can
+    take over a pond and harm fishing and boating).
 - **Possible home:** an "Environmental effects" line (services and harms).
 
 ## 60 — Crop that supports another farm enterprise
@@ -113,6 +121,9 @@ plain name with the cropID, doc and Finding.
   - `peach_low_chill` (`peach-low-chill.md`, Hazards): worker and chemical hazards from routine
     operations, namely corrosive zinc sulphate defoliant, pre-plant soil fumigants, and hydrogen cyanamide
     in trials.
+  - `pear_low_chill` (`pear-low-chill.md`, Hazards): hydrogen cyanamide, used as a dormancy breaker, is
+    EPA toxicity category I; it causes a disulfiram-like reaction with alcohol, and labels bar alcohol
+    for 24 hours after handling (snippet only).
 - **Seen in (imported):**
   - food-drug interactions: grapefruit; cranberry (warfarin, disputed); durian with alcohol;
   - microbes on the rind: cantaloupe;
@@ -157,6 +168,10 @@ plain name with the cropID, doc and Finding.
     least 40% 'Plant de Blanc'; Herefordshire Perry up to 25% cider apple juice, chaptalisation to about
     9.5% potential alcohol); the US and EU 50 µg/kg patulin limits found are written for apple products,
     and no pear-specific limit was found (snippet only).
+  - `pear_low_chill` (`pear-low-chill.md`, Finding 5): South Carolina banned nursery sales of pears grown
+    on Callery rootstock from 1 October 2024 (snippet only); Ohio, Pennsylvania and Massachusetts ban
+    Callery pear itself, and Missouri from 2029. A ban on a rootstock restricts the crop's planting stock
+    (compare entry 4).
   - Imported: mustard oil (erucic-acid limits); head mustard (fertilizer and pesticide intervals before
     harvest); wild rocket (EU leaf nitrate limit); makrut lime (leaf movement under a citrus-greening
     quarantine); bergamot (protected-origin yield cap of 40 t/ha); maypop (pharmacopoeia marker limit);
@@ -173,6 +188,8 @@ plain name with the cropID, doc and Finding.
 - **Seen in:**
   - `pear` (`pear.md`, Uses and processing): under Jewish law most commercial pear trees are grafted in a
     forbidden way, and quince is listed among forbidden pear stocks (snippet only).
+  - `pear_low_chill` (`pear-low-chill.md`, Uses and processing): whether a hybrid grafted on Callery or
+    *P. betulifolia* (all *Pyrus*) counts as a forbidden graft under *kilei ilan* was not found.
   - Imported: citron (etrog, with rules on grafting and quality); fruit trees generally (no fruit in the
     first three years; no grafting between species, such as apple on quince); grape (rules on what may be
     sown in a vineyard); date palm (closed fronds for ritual use); horseradish (Passover bitter herb);
