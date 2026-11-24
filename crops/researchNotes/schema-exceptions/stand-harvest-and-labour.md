@@ -24,11 +24,14 @@ plain name with the cropID, doc and Finding.
     perry trees take a decade or more to bear and can stay fully productive for 250 years.
   - `pear_low_chill` (`pear-low-chill.md`, Finding 3): first significant crop in the 4th season, then
     2.5-9.9 lb/tree until a jump to 149-194 lb/tree in the 7th (Mississippi).
+  - `purple_passionfruit` / `yellow_passionfruit` (`passionfruit.md`, Finding 4 and Stand life):
+    plantings are replanted every 2-4 years, driven by disease (collar rot forces yellow replanting every
+    30-35 months in Fiji) more than by the plant's own life; the purple runs about 4 years.
   - Imported: asparagus (no harvest in year 1, light in year 2, full from year 3; cutting in year 1 cost
     23% of the five-year yield; Fusarium decline at 8-20 years); sweet cherry (full at year 6, about 25
     years); plum (0.23 / 0.38 / 0.76 / 1.0 of full yield in years 4-7); mangosteen (6-20 years to bear);
     orange (20-year economic cycle vs centuries-old trees); blackberry (15-20 years commercial vs about
-    6); passionfruit (replant every 2-4 years); black raspberry (virus limits stands to 2-3 years); red
+    6); black raspberry (virus limits stands to 2-3 years); red
     currant (Eutypa canker cuts stand life from about 15 to 8-9 years); mountain papaya (peaks in years
     4-5, 7-8-year cycle); babaco (26-month rotation); yellow pitaya (10-year cycle); pineapple (ratoon
     crop about 0.53 of the plant crop); raspberry and blackberry (canes in age cohorts); dwarf sour
@@ -100,16 +103,20 @@ plain name with the cropID, doc and Finding.
 
 ## 33 — Harvest method that decides the product
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Labor" takes hours, and "Harvest stages" takes maturity. At the same maturity,
   the way a crop is harvested can decide which product it can become, how long it keeps, and whether a
   co-product is usable.
-- **Seen in (imported):** durian (cut from the tree vs windfall); cranberry (water harvest for processing
-  vs dry harvest for fresh); blueberry (hand vs machine); raspberry (machine-picked fruit is for
-  processing only); ume (nets catch fallen ripe fruit); cashew (gathering fallen nuts weekly loses the
-  cashew apple, 8-10 times the nut weight, which needs near-daily hand picking and processing within
-  hours); lotus root (water-jet digging in the flooded field vs drained hoe digging; water-jet digging of
-  arrowhead needs a water allocation).
+- **Seen in:**
+  - `purple_passionfruit` / `yellow_passionfruit` (`passionfruit.md`, Finding 3): the yellow form is
+    gathered off the ground after it falls (daily, or it spoils), while the purple is vine-picked at
+    colour; fallen fruit of equal ripeness has less sugar, acid and vitamin C.
+  - Imported: durian (cut from the tree vs windfall); cranberry (water harvest for processing vs dry
+    harvest for fresh); blueberry (hand vs machine); raspberry (machine-picked fruit is for processing
+    only); ume (nets catch fallen ripe fruit); cashew (gathering fallen nuts weekly loses the cashew
+    apple, 8-10 times the nut weight, which needs near-daily hand picking and processing within hours);
+    lotus root (water-jet digging in the flooded field vs drained hoe digging; water-jet digging of
+    arrowhead needs a water allocation).
 - **Possible home:** a "Harvest method" line: options, products each allows, labour and co-product loss.
 
 ## 34 — Time of day of harvest

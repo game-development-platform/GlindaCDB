@@ -150,11 +150,15 @@ plain name with the cropID, doc and Finding.
 
 ## 63 — Growing or storage conditions that raise a toxin
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Hazards" gives a toxin's presence. It doesn't give the conditions that raise it.
-- **Seen in (imported):** potato (light raises glycoalkaloids from 12-20 to 250-280 mg/kg); cassava
-  (drought raises cyanogens); taioba (sun and heat raise oxalate; also higher in the dry season);
-  celeriac (pink rot raises psoralens); sweet potato (mouldy roots form a lung toxin).
+- **Seen in:**
+  - `purple_passionfruit` / `yellow_passionfruit` (`passionfruit.md`, Finding 5): the cyanogenic
+    glycoside is highest in very young unripe fruit and falls to insignificance in ripe, fallen fruit, so
+    ripeness, not a growing condition, sets the level (a toxin *lowered* by maturation).
+  - Imported: potato (light raises glycoalkaloids from 12-20 to 250-280 mg/kg); cassava (drought raises
+    cyanogens); taioba (sun and heat raise oxalate; also higher in the dry season); celeriac (pink rot
+    raises psoralens); sweet potato (mouldy roots form a lung toxin).
 - **Possible home:** a "Raised by" field on each hazard.
 
 ## 64 — Legal limits on the product or the harvest

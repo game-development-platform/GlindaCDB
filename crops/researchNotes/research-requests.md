@@ -973,6 +973,27 @@ Also relevant here, already requested under pear: `pear--orchard-chill`, `pear--
 - [ ] **`pear_low_chill--florida-rootstock-trial`** (Library): the five-year UF/IFAS rootstock study of 'Flordahome' and 'Hood' on *P. calleryana*, *P. betulifolia*, OH×F 51/97/333 and quince cited in HS1393 (authors to identify; probably *Proc. Fla. State Hort. Soc.*).
   - **Needed for:** growth and survival figures by rootstock (Finding 5).
 
+### purple_passionfruit / yellow_passionfruit (2026-11-24)
+
+Covers both forms; the one doc `passionfruit.md` serves both rows.
+
+- [ ] **`passionfruit--usda-hb66`** (Online): the USDA Agriculture Handbook 66 passionfruit chapter (Gross, Wang & Saltveit eds., *The Commercial Storage of Fruits, Vegetables, and Florist and Nursery Stocks*); the archived ba.ars.usda.gov/hb66 path returned 404.
+  - **Needed for:** the ethylene output (~160-400 µL/kg·h), respiration, the 7 °C chilling-injury threshold for the yellow form, CA and grading (Finding 3; Open research questions).
+- [ ] **`passionfruit--ibge-pam`** (Online): IBGE SIDRA, Produção Agrícola Municipal 2023, maracujá at Brazil level (area, production, yield), and the Embrapa chapter citing it.
+  - **Needed for:** a measured national area, output and yield to replace the ~15 t/ha snippet (Yield).
+- [ ] **`passionfruit--kc-lysimeter`** (Online): the Piracicaba Irriga Kc study, the USP master's thesis (teses.usp.br 11/11143), and the Botucatu drip lysimeter study, all Brazilian.
+  - **Needed for:** opening the stage Kc values and seasonal ETc directly (Water use).
+- [ ] **`passionfruit--cyanogens`** (Library): the food-chemistry study identifying and quantifying prunasin and sambunigrin in *P. edulis* by tissue and ripeness (the ~285 mg/kg peel figure seen in an earlier pass).
+  - **Needed for:** the glycoside identities and concentrations (Finding 5; Hazards).
+- [ ] **`passionfruit--fdc-values`** (Online): USDA FoodData Central SR Legacy 169108 (purple) and any yellow-form record, via the standard FDC API (the portal-data JSON returned null amounts).
+  - **Needed for:** the full purple and yellow nutrient profiles (Composition).
+- [ ] **`passionfruit--salinity`** (Online): a salt-tolerance source for passionfruit (FAO-61 lists no numeric rating; check Ayers & Westcot FAO-29 or regional trials).
+  - **Needed for:** a sourced salinity threshold (Open research questions).
+- [ ] **`passionfruit--woodiness-virus`** (Online): a current review of Passion fruit woodiness virus (PWV / CABMV) epidemiology and the breakdown of mild-strain cross-protection.
+  - **Needed for:** updating the 1978 Morton account with current virus taxonomy and control (Finding 4).
+- [ ] **`passionfruit--rain-pollination`** (Library): the Knight & Winters USDA reports on yellow passionfruit pollination and yield, or a Jaboticabal (São Paulo) pollination study.
+  - **Needed for:** the "rain within 1.5 h prevents set" figure and hand-pollination rates (Weather response; Pollination).
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

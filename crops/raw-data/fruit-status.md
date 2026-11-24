@@ -123,7 +123,7 @@
 | pomelo | Citrus maxima | pomelo.md | `grapefruit`, `bitter_orange`, `ponderosa_lemon` | 2026-11-23 | RESEARCHED |
 | ponderosa_lemon | Citrus hybrid, 'Ponderosa' lemon (presumed lemon × citron) | ponderosa-lemon.md | `meyer_lemon`, `lemon`, `citron`, `pomelo` | 2026-11-23 | RESEARCHED |
 | pulasan | Nephelium ramboutan-ake, syn. N. mutabile | pulasan.md | `rambutan`, `longan`, `lychee` | 2026-11-23 | RESEARCHED |
-| purple_passionfruit | Passiflora edulis | passionfruit.md | `yellow_passionfruit` | 2026-09-30 | OUT-OF-DATE |
+| purple_passionfruit | Passiflora edulis | passionfruit.md | `yellow_passionfruit` | 2026-11-24 | RESEARCHED |
 | quince | Cydonia oblonga | quince.md | `japanese_quince`, `loquat`, `medlar` | 2026-10-02 | OUT-OF-DATE |
 | rambutan | Nephelium lappaceum | rambutan.md | `longan`, `lychee`, `mata_kucing`, `pulasan` | 2026-11-23 | RESEARCHED |
 | rangpur_lime | Citrus × limonia (mandarin × citron) |  | `key_lime`, `mandarin` | 2026-11-19 | PROPOSED |
@@ -145,6 +145,6 @@
 | watermelon | Citrullus lanatus dessert | watermelon.md | `citron_melon`, `seed_watermelon` | 2026-10-10 | OUT-OF-DATE |
 | wet_tropics_mangoes | Mangifera odorata, M. foetida, M. caesia, M. pajang | wet-tropics-mangoes.md | `bachang`, `bambangan`, `binjai`, `kuini` | 2026-10-12 | OUT-OF-DATE |
 | woodland_strawberry | Fragaria vesca and F. moschata | strawberry.md | `strawberry` | 2026-10-10 | OUT-OF-DATE |
-| yellow_passionfruit | Passiflora edulis | passionfruit.md | `purple_passionfruit` | 2026-09-30 | OUT-OF-DATE |
+| yellow_passionfruit | Passiflora edulis | passionfruit.md | `purple_passionfruit` | 2026-11-24 | RESEARCHED |
 | yellow_pitaya | Selenicereus megalanthus | yellow-pitaya.md |  | 2026-09-30 | OUT-OF-DATE |
 | yuzu | Citrus junos |  | `hetsuka_daidai`, `kabosu`, `ichang_papeda` | 2026-11-19 | PROPOSED |

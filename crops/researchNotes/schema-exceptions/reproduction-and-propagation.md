@@ -54,6 +54,9 @@ plain name with the cropID, doc and Finding.
 - **Seen in:**
   - `pear` (`pear.md`, Finding 2): a counter-case. Pollinizers are a third of the area or 25-33% of
     trees, but their fruit is harvested and sold; bee hives are budgeted at $114/acre.
+  - `yellow_passionfruit` (`passionfruit.md`, Finding 2 and Pollination): the self-sterile yellow form is
+    hand-pollinated where carpenter bees are scarce; in the Huila budget hand pollination is 21% of
+    labour; growers set out decaying logs to shelter the carpenter bees.
   - Imported: Japanese plum (about 11% pollinizer trees, never harvested); kiwifruit (male vines);
     seedless watermelon (up to 30% pollinizer plants, some non-fruiting); date palm (2-4% males; pollen
     collected and hand-applied, 15-20 g per female; the pollen parent shifts ripening by up to two
