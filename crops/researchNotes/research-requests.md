@@ -872,6 +872,23 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`oriental_melon--lim-2012.pdf`** (Library): Lim, T. K. (2012), "Cucumis melo (Makuwa Group)", *Edible Medicinal and Non-Medicinal Plants*, vol. 2, pp. 219-221, Springer, doi:10.1007/978-94-007-1764-0_34, ISBN 978-94-007-1763-3.
   - **Needed for:** the botany and climate figures Wikipedia takes from it, and the drought-tolerance conflict.
 
+### papaya (2026-11-24)
+
+- [ ] **`papaya--faostat.csv`** (Online): FAOSTAT Crops and livestock products (QCL), item "Papayas", world and top-producer harvested area, yield and production, 2015-2024 (the API needs an authorization token; download the CSV from the FAOSTAT web interface).
+  - **Needed for:** world area and yield (Not sourced).
+- [ ] **`papaya--nakasone-paull-1998.pdf`** (Library): Nakasone, H. Y. and Paull, R. E. (1998), *Tropical Fruits*, CAB International, papaya chapter pp. 239-269, ISBN 0-85199-254-1.
+  - **Needed for:** photoperiod, rooting depth, flowering physiology, cultivar groups.
+- [ ] **`papaya--migliaccio-2010.pdf`** (Library): Migliaccio, K. W., Schaffer, B., Crane, J. H. and Davies, F. S. (2010), papaya irrigation scheduling (ET vs. soil-water-sensor) in south Florida, *Agricultural Water Management* 97 (search hint: "Plant response to evapotranspiration and soil water sensor irrigation scheduling methods for papaya production in south Florida").
+  - **Needed for:** seasonal water use in mm and the source of the Kc values.
+- [ ] **`papaya--crane-mossler.pdf`** (Online): Crane, J. H. and Mossler, M. A. (2008), UF/IFAS papaya cultural practices and pest-management guidelines cited by AE540 (search EDIS for "papaya" by Crane).
+  - **Needed for:** Florida spacing, fertiliser, pests and labour.
+- [ ] **`papaya--seed-storage.html`** (Online): Kew Seed Information Database entry for *Carica papaya* (storage behaviour).
+  - **Needed for:** seed-storage class (old "intermediate" claim dropped).
+- [ ] **`papaya--hawaii-stats.pdf`** (Online): USDA NASS Hawaii Field Office, latest Hawaii papaya statistics (area, yield, GM share).
+  - **Needed for:** a current Hawaii yield series.
+- [ ] **`papaya--gm-acceptance.html`** (Online): dates on which Japan, Canada and other markets accepted 'Rainbow'/'SunUp' fruit (for example the Japanese approval announcement).
+  - **Needed for:** the GM trade restriction in Finding 4.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

@@ -11,7 +11,7 @@
 | asian_pear | Pyrus pyrifolia and related species | asian-pear.md | `korla_pear` | 2026-11-17 | RESEARCHED |
 | avocado | Persea americana | avocado.md |  | 2026-11-17 | RESEARCHED |
 | azarole | Crataegus azarolus (Mediterranean medlar) |  | `medlar` | 2026-11-23 | PROPOSED |
-| babaco | Vasconcellea × heilbornii | babaco.md | `mountain_papaya` | 2026-11-17 | RESEARCHED |
+| babaco | Vasconcellea × heilbornii | babaco.md | `mountain_papaya`, `papaya` | 2026-11-17 | RESEARCHED |
 | bachang | Mangifera foetida (horse mango) | bachang.md | `mango`, `kuini`, `bambangan`, `binjai`, `wet_tropics_mangoes`, `kasturi`, `kemang` | 2026-11-22 | RESEARCHED |
 | bambangan | Mangifera pajang | bambangan.md | `mango`, `bachang`, `kuini`, `binjai`, `wet_tropics_mangoes` | 2026-11-22 | RESEARCHED |
 | banana | Musa AAA dessert | banana.md | `highland_banana`, `plantain` | 2026-11-17 | RESEARCHED |
@@ -104,7 +104,7 @@
 | olive | Olea europaea | olive.md |  | 2026-11-23 | RESEARCHED |
 | orange | Citrus × sinensis | orange.md | `bitter_orange`, `mandarin`, `cam_xoan`, `clementine` | 2026-11-23 | RESEARCHED |
 | oriental_melon | Cucumis melo Makuwa group; chamoe, makuwa uri | oriental-melon.md | `cantaloupe`, `honeydew` | 2026-11-24 | RESEARCHED |
-| papaya | Carica papaya | papaya.md | `mountain_papaya` | 2026-09-29 | OUT-OF-DATE |
+| papaya | Carica papaya | papaya.md | `mountain_papaya`, `babaco` | 2026-11-24 | RESEARCHED |
 | peach | Prunus persica | peach.md | `nectarine` | 2026-10-12 | OUT-OF-DATE |
 | peach_low_chill | Prunus persica, subtropical peaches | peach-low-chill.md | `nectarine` | 2026-10-18 | OUT-OF-DATE |
 | pear | Pyrus communis | pear.md | `korla_pear`, `loquat`, `medlar` | 2026-10-12 | OUT-OF-DATE |
