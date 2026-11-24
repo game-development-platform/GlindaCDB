@@ -838,6 +838,21 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`black_raspberry--bokbunja-identity`** (Online/Library): a source on which species Korean commercial bokbunja plantings are.
   - **Needed for:** scope between `black_raspberry` and `bokbunja`.
 
+### blackberry (2026-11-24)
+
+- [ ] **`blackberry--cost-study`** (Online): a current OSU, UC or Arkansas blackberry enterprise budget (trailing machine-harvest and erect/semi-erect fresh), with labour hours by operation and picking rates.
+  - **Needed for:** labour (Not sourced).
+- [ ] **`blackberry--pollination`** (Online): self-fertility by cane type and recommended hive density.
+  - **Needed for:** pollination.
+- [ ] **`blackberry--chill-hardiness`** (Online): chill-hour requirements and bud cold hardiness for the main erect and semi-erect cultivars (only 'Marion' sourced).
+  - **Needed for:** climate zones.
+- [ ] **`blackberry--soil-disease`** (Online): Phytophthora, Verticillium and crown gall susceptibility in blackberry, from an extension or IPM source opened directly.
+  - **Needed for:** soil biology.
+- [ ] **`blackberry--us-statistics`** (Online): a current US or Oregon blackberry area and yield series (NASS releases read this pass no longer include blackberries; try Census of Agriculture 2022 or Oregon Raspberry and Blackberry Commission).
+  - **Needed for:** US yield record.
+- [ ] **`blackberry--weed-law`** (Online): NSW WeedWise full page (Weed of National Significance status) and Oregon noxious-weed quarantine rules for *R. armeniacus*.
+  - **Needed for:** legal restrictions.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin
