@@ -825,6 +825,19 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`raspberry--pollination`** (Online): self-fertility of commercial red raspberry cultivars and bee contribution to drupelet set.
   - **Needed for:** pollination (hive density only).
 
+### black_raspberry (2026-11-24)
+
+- [ ] **`black_raspberry--nraes35`** (Library/Online): Bushway, Pritts & Handley (2008), NRAES-35 *Raspberry and Blackberry Production Guide*, black raspberry chapters.
+  - **Needed for:** stand life, labour, chill, nutrients (all Not sourced).
+- [ ] **`black_raspberry--composition`** (Online): proximate composition per 100 g fresh fruit (energy, sugars, fibre, vitamin C), e.g. a USDA or peer-reviewed analysis.
+  - **Needed for:** composition (only juice anthocyanins sourced).
+- [ ] **`black_raspberry--oregon-history`** (Online): NASS Oregon black raspberry historical series, 1936-2013 (old data.nass.usda.gov URL is dead).
+  - **Needed for:** longer yield record.
+- [ ] **`black_raspberry--high-tunnel`** (Online): the Cornell high-density high-tunnel black raspberry results (NIFA project 1007702 or its publications).
+  - **Needed for:** controlled environment (Not sourced).
+- [ ] **`black_raspberry--bokbunja-identity`** (Online/Library): a source on which species Korean commercial bokbunja plantings are.
+  - **Needed for:** scope between `black_raspberry` and `bokbunja`.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

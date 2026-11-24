@@ -20,11 +20,11 @@
 | bilberry | Vaccinium myrtillus | bilberry.md | `lingonberry`, `lowbush_blueberry`, `blueberry`, `cranberry` | 2026-11-22 | RESEARCHED |
 | binjai | Mangifera caesia | binjai.md | `mango`, `bachang`, `bambangan`, `kuini`, `kemang`, `wet_tropics_mangoes`, `kasturi` | 2026-11-22 | RESEARCHED |
 | bitter_orange | Citrus × aurantium | bitter-orange.md | `orange`, `chinotto`, `laraha`, `daidai`, `lemon`, `mandarin`, `pomelo` | 2026-11-17 | RESEARCHED |
-| black_raspberry | Rubus occidentalis | black-raspberry.md | `raspberry` | 2026-11-17 | RESEARCHED |
-| blackberry | Rubus subgenus Rubus | blackberry.md | `raspberry` | 2026-11-17 | RESEARCHED |
+| black_raspberry | Rubus occidentalis | black-raspberry.md | `raspberry`, `blackberry`, `bokbunja` | 2026-11-24 | RESEARCHED |
+| blackberry | Rubus subgenus Rubus | blackberry.md | `raspberry`, `black_raspberry` | 2026-11-17 | RESEARCHED |
 | blackcurrant | Ribes nigrum | blackcurrant.md |  | 2026-11-17 | RESEARCHED |
 | blueberry | Vaccinium corymbosum | blueberry.md | `lingonberry`, `lowbush_blueberry`, `bilberry`, `half_high_blueberry` | 2026-11-17 | RESEARCHED |
-| bokbunja | Rubus coreanus | bokbunja.md |  | 2026-11-17 | RESEARCHED |
+| bokbunja | Rubus coreanus | bokbunja.md | `black_raspberry` | 2026-11-17 | RESEARCHED |
 | breadfruit | Artocarpus altilis | breadfruit.md | `jackfruit`, `lakoocha`, `marang` | 2026-11-17 | RESEARCHED |
 | buddhas_hand | Citrus medica var. sarcodactylis | buddhas-hand.md |  | 2026-11-17 | RESEARCHED |
 | bush_cherry | Prunus tomentosa | bush-cherry.md |  | 2026-11-17 | RESEARCHED |
