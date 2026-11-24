@@ -975,7 +975,11 @@ Also relevant here, already requested under pear: `pear--orchard-chill`, `pear--
 
 ### purple_passionfruit / yellow_passionfruit (2026-11-24)
 
-Covers both forms; the one doc `passionfruit.md` serves both rows.
+Covers both forms; the one doc `passionfruit.md` serves both rows. A
+same-day yellow-focused deepening pass opened MAFES Bulletin 1153 directly
+and added snippet-level ethylene, pollination, CABMV and yellow-juice
+figures, so some items below are now partly answered but still want the full
+texts.
 
 - [ ] **`passionfruit--usda-hb66`** (Online): the USDA Agriculture Handbook 66 passionfruit chapter (Gross, Wang & Saltveit eds., *The Commercial Storage of Fruits, Vegetables, and Florist and Nursery Stocks*); the archived ba.ars.usda.gov/hb66 path returned 404.
   - **Needed for:** the ethylene output (~160-400 µL/kg·h), respiration, the 7 °C chilling-injury threshold for the yellow form, CA and grading (Finding 3; Open research questions).
@@ -992,7 +996,13 @@ Covers both forms; the one doc `passionfruit.md` serves both rows.
 - [ ] **`passionfruit--woodiness-virus`** (Online): a current review of Passion fruit woodiness virus (PWV / CABMV) epidemiology and the breakdown of mild-strain cross-protection.
   - **Needed for:** updating the 1978 Morton account with current virus taxonomy and control (Finding 4).
 - [ ] **`passionfruit--rain-pollination`** (Library): the Knight & Winters USDA reports on yellow passionfruit pollination and yield, or a Jaboticabal (São Paulo) pollination study.
-  - **Needed for:** the "rain within 1.5 h prevents set" figure and hand-pollination rates (Weather response; Pollination).
+  - **Needed for:** the "rain within 1.5 h prevents set" figure still not re-sourced (hand-pollination rates now have the Yamamoto snippet) (Weather response; Pollination).
+- [ ] **`passionfruit--taco-yellow`** (Online): the Brazilian TACO food-composition table entry for maracujá-amarelo (yellow) pulp and juice, and any full yellow-form nutrient study.
+  - **Needed for:** a full yellow-form composition to sit beside the purple FDC figures (Composition).
+- [ ] **`passionfruit--yamamoto-2012`** (Library): Yamamoto et al. (2012), the central-Brazil hand-pollination study giving the 23.3% → 69.8% fruit-set increase, and the *Xylocopa* trap-nest management papers.
+  - **Needed for:** opening the fruit-set and carpenter-bee figures directly (Pollination).
+- [ ] **`passionfruit--cabmv`** (Online): a Brazilian review of cowpea aphid-borne mosaic virus (CABMV) in passionfruit — the reattribution from PWV, the aphid vectors and the annual-renewal control.
+  - **Needed for:** opening the virus taxonomy, vectors and management directly (Finding 4; replaces part of `passionfruit--woodiness-virus`).
 
 ### satsuma (next time its OUT-OF-DATE row comes up)
 

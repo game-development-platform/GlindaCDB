@@ -120,6 +120,10 @@ plain name with the cropID, doc and Finding.
   - `pear` (`pear.md`, Finding 4): 'Bartlett' is the most ethylene-sensitive, 'd'Anjou' the least; stored
     pears are kept away from ethylene-producing produce; ethylene at harvest is under 0.1 µL/kg·h,
     peaking at 80-200 in 'Bartlett'.
+  - `purple_passionfruit` / `yellow_passionfruit` (`passionfruit.md`, Finding 3): among the highest
+    ethylene producers of any fruit (160-370 µL/kg·h at the climacteric peak), so it would over-ripen
+    ethylene-sensitive produce stored with it; the yellow form is also force-ripened off-vine with 100
+    ppm ethylene for 1-2 days.
   - Imported: kiwifruit (5-10 ppb softens fruit); watermelon (5 µL/L); kai-lan (1 ppm cuts shelf life
     about 30%); carrot (bitter from under 1 ppm; apples and pears are bad storage mates); celeriac
     (ethylene toughens roots); quince (ripens its neighbours).
