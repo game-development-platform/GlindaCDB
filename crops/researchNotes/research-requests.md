@@ -889,6 +889,23 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`papaya--gm-acceptance.html`** (Online): dates on which Japan, Canada and other markets accepted 'Rainbow'/'SunUp' fruit (for example the Japanese approval announcement).
   - **Needed for:** the GM trade restriction in Finding 4.
 
+### peach (2026-11-24)
+
+Also relevant to peach, already requested under nectarine: `nectarine--crisosto-1999` (per-cultivar chilling-injury ratings) and `nectarine--layne-bassi-2008` (*The Peach*, CABI).
+
+- [ ] **`peach--uc-cost-processing-2011`** (Online): Norton, M., J. Hasey, R. Duncan, K. M. Klonsky and R. L. De Moura (2011), *Sample Costs to Establish and Produce Processing Peaches, Cling and Freestone, Late Harvested Varieties, Sacramento and San Joaquin Valleys*, University of California Cooperative Extension (and the companion extra-early study). Search hint: coststudies.ucdavis.edu or fruitsandnuts.ucdavis.edu (Cloudflare-blocked to scripts).
+  - **Needed for:** labour hours by operation, yield curve, water and nitrogen for a California high-chill peach orchard.
+- [ ] **`peach--uc-cost-fresh`** (Online): the most recent UC Cooperative Extension sample-cost study for fresh-market peaches, San Joaquin Valley (search hint: coststudies.ucdavis.edu, "peaches fresh market").
+  - **Needed for:** fresh-market yield, packout and labour, to set beside the Ontario figures.
+- [ ] **`peach--wsu-bud-hardiness`** (Online): Washington State University Extension bulletin EB0914, *Critical Temperatures for Frost Damage on Fruit Trees* (or the 1989 spray guide EB0419), the original 'Elberta' peach bud-stage tables.
+  - **Needed for:** the primary source of the 10%/90% kill table and settling the dormant-bud hardiness conflict (−7 to −10 °C against −15 to −25 °C).
+- [ ] **`peach--uga-2023-freeze`** (Online): UGA Extension or USDA reports on the 2023 Georgia peach loss (warm winter, chill shortfall and the 11-23 March freezes). Search hint: site.extension.uga.edu climate blog; Georgia Farm Bureau, March 2023.
+  - **Needed for:** chill-hour totals for winter 2022/23 and the loss attributed to chill versus freeze.
+- [ ] **`peach--aphis-ppv`** (Online): USDA APHIS, "Plum Pox" programme page, https://www.aphis.usda.gov/plant-pests-diseases/plum-pox (access denied to scripts).
+  - **Needed for:** US eradication date, regulated articles and certification rules for peach nursery stock.
+- [ ] **`peach--crisosto-2004`** (Library): Crisosto, C. H., et al. (2004), the commercial controlled delayed cooling ("preconditioning") study for California and Chilean peach cultivars, *Postharvest Biology and Technology* (volume and pages to confirm).
+  - **Needed for:** per-cultivar market-life gains and the delay protocol.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin
