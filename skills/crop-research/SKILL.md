@@ -165,10 +165,30 @@ from this file.
    `crops/researchNotes/wild-managed/<crop-id-in-kebab-case>.md`. Add the file to that folder's README
    table, and add a comment to GitHub issue #2 linking it. These files are temporary until that issue
    produces a wild-managed template.
-7. **Report**: the doc's path, the key findings, what's estimated or left unsourced (and the weakest of
+7. **Schema-fit check.** Before reporting, read back over the finished doc's findings and ask, for each
+   one: is there a bullet in `templates/research-doc.md`, or an angle in step 3's checklist, that this
+   finding naturally belongs under? A finding that only fits by being squeezed into a bullet meant for
+   something else (or that ends up only as a Finding because no bullet can hold it) is a **schema
+   exception**. The log is `crops/researchNotes/schema-exceptions.md`, an index whose entries live in
+   themed section files under `crops/researchNotes/schema-exceptions/`. Record each exception there:
+   - **Already logged?** Check the index. If an existing entry describes the same kind of trait, add this
+     crop to that entry's **Seen in** list in its section file (cropID, doc, and which Finding or bullet
+     holds it) rather than opening a new entry. If the entry lists this crop by plain name as an imported
+     item, replace the name with the cropID, doc and Finding once this run has confirmed the fact.
+   - **New:** otherwise add an entry with the next unused number in the section file whose theme fits
+     best, and add its row to the index. Numbers are permanent and global across the section files:
+     never reuse or renumber them, even when an entry is closed.
+   - **Not an exception:** a trait the template already has a bullet for, however unusual the value, is
+     not an exception (a 0.64 t/acre yield still fits "Yield"). A trait seen in only one crop so far
+     *is* still an exception: log it like any other, since a later crop may show the same kind of trait.
+   - Logging an exception never changes the status table and never marks other rows `OUT-OF-DATE`. Only
+     promoting one (see "Keeping this skill current", below) does that.
+8. **Report**: the doc's path, the key findings, what's estimated or left unsourced (and the weakest of
    those), any open questions worth flagging, the status-table rows changed, and the sources used. Also
    list the research requests added or still outstanding for this crop, split into **Online** and
-   **Library**, and any requests satisfied this run (with the crops they reopened).
+   **Library**, and any requests satisfied this run (with the crops they reopened). List any schema
+   exceptions opened or added to this run, by number, and say which open exceptions now have three or
+   more crops in **Seen in** (candidates for promotion).
 
 ## Keeping this skill current
 
@@ -183,6 +203,15 @@ in its status table (not `FOLLOW-ON-*` - that status is reserved for a later, no
 stage) and write a dated entry to `crops/researchNotes/` listing exactly what was added, so that when an
 `OUT-OF-DATE` row is re-researched (step 6), it's clear which specific angles are newest and most likely to
 need genuinely new sourcing. See `crops/researchNotes/` for the log of past additions.
+
+**Promoting a schema exception.** `crops/researchNotes/schema-exceptions.md` and its section files under
+`crops/researchNotes/schema-exceptions/` (filled by step 7) are where candidates for new checklist angles
+or template bullets collect. Promotion is the user's decision, never
+done automatically by a research run. When an exception is promoted, add the angle or bullet, follow the
+checklist-versioning rule above (log it in `checklist-additions.md` and mark the affected rows
+`OUT-OF-DATE`), and set the exception's status to `PROMOTED` with the date and the checklist-additions
+entry it became. An exception the user decides not to promote is set to `DECLINED` with the reason, and
+kept so the decision isn't re-litigated.
 
 This log is necessarily incomplete for anything that changed before it existed: many of this project's raw-
 data files were migrated from an earlier, outside research process with its own history of changes, none of
