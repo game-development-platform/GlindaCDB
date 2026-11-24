@@ -47,15 +47,18 @@ plain name with the cropID, doc and Finding.
 
 ## 17 — Planted pollinizers that are never harvested, and pollen as an input
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Pollination" says whether a pollinizer is needed. It doesn't record that part
   of the planted area bears nothing saleable, or that pollen or pollinating figs are bought, harvested or
   applied by hand as a farm input.
-- **Seen in (imported):** Japanese plum (about 11% pollinizer trees, never harvested); kiwifruit (male
-  vines); seedless watermelon (up to 30% pollinizer plants, some non-fruiting); date palm (2-4% males;
-  pollen collected and hand-applied, 15-20 g per female; the pollen parent shifts ripening by up to two
-  weeks); fig (caprifigs carrying the fig wasp, for Smyrna types); muscadine (female cultivars, 3:1 within
-  50 ft); American persimmon (one male per 23 or more females, of the same chromosome race).
+- **Seen in:**
+  - `pear` (`pear.md`, Finding 2): a counter-case. Pollinizers are a third of the area or 25-33% of
+    trees, but their fruit is harvested and sold; bee hives are budgeted at $114/acre.
+  - Imported: Japanese plum (about 11% pollinizer trees, never harvested); kiwifruit (male vines);
+    seedless watermelon (up to 30% pollinizer plants, some non-fruiting); date palm (2-4% males; pollen
+    collected and hand-applied, 15-20 g per female; the pollen parent shifts ripening by up to two
+    weeks); fig (caprifigs carrying the fig wasp, for Smyrna types); muscadine (female cultivars, 3:1
+    within 50 ft); American persimmon (one male per 23 or more females, of the same chromosome race).
 - **Possible home:** a "Pollinizer share" line under "Pollination" (non-bearing fraction, layout,
   bought or hand-applied pollen).
 
@@ -175,14 +178,17 @@ plain name with the cropID, doc and Finding.
 
 ## 26 — Graft compatibility rules
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Propagation" mentions rootstocks but has no way to record which stock and scion
   pairs fail, failures that appear only years later, bridges, or crops that in practice can't be grafted.
-- **Seen in (imported):** pear (incompatibility on quince shows after 8-10 years; a compatible interstem
-  bridges it); Asian persimmon (date-plum stock fails with some cultivars; graft take 44-45% vs 70%);
-  Texas persimmon (incompatible with the rest of the genus); wet-tropics mangoes (incompatible with
-  mango); pomegranate (grafting impractical); sweet cherry on Mahaleb (failure after about 6 years);
-  Eureka lemon on trifoliate orange.
+- **Seen in:**
+  - `pear` (`pear.md`, Finding 6): quince is the most widespread stock but its compatibility "is not good
+    for all cultivars"; the imported 8-10-year delay and interstem bridge were not re-confirmed this pass
+    (request `pear--quince-incompatibility`).
+  - Imported: Asian persimmon (date-plum stock fails with some cultivars; graft take 44-45% vs 70%);
+    Texas persimmon (incompatible with the rest of the genus); wet-tropics mangoes (incompatible with
+    mango); pomegranate (grafting impractical); sweet cherry on Mahaleb (failure after about 6 years);
+    Eureka lemon on trifoliate orange.
 - **Possible home:** a "Graft compatibility" line under "Propagation".
 
 ## 27 — Rows separated by a single gene or a bud sport

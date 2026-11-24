@@ -21,12 +21,15 @@ plain name with the cropID, doc and Finding.
   - `peach_low_chill` (`peach-low-chill.md`, Finding 2 and Hazards): defoliating too early cuts the
     carbohydrate and nitrogen reserves for next season's flowering, giving erratic set; peach rust's
     summer defoliation harms next season's flowers and fruit.
+  - `pear` (`pear.md`, Finding 3): moderate stress in the season or after harvest *raises* next year's
+    bloom and yield (SWP above −2.2 MPa); below −2.8 MPa the next crop falls; over-irrigation cuts later
+    flowering; relieved severe stress can cause autumn re-bloom; a heavy crop suppresses next year's bud
+    initiation (Finding 2).
   - Imported: olive (alternate bearing; an off year about 57% lower in fruit); longan (off-year crop
     20-40%); mandarin (alternate bearing managed by chemical thinning); coyo; grapefruit (a late harvest
     lowers the next crop); ume (water stress July-March cuts next spring's flowers); lowbush blueberry
     (irrigation in the prune year raises the next year's buds; fields alternate prune and crop years);
-    blackberry (alternate-year cropping); European pear (moderate stress after harvest *raises* next
-    year's bloom and yield).
+    blackberry (alternate-year cropping).
 - **Possible home:** a "Carry-over effects" angle, covering any management or weather event whose main
   effect lands on a later season (post-harvest stress, alternate bearing triggers, bud-initiation
   windows), plus a way to record a field cycle that alternates by year.
@@ -120,6 +123,9 @@ plain name with the cropID, doc and Finding.
   - `peach_low_chill` (`peach-low-chill.md`, Finding 3): bloom nights above 14 °C are needed for good set
     in 'UFGem' but make 'UFBeauty' crop unreliably, so the same threshold points opposite ways by
     cultivar.
+  - `pear` (`pear.md`, Weather response): a 10%/90% bud-kill table across eight stages, from 15/0 °F at
+    scales separating to 28/24 °F at full bloom (for 'Bartlett'; 'd'Anjou' may bloom earlier and be more
+    tender); fire-blight blossom risk is tracked in degree-hours above 65 °F.
   - Imported: grapefruit (−2.2 °C for 6 hours or more); Korla pear (a table of thresholds by organ, and
     freeze wounds that lead to canker); lingonberry (hardiness depends on snow cover); blackcurrant (2 °C
     for two days at bloom cut yield about 60%, with no frost); passionfruit and date palm (rain at
@@ -185,10 +191,28 @@ plain name with the cropID, doc and Finding.
 
 ## 16 — Maturity timed by heat units
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Life form / season" and "Days to first bearing" are in days or years. Some
   crops are timed by accumulated heat (degree-days) with a stated base temperature.
-- **Seen in (imported):** grape (maturity groups by degree-days, base 10 °C); date palm (base 18 °C);
-  Andean potato (base 0 °C).
+- **Seen in:**
+  - `pear` (`pear.md`, Harvest pattern): harvest date predicted from heat units in the 9 weeks after full
+    bloom (base 45 °F), e.g. days from full bloom = 147.5 − 0.0353 × heat units for 'Bartlett'.
+  - Imported: grape (maturity groups by degree-days, base 10 °C); date palm (base 18 °C); Andean potato
+    (base 0 °C).
 - **Possible home:** a degree-day line beside the days-to-maturity figure (base, cap, sum by cultivar
   group).
+
+## 68 — Irrigation scheduled by plant water status and deficit windows by stage
+
+- **Status:** OPEN (logged 2026-11-24).
+- **What doesn't fit:** "Water use" takes Kc values and seasonal demand, and "Water regime" the kind of
+  irrigation. Neither records plant water-status thresholds (such as midday stem water potential) by
+  growth stage, the stages when a deficit is safe or costly, or a production function where yield or
+  revenue falls only past a deficit threshold.
+- **Seen in:**
+  - `pear` (`pear.md`, Finding 3 and Water use): unstressed trees sit at −0.65 to −0.95 MPa;
+    'Conference' should stay above −1.1 MPa in Stage II; no yield loss up to a 15-20% ETc deficit, then
+    slopes of 1.0-1.2 (revenue 1.3); Stage I deficit saves 6%, Stage II saves 33% but costs revenue,
+    post-harvest is safest; a combined strategy cuts 600 mm to 400 mm.
+- **Possible home:** a "Deficit tolerance by stage" line under "Water use" (threshold, measure, safe and
+  costly stages, water saved, yield and revenue slopes).

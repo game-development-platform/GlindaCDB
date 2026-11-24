@@ -929,6 +929,27 @@ Also relevant here, already requested under nectarine and peach: `nectarine--lay
 - [ ] **`peach_low_chill--hs1223-budget`** (Online): Olmstead, M., and K. Morgan (2013), "Orchard Establishment Budget for Peaches and Nectarines in Florida," UF/IFAS HS1223, doi:10.32473/edis-hs1223-2013 (the EDIS page now returns "Gone"; try the journals.flvc.org archive).
   - **Needed for:** a second Florida yield and cost budget to compare with FE1016.
 
+### pear (2026-11-24)
+
+- [ ] **`pear--orchard-chill`** (Online): a primary study of winter chill requirement for 'Bartlett', 'd'Anjou' and 'Bosc' (UC Davis / UC Cooperative Extension chill work, the López et al. European pear bud-break trial, Mississippi State P3067).
+  - **Needed for:** orchard chill hours by cultivar to replace snippet-level figures (Climate zones; Open research questions).
+- [ ] **`pear--wsu-rootstocks`** (Online): Washington State University Tree Fruit, pear rootstock pages (site down "temporarily unavailable" on 2026-11-24), or the OSU Hood River OH×F rootstock trial reports.
+  - **Needed for:** OH×F selection vigour and yield, quince incompatibility by cultivar, and interstems (Finding 6).
+- [ ] **`pear--soil-extension`** (Online): Virginia Cooperative Extension 422-017 and Penn State PlantVillage pear pages, opened directly; plus a pear nutrient guide (e.g. OSU or WSU leaf-analysis standards).
+  - **Needed for:** pH, drainage and nutrient figures now at snippet level (Soil).
+- [ ] **`pear--linsmith-2019-genome`** (Online): Linsmith et al. (2019), *GigaScience* 8(12): giz138, PMC6901071 or hal-02563877.
+  - **Needed for:** confirming the genome figures opened directly (Naming and scope).
+- [ ] **`pear--naturalisation`** (Online): Flora of New Zealand vol. IV, the DOC weeds database, VicFlora and FloraBase entries for *Pyrus communis*, opened directly.
+  - **Needed for:** naturalisation status now at snippet level (Invasiveness / biosecurity).
+- [ ] **`pear--patulin-pear`** (Online): FDA CPG 510.150 and the current EU contaminants regulation (EU 2023/915) text, plus any patulin survey of pear juice or pear products.
+  - **Needed for:** whether the 50 µg/kg limits cover pear products, and pear-specific patulin data (Hazards).
+- [ ] **`pear--kilayim-table`** (Online): the Torah VeHa'aretz Institute table "Grafting Scion and Rootstock Combinations for Fruit Trees" (2025), opened directly.
+  - **Needed for:** confirming the pear-on-quince listing (Uses and processing, religious rules).
+- [ ] **`pear--perry-pgi-specs`** (Online): the Gloucestershire Perry and Worcestershire Perry product specifications (assets.publishing.service.gov.uk), and the Poiré Domfront AOP cahier des charges (INAO).
+  - **Needed for:** the other protected-name rules, and the Herefordshire sorbitol limit's unit (Finding 7).
+- [ ] **`pear--quince-incompatibility`** (Library): a pear propagation or rootstock reference (e.g. Webster & Wertheim, "Apple and pear rootstocks"; or *Pear: Production, Postharvest and Biotechnology*).
+  - **Needed for:** which cultivars are quince-incompatible, how soon it shows, and interstem practice.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

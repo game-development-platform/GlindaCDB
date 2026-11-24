@@ -40,6 +40,9 @@ plain name with the cropID, doc and Finding.
   - `peach_low_chill` (`peach-low-chill.md`, Finding 6): the endemic nematode *Meloidogyne floridensis*
     overcomes every rootstock used elsewhere in the US, so Florida peach depends on one rootstock, which
     some populations now break.
+  - `pear` (`pear.md`, Climate zones and Hazards): fire blight, with insufficient chill, limits expansion
+    into warm regions; a few active cankers per acre can defeat a spray programme, and streptomycin
+    resistance is widespread in California.
   - Imported: grape (Pierce's disease makes European grapes uneconomic in the US Southeast, where
     muscadine is resistant); low-chill pear (fire blight forecast from warmth and wetting during bloom);
     taro (leaf blight destroyed Samoa's crop in 1993; recovery by breeding).
@@ -145,36 +148,48 @@ plain name with the cropID, doc and Finding.
 
 ## 64 — Legal limits on the product or the harvest
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Invasiveness / biosecurity" covers biosecurity rules, and entry 4 covers
   licences and IP. Other legal limits apply to the product or the harvest: content limits, pre-harvest
   intervals, quarantine movement, protected-origin caps, collecting permits and export bans.
-- **Seen in (imported):** mustard oil (erucic-acid limits); head mustard (fertilizer and pesticide
-  intervals before harvest); wild rocket (EU leaf nitrate limit); makrut lime (leaf movement under a
-  citrus-greening quarantine); bergamot (protected-origin yield cap of 40 t/ha); maypop (pharmacopoeia
-  marker limit); coontie (wild-digging permit); American lotus (collecting limits where it is endangered or
-  threatened); maca (export ban on propagation material); arrowhead (a related species is a US federal
-  noxious weed; corms move only under permit).
+- **Seen in:**
+  - `pear` (`pear.md`, Finding 7 and Hazards): protected-origin composition rules (Poiré Domfront at
+    least 40% 'Plant de Blanc'; Herefordshire Perry up to 25% cider apple juice, chaptalisation to about
+    9.5% potential alcohol); the US and EU 50 µg/kg patulin limits found are written for apple products,
+    and no pear-specific limit was found (snippet only).
+  - Imported: mustard oil (erucic-acid limits); head mustard (fertilizer and pesticide intervals before
+    harvest); wild rocket (EU leaf nitrate limit); makrut lime (leaf movement under a citrus-greening
+    quarantine); bergamot (protected-origin yield cap of 40 t/ha); maypop (pharmacopoeia marker limit);
+    coontie (wild-digging permit); American lotus (collecting limits where it is endangered or
+    threatened); maca (export ban on propagation material); arrowhead (a related species is a US federal
+    noxious weed; corms move only under permit).
 - **Possible home:** a "Legal limits" line, separate from biosecurity and IP.
 
 ## 65 — Religious and cultural rules and uses
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** the template has no place for religious or cultural requirements on growing or
   using the crop, or ritual products.
-- **Seen in (imported):** citron (etrog, with rules on grafting and quality); fruit trees generally (no
-  fruit in the first three years; no grafting between species, such as apple or pear on quince); grape
-  (rules on what may be sown in a vineyard); date palm (closed fronds for ritual use); horseradish
-  (Passover bitter herb); ahipa (a ritual cup carved from the root); radish (oversized roots carved for a
-  December festival in Oaxaca); yam (no new yams eaten before the festival).
+- **Seen in:**
+  - `pear` (`pear.md`, Uses and processing): under Jewish law most commercial pear trees are grafted in a
+    forbidden way, and quince is listed among forbidden pear stocks (snippet only).
+  - Imported: citron (etrog, with rules on grafting and quality); fruit trees generally (no fruit in the
+    first three years; no grafting between species, such as apple on quince); grape (rules on what may be
+    sown in a vineyard); date palm (closed fronds for ritual use); horseradish (Passover bitter herb);
+    ahipa (a ritual cup carved from the root); radish (oversized roots carved for a December festival in
+    Oaxaca); yam (no new yams eaten before the festival).
 - **Possible home:** a "Religious and cultural use" line under "Uses and processing", with any production
   rules noted under the bullet they affect.
 
 ## 66 — Quality tied to a named place
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Climate zones" describes where a crop grows, not a protected origin whose
   product commands a price only from that place.
-- **Seen in (imported):** bergamot (protected origin; microclimate); arrowhead (a geographic indication,
-  with intact sprouts as a grade).
+- **Seen in:**
+  - `pear` (`pear.md`, Finding 7): Poiré Domfront AOC/PDO (at least 40% 'Plant de Blanc');
+    Gloucestershire, Herefordshire and Worcestershire perry PGIs (Herefordshire: local perry pears only,
+    up to 25% cider apple juice).
+  - Imported: bergamot (protected origin; microclimate); arrowhead (a geographic indication, with intact
+    sprouts as a grade).
 - **Possible home:** a "Protected origin" note under "Uses and processing".

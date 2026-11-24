@@ -22,6 +22,8 @@ plain name with the cropID, doc and Finding.
   - `peach_low_chill` (`peach-low-chill.md`, Finding 7): injury can start below about 10 °C and is most
     severe in a 2.2-7.8 °C "killing zone"; storage is 0-1.1 °C; immature fruit are more susceptible and
     ripe fruit less so (a ripeness qualifier).
+  - `pear` (`pear.md`, Finding 5): 2.5-10 °C is harmful to some cultivars; 'Bartlett' held there turns
+    dry-textured with poor flavour; storage is at −1 °C.
   - Imported, the same band: plum, Japanese plum, apricot; Asian persimmon ('Fuyu' hurt at 2-15 °C, worst
     at 5-7 °C, not at 0 °C).
   - Imported, related shapes that a danger-band field would also need to hold:
@@ -49,11 +51,14 @@ plain name with the cropID, doc and Finding.
   - `peach_low_chill` (`peach-low-chill.md`, Agronomic data, Edibility): the fruit is climacteric and
     softens off the tree, but sugar does not rise, so non-melting cultivars are bred to be picked
     tree-ripe.
+  - `pear` (`pear.md`, Finding 4): winter cultivars need 15-60 days at −1 °C by cultivar (or ethylene at
+    100 µL/L, 20 °C, 2-3 days) before they will ripen, then 4-9 days at 15-24 °C; unchilled fruit shrivel
+    without ripening; most fail to soften at 30 °C.
   - Imported: peach, plum, apricot, papaya, guava, kiwifruit (off-plant ripening); avocado (never ripens
     on the tree); banana (scheduled ethylene ripening at 14-18 °C over 4-10 days; fails above about 25
     °C); cantaloupe (softens but gains no sugar off the vine); honeydew (ethylene treatment); durian (the
     husk gives off ethylene); quince (stored, then ripened at 20 °C); medlar (inedible until bletted, 2-3
-    weeks cool or frost on the tree); European pear (2-8 weeks near −1 °C before it will ripen);
+    weeks cool or frost on the tree);
     low-chill pear (softens only at 15.5-18 °C); Asian persimmon (astringent types need CO2 or ethanol
     treatment, drying, or freezing); Asian pear (climacteric in some cultivars, not others).
     Counter-cases: pomegranate and sweet cherry don't ripen off the plant.
@@ -62,18 +67,23 @@ plain name with the cropID, doc and Finding.
 
 ## 42 — Quality or composition that changes in store or in the ground
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Storage" gives shelf life as a single end point. Many products change in value
   or composition while they keep: sugars convert, starch or sugar is respired away, a compound needed by
   a processor falls below a threshold, the product keeps growing, or cooking quality declines.
-- **Seen in (imported):** potato (cold sweetening, reversed by warm reconditioning; light raises
-  glycoalkaloids, see entry 63); sugar beet (piled roots respire about 0.25 kg of sugar per tonne per day,
-  0.55 if bruised); Jerusalem artichoke, salsify, scorzonera (inulin converts to sugars; canneries need
-  scorzonera inulin at or below about 7%); jicama (starch to sugar in store); Chinese water chestnut and
-  parsnip (sweetening; parsnip gets the same from 2 weeks at 0-1 °C as from 2 months of field frost);
-  arrowroot (about 59% of extractable starch lost in 30 days); konjac (mannan falls once buds move in
-  spring); common bean (hard-to-cook defect develops in storage); asparagus (keeps growing and bends in
-  store); chayote (sprouts in store); sweet potato and rutabaga (grading or waxing resets storage life).
+- **Seen in:**
+  - `pear` (`pear.md`, Finding 5): two storage groups. Slow-senescing cultivars ('d'Anjou', 'Packham's
+    Triumph') keep their ripening capacity but scald after removal; fast-senescing ones ('Bartlett',
+    'Bosc', 'Comice') lose the ability to ripen after long storage and develop senescent scald.
+  - Imported: potato (cold sweetening, reversed by warm reconditioning; light raises glycoalkaloids, see
+    entry 63); sugar beet (piled roots respire about 0.25 kg of sugar per tonne per day, 0.55 if
+    bruised); Jerusalem artichoke, salsify, scorzonera (inulin converts to sugars; canneries need
+    scorzonera inulin at or below about 7%); jicama (starch to sugar in store); Chinese water chestnut
+    and parsnip (sweetening; parsnip gets the same from 2 weeks at 0-1 °C as from 2 months of field
+    frost); arrowroot (about 59% of extractable starch lost in 30 days); konjac (mannan falls once buds
+    move in spring); common bean (hard-to-cook defect develops in storage); asparagus (keeps growing and
+    bends in store); chayote (sprouts in store); sweet potato and rutabaga (grading or waxing resets
+    storage life).
 - **Possible home:** a "Change in store" line under "Storage" (what changes, rate, threshold, reversible
   or not).
 
@@ -103,6 +113,9 @@ plain name with the cropID, doc and Finding.
 - **Seen in:**
   - `peach_low_chill` (`peach-low-chill.md`, Finding 5): ethylene released during dormant pruning aborts
     flower buds in 'UFO', so it is pruned only in summer (a field, not storage, ethylene sensitivity).
+  - `pear` (`pear.md`, Finding 4): 'Bartlett' is the most ethylene-sensitive, 'd'Anjou' the least; stored
+    pears are kept away from ethylene-producing produce; ethylene at harvest is under 0.1 µL/kg·h,
+    peaking at 80-200 in 'Bartlett'.
   - Imported: kiwifruit (5-10 ppb softens fruit); watermelon (5 µL/L); kai-lan (1 ppm cuts shelf life
     about 30%); carrot (bitter from under 1 ppm; apples and pears are bad storage mates); celeriac
     (ethylene toughens roots); quince (ripens its neighbours).

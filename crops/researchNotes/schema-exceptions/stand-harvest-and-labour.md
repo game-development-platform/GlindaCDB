@@ -19,6 +19,9 @@ plain name with the cropID, doc and Finding.
   - `peach_low_chill` (`peach-low-chill.md`, Life form / season and Days/years to first bearing): the
     Florida budget assumes first fruit in year 2, full yield from year 4, a 15-year horizon and 5% of
     trees dying and being replaced every year.
+  - `pear` (`pear.md`, Days/years to first bearing and Life form / season): commercial yield from year
+    3-4, rising to full production in year 8 (10, 20, 30, 35, 45-50 bins/acre), then 25 productive years;
+    perry trees take a decade or more to bear and can stay fully productive for 250 years.
   - Imported: asparagus (no harvest in year 1, light in year 2, full from year 3; cutting in year 1 cost
     23% of the five-year yield; Fusarium decline at 8-20 years); sweet cherry (full at year 6, about 25
     years); plum (0.23 / 0.38 / 0.76 / 1.0 of full yield in years 4-7); mangosteen (6-20 years to bear);
@@ -159,6 +162,9 @@ plain name with the cropID, doc and Finding.
   - `peach_low_chill` (`peach-low-chill.md`, Agronomic data, Yield): a *light* crop is also a defect,
     giving up to 50% split pits in 'Flordadawn'; thinning sets size and prevents limb breakage;
     Australian benchmarks are at 1,200-1,800 trees/ha against about 385/ha in the Florida budget.
+  - `pear` (`pear.md`, Finding 3 and Yield): revenue falls faster than yield under water deficit (slope
+    1.3 against 1.0-1.2) because fruit under 65 mm is penalised; a heavy crop suppresses next year's
+    bloom; budget yields run from about 39.5 t/ha at 242 trees/acre to about 70 t/ha at 558.
   - Imported: giant granadilla (a maximum number of fruit carried at once); peach (thinning curves trade
     fruit size against yield by cultivar); cashew (about 450 kg/ha whether 44 or 278 trees/ha).
 - **Possible home:** a "Load and density" note under "Yield".
@@ -175,15 +181,18 @@ plain name with the cropID, doc and Finding.
 
 ## 39 — Disorders in the field from water or nutrient swings, and rain cracking
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Storage" holds storage disorders. Disorders that develop in the field from uneven
   water, nutrients, heat or rain have no bullet.
-- **Seen in (imported):** tomato (cracking); cabbage (head splitting); radish (root splitting, 5-30%
-  losses); celeriac and rutabaga (brown heart from boron; rutabaga resistance by cultivar); napa cabbage
-  (tipburn); celery (blackheart, pithiness); sweet cherry (rain cracking up to 90%); nectarine (rain
-  cracking); lime (stylar-end breakdown from field heat, up to 40%); mangosteen (translucent flesh from
-  excess water); broccoli, cauliflower, romanesco (buttoning); cauliflower (ricing); jicama (cracking
-  after rain in heat); pomegranate (cracking, sunburn).
+- **Seen in:**
+  - `pear` (`pear.md`, Finding 5): black end, a calyx-end disorder of 'd'Anjou', is linked to waterlogged
+    spring subsoil and to Asian (*P. serotina*) rootstocks.
+  - Imported: tomato (cracking); cabbage (head splitting); radish (root splitting, 5-30% losses);
+    celeriac and rutabaga (brown heart from boron; rutabaga resistance by cultivar); napa cabbage
+    (tipburn); celery (blackheart, pithiness); sweet cherry (rain cracking up to 90%); nectarine (rain
+    cracking); lime (stylar-end breakdown from field heat, up to 40%); mangosteen (translucent flesh from
+    excess water); broccoli, cauliflower, romanesco (buttoning); cauliflower (ricing); jicama (cracking
+    after rain in heat); pomegranate (cracking, sunburn).
 - **Possible home:** a "Field disorders" bullet (disorder, trigger, losses, resistant cultivars).
 
 ## 40 — Fruit formed underground
