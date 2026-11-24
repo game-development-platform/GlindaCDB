@@ -853,6 +853,25 @@ are never committed: this project keeps citations and findings only.
 - [ ] **`blackberry--weed-law`** (Online): NSW WeedWise full page (Weed of National Significance status) and Oregon noxious-weed quarantine rules for *R. armeniacus*.
   - **Needed for:** legal restrictions.
 
+### oriental_melon (2026-11-24)
+
+- [ ] **`oriental_melon--wa-weed-risk.pdf`** (Online): Department of Primary Industries and Regional Development, Western Australia (2022), *Cucumis melo - environmental weed risk assessment 2022*, https://library.dpird.wa.gov.au/bs_wra/25 (the download link returned an HTML page instead of the PDF).
+  - **Needed for:** invasiveness (weed risk score for the species).
+- [ ] **`oriental_melon--au-import-korea.html`** (Online): Australian Department of Agriculture, Fisheries and Forestry, plant import risk analysis "Melons from Korea", https://www.agriculture.gov.au/biosecurity-trade/policy/risk-analysis/plant/melons-from-korea (timed out to scripts), plus its final report PDF.
+  - **Needed for:** biosecurity (quarantine pests and import conditions for fresh oriental melon).
+- [ ] **`oriental_melon--food-composition.html`** (Online): Rural Development Administration, *Korean Standard Food Composition Table*, entry "참외, 생것" (raw oriental melon), https://koreanfood.rda.go.kr/.
+  - **Needed for:** composition (energy is Not sourced; checks the 132 µg folate figure).
+- [ ] **`oriental_melon--income-data.pdf`** (Library): Rural Development Administration (2025), *2024 농축산물 소득자료집* [2024 farm and livestock income data book], protected oriental melon tables.
+  - **Needed for:** labour breakdown by task (only the 219 h/10a total is sourced), yields by system.
+- [ ] **`oriental_melon--pollination-2005.pdf`** (Online): "Effect of Pollination Method on Fruit Setting and Quality of Oriental Melon (*Cucumis melo* L. var. *makuwa* Makino)", Seongju trial on pumpkin-grafted plants (bees vs. hand vs. growth regulators); AGRIS record https://agris.fao.org/search/en/records/6472466f53aa8c89630472d7.
+  - **Needed for:** pollination (bee use, fruit-set rates by method).
+- [ ] **`oriental_melon--heat-treatment-2005.pdf`** (Online): "Effects of Postharvest Heat Treatment on Alleviation Chilling Injury and Improvement Storability of Oriental Melon", *Journal of Bio-Environment Control* (2005), KoreaScience JAKO200504840787603.
+  - **Needed for:** storage (heat treatment, chilling thresholds).
+- [ ] **`oriental_melon--postharvest-2010.pdf`** (Online): oriental melon postharvest-management paper, *Korean Journal of Horticultural Science & Technology* (2010), KoreaScience JAKO201018651619359 (the PDF download timed out).
+  - **Needed for:** storage and handling.
+- [ ] **`oriental_melon--lim-2012.pdf`** (Library): Lim, T. K. (2012), "Cucumis melo (Makuwa Group)", *Edible Medicinal and Non-Medicinal Plants*, vol. 2, pp. 219-221, Springer, doi:10.1007/978-94-007-1764-0_34, ISBN 978-94-007-1763-3.
+  - **Needed for:** the botany and climate figures Wikipedia takes from it, and the drought-tolerance conflict.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

@@ -30,7 +30,7 @@
 | bush_cherry | Prunus tomentosa | bush-cherry.md |  | 2026-11-17 | RESEARCHED |
 | button_mangosteen | Garcinia prainiana |  | `mangosteen` | 2026-11-23 | PROPOSED |
 | cam_xoan | Citrus sinensis cv. Xoan (Mekong Delta 'cam xoàn' orange; labelled C. nobilis in one source) | orange.md | `kunenbo`, `orange` | 2026-11-22 | REJECTED |
-| cantaloupe | Cucumis melo, Reticulatus and Cantalupensis groups | cantaloupe.md | `honeydew` | 2026-11-17 | RESEARCHED |
+| cantaloupe | Cucumis melo, Reticulatus and Cantalupensis groups | cantaloupe.md | `honeydew`, `oriental_melon` | 2026-11-17 | RESEARCHED |
 | champedak | Artocarpus integer | champedak.md | `jackfruit`, `lakoocha`, `marang` | 2026-11-17 | RESEARCHED |
 | charichuelo | Garcinia madruno |  | `mangosteen` | 2026-11-23 | PROPOSED |
 | cherry_plum | Prunus cerasifera | cherry-plum.md | `japanese_plum` | 2026-11-17 | RESEARCHED |
@@ -61,7 +61,7 @@
 | hassaku | Citrus hassaku | hassaku.md | `natsudaidai`, `kunenbo` | 2026-11-19 | RESEARCHED |
 | hetsuka_daidai | Citrus sp., Kagoshima local sour citrus related to kabusu | hetsuka-daidai.md | `daidai`, `natsudaidai`, `yuzu`, `sudachi`, `kabosu`, `shiikuwasha`, `hyuganatsu` | 2026-11-19 | RESEARCHED |
 | highland_banana | Musa AAA-EA, Mutika/Lujugira subgroup | banana.md | `banana`, `plantain` | 2026-11-17 | RESEARCHED |
-| honeydew | Cucumis melo Inodorus group | honeydew.md | `cantaloupe` | 2026-11-19 | RESEARCHED |
+| honeydew | Cucumis melo Inodorus group | honeydew.md | `cantaloupe`, `oriental_melon` | 2026-11-19 | RESEARCHED |
 | hyuganatsu | Citrus tamurana (Miyazaki hybrid, tachibana parent) | hyuganatsu.md | `hetsuka_daidai`, `natsudaidai`, `yuzu`, `haruka`, `tachibana` | 2026-11-19 | RESEARCHED |
 | ichang_papeda | Citrus cavaleriei (syn. *C. ichangensis*) | kabosu.md | `kabosu`, `yuzu` | 2026-11-19 | REJECTED |
 | indian_jujube | Ziziphus mauritiana | indian-jujube.md | `jujube` | 2026-11-19 | RESEARCHED |
@@ -103,7 +103,7 @@
 | nectarine | Prunus persica, smooth-skinned | nectarine.md | `peach`, `peach_low_chill` | 2026-11-23 | RESEARCHED |
 | olive | Olea europaea | olive.md |  | 2026-11-23 | RESEARCHED |
 | orange | Citrus × sinensis | orange.md | `bitter_orange`, `mandarin`, `cam_xoan`, `clementine` | 2026-11-23 | RESEARCHED |
-| oriental_melon | Cucumis melo Makuwa group; chamoe, makuwa uri | oriental-melon.md |  | 2026-10-06 | OUT-OF-DATE |
+| oriental_melon | Cucumis melo Makuwa group; chamoe, makuwa uri | oriental-melon.md | `cantaloupe`, `honeydew` | 2026-11-24 | RESEARCHED |
 | papaya | Carica papaya | papaya.md | `mountain_papaya` | 2026-09-29 | OUT-OF-DATE |
 | peach | Prunus persica | peach.md | `nectarine` | 2026-10-12 | OUT-OF-DATE |
 | peach_low_chill | Prunus persica, subtropical peaches | peach-low-chill.md | `nectarine` | 2026-10-18 | OUT-OF-DATE |
