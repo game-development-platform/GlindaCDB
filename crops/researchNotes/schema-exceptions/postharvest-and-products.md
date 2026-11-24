@@ -19,6 +19,9 @@ plain name with the cropID, doc and Finding.
   - `peach` (`peach.md`, Finding 5): internal breakdown develops faster at 2-7 °C than at 0 °C or below,
     and shows only on ripening after storage.
   - `nectarine` (`nectarine.md`, Finding 2): the same disorder, with a 2.2-7.8 °C band.
+  - `peach_low_chill` (`peach-low-chill.md`, Finding 7): injury can start below about 10 °C and is most
+    severe in a 2.2-7.8 °C "killing zone"; storage is 0-1.1 °C; immature fruit are more susceptible and
+    ripe fruit less so (a ripeness qualifier).
   - Imported, the same band: plum, Japanese plum, apricot; Asian persimmon ('Fuyu' hurt at 2-15 °C, worst
     at 5-7 °C, not at 0 °C).
   - Imported, related shapes that a danger-band field would also need to hold:
@@ -38,18 +41,22 @@ plain name with the cropID, doc and Finding.
 
 ## 41 — Ripening off the plant, or a conditioning step before the product is usable
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Edibility" says what preparation is needed and "Storage" gives a regime. Neither
   records that the harvested product must ripen or be conditioned off the plant, under what conditions,
   for how long, and what happens when that fails.
-- **Seen in (imported):** peach, plum, apricot, papaya, guava, kiwifruit (off-plant ripening); avocado
-  (never ripens on the tree); banana (scheduled ethylene ripening at 14-18 °C over 4-10 days; fails above
-  about 25 °C); cantaloupe (softens but gains no sugar off the vine); honeydew (ethylene treatment);
-  durian (the husk gives off ethylene); quince (stored, then ripened at 20 °C); medlar (inedible until
-  bletted, 2-3 weeks cool or frost on the tree); European pear (2-8 weeks near −1 °C before it will
-  ripen); low-chill pear (softens only at 15.5-18 °C); Asian persimmon (astringent types need CO2 or
-  ethanol treatment, drying, or freezing); Asian pear (climacteric in some cultivars, not others).
-  Counter-cases: pomegranate and sweet cherry don't ripen off the plant.
+- **Seen in:**
+  - `peach_low_chill` (`peach-low-chill.md`, Agronomic data, Edibility): the fruit is climacteric and
+    softens off the tree, but sugar does not rise, so non-melting cultivars are bred to be picked
+    tree-ripe.
+  - Imported: peach, plum, apricot, papaya, guava, kiwifruit (off-plant ripening); avocado (never ripens
+    on the tree); banana (scheduled ethylene ripening at 14-18 °C over 4-10 days; fails above about 25
+    °C); cantaloupe (softens but gains no sugar off the vine); honeydew (ethylene treatment); durian (the
+    husk gives off ethylene); quince (stored, then ripened at 20 °C); medlar (inedible until bletted, 2-3
+    weeks cool or frost on the tree); European pear (2-8 weeks near −1 °C before it will ripen);
+    low-chill pear (softens only at 15.5-18 °C); Asian persimmon (astringent types need CO2 or ethanol
+    treatment, drying, or freezing); Asian pear (climacteric in some cultivars, not others).
+    Counter-cases: pomegranate and sweet cherry don't ripen off the plant.
 - **Possible home:** a "Ripening / conditioning" line under "Storage" (required or not, regime, days,
   failure band, prerequisite cold).
 
@@ -90,12 +97,15 @@ plain name with the cropID, doc and Finding.
 
 ## 45 — Ethylene sensitivity and incompatible storage mates
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Storage" covers one product at a time. Some products are damaged by very low
   ethylene, or give off enough to damage what is stored beside them.
-- **Seen in (imported):** kiwifruit (5-10 ppb softens fruit); watermelon (5 µL/L); kai-lan (1 ppm cuts
-  shelf life about 30%); carrot (bitter from under 1 ppm; apples and pears are bad storage mates);
-  celeriac (ethylene toughens roots); quince (ripens its neighbours).
+- **Seen in:**
+  - `peach_low_chill` (`peach-low-chill.md`, Finding 5): ethylene released during dormant pruning aborts
+    flower buds in 'UFO', so it is pruned only in summer (a field, not storage, ethylene sensitivity).
+  - Imported: kiwifruit (5-10 ppb softens fruit); watermelon (5 µL/L); kai-lan (1 ppm cuts shelf life
+    about 30%); carrot (bitter from under 1 ppm; apples and pears are bad storage mates); celeriac
+    (ethylene toughens roots); quince (ripens its neighbours).
 - **Possible home:** "Ethylene: sensitivity and production" and "Do not store with" lines under
   "Storage".
 

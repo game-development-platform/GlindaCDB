@@ -39,6 +39,9 @@ plain name with the cropID, doc and Finding.
     from the growers' committee, and fruit sold only to countries that accept GM papaya.
   - `peach` (`peach.md`, Finding 6): 'Guardian' rootstock is under US Plant Variety Protection
     No. 9400013 and sold only through licensed nurseries.
+  - `peach_low_chill` (`peach-low-chill.md`, Agronomic data, Propagation): most current UF scion
+    cultivars are patented ('UFBest', 'Flordabest', 'Gulfcrimson', 'UFO', 'UFSharp'), while older ones
+    ('TropicBeauty', 'Flordaking', 'Flordadawn') are not.
 - **Possible home:** a "Licensing / IP" line under "Propagation", separate from biosecurity rules.
   Other legal limits on the product or the harvest are entry 64.
 
@@ -70,13 +73,18 @@ plain name with the cropID, doc and Finding.
 
 ## 19 — Seed that comes true to type, or seed that won't
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Propagation" lists seed and vegetative routes. It doesn't say whether seed
   reproduces the parent (apomixis, nucellar embryos) or, the reverse, whether seed-grown plants lose the
   parent's chemistry so that clones are required.
-- **Seen in (imported):** mangosteen and porang (apomictic); mango (polyembryonic cultivar groups come
-  true, others don't); Key lime and citrus rootstocks (nucellar seed); oregano (seedlings don't keep the
-  parent's chemotype).
+- **Seen in:**
+  - `peach_low_chill` (`peach-low-chill.md`, Agronomic data, Propagation): 'Flordaguard' rootstock seed
+    doesn't reliably come true; about 6% of seedlings are outcrosses that lose nematode resistance and
+    are culled by their lack of red leaves, so seed blocks are isolated and cuttings are taken only from
+    grafted trees.
+  - Imported: mangosteen and porang (apomictic); mango (polyembryonic cultivar groups come true, others
+    don't); Key lime and citrus rootstocks (nucellar seed); oregano (seedlings don't keep the parent's
+    chemotype).
 - **Possible home:** a "True to type from seed?" line under "Propagation".
 
 ## 20 — Seed storage behaviour outside the normal range
@@ -133,28 +141,36 @@ plain name with the cropID, doc and Finding.
 
 ## 24 — Planting stock with its own storage, dormancy and multiplication
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Propagation" names the route, and "Storage" covers the harvested product. For
   vegetatively propagated crops the planting stock has its own storage regime, shelf life, dormancy and
   multiplication rate, and it can take up a large share of the land.
-- **Seen in (imported):** seed potato (stored at 3.3 °C, browning at 0 °C); Andean potato (no tuber
-  dormancy; diffused-light seed stores give short sturdy sprouts and 15-30% more yield); yam (dormancy
-  length by species); cassava (stems keep about two weeks, upright in shade); cocoyam (seed cormels buried
-  in sand); horseradish (sets kept in moist sand); porang (16 h/day light for about a month breaks
-  dormancy); konjac (most of the planted area grows planting stock: 3,230 ha planted vs 1,950 ha harvested
-  for sale; 3.3-6 times enlargement per season; corm shape sets machine planting); elephant foot yam
-  (multiplication 1:4, raised to 1:15 by minisetts); sweet potato (slips raised from stored roots).
+- **Seen in:**
+  - `peach_low_chill` (`peach-low-chill.md`, Agronomic data, Propagation): 'Flordaguard' seed fruit must
+    be picked before they drop because heat damages the embryo; seed is stratified; about 6% outcrosses
+    and a further 10% runts are culled.
+  - Imported: seed potato (stored at 3.3 °C, browning at 0 °C); Andean potato (no tuber dormancy;
+    diffused-light seed stores give short sturdy sprouts and 15-30% more yield); yam (dormancy length by
+    species); cassava (stems keep about two weeks, upright in shade); cocoyam (seed cormels buried in
+    sand); horseradish (sets kept in moist sand); porang (16 h/day light for about a month breaks
+    dormancy); konjac (most of the planted area grows planting stock: 3,230 ha planted vs 1,950 ha
+    harvested for sale; 3.3-6 times enlargement per season; corm shape sets machine planting); elephant
+    foot yam (multiplication 1:4, raised to 1:15 by minisetts); sweet potato (slips raised from stored
+    roots).
 - **Possible home:** a "Planting stock" sub-section under "Propagation" (storage, dormancy, shelf life,
   multiplication ratio, share of area).
 
 ## 25 — Crop grown mainly as rootstock or planting material for another crop
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Propagation" covers this crop's own rootstocks. Some crops are grown, or matter
   most, as the rootstock or propagation source for a *different* crop.
-- **Seen in (imported):** date-plum (rootstock seed for Asian persimmon); quince (pear and medlar
-  rootstock); golden currant; sour orange (classic citrus stock; tristeza kills sweet orange on it);
-  cherry plum; squash as a graft stock for oriental melon.
+- **Seen in:**
+  - `peach_low_chill` (`peach-low-chill.md`, Finding 6): 'Flordaguard' is a peach grown for rootstock
+    seed, recommended for low-chill peach, nectarine and plum.
+  - Imported: date-plum (rootstock seed for Asian persimmon); quince (pear and medlar rootstock); golden
+    currant; sour orange (classic citrus stock; tristeza kills sweet orange on it); cherry plum; squash
+    as a graft stock for oriental melon.
 - **Possible home:** a "Role as rootstock for other crops" line under "Propagation".
 
 ## 26 — Graft compatibility rules

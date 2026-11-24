@@ -18,6 +18,9 @@ plain name with the cropID, doc and Finding.
   - `peach` (`peach.md`, Finding 4): water stress after harvest (around August, while next year's
     flower buds form) raises doubled and deep-sutured fruit and lowers fruit set the following year,
     sharply below −2.0 MPa midday stem water potential.
+  - `peach_low_chill` (`peach-low-chill.md`, Finding 2 and Hazards): defoliating too early cuts the
+    carbohydrate and nitrogen reserves for next season's flowering, giving erratic set; peach rust's
+    summer defoliation harms next season's flowers and fruit.
   - Imported: olive (alternate bearing; an off year about 57% lower in fruit); longan (off-year crop
     20-40%); mandarin (alternate bearing managed by chemical thinning); coyo; grapefruit (a late harvest
     lowers the next crop); ume (water stress July-March cuts next spring's flowers); lowbush blueberry
@@ -89,31 +92,40 @@ plain name with the cropID, doc and Finding.
 
 ## 9 — Chill requirement that a farm operation can replace, and chill negation
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** the chill angle records how much chill a crop needs. It has no place for an
   operation that substitutes for chill, for warm spells that cancel chill already gained, or for a
   dormancy breaker that helps one crop and harms another.
-- **Seen in (imported):** low-chill apple (hydrogen cyanamide plus oil gave a crop with zero chill hours;
-  hand defoliation in the tropics); low-chill pear (dormancy-breaker substitute); low-chill peach
-  (zinc-sulphate defoliation needed, chill negated above about 15.6 °C, and hydrogen cyanamide cut fruit
-  set in one cultivar by more than 40%); artichoke (gibberellin substitutes for cold); jujube (chill
-  speeds but is not required); olive (chill counted in weeks below 12 °C, a different unit).
+- **Seen in:**
+  - `peach_low_chill` (`peach-low-chill.md`, Finding 2 and Finding 8): leaves must be removed (zinc
+    sulphate, late November) before buds take up chill; prolonged periods above 15 °C hurt accumulation;
+    chill after bloom starts, or after mid-January, doesn't help the market crop; too *much* chill aborts
+    flower buds in low-chill cultivars, a chill ceiling as well as a floor; hydrogen cyanamide advanced
+    maturity 10-19 days but cut set or yield by over 40% in three Australian trials, and worked only when
+    timed by bud stage.
+  - Imported: low-chill apple (hydrogen cyanamide plus oil gave a crop with zero chill hours; hand
+    defoliation in the tropics); low-chill pear (dormancy-breaker substitute); artichoke (gibberellin
+    substitutes for cold); jujube (chill speeds but is not required); olive (chill counted in weeks below
+    12 °C, a different unit).
 - **Possible home:** extend the chill angle: unit, substitutes, negation rule.
 
 ## 10 — Weather thresholds that depend on stage, organ, duration or cover
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Weather response" takes frost, heat, drought and waterlogging tolerance as
   single values. Many sourced thresholds only hold for one growth stage, one organ, a minimum duration,
   or a condition such as snow cover, and some are about rain or warmth at the wrong moment rather than
   extremes.
-- **Seen in (imported):** grapefruit (−2.2 °C for 6 hours or more); Korla pear (a table of thresholds by
-  organ, and freeze wounds that lead to canker); lingonberry (hardiness depends on snow cover);
-  blackcurrant (2 °C for two days at bloom cut yield about 60%, with no frost); low-chill peach (bloom
-  nights above about 14 °C stop fruit set in some cultivars); passionfruit and date palm (rain at
-  pollination; date palm seasons rated down by more than 50 mm in a harvest month); seed lotus (rain or
-  wind at the morning bee visits); maypop (top dies back each winter); mandarin, feijoa, raspberry,
-  blackberry (different thresholds for tree, flower, fruit, cane and bud).
+- **Seen in:**
+  - `peach_low_chill` (`peach-low-chill.md`, Finding 3): bloom nights above 14 °C are needed for good set
+    in 'UFGem' but make 'UFBeauty' crop unreliably, so the same threshold points opposite ways by
+    cultivar.
+  - Imported: grapefruit (−2.2 °C for 6 hours or more); Korla pear (a table of thresholds by organ, and
+    freeze wounds that lead to canker); lingonberry (hardiness depends on snow cover); blackcurrant (2 °C
+    for two days at bloom cut yield about 60%, with no frost); passionfruit and date palm (rain at
+    pollination; date palm seasons rated down by more than 50 mm in a harvest month); seed lotus (rain or
+    wind at the morning bee visits); maypop (top dies back each winter); mandarin, feijoa, raspberry,
+    blackberry (different thresholds for tree, flower, fruit, cane and bud).
 - **Possible home:** let "Weather response" hold a list of rules, each with stage, organ, threshold,
   duration and effect.
 

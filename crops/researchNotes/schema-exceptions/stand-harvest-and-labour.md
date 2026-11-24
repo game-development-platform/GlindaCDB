@@ -10,24 +10,28 @@ plain name with the cropID, doc and Finding.
 
 ## 28 — Stand life, age-yield curve and replanting
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Life form / season" and "Days/years to first bearing" stop at first bearing.
   Nothing records how yield ramps up with age, when it peaks and declines, the economic replant point
   (often far shorter than the biological life), disease-limited stand life, how the stand renews itself,
   or field operations done only once per stand.
-- **Seen in (imported):** asparagus (no harvest in year 1, light in year 2, full from year 3; cutting in
-  year 1 cost 23% of the five-year yield; Fusarium decline at 8-20 years); sweet cherry (full at year 6,
-  about 25 years); plum (0.23 / 0.38 / 0.76 / 1.0 of full yield in years 4-7); mangosteen (6-20 years to
-  bear); orange (20-year economic cycle vs centuries-old trees); blackberry (15-20 years commercial vs
-  about 6); passionfruit (replant every 2-4 years); black raspberry (virus limits stands to 2-3 years);
-  red currant (Eutypa canker cuts stand life from about 15 to 8-9 years); mountain papaya (peaks in years
-  4-5, 7-8-year cycle); babaco (26-month rotation); yellow pitaya (10-year cycle); pineapple (ratoon crop
-  about 0.53 of the plant crop); raspberry and blackberry (canes in age cohorts); dwarf sour cherry
-  (regrows from suckers, so the stand doesn't age out); lingonberry (20-year beds); cranberry (century-old
-  beds); seed lotus (three-year stand peaking in year 2); arrowroot (dug yearly for 5-6 years); nutmeg
-  (7-9 years to bear, peak at 35-40); coconut (6-10 years to bear, 60-100-year life); Kernza (land
-  preparation and planting recur only once per stand); Texas and American persimmon (re-sprout from the
-  root crown after fire).
+- **Seen in:**
+  - `peach_low_chill` (`peach-low-chill.md`, Life form / season and Days/years to first bearing): the
+    Florida budget assumes first fruit in year 2, full yield from year 4, a 15-year horizon and 5% of
+    trees dying and being replaced every year.
+  - Imported: asparagus (no harvest in year 1, light in year 2, full from year 3; cutting in year 1 cost
+    23% of the five-year yield; Fusarium decline at 8-20 years); sweet cherry (full at year 6, about 25
+    years); plum (0.23 / 0.38 / 0.76 / 1.0 of full yield in years 4-7); mangosteen (6-20 years to bear);
+    orange (20-year economic cycle vs centuries-old trees); blackberry (15-20 years commercial vs about
+    6); passionfruit (replant every 2-4 years); black raspberry (virus limits stands to 2-3 years); red
+    currant (Eutypa canker cuts stand life from about 15 to 8-9 years); mountain papaya (peaks in years
+    4-5, 7-8-year cycle); babaco (26-month rotation); yellow pitaya (10-year cycle); pineapple (ratoon
+    crop about 0.53 of the plant crop); raspberry and blackberry (canes in age cohorts); dwarf sour
+    cherry (regrows from suckers, so the stand doesn't age out); lingonberry (20-year beds); cranberry
+    (century-old beds); seed lotus (three-year stand peaking in year 2); arrowroot (dug yearly for 5-6
+    years); nutmeg (7-9 years to bear, peak at 35-40); coconut (6-10 years to bear, 60-100-year life);
+    Kernza (land preparation and planting recur only once per stand); Texas and American persimmon
+    (re-sprout from the root crown after fire).
 - **Possible home:** a "Stand life" bullet: juvenile years, yield by age, peak, decline, economic replant
   point, what limits it, and establishment-only operations.
 
@@ -112,40 +116,51 @@ plain name with the cropID, doc and Finding.
 
 ## 35 — Field operations with no name
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Labor" asks only for hours. Many crops need named operations that matter for
   yield or quality and have to be planned, not just counted.
-- **Seen in (imported):** potato (hilling; vine kill 7-21 days before harvest to set skins); yam, tomato,
-  eggplant (staking; yam poles 2-5 m); cauliflower (blanching; not needed in green cultivars); endive
-  (tying to blanch); jicama and arrowroot (flower removal); horseradish (lifting side roots twice a
-  season); artichoke (cutting back crowns); asparagus (fern chopping); tatsoi and kai-lan (thinning as an
-  early harvest); kai-lan, gat, rutabaga (insect netting; rutabaga's netting lasts 10 years); chayote
-  (trellis); girdling (grape, lychee, apricot, orange, avocado, mango, jujube); fruit bagging
-  (pomegranate, date palm); tipping and caning out (cane fruit); caprification (fig); lowbush blueberry
-  (field burning); makrut lime (leaf stripping, paid by piece); arrowhead (leaf stripping every 20 days;
-  root pruning; bird netting); lotus (turning runners back from the bund); chuin (stripping 25% of old
-  leaves after heat shock); maca (sowing trampled in by sheep); fingerling potato (small units raise
-  handling labour).
+- **Seen in:**
+  - `peach_low_chill` (`peach-low-chill.md`, Findings 2 and 5, Weather response): chemical defoliation in
+    late November; summer topping at 100 cm, 150 cm and 200 cm and cutting back after harvest; rootstock
+    sucker removal; mounting freeze-protection emitters on PVC risers each winter.
+  - Imported: potato (hilling; vine kill 7-21 days before harvest to set skins); yam, tomato, eggplant
+    (staking; yam poles 2-5 m); cauliflower (blanching; not needed in green cultivars); endive (tying to
+    blanch); jicama and arrowroot (flower removal); horseradish (lifting side roots twice a season);
+    artichoke (cutting back crowns); asparagus (fern chopping); tatsoi and kai-lan (thinning as an early
+    harvest); kai-lan, gat, rutabaga (insect netting; rutabaga's netting lasts 10 years); chayote
+    (trellis); girdling (grape, lychee, apricot, orange, avocado, mango, jujube); fruit bagging
+    (pomegranate, date palm); tipping and caning out (cane fruit); caprification (fig); lowbush blueberry
+    (field burning); makrut lime (leaf stripping, paid by piece); arrowhead (leaf stripping every 20
+    days; root pruning; bird netting); lotus (turning runners back from the bund); chuin (stripping 25%
+    of old leaves after heat shock); maca (sowing trampled in by sheep); fingerling potato (small units
+    raise handling labour).
 - **Possible home:** a "Field operations" list under "Labor" (operation, timing, purpose, labour).
 
 ## 36 — Growth regulators as routine operations
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** chemical inputs are not recorded anywhere unless they are a hazard. In some crops
   a growth regulator is a standard step that sets fruit, flowering or shape.
-- **Seen in (imported):** oriental melon (fruit-set hormones); Korla pear (paclobutrazol to shed the
-  calyx); artichoke and citrus (gibberellin); pineapple (ethephon forcing); blueberry (gibberellin for
-  seedless fruit); mango (paclobutrazol); low-chill apple and grape (hydrogen cyanamide, see entry 9).
+- **Seen in:**
+  - `peach_low_chill` (`peach-low-chill.md`, Finding 8): paclobutrazol (or repeated summer pruning) is
+    essential at high density in Australia; hydrogen cyanamide was tried as a dormancy breaker.
+  - Imported: oriental melon (fruit-set hormones); Korla pear (paclobutrazol to shed the calyx);
+    artichoke and citrus (gibberellin); pineapple (ethephon forcing); blueberry (gibberellin for seedless
+    fruit); mango (paclobutrazol); low-chill apple and grape (hydrogen cyanamide, see entry 9).
 - **Possible home:** a "Growth regulators" line under "Labor" or "Field operations" (product, timing,
   purpose).
 
 ## 37 — Fruit-load limits and yield set by canopy, not plant count
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Yield" takes a per-area range. Some crops have a ceiling on fruit a plant can
   carry, trade size against number, or yield by canopy area regardless of density.
-- **Seen in (imported):** giant granadilla (a maximum number of fruit carried at once); peach (thinning
-  curves trade fruit size against yield by cultivar); cashew (about 450 kg/ha whether 44 or 278 trees/ha).
+- **Seen in:**
+  - `peach_low_chill` (`peach-low-chill.md`, Agronomic data, Yield): a *light* crop is also a defect,
+    giving up to 50% split pits in 'Flordadawn'; thinning sets size and prevents limb breakage;
+    Australian benchmarks are at 1,200-1,800 trees/ha against about 385/ha in the Florida budget.
+  - Imported: giant granadilla (a maximum number of fruit carried at once); peach (thinning curves trade
+    fruit size against yield by cultivar); cashew (about 450 kg/ha whether 44 or 278 trees/ha).
 - **Possible home:** a "Load and density" note under "Yield".
 
 ## 38 — Loss on the plant once ripe
@@ -178,3 +193,17 @@ plain name with the cropID, doc and Finding.
   are usually root-crop traits.
 - **Seen in (imported):** groundnut, Bambara bean.
 - **Possible home:** a note under "Soil" and "Harvest pattern".
+
+## 67 — Value set by a calendar market window against other regions
+
+- **Status:** OPEN (logged 2026-11-24).
+- **What doesn't fit:** "Harvest stages / windows" records when a crop can be picked. It has no place
+  for a crop whose value depends on ripening inside a calendar window set by *other* regions' supply, so
+  that otherwise-normal phenology (late bloom, late chill) counts as failure.
+- **Seen in:**
+  - `peach_low_chill` (`peach-low-chill.md`, Finding 1): Florida peaches earn higher prices from March
+    to early May, before northern states harvest. Trees must bloom by the third week of January to make
+    it, so chill gained after mid-January is "not useful for commercial production" even though the trees
+    still flower.
+- **Possible home:** a "Market window" line under "Harvest stages / windows" (dates, competing regions,
+  what it does to price, and the phenology deadline it sets).

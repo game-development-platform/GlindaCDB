@@ -106,7 +106,7 @@
 | oriental_melon | Cucumis melo Makuwa group; chamoe, makuwa uri | oriental-melon.md | `cantaloupe`, `honeydew` | 2026-11-24 | RESEARCHED |
 | papaya | Carica papaya | papaya.md | `mountain_papaya`, `babaco` | 2026-11-24 | RESEARCHED |
 | peach | Prunus persica | peach.md | `nectarine`, `peach_low_chill` | 2026-11-24 | RESEARCHED |
-| peach_low_chill | Prunus persica, subtropical peaches | peach-low-chill.md | `nectarine`, `peach` | 2026-10-18 | OUT-OF-DATE |
+| peach_low_chill | Prunus persica, subtropical peaches | peach-low-chill.md | `nectarine`, `peach` | 2026-11-24 | RESEARCHED |
 | pear | Pyrus communis | pear.md | `korla_pear`, `loquat`, `medlar` | 2026-10-12 | OUT-OF-DATE |
 | pear_low_chill | Pyrus communis × P. pyrifolia hybrids | pear-low-chill.md |  | 2026-10-18 | OUT-OF-DATE |
 | peluntan | Artocarpus sericicarpus (gumihan, tarap bulu) |  | `marang` | 2026-11-23 | PROPOSED |

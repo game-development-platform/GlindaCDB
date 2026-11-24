@@ -108,6 +108,7 @@ section files under [`schema-exceptions/`](schema-exceptions/):
 | 64 | Legal limits on the product or the harvest | OPEN | interactions-hazards-and-rules |
 | 65 | Religious and cultural rules and uses | OPEN | interactions-hazards-and-rules |
 | 66 | Quality tied to a named place | OPEN | interactions-hazards-and-rules |
+| 67 | Value set by a calendar market window against other regions | OPEN | stand-harvest-and-labour |
 
 ## Reviewed during the 2026-11-24 import and judged already covered
 

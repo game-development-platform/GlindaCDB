@@ -906,6 +906,29 @@ Also relevant to peach, already requested under nectarine: `nectarine--crisosto-
 - [ ] **`peach--crisosto-2004`** (Library): Crisosto, C. H., et al. (2004), the commercial controlled delayed cooling ("preconditioning") study for California and Chilean peach cultivars, *Postharvest Biology and Technology* (volume and pages to confirm).
   - **Needed for:** per-cultivar market-life gains and the delay protocol.
 
+### peach_low_chill (2026-11-24)
+
+Also relevant here, already requested under nectarine and peach: `nectarine--layne-bassi-2008` (*The Peach*, CABI) and `peach--crisosto-2004` (delayed cooling).
+
+- [ ] **`peach_low_chill--jnematol-2022-flordaguard`** (Online): "Susceptibility of Flordaguard peach rootstock to a resistant-breaking population of *Meloidogyne floridensis* and two populations of *Meloidogyne arenaria*," *Journal of Nematology* (2022), https://pmc.ncbi.nlm.nih.gov/articles/PMC8784979/ (bot check blocks scripts).
+  - **Needed for:** the authors, galling and reproduction figures, and the orchard survey behind the resistance-breaking claim (Finding 6).
+- [ ] **`peach_low_chill--sherman-1991-flordaguard`** (Online): Sherman, W. B., P. M. Lyrene and R. H. Sharpe (1991), "Flordaguard peach rootstock," *HortScience* 26: 427-428, doi:10.21273/HORTSCI.26.4.427.
+  - **Needed for:** the release description, parentage, chill and nursery figures from the primary source.
+- [ ] **`peach_low_chill--george-nissen-hcn`** (Library): George, A. P., and R. J. Nissen (1993), *Australian Journal of Experimental Agriculture*, CSIRO EA9930787; and George, A. P., J. Lloyd and R. J. Nissen (1992), CSIRO EA9920089 (full texts paywalled).
+  - **Needed for:** the hydrogen cyanamide rates, timing, fruit-set and yield results on 'Flordaprince' (Finding 8).
+- [ ] **`peach_low_chill--george-1997-acta`** (Library): George, A. P. (1997), "Research and development of temperate fruits in subtropical Australia," *Acta Horticulturae* 441: 115-124, doi:10.17660/ActaHortic.1997.441.14.
+  - **Needed for:** the survey method behind the 27 and 51 t/ha benchmarks, densities and labour for subtropical Australia.
+- [ ] **`peach_low_chill--nass-florida-peach`** (Online): USDA NASS or Florida Department of Agriculture statistics for Florida peach bearing acres, production and yield, most recent years.
+  - **Needed for:** a measured state yield to replace the 2017 estimate (about 3.4 t/ha).
+- [ ] **`peach_low_chill--egypt-florida-prince`** (Online): the 2015 *Egyptian Journal of Horticulture* study of 'Florida Prince', 'Early Grand' and 'Desert Red' in the North Delta (journals.ekb.eg, article_1065).
+  - **Needed for:** Egyptian bloom, maturity, yield and fruit-quality figures.
+- [ ] **`peach_low_chill--tropics-cycling`** (Online): the *Journal of the American Pomological Society* article on peach production in the new-world tropics, and "Temperature in relation to peach culture in the tropics," *Acta Horticulturae* 199 (ISHS 199_12).
+  - **Needed for:** the cycle length, crops a year, the forcing method and the yield per cycle in tropical systems.
+- [ ] **`peach_low_chill--mexico-low-chill`** (Online): INIFAP (Mexican national agricultural research institute) material on low-chill peach area, production, yield and cultivars by region.
+  - **Needed for:** the Mexican system dropped this pass.
+- [ ] **`peach_low_chill--hs1223-budget`** (Online): Olmstead, M., and K. Morgan (2013), "Orchard Establishment Budget for Peaches and Nectarines in Florida," UF/IFAS HS1223, doi:10.32473/edis-hs1223-2013 (the EDIS page now returns "Gone"; try the journals.flvc.org archive).
+  - **Needed for:** a second Florida yield and cost budget to compare with FE1016.
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

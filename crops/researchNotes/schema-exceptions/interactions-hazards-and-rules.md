@@ -10,13 +10,16 @@ plain name with the cropID, doc and Finding.
 
 ## 53 — Crop that hosts another crop's disease
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Invasiveness / biosecurity" covers the crop spreading. It doesn't cover a crop
   that is an alternate host or reservoir for a disease of *other* plants, with setback distances, bans or
   certified-stock rules as a result, or a crop harmed through a host plant growing nearby.
-- **Seen in (imported):** blackcurrant, red currant, golden currant, gooseberry (white pine blister rust;
-  setbacks around 300 m and state bans); Meyer lemon (tristeza reservoir; certified stock required);
-  quince (rust carried by nearby juniper).
+- **Seen in:**
+  - `peach_low_chill` (`peach-low-chill.md`, Invasiveness / biosecurity): wild plum thickets carry brown
+    rot, so orchards are sited at least ¼ mile (about 400 m) away.
+  - Imported: blackcurrant, red currant, golden currant, gooseberry (white pine blister rust; setbacks
+    around 300 m and state bans); Meyer lemon (tristeza reservoir; certified stock required); quince
+    (rust carried by nearby juniper).
 - **Possible home:** a "Host for other crops' diseases" line under "Invasiveness / biosecurity".
 
 ## 54 — Disease shared with neighbouring or nursery crops
@@ -30,12 +33,16 @@ plain name with the cropID, doc and Finding.
 
 ## 55 — Disease that decides where a crop can be grown
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Climate zones" reads as purely climatic. In some regions a disease, not climate,
   rules a crop out, or a disease is triggered by a specific weather pattern.
-- **Seen in (imported):** grape (Pierce's disease makes European grapes uneconomic in the US Southeast,
-  where muscadine is resistant); low-chill pear (fire blight forecast from warmth and wetting during
-  bloom); taro (leaf blight destroyed Samoa's crop in 1993; recovery by breeding).
+- **Seen in:**
+  - `peach_low_chill` (`peach-low-chill.md`, Finding 6): the endemic nematode *Meloidogyne floridensis*
+    overcomes every rootstock used elsewhere in the US, so Florida peach depends on one rootstock, which
+    some populations now break.
+  - Imported: grape (Pierce's disease makes European grapes uneconomic in the US Southeast, where
+    muscadine is resistant); low-chill pear (fire blight forecast from warmth and wetting during bloom);
+    taro (leaf blight destroyed Samoa's crop in 1993; recovery by breeding).
 - **Possible home:** a "Disease limits on range" note under "Climate zones" or "Weather response".
 
 ## 56 — Crop that persists as a weed of the next crop
@@ -96,9 +103,13 @@ plain name with the cropID, doc and Finding.
 
 ## 61 — Hazards outside the toxin, allergen and ergot classes
 
-- **Status:** OPEN (imported 2026-11-24).
+- **Status:** OPEN (imported 2026-11-24; first Glinda doc added the same day).
 - **What doesn't fit:** "Hazards" is built around toxins, allergens and ergot in the eaten product.
   Other hazard kinds have no obvious slot.
+- **Seen in:**
+  - `peach_low_chill` (`peach-low-chill.md`, Hazards): worker and chemical hazards from routine
+    operations, namely corrosive zinc sulphate defoliant, pre-plant soil fumigants, and hydrogen cyanamide
+    in trials.
 - **Seen in (imported):**
   - food-drug interactions: grapefruit; cranberry (warfarin, disputed); durian with alcohol;
   - microbes on the rind: cantaloupe;
