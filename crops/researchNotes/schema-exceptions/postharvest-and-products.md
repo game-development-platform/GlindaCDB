@@ -58,6 +58,9 @@ plain name with the cropID, doc and Finding.
     tree; Florida ripens it at room temperature, while Oklahoma says hybrids need 2 days to 2 weeks of
     chilling first or they shrivel and rot; the imported 15.5-18 °C window for 'Kieffer' was not re-found
     this pass (request `pear_low_chill--kieffer-ripening`).
+  - `satsuma` (`satsuma.md`, Finding 3): late cultivars ('Aoshima') are air-dried after harvest until
+    they lose a few percent of their weight — a curing step that firms the rind — before they are placed
+    in cool, humid storage.
   - Imported: peach, plum, apricot, papaya, guava, kiwifruit (off-plant ripening); avocado (never ripens
     on the tree); banana (scheduled ethylene ripening at 14-18 °C over 4-10 days; fails above about 25
     °C); cantaloupe (softens but gains no sugar off the vine); honeydew (ethylene treatment); durian (the
@@ -79,6 +82,8 @@ plain name with the cropID, doc and Finding.
   - `pear` (`pear.md`, Finding 5): two storage groups. Slow-senescing cultivars ('d'Anjou', 'Packham's
     Triumph') keep their ripening capacity but scald after removal; fast-senescing ones ('Bartlett',
     'Bosc', 'Comice') lose the ability to ripen after long storage and develop senescent scald.
+  - `satsuma` (`satsuma.md`, Finding 3): stored late-season fruit mellows in the storehouse as acidity
+    gradually falls over the winter, which is the point of the storage rather than a side effect.
   - Imported: potato (cold sweetening, reversed by warm reconditioning; light raises glycoalkaloids, see
     entry 63); sugar beet (piled roots respire about 0.25 kg of sugar per tonne per day, 0.55 if
     bruised); Jerusalem artichoke, salsify, scorzonera (inulin converts to sugars; canneries need

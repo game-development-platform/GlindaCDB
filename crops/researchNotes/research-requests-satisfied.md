@@ -7,6 +7,15 @@ work was used. The documents themselves are never in this repository.
 
 ## Closed requests
 
+- [x] **`satsuma--ufifas-hs195`**: Andersen, Ferguson and Shahid, "The
+  Satsuma Mandarin," UF/IFAS EDIS HS195/CH116.
+  - **Where:** ask.ifas.ufl.edu / edis.ifas.ufl.edu → publication CH116
+    (save the Publication tab, not Explore/About/Metrics).
+  - **Needed for:** satsuma cold tolerance, cultivars, rootstocks, the
+    Quincy FL yield trial, harvest/handling, and storage guidance.
+  - **Result:** Read 2026-11-24 (re-research run); used throughout
+    satsuma.md as [1].
+
 - [x] **`mandarin--uc-cost-sjv-2011`**: O'Connell, Kallsen, Klonsky,
   De Moura and Tumber, *Sample Costs to Establish a Citrus Orchard and
   Produce Mandarins (Tango), San Joaquin Valley – South, 2011* (UC

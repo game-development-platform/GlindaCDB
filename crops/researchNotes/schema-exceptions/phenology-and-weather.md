@@ -56,11 +56,16 @@ plain name with the cropID, doc and Finding.
 - **What doesn't fit:** "Water use" and "Weather response" treat stress as a loss. Some crops are
   stressed deliberately because it improves quality, sets more fruit, or changes the product's
   chemistry.
-- **Seen in (imported):** satsuma (sheet mulch to exclude rain raises sugar); snow mustard (water
-  withheld 10-15 days before harvest); pepper (water stress raises capsaicin); pomegranate (spring water
-  stress raises fruit set, the opposite of citrus); sugar beet (irrigation stopped 2-4 weeks before
-  lifting); arrowroot (irrigation raises rhizome yield but lowers starch recovery); cumin (the water
-  regime at seed set switches the dominant essential-oil compound).
+- **Seen in:**
+  - `satsuma` (`satsuma.md`, Finding 2): a plastic sheet laid over the orchard floor through the rainy
+    season excludes rain and imposes deliberate water stress, raising fruit sugar by active
+    osmoregulation (~2 °Brix); the leaf-water-potential target is about −0.7 to −1.0 MPa, and excessive
+    fruit load instead raises acidity.
+  - Imported: snow mustard (water
+    withheld 10-15 days before harvest); pepper (water stress raises capsaicin); pomegranate (spring water
+    stress raises fruit set, the opposite of citrus); sugar beet (irrigation stopped 2-4 weeks before
+    lifting); arrowroot (irrigation raises rhizome yield but lowers starch recovery); cumin (the water
+    regime at seed set switches the dominant essential-oil compound).
 - **Possible home:** a "Deliberate stress" line under "Water use" (stage, stress level, quality or set
   effect, yield cost).
 

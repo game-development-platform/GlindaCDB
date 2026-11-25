@@ -197,6 +197,9 @@ plain name with the cropID, doc and Finding.
 - **Seen in:**
   - `pear_low_chill` (`pear-low-chill.md`, Finding 4): fruit left on the tree soften unevenly, soften at
     the core and gain stone cells (grit).
+  - `satsuma` (`satsuma.md`, Finding 1): unlike grapefruit, which stores on the tree, satsuma holds
+    poorly once ripe and must be picked promptly, so the harvest window is a hard deadline rather than a
+    flexible one.
   - Imported: snake melon (hollow fruit rise from 9-17% to 44-64% in two days); salsify (wind blows the
     plumed seed away); American lotus (late pods drop seed into the water); radish (prime for only a few
     days, so it is sown every week or two).

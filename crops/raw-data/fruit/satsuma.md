@@ -1,7 +1,19 @@
 # Satsuma (*Citrus unshiu*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/satsuma.md`
-**Researched:** 2026-10-03
+**Researched:** 2026-10-03 (re-researched 2026-11-24 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md`.
+This pass replaced the earlier fully-anonymised write-up with real named
+sources, cultivars, places and figures: the US fact sheet is UF/IFAS HS195
+"The Satsuma Mandarin" [1]; the sheet-mulch practice is the Japanese "mulch"
+(マルチ) deficit-stress literature [7]; the dried peel is *chinpi* / Citrus
+Unshiu Peel in the Japanese Pharmacopoeia [9]; the New Year custom is the
+*kagami mochi* / *daidai* substitution [12]; and the Japan production,
+storage, canning and drug-interaction figures are tied to their actual
+sources below. New checklist angles checked this pass: chill, photoperiod,
+frost-as-quality (cold raises sweetness here), clonal/virus risk, salinity,
+elevation, ergot/fungal contamination, asynchronous ripening, and
+invasiveness / biosecurity.)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -10,452 +22,402 @@ licensed under this project's MIT license (see repository `LICENSE`).
 
 ## Naming and scope
 
-The satsuma mandarin, *Citrus unshiu*, known under several regional names
-(including "satsuma tangerine" in English-speaking markets). It is
-understood as a mandarin-pomelo backcross, carrying a substantial minority
-pomelo genetic contribution [3]. Its geographic origin is genuinely
-disputed between two competing historical accounts, one placing it in
-Japan several centuries ago and the other in eastern China [3][10].
-Taxonomic treatment also varies: some classification systems lump it
-within the broader mandarin species, while others give it full separate
-species rank [13]. This entry covers all satsuma cultivars, both
-early-ripening and late-ripening types, spanning Japanese and U.S. Gulf
-Coast selections; well over 100 individual cultivars exist [1]. A related
-hybrid citrus (clementine) is explicitly excluded here, remaining a
-cultivar note under a separate mandarin research entry this project has
-also produced.
+The satsuma mandarin, *Citrus unshiu* (Marcovitch), family Rutaceae; also
+"satsuma tangerine," the Chinese *Wenzhou migan* / Japanese *unshū mikan*
+(温州蜜柑, "Wenzhou honey citrus"), and *naartjie* in South African English
+[1][2]. The English name "satsuma" is from the former Satsuma Province
+(Kyushu), from which the fruit was first exported west [1][2]. Taxonomic
+treatment varies: the Tanaka system ranks it a separate species, the Swingle
+system treats it as a group within the mandarins [2]. It is understood as a
+mandarin with a minority pomelo contribution in its ancestry; Japanese
+genetic analysis points to *kishu* (*Citrus kinokuni*) as the maternal and
+*kunenbo* (*Citrus nobilis* var.) as the paternal parent [2]. The `kunenbo`
+parent is covered by this project under its own cropID.
 
-This entry passes this project's distinctiveness check against the
-broader mandarin group clearly, on several traits the simulation models:
-this is the most cold-tolerant commercially important citrus, surviving
-temperatures well below what other mandarins tolerate; it is highly
-parthenocarpic, needing no pollinizer and producing seedless or
-nearly-seedless fruit, unlike typical mandarins; it has an unusually low
-heat requirement, ripening earlier than oranges and most other mandarins,
-yet — unlike mandarins and grapefruit — it holds poorly on the tree once
-ripe and must be picked on a tight deadline rather than left to store in
-place; it is the dominant mandarin type used for commercial canning, and
-its dried peel is a distinct traditional medicinal product in at least
-one country; and it carries its own dedicated market identity, being the
-single leading fruit crop in its country of major production.
+Origin is genuinely disputed: a Japanese account places it in Nishi-Nakajima,
+Higo Province (later Nagashima, Kagoshima) in the 1600s, while Chinese genomic
+work supports a natural hybridisation among Chinese mandarin lineages [2]. The
+first US introduction was to Florida (George R. Hall, 1876); between 1908 and
+1911 about a million 'Owari' trees were imported from Japan and planted along
+the lower Gulf Coast, from northern Florida to Texas [1].
+
+This entry covers all satsuma cultivars, early- and late-ripening, Japanese
+and US Gulf Coast selections; well over 100 cultivars exist [1]. A related
+hybrid citrus (clementine) and the broader mandarin group are covered under
+separate mandarin/clementine entries this project has produced; the status
+row cross-links `kunenbo`, `mandarin` and `clementine`.
+
+**Distinctiveness check (passes clearly):** satsuma is the most cold-tolerant
+citrus of commercial importance, surviving well below what other mandarins
+tolerate [1][2]; it is highly parthenocarpic, needing no pollinizer and
+setting seedless fruit [1]; it has an unusually low heat requirement, ripening
+early, yet — unlike grapefruit, which stores on the tree — it holds poorly
+once ripe and must be picked on a deadline [1]; cold weather raises its
+sweetness, a quality benefit (not just a hazard) [2]; it is the dominant
+canning mandarin, and its dried peel (*chinpi*) is a distinct pharmacopoeial
+crude drug [9][11]; and it is the single leading fruit crop of its major
+producer, Japan [6].
 
 ## Research findings
 
-**Finding 1 — the citrus of choice for cold growing margins, but one that
-must be picked precisely on time.** Mature, properly cold-acclimated
-trees on a specific cold-hardy rootstock have survived temperatures well
-below freezing [1][3]. Trees that have not yet fully acclimated are much
-more vulnerable — a documented autumn freeze event caused limb dieback in
-a research trial even at a comparatively mild sub-freezing temperature,
-and actively growing trees require active protection during hard freezes
-[1][2]. This fruit reaches its highest eating quality specifically in
-regions with cool winters paired with hot summers; in more humid
-subtropical growing regions, the fruit can ripen internally while
-remaining green externally, sold under a specific "green-skinned but
-ripe" marketing designation in at least one growing region [1]. Unlike
-grapefruit, which can be left to effectively "store" safely on the tree,
-this fruit holds poorly once mature, making harvest timing a hard
-deadline rather than a flexible decision [1][13].
+**Finding 1 — the citrus for cold margins, but picked precisely on time.**
+The satsuma tree is the most cold-tolerant commercial citrus: mature dormant
+trees have survived minimum temperatures of 14-18 °F (−10 to −8 °C) in
+northern Florida, northern California and southern Alabama without serious
+injury, and reports put survival for acclimated trees down to about −9 °C
+(15 °F) or lower [1][2]. Acclimation matters — actively growing or
+unacclimated trees are far more vulnerable and need active freeze protection
+[1]. Its low total heat requirement makes it ripen early; in humid subtropical
+regions fruit often matures internally while the peel stays green, sold as
+"Emerald Green" satsuma [1]. Cold winters paired with hot summers give the
+best eating quality, and cold itself raises sweetness [1][2]. Unlike
+grapefruit, satsuma holds poorly on the tree once mature: it must be picked
+promptly, and it is clipped (never pulled) to avoid plugging and rind tearing
+that cause decay [1].
 
-**Finding 2 — in Japan, sugar content is deliberately managed through
-induced water stress under plastic sheet mulch.** In at least one major
-rainy growing region, laying plastic sheet mulch over the orchard floor
-is considered essential for producing a premium branded product [6]. The
-mulch is laid in early summer and kept in place through the rainy season
-into autumn specifically to exclude rainfall, allowing the soil to dry
-out and the trees to experience deliberate water stress, which raises
-sugar content; this effect becomes measurable only after roughly a month
-[6]. Specific sugar-content targets are set by cultivar group and
-calendar date in this system [6]. Associated management rules include: if
-a meaningful fraction of the area under the canopy stays wet, the
-intended stress effect fails; a specific leaf-water-potential reading
-corresponds to a documented daily fruit-growth rate used as a practical
-field stress indicator; heavier fruit loads produce higher sugar content
-(though excessively heavy loads instead raise acidity and shrink fruit
-size); and growers specifically thin fruit lightly before laying mulch
-and deliberately leave larger fruit on the tree to help curb unwanted
-autumn vegetative shoot growth. This is a genuinely distinctive deliberate
-deficit-irrigation-for-quality practice (similar in spirit to a forced-
-stress ripening practice documented for a related citrus fruit this
-project has researched, though applied here for sugar content rather than
-that other purpose), dependent specifically on physical rain exclusion
-rather than simply withholding irrigation.
+**Finding 2 — in Japan, sugar is deliberately raised by excluding rain with
+sheet mulch (controlled water stress).** Laying a plastic/waterproof sheet
+over the orchard floor from early summer through the rainy season into autumn
+excludes rainfall, dries the soil and imposes deliberate water stress, which
+raises fruit sugar — the defining practice behind premium branded mikan [7].
+The mechanism is active osmoregulation (glucose and fructose accumulate), not
+mere dehydration (Yakushiji et al., 1996) [7]. Trials keep the maximum leaf
+water potential at about −0.7 to −1.0 MPa as the practical stress target;
+partial sheeting covering ~80-90% of the ground from May-June holds it near
+−0.7 MPa and lifts juice soluble solids, and mulch-drip systems have raised
+sugar by about 2 °Brix [7]. Heavier fruit loads raise sugar, but excessive
+loads instead raise acidity and shrink fruit; growers thin lightly before
+mulching and leave larger fruit to curb autumn vegetative shoots [7]. The
+effect becomes measurable only after about a month, and if a meaningful part
+of the ground under the canopy stays wet the stress fails [7]. This is a
+rain-exclusion deficit-for-quality practice, distinct from simply withholding
+irrigation.
 
-**Finding 3 — late-season fruit is deliberately cured and placed in
-cold storage to supply winter markets.** Late-ripening cultivars are
-specifically air-dried after harvest until they lose a documented small
-percentage of their fresh weight, a traditional curing step that firms
-the rind [7]. They are then held in dedicated storage facilities at a
-specific moderately cool temperature and high humidity, with slightly
-different temperature/humidity targets documented for different shipping
-months across the winter [7]. This storage period is specifically
-understood to mellow flavor as acidity gradually falls [7]. This
-documented Japanese storage-house practice (a moderately cool but not
-near-freezing temperature) directly conflicts with at least one U.S.
-extension source's recommendation to store the fruit under standard
-refrigeration at a notably colder temperature band — a conflict not
-resolved here, and one that also sits uneasily against the broader
-mandarin group's documented chilling-injury threshold.
+**Finding 3 — late-season fruit is cured and cold-stored to supply winter
+markets, with a storage-temperature conflict.** Late-ripening cultivars (e.g.
+'Aoshima') are air-dried after harvest until they lose a few percent of fresh
+weight — a curing step that firms the rind — then held in storehouses at a
+moderately cool temperature and high humidity, with targets adjusted by
+shipping month across the winter; acidity falls and flavour mellows in store
+[8]. This Japanese storehouse practice (moderately cool, not near-freezing)
+conflicts with the US extension recommendation to refrigerate at 32-36 °F
+(0-2 °C) [1], and both sit uneasily against the broader mandarin group's
+documented chilling-injury threshold [4] — a conflict not resolved here.
 
-**Finding 4 — documented yields are moderate in the crop's major Asian
-producing country, but considerably higher in U.S. research trials.** A
-detailed national harvest statistic from this crop's leading Asian
-producing country gives a national average yield considerably lower than
-figures documented in intensive U.S. research-station trials, with that
-national figure understood to be weighed down by a documented long-term
-decline in growing area and production as orchards age and are abandoned
-by aging growers [4]. A separate international trade-data source gives a
-notably higher national production figure for the same general period,
-though this may reflect a broader "mandarins" category rather than this
-species specifically, or a different reporting year — a conflict not
-resolved here [5]. Detailed multi-year U.S. research-station trial data
-show yields varying considerably by cultivar/rootstock combination, with
-one specific cultivar/rootstock pairing yielding notably more than
-another, and a dwarfing rootstock option yielding roughly half as much
-fruit per tree (though a broadly similar yield per unit of canopy area)
-[1]. A detailed regional farm-budget analysis assumes a specific mature
-per-tree and per-acre yield figure at full production [2].
+**Finding 4 — yields are moderate in Japan but much higher in US research
+trials.** Japan, the leading producer, has a large but declining industry;
+national output fell from a 1975 peak of about 3.7 million t to roughly
+742,000 t in 2022/23 (USDA/FAS put it at ~722,000 t), with bearing area down
+to ~35,400 ha in 2023 (about a third lower than 20 years earlier) as orchards
+age and growers retire; five prefectures (Wakayama, Ehime, Shizuoka, Kumamoto,
+Nagasaki) make up nearly 70% of unshu [6]. Against this, a UF/IFAS trial at
+Quincy, Florida (2004 planting, 15 × 20 ft spacing) gave much higher per-area
+yields: 'Brown Select'/'Rubidoux' reached about 246 lb/tree (~19 t/ac) and
+'Owari'/'Rubidoux' about 218 lb/tree (~16 t/ac), while the dwarfing
+'Flying Dragon' rootstock yielded roughly half per tree ('Owari'/'Flying
+Dragon' ~107 lb/tree, ~7.8 t/ac) but similar yield per unit canopy; fruit ran
+9.6-10.4 °Brix and pH 3.70-3.75 [1]. Japanese "mandarins" trade figures
+sometimes read higher than the unshu-specific statistic, likely a broader
+category or different year — not reconciled [6].
 
-**Finding 5 — canned segments and a distinct traditional dried-peel
-medicinal product.** A meaningful share of the crop is canned as fruit
-segments or juiced in several major producing countries, with
-deep-colored juice sometimes blended into orange juice; one specific
-cultivar is noted as especially well suited to canning [1]. The canning
-process specifically involves dissolving the internal segment membranes
-using a brief dilute-acid treatment followed by a brief dilute-alkali
-treatment; one country is documented as the world's largest producer of
-canned mandarin segments [11]. Separately, the dried peel of this fruit
-is a recognized traditional crude drug in at least one national
-pharmacopoeia, with a specific flavonoid compound specified as a quality
-marker, and the dried peel is also a named ingredient in a traditional
-regional spice blend [8]. At least one laboratory cell-culture study
-found that an extract of this dried peel actually *induces* a specific
-drug-metabolizing enzyme and transport protein pathway — notably the
-opposite mechanism from the drug-interaction effect documented for
-another citrus fruit this project has researched, which instead inhibits
-that pathway.
+**Finding 5 — the dominant canning mandarin, and a pharmacopoeial dried-peel
+crude drug.** A large share of the crop is canned as segments or juiced
+(deep-coloured juice is blended into orange juice); 'Owari' is noted as
+especially suited to canning for its firm flesh and tough carpellary membranes
+[1]. Canning dissolves the segment membranes with a brief dilute-acid then
+dilute-alkali treatment (e.g. ~0.1% HCl/0.4% citric acid, then ~0.1%
+KOH/0.2% NaOH for canned satsuma), a process that generates large volumes of
+wastewater; China dominates world canned-mandarin production and export [11].
+Separately, the dried peel — *chinpi* (Citrus Unshiu Peel) — is a recognised
+crude drug in the Japanese Pharmacopoeia and a component of many Kampo
+formulas, with hesperidin used as its TLC reference marker (immature peel,
+*kippi*, is a separate monograph); dried mandarin peel is also a classic
+ingredient of the *shichimi tōgarashi* seven-spice blend [9]. Notably, a
+laboratory study found satsuma-peel extract *induces* the CYP3A drug-metabolism
+enzyme and P-glycoprotein transporter (a PXR-mediated effect) — the opposite
+mechanism to grapefruit, which inhibits that pathway (see Hazards) [10].
 
-**Finding 6 — a traditional New Year altar-fruit substitute.** In
-Japanese household New Year ritual practice, this fruit is commonly
-substituted for a specific traditional bitter orange on a ceremonial
-stacked rice-cake offering placed on the household Shinto altar or in a
-formal alcove display [9].
+**Finding 6 — a New Year altar-fruit substitute.** In Japanese New Year
+practice a *mikan* (commonly a satsuma, or a plastic imitation) is placed atop
+the stacked *kagami mochi* rice-cake offering in place of the traditional
+*daidai* (bitter orange), on the household Shinto altar (*kamidana*) or in the
+alcove (*tokonoma*); the display is broken and eaten in the *kagami biraki*
+ritual in mid-January [12].
 
 ## Agronomic data
 
-- **Life form / season:** Perennial evergreen tree, small, spreading, and
-  drooping in habit, nearly thornless.
-- **Harvest pattern:** Single annual harvest; very early cultivars from
-  early autumn, a peak harvest window in mid-to-late autumn, and late
-  cultivars picked in early winter and then stored through late winter
-  (Finding 3).
-- **Climate:** Humid subtropical, warm-temperate, and Mediterranean
-  (cooler subtropical margin) climates; this is the most cold-tolerant
-  commercially significant citrus (Finding 1), grown in regions too cold
-  for most other citrus.
-- **Composition:** Composition figures here are estimated by analogy to
-  the broader mandarin group, since no species-specific food-composition
-  source was found; this fruit is noted elsewhere as among the sweeter
-  citrus types, and juice from U.S. research trials shows a specific
-  sugar and acidity profile.
-- **Pollination:** Not required — this fruit is highly parthenocarpic,
-  with little viable pollen and few viable ovules, producing seedless or
-  nearly seedless fruit without any pollinizer (Finding 1 distinctiveness
-  note).
-- **Yield:** A wide range from a national average in the crop's leading
-  Asian producing country up to considerably higher figures in intensive
-  U.S. research trials and farm-budget assumptions (Finding 4; see
-  Estimates below for adopted tier values).
-- **Water use:** No species-specific standard crop-coefficient curve was
-  found; water-use parameters are estimated by analogy to standard
-  international citrus crop-coefficient values, as previously used for
-  two other citrus crops this project has researched. The deliberate
-  sheet-mulch water-stress practice described in Finding 2 may mean
-  actual water use is somewhat lower than the generic citrus analogy
-  suggests, since the trees are small and relatively open and the mulch
-  itself reduces soil evaporation.
-- **Propagation:** Exclusively by budding onto rootstock; true seed is
-  rare and slow to bear, and is used only in breeding, not commercial
-  production. New cultivars arise from spontaneous bud mutations or
-  controlled breeding crosses, then are propagated vegetatively by
-  budding. Several distinct rootstock options exist with different
-  cold-hardiness, dwarfing, and disease-resistance profiles — a specific
-  cold-hardy trifoliate rootstock is the usual choice for maximum cold
-  tolerance (entering dormancy early, resisting a specific root-rot
-  disease, suited to clay-loam but poorly adapted to saline or calcareous
-  soils), a dwarfing selection of that same rootstock produces much
-  smaller trees harvestable without a ladder at roughly half the per-tree
-  yield, and two other rootstocks give better nursery growth but are
-  thought less cold-hardy.
-- **Labor:** A detailed regional farm-budget analysis provides reasonably
-  well-sourced non-harvest grove-care labor figures; harvest labor is
-  derived from a documented custom harvest price rather than directly
-  measured labor hours, making it a somewhat less certain figure.
-- **Soil:** A near-neutral pH preference is estimated by analogy to the
-  broader mandarin group, adjusted downward somewhat at the high end
-  since the common cold-hardy rootstock is poorly adapted to calcareous
-  soils.
-- **Stand life:** First harvest typically around the fourth year after
-  planting (with some growers harvesting a light crop in year three), a
-  gradual yield ramp-up to full production by roughly the ninth year, and
-  an assumed multi-decade productive lifespan in at least one detailed
-  regional farm-budget analysis; decline is driven mainly by freeze
-  events and a serious bacterial disease risk, and — in this crop's
-  leading Asian producing country — by aging growers abandoning orchards
-  outright.
-- **Disease/pest profile:** A specific citrus scab fungal disease, a
-  leaf-mining insect pest, and a serious bacterial disease risk (the same
-  disease threatening citrus industries generally) are documented.
-- **Cultivars:** Well over 100 named cultivars, spanning early- and late-
-  ripening types; a small number of named cultivars make up nearly half
-  of total production volume in this crop's leading Asian producing
-  country, while a distinct set of named Gulf Coast U.S. cultivars
-  (several bred or selected in a specific regional breeding program)
-  differ in ripening date, fruit size, sweetness, and cold hardiness.
-- **Harvest:** Fruit is clipped from the tree, never pulled, since
-  pulling causes rind tearing and accelerated decay; harvest timing is
-  a strict deadline rather than a flexible window, since the fruit holds
-  poorly once mature (Finding 1).
-- **Storage:** Early-season fruit is typically sold within days to weeks
-  of harvest; late-season fruit undergoes a deliberate curing (weight-
-  loss) step followed by cool, humid storage for up to roughly three
-  months to supply winter markets (Finding 3).
+- **Life form / season:** Perennial evergreen tree, small, spreading and
+  drooping, nearly thornless [1].
+- **Harvest pattern:** Single annual harvest; maturity September-December —
+  very early cultivars ('Early St. Ann', 'Xie Shan') from mid-to-late
+  September, the peak in October-November, late cultivars ('Okitsu', 'Aoshima')
+  into December and then stored (Finding 3) [1][8].
+- **Days/years to first bearing:** First harvest typically year 3-4 (a light
+  year-3 crop for some growers), ramping to full by about year 9 (US Gulf
+  Coast enterprise-budget basis, not reopened this pass; see Estimates).
+- **Climate:** Humid subtropical, warm-temperate and cooler Mediterranean
+  margins; the most cold-tolerant commercial citrus (Finding 1), grown where
+  most citrus cannot [1][2]. Low heat requirement → early ripening [1].
+  **Elevation:** best quality where winters are cool and summers hot; no
+  specific elevation band sourced.
+- **Composition:** No satsuma-specific food-composition record was found;
+  figures are taken by analogy to the mandarin group (USDA FDC 169105,
+  "Tangerines, raw": ~53 kcal, ~85% water, ~13.3 g carbohydrate, ~0.8 g
+  protein, vitamin C ~27 mg per 100 g) [13]. Satsuma is among the sweetest
+  citrus; US trial juice ran 9.6-10.4 °Brix, pH 3.70-3.75 [1].
+- **Edibility:** Raw, easy-peel, seedless; no preparation needed [1].
+- **Pollination:** Not required — highly parthenocarpic, with little viable
+  pollen and few viable ovules, setting seedless fruit (0-6 seeds, rarely
+  present) without any pollinizer [1].
+- **Photoperiod sensitivity:** Not sourced; citrus flowering is temperature-
+  (and water-stress-) driven rather than photoperiodic. Not applicable to a
+  non-storage-organ crop.
+- **Yield:** Japan national average is moderate and declining; US trials reach
+  ~16-19 t/ac on vigorous rootstock, ~8 t/ac on dwarfing 'Flying Dragon'
+  (Finding 4; see Estimates) [1][6].
+- **Water use:** No satsuma-specific crop-coefficient study found; water use is
+  taken by analogy to standard citrus Kc values [5][14]. The sheet-mulch
+  practice (Finding 2) deliberately lowers water availability late in the
+  season, so managed water use can run below the generic citrus analogy.
+- **Propagation:** Exclusively by budding onto rootstock; true seed is rare and
+  slow to bear, used only in breeding. New cultivars arise from bud mutations
+  (bud sports) or controlled crosses, then are propagated vegetatively.
+  Rootstocks: trifoliate orange (*Poncirus trifoliata*) is standard for maximum
+  cold tolerance (enters dormancy early; resists foot rot so suits poorly
+  drained clay-loam; poorly adapted to saline or calcareous soils); its
+  dwarfing selection 'Flying Dragon' gives much smaller, ladderless trees at
+  about half the per-tree yield; 'Swingle' citrumelo (*P. trifoliata* × 'Duncan'
+  grapefruit) and 'Carrizo' citrange (*P. trifoliata* × Washington navel) give
+  better nursery growth but are regarded as less cold-hardy [1].
+  **Clonal/virus risk:** budwood-borne citrus viruses (e.g. tristeza) are a
+  general citrus concern managed through certified clean budwood; not detailed
+  for satsuma specifically this pass.
+- **Labor:** Non-harvest grove-care hours from a US Gulf Coast enterprise
+  budget (not reopened this pass); harvest labour derived from a custom harvest
+  price rather than measured hours, so a weak figure (see Estimates).
+- **Soil:** Near-neutral pH preference by analogy to the mandarin group, with
+  the upper bound lowered because the usual trifoliate rootstock is poorly
+  adapted to calcareous soils [1]. **Salinity:** trifoliate rootstock is
+  salt-sensitive; citrus rootstock chloride tolerances are tabulated in the FAO
+  water-quality tables (reused from the mandarin research) [14].
+- **Storage (postharvest):** Early fruit sold within days-weeks; late fruit
+  cured (air-dry weight loss) then cool-humid-stored up to ~3 months, acidity
+  mellowing (Finding 3) [1][8]. US extension recommends 32-36 °F refrigeration
+  [1]; the mandarin group has a documented chilling-injury threshold [4].
+- **Establishment:** Budded nursery trees planted at wide spacing (the FL trial
+  used 15 × 20 ft); trifoliate-rooted trees for cold sites, with freeze
+  protection (e.g. micro-sprinkler/water application) in marginal areas [1].
+- **Cultivars:** >100 named. Japanese: 'Miyagawa wase', 'Okitsu wase' and
+  'Aoshima unshu' make up nearly half of Japan's output [2]; 'Miho', 'Seto'
+  (from 'Miyagawa'), 'Obawase'. US Gulf Coast: 'Owari' (the main one),
+  'Silverhill', 'Kimbrough', 'Brown Select' and 'Early St. Ann' (Louisiana
+  Citrus Research Center selections), 'Armstrong' (California), 'Xie Shan'
+  (China, very early), 'Kara' (a hybrid with more seeds) [1]. They differ in
+  ripening date, fruit size, sweetness and cold hardiness.
+- **Weather response:** Cold is dual-natured: hard freezes damage or kill
+  unacclimated trees (active protection needed), but cool weather raises fruit
+  sweetness — a quality benefit [1][2]. Heat/drought tolerance per the mandarin
+  group; deliberate late-season water stress is used for quality (Finding 2).
+- **Water regime:** Ordinary irrigation; no flooded requirement. The trifoliate
+  rootstock's foot-rot resistance makes it relatively tolerant of poorly
+  drained soils [1].
+- **Harvest stages / windows:** One maturity per cultivar, but the crop as a
+  whole ripens across September-December by cultivar; within a block ripening
+  is reasonably uniform. Fruit deteriorates if left on the tree once ripe, so
+  the window is a deadline (Finding 1) [1].
+- **Soil biology:** Trifoliate rootstock resists *Phytophthora* foot rot; no
+  satsuma-specific replant or mycorrhiza data sourced this pass [1].
+- **Invasiveness / biosecurity:** Not an invasive concern. The binding
+  biosecurity issues are citrus-industry quarantine diseases — citrus canker
+  and especially **huanglongbing (citrus greening)** — plus fruit-fly
+  quarantines that govern where nursery stock and fruit may move [1][2].
+- **Controlled environment:** Not researched; grown in open orchards (with
+  sheet-mulch and freeze-protection infrastructure).
 
 ## Hazards
 
-- The dried peel of this fruit induces a specific drug-metabolizing
-  enzyme and drug-transport-protein pathway in at least one laboratory
-  cell-culture study — a different mechanism from (and roughly opposite
-  effect to) the drug-interaction hazard documented for another citrus
-  fruit this project has researched, which instead inhibits that same
-  general pathway class. **TO BE ADDRESSED** — a fuller write-up of this
-  citrus-derived drug-interaction hazard is deferred until this project
-  has a place for this kind of health/safety data, shared across the
-  relevant citrus entries.
-- Processing byproducts (culls and press residue) are presumed usable as
-  livestock feed by analogy with other citrus processing byproducts,
-  though this was not independently confirmed for this species.
+- **Drug interaction (peel):** satsuma-peel extract *induces* CYP3A and
+  P-glycoprotein via a PXR-mediated pathway — a different mechanism from, and
+  roughly opposite to, grapefruit's inhibition of that pathway [10].
+  **TO BE ADDRESSED** — a fuller citrus drug-interaction write-up is deferred
+  until this project has a shared home for this kind of health/safety data
+  across the citrus entries.
+- **Disease (industry risk, not food safety):** citrus scab (a fungal
+  disease), a citrus leafminer pest, and the serious bacterial disease
+  huanglongbing / citrus greening threaten the crop and the wider citrus
+  industry [1].
+- Processing byproducts (culls, press residue) are presumed usable as livestock
+  feed by analogy to other citrus, not independently confirmed for satsuma.
 
 ## Uses and processing
 
-- **Chains:** fruit → clipped from the tree → graded and packed. Late-
-  season fruit → air-dried to a specific target weight loss → held in a
-  dedicated storage facility at cool, humid conditions. Culls → juiced.
-  Peel → dried into the traditional medicinal product described in
-  Finding 5.
-- **Uses:** fresh, easy-peel eating fruit; juice, sometimes blended into
-  orange juice; dried peel in traditional medicine and as a spice-blend
-  ingredient; a traditional New Year ceremonial-offering substitute fruit
-  (Finding 6).
-- Not covered in detail by this research: canned-segment processing
-  detail beyond the general membrane-removal method noted in Finding 5;
-  freeze-protection system engineering; sheet-mulch material and cost
-  detail.
+- **Chains:** fruit → clipped from the tree → graded and packed (fresh
+  easy-peel). Late fruit → air-dried to a target weight loss → cool, humid
+  storehouse → winter fresh market. Fruit → acid-then-alkali membrane removal
+  → canned segments (China-dominated) or juice (sometimes blended into orange
+  juice). Peel → dried → *chinpi* crude drug and *shichimi tōgarashi*
+  ingredient.
+- **Uses:** fresh eating; canned segments; juice; *chinpi* in Kampo medicine
+  and as a spice; a New Year ceremonial-offering substitute fruit (Finding 6).
+- **Not covered in detail:** canned-segment line engineering beyond the
+  membrane-removal chemistry; freeze-protection system design; sheet-mulch
+  material grades and cost; drying ratios for *chinpi*; the satsuma industries
+  of Spain, Turkey and other producers.
 
 ## Open research questions
 
-- Storage temperature guidance conflicts between a U.S. extension
-  source's standard-refrigeration recommendation and a documented
-  Japanese storage-house practice at a notably warmer temperature, and
-  both sit somewhat uneasily against the broader mandarin group's
-  documented chilling-injury threshold — not resolved.
-- National production figures for this crop's leading Asian producing
-  country conflict between two sources, possibly reflecting a broader
-  "mandarins" reporting category or a different reference year in one of
-  them — not resolved.
-- A specific cultivar's per-tree yield figure is reported inconsistently
-  within a single source — not resolved.
-- The crop's geographic origin (one of two specific countries) is
-  genuinely disputed between sources and not resolved here.
-- Composition figures are estimated entirely by analogy to the broader
-  mandarin group, since no species-specific food-composition source was
-  found.
-- Harvest labor-hour figures are derived from a converted custom harvest
-  price rather than directly measured labor hours, making this one of
-  the weaker labor estimates in this entry.
-- Fruit-specific (as opposed to tree-specific) frost-damage thresholds
-  were not researched for this species specifically.
-- Detailed seasonal water-quantity figures are carried over entirely by
-  analogy from standard citrus values rather than measured for this
-  species.
-- Sheet-mulch material types and costs, detailed drying ratios for the
-  traditional dried-peel product, and detailed figures for this crop's
-  industries in at least two other producing countries were not
-  researched in this pass.
-- Specific bloom-date records were not found in the sources consulted.
+- Storage-temperature guidance conflicts: US extension refrigeration at
+  32-36 °F [1] vs the Japanese storehouse's moderately cool practice [8], both
+  against the mandarin chilling-injury threshold [4] — unresolved.
+- Japan production figures differ between the unshu-specific statistic and
+  broader "mandarins" trade data, possibly a category or reference-year
+  difference [6] — unresolved.
+- Origin (Japan vs China) is genuinely disputed [2] — not resolved here.
+- Composition is taken entirely by analogy to the mandarin group; no
+  satsuma-specific food-composition record (e.g. the Japanese Standard Tables)
+  was opened this pass [13].
+- Harvest labour is derived from a converted custom harvest price, not measured
+  hours — a weak estimate; the US Gulf Coast enterprise budget behind the
+  stand-life and labour figures was not reopened this pass.
+- Seasonal water-quantity figures are carried by analogy from generic citrus
+  Kc values, not measured for satsuma [5][14].
+- Sheet-mulch material grades/costs, *chinpi* drying ratios, and the storage
+  ('Aoshima') temperature/humidity-by-month detail rest on snippet-level
+  sources [7][8].
+- The CYP3A/P-gp induction finding rests on a single study [10]; fruit-specific
+  (vs peel) effects and clinical relevance were not established.
 
 ## Estimates and derivations
 
-Growing-season length (bloom to harvest, roughly 180-270 days) is
-estimated from the documented spring bloom timing and the documented
-early-autumn-through-early-winter harvest window spanning early- through
-late-ripening cultivars.
+**Growing season (bloom to harvest, ~180-270 days).** Inputs: spring bloom and
+the September-December harvest spanning early- to late-ripening cultivars [1].
+Reasoning: earliest cultivars from spring bloom to mid-September ≈ 180 days;
+late cultivars to December ≈ 270 days. A bloom-date record would replace it.
 
-Composition figures (calorie and protein content) are carried over by
-analogy from the broader mandarin group, since no species-specific food-
-composition source was found; a dedicated national food-composition
-entry would be a more reliable source.
+**Composition.** Carried by analogy to the mandarin group (USDA FDC 169105)
+[13], since no satsuma-specific record was opened; a Japanese food-composition
+entry for unshu mikan would be more reliable.
 
-Yield tiers are derived from: the documented national average yield in
-this crop's leading Asian producing country for the "world average"
-tier; a specific cultivar/rootstock combination's multi-year U.S.
-research-trial average yield (converted to metric units) for the "good"
-tier; a detailed regional farm-budget's assumed mature per-acre yield
-(converted to metric units) for the "exceptional" tier; and that same
-farm-budget's assumed first-harvest-year yield for the "poor" tier.
+**Yield tiers.** "Good" ≈ the 'Owari'/'Rubidoux' US trial (~16 t/ac); "
+exceptional" ≈ 'Brown Select'/'Rubidoux' (~19 t/ac); "poor" ≈ the dwarfing
+'Owari'/'Flying Dragon' (~7.8 t/ac) or an early grove year; "world-average" ≈
+the Japan national figure (~742,000 t over the bearing area) [1][6]. Metric
+conversions from the lb/tree and t/ac trial values.
 
-Water-use parameters (crop-coefficient curve, stage lengths, seasonal
-water totals, root-zone depth, drought/waterlogging tolerance) are
-carried over by analogy from standard international citrus crop-
-coefficient values, as previously established for two other citrus crops
-this project has researched; waterlogging tolerance is adjusted upward
-somewhat from that generic citrus analogy, reflecting the common cold-
-hardy rootstock's documented resistance to a specific root-rot disease
-and its suitability for poorly drained soils.
+**Planting density.** From the 15 × 20 ft trial spacing [1]: 300 ft²/tree →
+≈145 trees/acre → ≈359/ha; closer commercial spacings would raise this.
 
-Plants-per-hectare planting density is derived directly from a documented
-U.S. commercial spacing convention, converted from an acre basis to a
-hectare basis.
+**Water-use parameters** (Kc curve, stage lengths, seasonal totals, root
+depth, drought/waterlogging tolerance) are carried by analogy from standard
+citrus values [5][14], with waterlogging tolerance nudged up for the
+trifoliate rootstock's foot-rot resistance [1].
 
-Labor-hour figures for non-harvest grove care are derived directly from a
-detailed regional farm-budget's itemized mature-grove labor table,
-converted to a per-hectare basis; harvest labor is derived indirectly by
-dividing a documented custom harvest price (which includes some handling
-and hauling cost beyond pure picking labor) by a documented general labor
-wage rate, making it an upper-bound estimate for pure harvest labor.
-
-Soil pH-tolerance figures are carried over by analogy from the broader
-mandarin group, with the upper bound lowered specifically to reflect the
-common cold-hardy rootstock's poor adaptation to calcareous soils.
-
-The yield-profile's ramp-to-full-bearing schedule is derived directly
-from a detailed regional farm-budget's documented per-tree yield figures
-across several grove-age years, expressed as fractions of the budget's
-assumed mature yield; the profile's peak daily harvest rate is derived
-from the adopted "good" yield tier divided by a documented harvest-window
-length; on-tree standing-days and quality-decay-rate figures are
-placeholder estimates reflecting the documented finding that this fruit
-holds poorly on the tree once mature.
+**Labour.** Non-harvest grove care from a US Gulf Coast satsuma enterprise
+budget (not reopened this pass); harvest labour = a documented custom harvest
+price ÷ a general wage, an upper bound since the price includes handling and
+hauling.
 
 ## Sources
 
-[1] A university agricultural-extension fact sheet on this crop,
-originally published in the mid-1990s and twice revised. Supplied:
-naming, distribution, history, tree description, parthenocarpy and
-pollen viability, fruit description and quality, a specific green-
-skinned-but-ripe marketing designation, harvest and handling practice
-including clipping, degreening, and shipping behavior, harvest-season
-timing and the poor on-tree-holding finding, a refrigerated-storage
-recommendation, cold tolerance and acclimation behavior, freeze-
-protection practice, named cultivars, named rootstocks, detailed multi-
-year research-trial yield figures, fruit weight and juice composition
-figures, and a canning-suitability note. Accessed 2026-10-03, PDF
-extracted.
+[1] Andersen, P.C., J. Ferguson and M. Shahid, "The Satsuma Mandarin,"
+UF/IFAS EDIS publication HS195/CH116 (University of Florida; *Citrus unshiu*
+Marcovitch). Supplied: naming, origin/history and Gulf Coast introduction;
+parthenocarpy and low pollen/ovule viability; fruit and quality, the "Emerald
+Green" green-ripe designation, clip-not-pull harvest and poor on-tree holding;
+cold tolerance (14-18 °F survival), acclimation and freeze protection; season
+(Sept-Dec) and refrigerated storage at 32-36 °F; the cultivar list ('Owari',
+'Silverhill', 'Kimbrough', 'Brown Select', 'Early St. Ann', 'Xie Shan', 'Miho',
+'Obawase', 'Okitsu', 'Armstrong', 'Seto', 'Kara'); rootstocks (trifoliate,
+'Flying Dragon', 'Swingle', 'Carrizo') and their traits; and the Quincy FL
+2004 trial table (yields by scion/rootstock, fruit weight, °Brix, pH, 15 × 20
+ft spacing). Accessed 2026-11-24, opened directly (this also satisfies the
+`satsuma--ufifas-hs195` request).
 
-[2] A university agricultural-extension detailed farm-budget and
-profitability-analysis publication for this crop in a specific U.S.
-growing region. Supplied: planting density, yield figures by tree age and
-grove year, first-harvest-year timing, assumed mature per-tree and per-
-acre yield, pack-out assumptions, custom harvest cost, labor wage rates,
-itemized grove-care labor hours, freeze-protection water-application
-rate, a serious bacterial disease risk note, and an assumed multi-decade
-planning horizon. Accessed 2026-10-03, PDF extracted.
+[2] Wikipedia, "Citrus unshiu." Supplied: names (*unshū mikan*, *Wenzhou
+migan*, *naartjie*); the Tanaka-vs-Swingle taxonomic treatments; the
+mandarin-pomelo ancestry and the Japanese genetic parentage (*kishu* ×
+*kunenbo*); the Japanese-vs-Chinese origin dispute; cold-hardiness (to about
+−9 °C) and cold-raises-sweetness; the three cultivars ('Miyagawa wase',
+'Okitsu wase', 'Aoshima unshu') making up nearly half of Japan's production;
+and Jesuit/'Owari' introduction history. Accessed 2026-11-24, opened directly.
 
-[3] A community-maintained general reference encyclopedia article on this
-species. Supplied: naming, competing origin theories, genetic
-contribution from a pomelo ancestor, sweetness, cold hardiness,
-seedlessness, segment description, historical introduction to the United
-States, geographic distribution, and the three named cultivars making up
-nearly half of one country's production volume. Accessed 2026-10-03,
-opened directly (summarized via an automated fetch tool).
+[3] Morton, J.F. (1987), *Fruits of Warm Climates*, "Mandarin Orange," hosted
+by Purdue University NewCROP. Supplied (satsuma-relevant portions): satsuma's
+cold and disease resistance, gibberellic-acid/Ethrel handling, keeping-quality
+and storage notes, canning suitability, and the mandarin composition table
+used as an analogy cross-check. Accessed 2026-11-24, opened directly.
 
-[4] A specialist agricultural-statistics reference website citing a
-national government statistics portal. Supplied: a specific recent year's
-national harvest tonnage, bearing growing area, and per-area yield
-figure; a leading growing region's higher per-area yield figure; a
-multi-year production and area trend; peak-season timing; and an optimal
-mean-annual-temperature range. Accessed 2026-10-03, opened directly.
+[4] Burns, J.K., "Mandarin (Tangerine)," in USDA Agriculture Handbook 66 (*The
+Commercial Storage of Fruits, Vegetables, and Florist and Nursery Stocks*).
+Supplied: the mandarin group's storage and chilling-injury behaviour,
+degreening, ethylene and respiration used as the storage analogy and the
+chilling-threshold reference. Reused from this project's mandarin research,
+not reopened this pass.
 
-[5] A national government foreign-agricultural-service annual citrus
-market report and related series for this crop's leading Asian producing
-country. Supplied: an alternative national mandarin-production figure
-for a specific marketing year, a national growing-area figure for a
-following year, a long-term production-decline trend, and a market-share
-figure for this crop within national citrus sales. Accessed 2026-10-03,
-search snippets only.
+[5] Goldhamer, Intrigliolo, Castel and Fereres, "Citrus," in Steduto et al.,
+*Crop yield response to water*, FAO Irrigation and Drainage Paper 66. Supplied:
+citrus Kc values, the ground-cover formula, self-compatibility and storage
+comparisons used by analogy. Reused from this project's mandarin research, not
+reopened this pass.
 
-[6] A prefectural fruit-tree experiment station's technical report on
-high-quality fruit production using sheet-mulch cultivation for this
-crop. Supplied: the purpose and timing of sheet-mulch application,
-drainage preparation, a specific wet-area threshold rule, post-typhoon
-inspection practice, the documented lag before the stress effect becomes
-measurable, sugar and acidity targets by cultivar group and calendar
-date, fruit-load effects on sugar content, rough-thinning practice, a
-leaf-water-potential stress indicator and its corresponding fruit-growth
-rate, and trial results for one specific named early cultivar. Accessed
-2026-10-03, PDF extracted (originally non-English).
+[6] Japan production material: FreshPlaza reports on the declining unshu
+industry (aging farmers, labour, consumption), the USDA FAS *Citrus Annual*
+(Tokyo) and MAFF crop statistics, and citrusindustry.net. Supplied: the 1975
+peak (~3.7 M t) and decline to ~742,000 t (USDA ~722,000 t) in 2022/23; the
+~35,400 ha 2023 bearing area; and the five-prefecture (~70%) concentration.
+Accessed 2026-11-24, search snippets only.
 
-[7] Multiple Japanese-language sources on commercial storage practice for
-this crop, including agricultural-cooperative and industry-association
-web pages and commercial nursery pages for a specific named late
-cultivar. Supplied: the documented pre-storage air-drying weight-loss
-target, storage temperature and humidity guidance by shipping month, and
-a specific late cultivar's fruit weight, sugar content, and storage-
-mellowing behavior. Accessed 2026-10-03, search snippets only (one source
-page was unreachable when revisited).
+[7] Japanese satsuma sheet-mulch ("mulch"/マルチ) deficit-stress literature:
+Yakushiji et al. (1996, osmoregulation drives sugar accumulation), Morinaga
+(Okayama University, ~2 °Brix gain under mulch-drip and a water-stress
+indicator sheet), partial-sheet-mulching trials (Inoue, Fujii, Nishiyama;
+80-90% coverage, leaf water potential ~−0.7 MPa), and sheet-material
+comparisons (Hirano et al., 1995). Supplied: the rain-exclusion deficit-stress
+practice, the −0.7 to −1.0 MPa leaf-water-potential target, the ~1-month lag,
+the fruit-load/sugar-acidity trade-offs, and light rough-thinning before
+mulching. Accessed 2026-11-24, search snippets (J-STAGE / AGRIS) only.
 
-[8] Multiple sources on the traditional dried-peel medicinal product,
-including a specialist traditional-medicine database entry, a peer-
-reviewed food-science journal article, and a peer-reviewed natural-
-products chemistry journal article. Supplied: traditional medicinal uses
-(a digestive aid, cold remedy, expectorant, and cough suppressant), a
-national pharmacopoeia monograph with a specific flavonoid quality
-marker, and the product's use as an ingredient in a traditional regional
-spice blend. Accessed 2026-10-03, search snippets only.
+[8] Japanese commercial storage practice for late satsuma (e.g. 'Aoshima'
+stored mikan): agricultural-cooperative and industry pages on the pre-storage
+air-drying weight-loss target, storehouse temperature/humidity by shipping
+month, and the storage-mellowing (acidity-falling) effect. Carried from the
+earlier pass; snippet level, not reopened in full this pass.
 
-[9] A community-maintained general reference encyclopedia article on a
-traditional Japanese New Year ceremonial rice-cake display. Supplied:
-the display's components, the symbolism of the traditional bitter-orange
-fruit it normally uses, the documented substitution practice using this
-crop's fruit (or a plastic imitation), its placement in the household,
-and the date of the associated ceremonial breaking-and-eating custom.
-Accessed 2026-10-03, opened directly.
+[9] *Chinpi* / Citrus Unshiu Peel material: the Japanese Pharmacopoeia and the
+Japanese standards for non-pharmacopoeial crude drugs (Citrus Unshiu Peel and
+Immature Citrus Unshiu Peel / *kippi* monographs; hesperidin as the TLC
+reference marker), a 2021 *Chemical and Pharmaceutical Bulletin* metabolomics
+study of JP-regulated citrus crude drugs, and the dried-peel use in *shichimi
+tōgarashi*. Supplied: the crude-drug identity, Kampo use, the hesperidin
+quality marker, and the spice-blend use. Accessed 2026-11-24, search snippets
+only.
 
-[10] A specialist culture-and-lifestyle magazine article on this crop's
-many regional names and history. Supplied: one specific origin theory's
-approximate date, a brief history, the leading growing prefectures'
-combined production share, and early- versus peak-season harvest timing.
-Accessed 2026-10-03, opened directly.
+[10] A pharmacology study (Xenobiotica, 2019, and related work) on
+citrus-peel induction of drug-metabolising enzymes/transporters. Supplied:
+the finding that satsuma/immature-peel extract induces CYP3A and
+P-glycoprotein via a PXR-mediated pathway — the opposite direction to
+grapefruit's inhibition. Accessed 2026-11-24, search snippet (title/abstract)
+only.
 
-[11] Multiple sources on commercial canning processing, including a
-patent document on a membrane-removal method and a food-export-company
-web page. Supplied: the acid-then-alkali membrane-dissolving process
-with approximate treatment durations and alkali concentration, and a
-note identifying one country as the world's largest producer of canned
-mandarin-type segments. Accessed 2026-10-03, search snippets only.
+[11] Canning material: a *Food Chemistry: X* (2021) study of canned satsuma
+mandarin (improved acid 0.1% HCl/0.4% citric acid, then alkali 0.1% KOH/0.2%
+NaOH membrane removal, and the processing-water pollution/recovery problem), a
+membrane-removal patent, an enzymatic-peeling comparison, and canned-mandarin
+trade-industry reports on China's dominance of world canned-mandarin
+production/export. Supplied: the acid-then-alkali membrane-dissolving process
+and the China-dominance note. Accessed 2026-11-24, search snippets only.
 
-[12] A single peer-reviewed (or preprint-indexed) biomedical-literature-
-repository article on enzyme/transporter induction by citrus peel
-extracts. Supplied: a laboratory finding that extract of this crop's
-immature fruit and dried peel induces a specific drug-metabolizing enzyme
-and drug-transport protein via a nuclear-receptor-mediated pathway.
-Accessed 2026-10-03, search snippet only (title-level).
+[12] Wikipedia, "Kagami mochi." Supplied: the stacked New-Year rice-cake
+display, the *daidai* bitter-orange symbolism, the *mikan*/plastic-imitation
+substitution, placement on the *kamidana* (Shinto altar) or in the *tokonoma*
+alcove, and the *kagami biraki* breaking ritual in mid-January. Accessed
+2026-11-24, opened directly.
 
-[13] This project's own prior research on a related mandarin-group citrus
-crop. Supplied: composition, water-use, labor, and soil values used as
-labeled analogies throughout this entry; a documented chilling-injury
-threshold for the broader mandarin group; two competing taxonomic
-treatments of this species; and a note on this crop's typical years-to-
-bear from true seed. Accessed via this project's own prior work.
+[13] USDA FoodData Central, SR Legacy 169105, "Tangerines (mandarin oranges),
+raw." Supplied: the per-100 g mandarin-group composition used as the satsuma
+analogy. Reused from this project's mandarin research.
 
-[14] A standard international crop-evapotranspiration reference work.
-Supplied: citrus crop-coefficient values, stage lengths, rooting depth,
-and soil-moisture-depletion allowance, as previously used for a related
-citrus crop this project has researched. Values taken from this project's
-own prior citrus research rather than reopened directly this pass.
-
-[15] Two university/extension sources on cold-hardy citrus selection.
-Supplied: a note identifying this crop as one of only two citrus types
-hardy enough for a specific northern growing region, and a note on the
-common cold-hardy rootstock's early dormancy entry as a cold-tolerance
-mechanism. Accessed 2026-10-03, search snippets only.
+[14] FAO water-use and water-quality references for citrus (FAO-56 Kc values
+as quoted through [5]; Ayers & Westcot, FAO-29, citrus-rootstock chloride
+tolerances). Supplied: the water-use and salinity analogies. Reused from this
+project's mandarin research, not reopened this pass.

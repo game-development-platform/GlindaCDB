@@ -132,6 +132,9 @@ plain name with the cropID, doc and Finding.
   - `pear_low_chill` (`pear-low-chill.md`, Hazards): hydrogen cyanamide, used as a dormancy breaker, is
     EPA toxicity category I; it causes a disulfiram-like reaction with alcohol, and labels bar alcohol
     for 24 hours after handling (snippet only).
+  - `satsuma` (`satsuma.md`, Finding 5 and Hazards): a food-drug interaction in the *opposite* direction
+    from grapefruit — dried/immature satsuma peel *induces* CYP3A and P-glycoprotein via PXR, rather than
+    inhibiting the pathway as grapefruit does.
 - **Seen in (imported):**
   - food-drug interactions: grapefruit; cranberry (warfarin, disputed); durian with alcohol;
   - microbes on the rind: cantaloupe;
@@ -202,6 +205,9 @@ plain name with the cropID, doc and Finding.
     forbidden way, and quince is listed among forbidden pear stocks (snippet only).
   - `pear_low_chill` (`pear-low-chill.md`, Uses and processing): whether a hybrid grafted on Callery or
     *P. betulifolia* (all *Pyrus*) counts as a forbidden graft under *kilei ilan* was not found.
+  - `satsuma` (`satsuma.md`, Finding 6): a satsuma (or plastic imitation) is placed atop the stacked
+    *kagami mochi* New Year offering in place of the traditional *daidai* bitter orange, on the household
+    Shinto altar or alcove, and eaten in the *kagami biraki* ritual in mid-January.
   - Imported: citron (etrog, with rules on grafting and quality); fruit trees generally (no fruit in the
     first three years; no grafting between species, such as apple on quince); grape (rules on what may be
     sown in a vineyard); date palm (closed fronds for ritual use); horseradish (Passover bitter herb);

@@ -1044,11 +1044,40 @@ material or close the conflicts flagged in the doc's Open research questions.
   Polish/Eurostat area-and-production series (not lumped with black currant).
   - **Needed for:** a clean world-average yield derivation (Yield; Estimates).
 
-### satsuma (next time its OUT-OF-DATE row comes up)
+### satsuma (2026-11-24)
 
-- [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin
-  (ask.ifas.ufl.edu → publication; save the main page or PDF, not the
-  Explore, About or Metrics tabs).
+Re-research of the previously fully-anonymised doc. HS195 (now satisfied), the
+Wikipedia entries and Morton were opened directly; the items below would
+upgrade snippet-level material or close the Open research questions.
+
+- [ ] **`satsuma--jp-food-composition`** (Online): the Japanese Standard
+  Tables of Food Composition entry for *unshū mikan* (温州みかん), fresh.
+  - **Needed for:** a satsuma-specific nutrient profile to replace the
+    mandarin-group analogy (Composition; Open research questions).
+- [ ] **`satsuma--mulch-primary`** (Library): the primary sheet-mulch papers —
+  Yakushiji et al. (1996) on osmoregulation, and a prefectural/experiment-
+  station マルチ栽培 report giving sugar targets by cultivar group and date and
+  the leaf-water-potential → fruit-growth-rate indicator.
+  - **Needed for:** opening the deficit-stress thresholds and sugar targets
+    directly (Finding 2).
+- [ ] **`satsuma--aoshima-storage`** (Online): a Japanese source on stored
+  ('Aoshima') satsuma — the air-drying weight-loss target and storehouse
+  temperature/humidity by shipping month.
+  - **Needed for:** the curing and storage figures, and reconciling the
+    storage-temperature conflict (Finding 3; Open research questions).
+- [ ] **`satsuma--maff-production`** (Online): MAFF crop statistics
+  (作物統計 / 果樹) for unshu production and area by year and prefecture.
+  - **Needed for:** a measured national yield and the per-prefecture split
+    (Finding 4; Yield).
+- [ ] **`satsuma--cyp3a-pxr`** (Library): the pharmacology paper (Xenobiotica
+  2019 or related) on satsuma/citrus-peel induction of CYP3A and
+  P-glycoprotein via PXR.
+  - **Needed for:** confirming the drug-interaction mechanism and clinical
+    relevance (Finding 5; Hazards).
+- [ ] **`satsuma--gulf-budget`** (Online): a US Gulf Coast satsuma enterprise
+  budget (LSU AgCenter, Auburn, or Texas AgriLife).
+  - **Needed for:** stand-life years, planting density and itemised grove-care
+    labour (Stand life; Labor; Estimates).
 
 ### tangelo (optional, for the proposed row)
 
