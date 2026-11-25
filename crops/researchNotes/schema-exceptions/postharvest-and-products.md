@@ -191,3 +191,18 @@ plain name with the cropID, doc and Finding.
 - **Seen in (imported):** edible canna (30-100 µm granules, among the largest known; fast settling, clear
   firm gels for glass noodles) vs arrowroot (fine granules).
 - **Possible home:** a note under "Composition".
+
+## 69 — A luxury product defined by extreme hand-processing labour
+
+- **Status:** OPEN (first Glinda doc 2026-11-24).
+- **What doesn't fit:** "Uses and processing" records the steps and any yield fraction, and "Labor"
+  records field and harvest hours. Neither captures a processing step whose sheer manual labour per unit
+  of finished product is the defining fact — the thing that makes the product rare, slow and expensive —
+  rather than an ordinary cost line.
+- **Seen in:**
+  - `red_currant` (`red-currant.md`, Finding 6): Bar-le-Duc jelly is made by hand-seeding each whole
+    berry with a sharpened goose quill (the *épépineuses*), ~7 seeds flicked from each of ~200 berries per
+    85 g jar, with the whole run done in a single day; output is only ~5,000-20,000 jars a year and a
+    worker manages "several kg/day". The labour, not any agronomic trait, is what defines the product.
+- **Possible home:** a "Processing labour intensity" note under "Uses and processing" for steps whose
+  per-unit hand labour defines the product.

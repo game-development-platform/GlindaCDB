@@ -27,12 +27,14 @@ plain name with the cropID, doc and Finding.
   - `purple_passionfruit` / `yellow_passionfruit` (`passionfruit.md`, Finding 4 and Stand life):
     plantings are replanted every 2-4 years, driven by disease (collar rot forces yellow replanting every
     30-35 months in Fiji) more than by the plant's own life; the purple runs about 4 years.
+  - `red_currant` (`red-currant.md`, Finding 5 and Yield): *Eutypa lata* canker in the Netherlands is
+    reported to cut plantation life from about 15 years to under 10, with the historical 15-20 t/ha yield
+    no longer reliably reached; first fruit in year 2, peak by about year 5.
   - Imported: asparagus (no harvest in year 1, light in year 2, full from year 3; cutting in year 1 cost
     23% of the five-year yield; Fusarium decline at 8-20 years); sweet cherry (full at year 6, about 25
     years); plum (0.23 / 0.38 / 0.76 / 1.0 of full yield in years 4-7); mangosteen (6-20 years to bear);
     orange (20-year economic cycle vs centuries-old trees); blackberry (15-20 years commercial vs about
-    6); black raspberry (virus limits stands to 2-3 years); red
-    currant (Eutypa canker cuts stand life from about 15 to 8-9 years); mountain papaya (peaks in years
+    6); black raspberry (virus limits stands to 2-3 years); mountain papaya (peaks in years
     4-5, 7-8-year cycle); babaco (26-month rotation); yellow pitaya (10-year cycle); pineapple (ratoon
     crop about 0.53 of the plant crop); raspberry and blackberry (canes in age cohorts); dwarf sour
     cherry (regrows from suckers, so the stand doesn't age out); lingonberry (20-year beds); cranberry
@@ -62,13 +64,17 @@ plain name with the cropID, doc and Finding.
 - **Status:** OPEN (imported 2026-11-24).
 - **What doesn't fit:** "Harvest stages / windows" says when a crop is ready. It doesn't record how long a
   ripe crop can stay unharvested, using the field as the store, and what changes or is lost meanwhile.
-- **Seen in (imported):** cassava (lifted any time from 6 to 24 months, starch rising with age); swiss
-  chard (a 150-day picking window); Jerusalem artichoke, parsnip, salsify, celeriac (dug through winter;
-  salsify loses roots to rodents); tatsoi and savoy (cut through winter); lotus root (dug to order October
-  to March); Chinese water chestnut (sweeter but shorter-keeping after overwintering in the ground);
-  cocoyam (cormels sprout and go watery in wet ground); konjac (field overwintering under polythene as an
-  alternative to lifting); coontie (starch 20% in winter vs 8% in summer); avocado (never ripens on the
-  tree, so fruit is stored there for months); grapefruit (late harvest lowers the next crop, see entry 1).
+- **Seen in:**
+  - `red_currant` (`red-currant.md`, Finding 4): most ripe currants hold on the bush for up to several
+    weeks without falling or over-ripening, so the field doubles as the store across a two-week-plus
+    window; one commercial supplier disputes this, advising immediate harvest as flavour fades.
+  - Imported: cassava (lifted any time from 6 to 24 months, starch rising with age); swiss
+    chard (a 150-day picking window); Jerusalem artichoke, parsnip, salsify, celeriac (dug through winter;
+    salsify loses roots to rodents); tatsoi and savoy (cut through winter); lotus root (dug to order October
+    to March); Chinese water chestnut (sweeter but shorter-keeping after overwintering in the ground);
+    cocoyam (cormels sprout and go watery in wet ground); konjac (field overwintering under polythene as an
+    alternative to lifting); coontie (starch 20% in winter vs 8% in summer); avocado (never ripens on the
+    tree, so fruit is stored there for months); grapefruit (late harvest lowers the next crop, see entry 1).
 - **Possible home:** a "Field holding" line under "Harvest stages / windows" (maximum days, quality
   change, losses).
 

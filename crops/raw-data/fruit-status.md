@@ -128,7 +128,7 @@
 | rambutan | Nephelium lappaceum | rambutan.md | `longan`, `lychee`, `mata_kucing`, `pulasan` | 2026-11-23 | RESEARCHED |
 | rangpur_lime | Citrus × limonia (mandarin × citron) |  | `key_lime`, `mandarin` | 2026-11-19 | PROPOSED |
 | raspberry | Rubus idaeus | raspberry.md | `black_raspberry`, `blackberry` | 2026-11-23 | RESEARCHED |
-| red_currant | Ribes rubrum | red-currant.md |  | 2026-10-01 | OUT-OF-DATE |
+| red_currant | Ribes rubrum | red-currant.md |  | 2026-11-24 | RESEARCHED |
 | satsuma | Citrus unshiu | satsuma.md | `kunenbo`, `mandarin`, `clementine` | 2026-10-03 | OUT-OF-DATE |
 | seed_watermelon | Citrullus lanatus seed types and C. mucosospermus | watermelon.md | `citron_melon`, `watermelon` | 2026-10-10 | OUT-OF-DATE |
 | service_tree | Sorbus domestica |  | `medlar` | 2026-11-23 | PROPOSED |

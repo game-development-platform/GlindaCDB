@@ -1004,6 +1004,46 @@ texts.
 - [ ] **`passionfruit--cabmv`** (Online): a Brazilian review of cowpea aphid-borne mosaic virus (CABMV) in passionfruit — the reattribution from PWV, the aphid vectors and the annual-renewal control.
   - **Needed for:** opening the virus taxonomy, vectors and management directly (Finding 4; replaces part of `passionfruit--woodiness-virus`).
 
+### red_currant (2026-11-24)
+
+Re-research of the previously fully-anonymised doc. The crop report (Hummer &
+Barney 2002), the Eutypa report, the WFLO storage manual and the Wikipedia
+article were opened directly; the items below would upgrade snippet-level
+material or close the conflicts flagged in the doc's Open research questions.
+
+- [ ] **`red_currant--hb66-currants`** (Online): the USDA Agriculture Handbook
+  66 chapter on currants, gooseberries and elderberries (Prange et al. eds.,
+  *The Commercial Storage of Fruits, Vegetables, and Florist and Nursery
+  Stocks*), full text — only an excerpt was readable this pass.
+  - **Needed for:** the exact red-currant CA set-points and CO₂-injury
+    threshold, and the ~2.5-week fresh-storage figure, to reconcile the
+    "several days" / "1-2 weeks" / "2.5 weeks" conflict (Finding 1; Storage;
+    Open research questions).
+- [ ] **`red_currant--eutypa-control`** (Online): Wenneker et al., the ISHS
+  *Acta Horticulturae* / research.wur.nl follow-up papers on control of Eutypa
+  dieback in red currant (pruning-wound treatments, sanitation, epidemiology).
+  - **Needed for:** the stand-life decline figures and the current management
+    programme (Finding 5; Stand life).
+- [ ] **`red_currant--dutch-ulo`** (Online): the primary Dutch ULO/CA storage
+  trial behind the 'Rotet'/'Rondom'/'Rovada' 10/12/12-week figures, and the
+  Dutch trade-press source for the historical 15-20 t/ha yield and its
+  Eutypa-driven decline.
+  - **Needed for:** opening the CA durations and the yield-decline figure
+    directly (Finding 1; Yield; Open research questions).
+- [ ] **`red_currant--danish-organic-trial`** (Library): the *Journal of the
+  American Pomological Society* / DARCOF organic currant cultivar trial
+  (Lindhard Pedersen, Aarslev) — the PDF found this pass was image-only.
+  - **Needed for:** the red-currant-specific leaf-spot/defoliation ratings and
+    per-cultivar yields (Finding 5; Cultivars).
+- [ ] **`red_currant--barleduc-rate`** (Library): a Lorraine food-history or
+  Maison Dutriez source giving a seeding rate per hour for the Bar-le-Duc
+  *épépineuses*.
+  - **Needed for:** quantifying the per-worker labour of the goose-quill
+    seeding (Finding 6).
+- [ ] **`red_currant--poland-stats`** (Online): a red-currant-specific
+  Polish/Eurostat area-and-production series (not lumped with black currant).
+  - **Needed for:** a clean world-average yield derivation (Yield; Estimates).
+
 ### satsuma (next time its OUT-OF-DATE row comes up)
 
 - [ ] **`satsuma--ufifas-hs195`** (Online): HS195/CH116, The Satsuma Mandarin

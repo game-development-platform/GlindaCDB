@@ -17,7 +17,11 @@ plain name with the cropID, doc and Finding.
 - **Seen in:**
   - `peach_low_chill` (`peach-low-chill.md`, Invasiveness / biosecurity): wild plum thickets carry brown
     rot, so orchards are sited at least ¼ mile (about 400 m) away.
-  - Imported: blackcurrant, red currant, golden currant, gooseberry (white pine blister rust; setbacks
+  - `red_currant` (`red-currant.md`, Hazards and Finding 5): alternate host of white pine blister rust
+    (*Cronartium ribicola*), which needs a five-needle pine; some North American jurisdictions restrict
+    or ban *Ribes* with a ~305 m setback from pines, though red and white currants are often exempted
+    where black currant is not. Less susceptible than the black-fruited sibling.
+  - Imported: blackcurrant, golden currant, gooseberry (white pine blister rust; setbacks
     around 300 m and state bans); Meyer lemon (tristeza reservoir; certified stock required); quince
     (rust carried by nearby juniper).
 - **Possible home:** a "Host for other crops' diseases" line under "Invasiveness / biosecurity".
@@ -27,8 +31,12 @@ plain name with the cropID, doc and Finding.
 - **Status:** OPEN (imported 2026-11-24).
 - **What doesn't fit:** diseases are recorded for the crop alone. Some are shared with a particular
   neighbour or nursery companion, which sets where the crop can sit.
-- **Seen in (imported):** rutabaga (Phoma dry rot; keep away from oilseed rape); rosemary and lavender
-  (one *Phytophthora* in container nurseries); peppermint, cornmint and oregano (the same mint rust).
+- **Seen in:**
+  - `red_currant` (`red-currant.md`, Finding 5): *Eutypa lata*, the Dutch cane-death fungus, is a
+    wide-host-range woody pathogen best known as one of the most destructive grapevine diseases, so it
+    cannot be cleared from a mixed-fruit region where grape (and other woody hosts) grow nearby.
+  - Imported: rutabaga (Phoma dry rot; keep away from oilseed rape); rosemary and lavender
+    (one *Phytophthora* in container nurseries); peppermint, cornmint and oregano (the same mint rust).
 - **Possible home:** a "Shared diseases" line naming the other crops.
 
 ## 55 — Disease that decides where a crop can be grown

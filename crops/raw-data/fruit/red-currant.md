@@ -1,7 +1,18 @@
 # Red / White Currant (*Ribes rubrum*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/red-currant.md`
-**Researched:** 2026-10-01
+**Researched:** 2026-10-01 (re-researched 2026-11-24 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md`.
+This pass replaced the earlier fully-anonymised write-up with real named
+sources, cultivars, places and pathogens: the crop report is Hummer &
+Barney's 2002 *HortTechnology* "Currants" paper [1]; the Dutch wood fungus is
+*Eutypa lata*, identified by Wageningen Applied Plant Research and the Dutch
+Plant Protection Service [4]; the specialty preserve is Bar-le-Duc jelly [6];
+and the storage, composition, cultivar and production figures are tied to
+their actual sources below. New checklist angles added this pass: chill
+hours, photoperiod, frost-as-quality, clonal/virus risk, salinity, elevation,
+ergot/fungal contamination, asynchronous ripening, and invasiveness /
+biosecurity.)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -10,514 +21,444 @@ licensed under this project's MIT license (see repository `LICENSE`).
 
 ## Naming and scope
 
-*Ribes rubrum* (family Grossulariaceae, though some references still file
-the genus under Saxifragaceae) [1][2][3]. White and pink currants are
-color forms of the same species, treated here as cultivar notes: white
-currant is essentially an albino form of red currant, lower in acidity
-and better suited to fresh eating, while pink currants have a colorless
-skin over pink flesh [1][2][4]. Additional wild/breeding-source species
-within the broader red-currant group include a European montane species
-and a North American species (lower-yielding and never domesticated); a
-further wild species entered breeding history through one specific
-cultivar. None of these additional species are treated as separate rows.
-A golden/buffalo currant, historically used in North America as a
-rootstock for imported currants, is explicitly not covered here — it is a
-genuinely distinct crop this project has researched separately after
-being found to differ meaningfully (drought/heat/salinity tolerance,
-self-sterility, uneven ripening, suckering habit, and rootstock use).
+*Ribes rubrum* L. (synonyms *R. vulgare* Jancz., *R. sativum* Syme.), family
+Grossulariaceae — one older commercial-storage reference still files the
+genus under Saxifragaceae [1][3]. Section *Ribesia*. Common names: redcurrant
+/ red currant, *aalbes* or *rode bes* (Dutch), *groseillier* (French),
+*Johannisbeere* (German), *ribs* (Danish) [1]. Native to western Europe,
+widely cultivated and escaped into the wild across the temperate northern
+hemisphere [2].
 
-This crop's closest researched sibling is a related currant species this
-project has also researched — same genus, growing habit, climate
-requirement, and much of the underlying water-use data — with a third
-related *Ribes* fruit (gooseberry) also researched by this project.
-Several figures below (frost thresholds, standard crop-water-use values,
-and rust-host status) are shared with that closest sibling and cite the
-same primary sources; where this crop differs from that sibling, the
-difference is the point of this entry.
+White and pink currants are colour forms of the same species, treated here as
+cultivar notes rather than separate crops: white currant is an albino form,
+lower in acidity and sweeter, better suited to fresh eating and (per one
+source) to baby food, while pink currants have a colourless skin over pink
+flesh [1][2]. The large-berried cultivated redcurrant was first developed in
+Belgium and northern France in the 17th century [2].
+
+Additional species in the red-currant breeding pool, none treated as a
+separate row here because they are breeding sources rather than crops:
+*R. petraeum* (a European montane species), *R. triste* (the North American
+red currant — comparable fruit but lower-yielding and never domesticated),
+and *R. multiflorum*, which entered modern cultivated stock specifically
+through the cultivar 'Rondom' (a backcross of *R. multiflorum* to red currant
+cultivars) [1].
+
+A golden/buffalo-fruited relative, historically used in North America as a
+rootstock for imported currants, is a genuinely distinct crop this project
+has researched separately (it differs in drought/heat/salinity tolerance,
+self-sterility, uneven ripening, suckering habit and rootstock use) and is
+not covered here. This crop's closest researched sibling is a related
+black-fruited currant this project has also researched — same genus, growing
+habit, climate requirement and much of the underlying water-use data; a
+related spiny-fruited *Ribes* (gooseberry) is also researched by this
+project. Several figures below (frost thresholds, the berry-bush crop-water
+category, salinity rating, and white-pine-blister-rust host status) are shared
+with that black-fruited sibling and cite the same primary sources; where this
+crop differs from it, the difference is the point of this entry.
 
 ## Research findings
 
-**Finding 1 — a fresh-cluster crop whose sold unit is the whole strig,
-with a genuine storage industry behind it.** This fruit has delicate skin
-and is hand-harvested by removing intact fruit clusters (strigs) by
-pinching them off at their base, with pickers grading in the field [2].
-Modern cultivars ripen evenly along the cluster, so whole clusters are
-harvested together rather than individual berries [1]. A documented hand-
-harvest rate is roughly twice as fast as this crop's closest researched
-sibling's hand-harvest rate, and this figure is corroborated by an
-independent trial measurement on a specific late-season cultivar [2][7].
-Storage life under standard cold conditions is notably longer than that
-closest sibling's storage life; under a specific controlled-atmosphere
-regime, storage life extends to several months depending on cultivar, well
-beyond that sibling's controlled-atmosphere storage life, with at least
-one trial reporting reasonable quality maintained for over twenty weeks
-[1][10]. A specific late-season Dutch cultivar — described as "the only
-variety suitable for storage" — is specifically held in controlled-
-atmosphere storage to extend fresh sales through autumn and winter, a
-distinct commercial path this crop's closest sibling does not have
-[11][14].
+**Finding 1 — a fresh-cluster crop, hand-picked about twice as fast as its
+black-fruited sibling, and with a real controlled-atmosphere storage
+industry.** Red and white currants have delicate skins and are hand-harvested
+by pinching off whole intact fruit clusters (strigs) at their base, with
+pickers grading in the field; machine-harvested fruit is used only for
+processing [1]. A person can hand-pick about 8 kg/h of red currants against
+about 4 kg/h of black currants — roughly twice the rate — because the red
+crop ripens evenly along the strig and is taken by the cluster, and modern
+cultivars such as 'Rondom' and 'Rovada' hold their berries well after
+ripening [1]. Fresh storage life is modest and the sources disagree on it:
+red and white currants are *not* chilling-sensitive and are held at about
+0 °C (31-32 °F), 90-95% RH, keeping "several days" in one account [1] and
+"1 to 2 weeks" in the postharvest manual [3]. The distinctive trait is the
+crop's unusually strong response to controlled-atmosphere (CA) storage —
+black currant benefits only slightly — which extends life to roughly 8-14
+weeks [3]. A Dutch ultra-low-oxygen trial (0 °C, ~2% O₂, 18-20% CO₂) held the
+early cultivars 'Rotet', 'Rondom' and 'Rovada' for up to 10, 12 and 12 weeks
+respectively, against a 3-week maximum in ordinary cold storage, with
+internal breakdown and discolouring appearing in some cultivars above 20% CO₂
+after about 13 weeks [5]. 'Rovada', a late Dutch cultivar, is the one singled
+out for storage; an Italian study held it to 60 days under modified-atmosphere
+packaging with SO₂ [12]. This CA path lets growers extend fresh sales through
+autumn and winter — a commercial route the black-fruited sibling does not
+have.
 
-**Finding 2 — fruit is borne on spurs of two- and three-year-old wood, so
-the pruning system differs meaningfully from this crop's closest
-sibling.** Most of the fruit is borne on short spurs on two- and three-
-year-old canes, unlike that sibling's one-year-wood fruiting habit [2]. A
-mature bush is maintained with a specific mix of one-, two-, and three-
-year canes, with canes older than three years removed [2][6]. In parts of
-Europe, this crop is often trained as one to three upright cordons on a
-trellis rather than grown as a free-standing bush, with lateral shoots cut
-back hard each spring — a training system that produces longer fruit
-clusters and easier hand picking; a documented trial found a single-row
-cordon system under a high tunnel out-yielded conventional bushes in its
-second bearing year [7].
+**Finding 2 — fruit on spurs of two- and three-year-old wood, so pruning
+differs from the black-fruited sibling.** Most red- and white-currant fruit is
+borne on short spurs on two- and three-year-old canes, unlike the black
+sibling's one-year-wood fruiting habit [1]. A mature bush is kept to nine to
+twelve canes — three or four each of one-, two- and three-year-old wood —
+with three or four new canes retained and an equal number of the oldest
+removed each dormant season; canes four years or older are cut out [1]. In
+Europe the crop is often trained as upright cordons on a trellis rather than
+as a free-standing bush, which gives longer clusters and easier hand picking;
+bushes can also be trained to hedgerows for machine harvest [1][2].
 
-**Finding 3 — self-fruitful, unlike this crop's closest sibling.** This
-species is generally self-fruitful; growers plant only a small fraction
-of dedicated pollinizer plants, a far smaller proportion than the roughly
-20% pollinizer share typically recommended for its closest researched
-sibling [2]. Pollination is primarily by insects, with wind playing a
-minor role; cross-pollination still measurably raises yields even though
-self-fruitfulness is reliable [2][3][8].
+**Finding 3 — self-fruitful, needing far fewer pollinizers than the
+black-fruited sibling.** Red and white currants are generally self-fruitful,
+though location and weather still influence set; only about 1-2% of plants in
+a field need be pollinizer cultivars, against the roughly 20% recommended for
+the partially self-sterile black sibling [1]. Insects (mainly wild bees and
+bumble bees) are the primary pollinators, with wind playing a minor role, and
+about 2.5 beehives per hectare are recommended; cross-pollination still raises
+set even though self-fruitfulness is reliable [1].
 
-**Finding 4 — a notably long hang time on the bush, though with
-conflicting commercial advice.** Reference material states that most ripe
-fruit of this species remains on the bush without falling or becoming
-over-ripe for up to several weeks, with harvest timed before fruit color
-turns from bright to a duller shade [1][2]. Against this, at least one
-commercial cold-storage company states that fruit needs to be harvested
-immediately once mature because flavor fades quickly — a direct
-conflict not resolved here. Fruit intended for jelly-making is
-specifically picked slightly under-ripe, when pectin content is highest
-[2].
+**Finding 4 — a long hang time on the bush, with conflicting commercial
+advice.** Most ripe currants remain on the bush without falling or becoming
+over-ripe for up to several weeks, and the crop is usually taken in one or two
+pickings over about a two-week window [1]. Against this long hang time, at
+least one commercial cold-storage supplier advises harvesting immediately at
+maturity because flavour fades quickly — a conflict not resolved here (the
+earlier anonymised pass recorded this). Fruit intended for jelly is picked
+slightly under-ripe, when pectin content is highest, though fully ripe fruit
+actually jells and tastes better and picking too early is called a
+misconception; unripe currants are unpalatable [1].
 
-**Finding 5 — in at least one major European growing region, commercial
-plantings now last roughly half as long as they once did, due to a
-wound-infecting wood fungus.** A specific fungal disease that infects
-pruning wounds and kills canes only years after infection has become
-widespread in one major Dutch growing region, found on the large majority
-of surveyed farms, typically affecting a substantial minority share of
-plants on each farm [12]. Plantings in that region once lasted roughly
-fifteen years and now typically last under ten, with historically
-achieved yield levels of 15-20 t/ha no longer reliably reached [11]. This
-same fungal pathogen also attacks grape, cherry, and plum, meaning it
-cannot realistically be eradicated from a mixed-fruit growing region
-[12]. A separate leaf-spot disease has been documented to completely
-defoliate at least two named cultivars by late summer in an unsprayed
-Danish field trial [9].
+**Finding 5 — in the Netherlands a wound-infecting wood fungus,
+*Eutypa lata*, has become a major stand-life limit.** Dutch growers long
+blamed cane death and stem cankers on other fungi (*Nectria cinnabarina*,
+*Phomopsis*) and the currant clearwing (*Synanthedon tipuliformis*), but
+Wageningen Applied Plant Research and the Plant Protection Service identified
+the real cause as *Eutypa lata*: cankers form on old pruning wounds,
+symptoms do not appear until bushes are three to four years old, and the fungus
+eventually kills whole branches, with reported annual losses of 10-30% of
+productive branches and some fields replanted outright [4]. *E. lata* is a
+vascular pathogen of many woody plants and is best known as one of the most
+destructive grapevine diseases, so it cannot realistically be cleared from a
+mixed-fruit growing region [4]. Leaf diseases shorten stand life too: an
+unsprayed Danish organic currant trial documented heavy late-summer leaf drop
+from leaf spot, with wide cultivar differences in field resistance [10]. The
+crop is also a regulated alternate host of white pine blister rust (see
+Hazards), though it is documented as less susceptible to that rust than its
+black-fruited sibling [1][3].
 
-**Finding 6 — a notably wide range of processed products, including one
-famous and extremely labor-intensive specialty preserve.** Beyond fresh
-fruit, this crop supports jelly traditionally served with roast meats in
-at least one country, a carbonated fruit-soda preparation in another, a
-traditional cooked fruit soup/dessert in Northern/Eastern Europe, a
-pastry filling, and a cooked fruit dessert in Russian tradition [3]. A
-particularly notable specialty preserve, documented in one French region
-since the 14th century, involves individually seeding whole berries by
-hand using a specially cut quill, then cooking them whole in a thin syrup
-— a skilled worker can seed only a modest amount per hour, representing a
-genuinely extreme labor input per unit of finished product [17][18]. In
-at least one major Eastern European producing country, almost the entire
-crop is industrially processed, with most of it frozen before being made
-into concentrated juice.
+**Finding 6 — a wide range of products, including Bar-le-Duc jelly, a
+famous and extraordinarily labour-intensive specialty preserve.** Beyond
+fresh fruit, redcurrant supports a jelly traditionally served with lamb, game,
+venison, turkey and goose in the UK; fruit soups and summer puddings in
+Scandinavia and Schleswig-Holstein (*rødgrød*, *rote Grütze*, *rode grütt*);
+*kissel* and compotes in Russia; and pastry and bakery fillings [2]. The
+standout is Bar-le-Duc jelly (confiture de groseilles épépinées) from the
+Lorraine town of Bar-le-Duc, first recorded in 1344: workers called
+*épépineuses* hand-seed each whole berry with a sharpened goose quill, flicking
+out the roughly seven seeds without bursting the flesh, then cook the berries
+whole in a light syrup — about 200 currants go into one 85 g jar, the whole
+run from harvest to jarring is done in a single day, and output today is only
+about 5,000-20,000 jars a year (chiefly the House of Dutriez) [6]. The seeding
+rate is given only vaguely (an experienced worker prepares "several kilograms
+per day," paid by the kilo; a per-hour rate was not sourced) [6]. At the other
+extreme of scale, in Poland — the EU's largest and the world's second-largest
+currant producer — almost the entire crop is industrially processed, mostly
+frozen and then pressed into concentrated juice for jelly and bakery fillings,
+with most frozen fruit exported [3][9].
 
 ## Agronomic data
 
-- **Life form / season:** Perennial deciduous shrub, typically under 2 m.
-- **Climate:** Cool-temperate and temperate climates, with a substantial
-  winter chill requirement shared broadly across currant species.
-- **Composition:** A moderate calorie content with notably high protein
-  content per unit weight for a soft fruit, and meaningful vitamin C
-  content; tart in flavor (white-fruited forms are sweeter and better
-  suited to fresh eating).
-- **Pollination:** Self-fruitful (Finding 3), though insect-transferred
-  cross-pollination still raises yield; only a small fraction of
-  dedicated pollinizer plants is typically needed, a notably smaller
-  share than this crop's closest sibling requires.
-- **Yield:** A wide range from a national mixed-currant average up to
-  considerably higher figures in well-managed, intensively cropped
-  European plantings (see Estimates below for adopted tier values); at
-  least one documented case shows the crop failing to be economically
-  viable in a hot climate unsuited to it.
-- **Water use:** No species-specific standard crop-coefficient curve was
-  found; water-use parameters are estimated by analogy to the general
-  berry-bush category in a standard international reference and to this
-  crop's closest researched sibling, given the shared genus and growing
-  season. Roots are documented as notably shallow, concentrated in the
-  topsoil, implying low tolerance for extended dry spells; excess water
-  at ripening — particularly a sudden heavy rain or irrigation event on
-  already-ripe fruit — causes berry splitting in at least one named
-  cultivar, and soil splash after heavy rain is linked to a specific
-  fruit-rot fungus.
-- **Propagation:** Vegetative only (dormant hardwood cuttings, or one- or
-  two-year bare-root nursery plants); this species can be more difficult
-  to root from cuttings than its closest commercial sibling. No grafted
-  commercial stock currently exists, though active research into grafting
-  onto alternate rootstocks is underway in at least one European research
-  program; a native North American currant species was historically used
-  in the United States as a rootstock for imported currants and
-  gooseberries, though no performance data were found for that practice.
-- **Labor:** The hand-harvest rate is directly sourced and relatively
-  well documented (Finding 1); essentially all non-harvest labor figures
-  are estimated, since no dedicated cost study was found. Harvest labor
-  is understood to represent roughly 60-70% of total crop labor.
-- **Soil:** A near-neutral to mildly acidic pH preference; deep, organic,
-  well-drained soils are preferred, with at least one major European
-  growing region concentrated on river-clay soils; a substantial annual
-  nitrogen fertilization rate is documented.
-- **Stand life:** First harvest typically in the crop's second growing
-  season, with peak production reached around the fifth year;
-  historically documented productive lifespans of 15-20 years are
-  increasingly shortened in at least one major European growing region
-  by the wood-fungus disease described in Finding 5, alongside additional
-  soil-borne fungal diseases and the leaf-spot disease noted there.
-- **Disease/pest profile:** The wound-infecting wood fungus described in
-  Finding 5 is a major stand-life-limiting disease in at least one major
-  growing region; a defoliating leaf-spot disease, powdery mildew, a
-  rust disease requiring an alternate conifer host (addressed under
-  Hazards below as a regulatory rather than food-safety matter), gray-
-  mold dieback and fruit rot, a specific cane-boring insect pest, currant
-  aphids (causing notable leaf blistering "particularly in red and white
-  currants"), a fruit fly, a caterpillar pest, and bird predation are all
-  documented.
-- **Cultivars:** A substantial number of named Northern European, North
-  American, and Eastern European cultivars spanning early, mid-season,
-  and late-ripening types, red, white, and pink color forms, and a range
-  of disease-resistance profiles; one specific late-ripening Dutch
-  cultivar is singled out as uniquely suited to extended controlled-
-  atmosphere storage.
-- **Harvest:** Whole fruit clusters hand-picked in one or two pickings
-  over roughly two weeks for fresh sale, or machine-harvested in a single
-  pass for processing only (Finding 1); machine-harvested fruit is not
-  suited to the fresh-cluster market.
-- **Storage:** A notably longer standard cold-storage life than this
-  crop's closest sibling, with an unusually strong response to
-  controlled-atmosphere storage that extends shelf life to several months
-  for at least one specific late-season cultivar (Finding 1).
+- **Life form / season:** Perennial deciduous shrub, usually 1-1.5 m (to about
+  2 m), renewed from the crown [2].
+- **Harvest pattern:** Perennial bearing; one harvest season per year, in one
+  or two hand pickings over about two weeks for fresh sale, or a single machine
+  pass for processing; berries normally begin ripening in July, later in cool
+  springs [1].
+- **Days/years to first bearing:** No crop in the first year; first fruit
+  typically in the second growing season, with peak production by about year
+  five (see Stand life, and Estimates) [1].
+- **Climate:** Cool-temperate to temperate. Chill requirement is substantial —
+  cultivated currants need about 800-1600 hours between 0 and 7 °C to meet it
+  [1]. Extremely cold-hardy: old cultivars were hardy in North Dakota and the
+  species is naturalised near Fairbanks, Alaska, where winter minima of −40 °C
+  are common [1]. **Elevation:** in southern/warm climates the crop performs
+  best at high elevations, and north-facing slopes are recommended, to escape
+  summer heat [1].
+- **Composition (red/white currant, raw, per 100 g; USDA via [1] and [2]):**
+  56 kcal (234 kJ); about 84% water; 13.8 g carbohydrate (7.37 g sugars,
+  4.3 g fibre); 1.4 g protein — notably high for a soft fruit; 0.2 g fat;
+  vitamin C about 41 mg (≈46% DV); thiamine 0.04 mg, riboflavin 0.05 mg,
+  niacin 0.1 mg. Tart, from a high organic-acid and mixed-polyphenol content
+  (up to ~65 phenolic compounds reported) [2]. White forms are sweeter and
+  less acid [1][2].
+- **Edibility:** Raw-edible (white and pink forms pleasant fresh; red tart and
+  usually cooked or juiced); unripe fruit is unpalatable [1][2].
+- **Pollination:** Self-fruitful; insect-pollinated with a minor wind role;
+  only 1-2% pollinizer plants needed, cross-pollination still raising set
+  (Finding 3) [1].
+- **Photoperiod sensitivity:** Not sourced specifically for red currant. The
+  black-fruited sibling has a short-day, temperature-modulated floral
+  initiation in late summer/autumn; whether red currant behaves the same was
+  not confirmed this pass. Not applicable to tuberisation/bulbing (a shrub with
+  no storage organ).
+- **Yield:** 'Jonkheer van Tets', the leading northern-European red cultivar,
+  yields about 10.1-15.7 t/ha [1]. Historically Dutch plantings were cited at
+  15-20 t/ha; that level is reported as no longer reliably reached where
+  *Eutypa* has spread (Finding 5), but this decline figure rests on Dutch
+  trade-press snippets not reopened this pass. World-average yield cannot be
+  cleanly derived: national statistics lump red with black currants, and
+  red-currant-specific figures (e.g. Poland's ~35 kt harvested in 2016) come
+  without a matching area (see Estimates) [9].
+- **Water use:** No species-specific crop-coefficient curve was found; water
+  use is taken by analogy to the standard international berry-bush category and
+  to the black-fruited sibling, given the shared genus and season [7]. Roots
+  are shallow and concentrated in the topsoil, implying low tolerance of
+  extended dry spells; a sudden heavy rain or irrigation on already-ripe fruit
+  causes berry splitting in at least one cultivar ('Jonkheer van Tets' tends to
+  split in wet weather) [1].
+- **Propagation:** Vegetative only — dormant hardwood cuttings (autumn) or
+  softwood cuttings (spring), or one- or two-year bare-root nursery plants; red
+  currants are documented as harder to root from cuttings than the black
+  sibling [1]. No grafted commercial stock is standard; the North American
+  *R. triste* was historically used as a rootstock for imported currants, with
+  no performance data found. **Clonal/virus risk:** not separately sourced for
+  red currant this pass; clean-stock certification is the general *Ribes*
+  practice.
+- **Labor:** Harvest is 60-70% of total crop labour; at 8 kg/h a 'Jonkheer van
+  Tets' crop needs up to about 1,962 h/ha, i.e. ~25 pickers/ha over a two-week
+  harvest [1]. Non-harvest labour figures are estimates (no dedicated cost
+  study found).
+- **Soil:** pH 5.5-7.0; deep, organic, well-drained soils with good
+  water-holding capacity; a heavy feeder [1]. One major Dutch growing region
+  sits on river-clay soils (earlier pass; not reopened here). **Salinity:**
+  *Ribes* sp. is rated only a qualitative "sensitive" in the FAO salt-tolerance
+  table, with no numeric ECe threshold or yield-decline slope for the genus
+  [8].
+- **Storage (postharvest):** Not chilling-sensitive; held at 0 °C (31-32 °F),
+  90-95% RH; fresh life "several days" [1] to 1-2 weeks [3]; an unusually
+  strong CA response extends it to 8-14 weeks, ~12 weeks for 'Rovada' under
+  Dutch ULO (Finding 1) [3][5][12]. Decay organisms: *Cladosporium* mould and
+  *Botrytis* grey-mould rot; elevated CO₂ is fungistatic to *Botrytis* [3].
+  Frozen (often with sugar) for long-term storage [3].
+- **Establishment:** Bare-root one- or two-year plants with pencil-thick,
+  30-45 cm canes, or unrooted cuttings stuck at ~30 cm for hedgerows; planted
+  October-March on well-drained ground, sited ≥305 m (1,000 ft) from
+  five-needle pines where blister rust matters (Hazards) [1].
+- **Cultivars:** Red — 'Jonkheer van Tets' (NL 1941, seedling of 'Fay's
+  Prolific'; early, splits in wet weather, wind-susceptible; RHS AGM),
+  'Red Lake' (U. Minnesota 1933; mid-late, long easy-picking clusters;
+  WPBR-susceptible; RHS AGM), 'Rondom' (NL 1946; *R. multiflorum* backcross;
+  high-yield late, tight clusters that hang well, mildew- and WPBR-resistant),
+  'Rovada' (NL/IVT Wageningen 1980, 'Fay's Prolific' × 'Heinemanns Rote
+  Spätlese'; late, high-yield, long loose clusters, the storage cultivar;
+  mildew susceptibility reported inconsistently), 'Stanza' (RHS AGM), 'Viking'
+  (hypersensitive WPBR response). White — 'White Versailles' (France 1883,
+  very sweet aromatic), 'White Dutch' (oldest named white, early 1600s),
+  'Blanka' (Slovakia 1977, 'Heinemann's Rote Spätlese' × 'Red Lake'),
+  'White Grape' (RHS AGM), 'White Currant 1301' (Sweden/Balsgård 1986) [1][2].
+- **Weather response:** Spring frost damages flowers (shared thresholds with
+  the black sibling); foliage is damaged at about 30 °C, driving the
+  north-slope/high-elevation siting [1]. No frost-as-quality (sweetening)
+  effect found — frost is a hazard only here. Heavy rain on ripe fruit splits
+  berries in some cultivars [1].
+- **Water regime:** Ordinary irrigation; no flooded/paddy requirement.
+  Waterlogging is not tolerated; no flooding study found.
+- **Harvest stages / windows:** One fruit stage; ripening is reasonably even
+  along the strig in modern cultivars (not markedly asynchronous), taken in one
+  or two pickings over ~2 weeks, with ripe fruit holding on the bush for weeks
+  (Finding 4) [1].
+- **Soil biology:** Not separately sourced for red currant this pass (the black
+  sibling has documented nematode-vectored virus and Verticillium issues).
+- **Invasiveness / biosecurity:** Native to western Europe; naturalised widely
+  (including North America) without being treated as an aggressive invader [2].
+  The binding legal constraint is white-pine-blister-rust host status (Hazards):
+  some North American jurisdictions restrict or ban *Ribes*, though red and
+  white currants are often exempted where black currant is not [1][3].
+- **Controlled environment:** Dutch growers produce early red currant under
+  glass/tunnels, overwintering potted plants outdoors to meet chill before
+  moving them under cover to advance the harvest (earlier pass, snippet level,
+  not reopened here) [11].
 
 ## Hazards
 
-- This species can carry a conifer-rust disease (requiring a nearby
-  five-needle pine host to complete its life cycle) that is a plant-
-  health/regulatory concern rather than a human or animal food-safety
-  hazard; this species shows foliar symptoms in some years but the
-  berries themselves are generally not damaged, and it is documented as
-  less susceptible to this disease than a closely related currant species.
-  Regulatory restrictions on growing currant species exist in some
-  jurisdictions specifically because of this disease's role as a forest-
-  health threat to commercial pine stands, though at least one U.S. state
-  studied here places no restriction on red or white currants
-  specifically, unlike its restrictions on black currant. This is a
-  shared regulatory watch-item with this crop's closest researched
-  sibling.
-- No food-safety hazards were found for this crop's edible fruit.
+- Red currant is a regulated alternate host of white pine blister rust
+  (*Cronartium ribicola*), which needs a five-needle pine to complete its life
+  cycle — a plant-health/forestry regulatory matter, not a human or animal
+  food-safety hazard. The species shows foliar symptoms in some years but the
+  berries are generally undamaged, and it is less susceptible than its
+  black-fruited sibling [1][3]. Some North American jurisdictions restrict or
+  ban *Ribes* near pine stands, commonly exempting red and white currants;
+  mitigations include rust-immune/resistant cultivars (the *Cr* gene), foliar
+  mineral oil, pruning pine branches to 6 m, and a ~305 m setback from
+  five-needle pines [1]. This is a shared regulatory watch-item with the
+  black-fruited sibling.
+- No dietary toxin, allergen, ergot/fungal-toxin, or drug-interaction hazard
+  was found for the edible fruit in this pass.
 
 ## Uses and processing
 
-- **Chains:** hand-picked whole clusters → field-graded → cooled →
-  cold-stored for roughly two and a half weeks, or controlled-atmosphere
-  stored for several months depending on cultivar. Machine-harvested
-  berries → pressed into juice → made into syrup or jelly with added
-  sugar, or made into jam. Ripe whole clusters (white or red) → each
-  berry individually seeded with a specialized quill → cooked whole in
-  thin syrup → the specialty preserve described in Finding 6. Prunings →
-  propagated further as hardwood cuttings.
-- Not covered in detail by this research: frozen-berry and frozen-fruit-
-  for-concentrate processing; juice concentration and blended-drink
-  production; currant wine; fruit soups and desserts beyond the general
-  mention above; pectin extraction from press cake; greenhouse/tunnel/
-  rain-cover growing-structure detail.
+- **Chains:** Hand-picked whole strigs → field-graded → cooled to 0 °C →
+  fresh market (days) or CA-stored (several months, chiefly 'Rovada'). Ripe
+  whole berries → each hand-seeded with a goose quill → cooked whole in light
+  syrup → Bar-le-Duc jelly (Finding 6). Machine-harvested berries → frozen →
+  pressed into concentrated juice → jelly, syrup, jam and bakery fillings.
+  Red/white fruit → cooked into fruit soups, summer puddings and *kissel*.
+  Prunings → hardwood cuttings → new plants.
+- **Not otherwise detailed here:** industrial IQF/bulk freezing and juice
+  concentration; redcurrant wine; pectin extraction from press cake;
+  greenhouse/tunnel structure detail; ornamental and riverbank-stabilisation
+  uses of related species.
 
 ## Open research questions
 
-- Fresh cold-storage duration is given quite differently across several
-  sources (ranging from several days up to two weeks or more) — not
-  fully reconciled, though the longer figures likely reflect better-
-  controlled handling conditions.
-- Controlled-atmosphere storage duration likewise varies considerably
-  across sources, from roughly two months up to a commercial storage
-  company's claim of eight months — the longest figure is treated as a
-  marketing claim rather than independently verified trial data.
-- Whether ripe fruit can safely hang on the bush for several weeks
-  (per one classic reference) or should be harvested immediately once
-  mature (per a commercial storage company) is directly disputed and not
-  resolved here.
-- Winter cold-hardiness figures differ somewhat across two regional
-  extension sources.
-- At least one specific late-season cultivar's powdery-mildew
-  susceptibility is reported inconsistently (susceptible in one source,
-  resistant in another) — not resolved.
-- Essentially all non-harvest labor-hour figures and the machine-harvest
-  labor tiers are estimates carried over by analogy from this crop's
-  closest researched sibling, since no dedicated cost study specific to
-  this crop was found.
-- The adopted world-average yield figure is derived from a national
-  mixed-currant statistic not broken out by species/color, and likely
-  understates this crop's true average yield, since it has been shown to
-  out-yield its closest sibling in at least one direct trial comparison.
-- Most water-use parameters (stage lengths, drought/waterlogging
-  tolerance ratings, and the seasonal irrigation schedule) are carried
-  over by analogy from this crop's closest researched sibling rather than
-  independently sourced for this species.
-- Nitrogen/phosphorus/potassium removal-per-tonne figures were not found
-  in any source.
+- Fresh cold-storage duration is given three ways and not reconciled: "several
+  days" [1], "1-2 weeks" [3], and (in an earlier pass, from an HB66 excerpt)
+  about 2.5 weeks.
+- CA-storage duration varies from ~8 weeks to a commercial supplier's
+  eight-month claim (earlier pass) — the longest figure is treated as marketing,
+  not trial data; the best-supported trial figure is ~12 weeks for 'Rovada'
+  [5].
+- Whether ripe fruit can safely hang on the bush for weeks [1] or should be
+  harvested immediately (per a commercial storage supplier) is disputed and
+  unresolved (Finding 4).
+- The 15-20 t/ha historical Dutch yield and its *Eutypa*-driven decline rest on
+  trade-press snippets not reopened this pass.
+- World-average yield cannot be cleanly derived: national statistics lump red
+  with black currants and lack a red-specific area figure [9].
+- Photoperiod control of flowering, clonal/virus-degeneration risk, and soil
+  biology were not sourced specifically for red currant this pass.
+- 'Rovada' powdery-mildew susceptibility is reported inconsistently (susceptible
+  in [1], resistant in some nursery material) — not resolved.
+- The Bar-le-Duc seeding rate per worker is given only as "several kg/day"; no
+  seeds-per-hour figure was sourced [6]. The Danish organic trial's
+  red-currant-specific leaf-spot/defoliation ratings were not reconfirmed at
+  primary level this pass (the trial PDF was image-only) [10].
+- Most water-use parameters are carried by analogy from the black-fruited
+  sibling rather than independently sourced [7].
 
 ## Estimates and derivations
 
-Growing-timeline figures (days from planting to first harvest) are
-estimated from a documented second-growing-season first-harvest pattern,
-with one specific cultivar noted in lower-confidence source material to
-potentially crop lightly even on first-year wood.
+**First-harvest timeline, ~270-640 days.** Inputs: no crop in year one, first
+fruit in the second growing season, July ripening [1]. Reasoning: planting
+October-March to a second-summer first harvest spans roughly 9-21 months
+depending on planting date. Range as stated. A dedicated trial timeline would
+replace it.
 
-World-average yield is derived from a national statistic covering all
-currant species/colors combined, divided by national currant growing
-area, since no currant-color-specific national area figure was found;
-this figure is explicitly flagged as likely understating this crop's true
-average yield relative to its closest sibling, given documented trial
-evidence that this crop out-yields that sibling under comparable
-conditions.
+**World-average yield: not derived.** National statistics mix red and black
+currants, and the one red-specific figure found (Poland ~35.3 kt harvested,
+2016) has no matching red-currant area [9]. The adopted working figure is the
+documented 'Jonkheer van Tets' range of 10.1-15.7 t/ha [1]; a "good" tier near
+12 t/ha (its midpoint), an "exceptional" tier near the historical Dutch
+15-20 t/ha (snippet, pre-*Eutypa*), and a "poor" tier at the low end of that
+range. A crop-specific international statistic would replace these.
 
-The "good," "exceptional," and "poor" yield tiers are derived
-respectively from: the midpoint of a specific widely grown Dutch
-cultivar's documented northern-European yield range; a specific high-
-yielding trial cultivar's per-bush yield converted to a per-hectare basis
-using a documented trial planting density (cross-checked against a
-historical regional yield figure); and the low end of a documented
-commercial yield range from a North American extension source.
+**Planting density.** Inputs: hedgerow cuttings stuck at ~30 cm, bush systems
+spaced wider [1]. Reasoning: a 30 cm in-row spacing at ~2.5-3 m between rows
+gives roughly 11,000-13,000 plants/ha for machine hedgerows; free-standing
+bushes at ~1.2-1.5 m × 2.5-3 m give roughly 2,200-3,300/ha. Documented exact
+densities would replace these.
 
-Water-use parameters (stage lengths, crop-coefficient-days, seasonal
-water totals, drought-buffer period) are carried over directly by
-analogy from this crop's closest researched sibling, adjusted
-qualitatively for this species' somewhat shallower documented rooting
-depth, since no dedicated crop-coefficient study was found specific to
-this species.
+**Water-use parameters** (stage lengths, crop-coefficient days, seasonal
+totals, drought buffer) are carried by analogy from the berry-bush FAO-56
+category [7] and the black-fruited sibling, adjusted qualitatively for red
+currant's shallow rooting, since no crop-specific coefficient study was found.
 
-Plants-per-hectare planting density is derived from several documented
-regional spacing conventions (hand-picked bush spacing, a specific
-provincial spacing recommendation, and machine-harvest hedgerow spacing),
-converted to a per-hectare basis.
-
-Labor-hour figures are derived partly from the directly sourced hand-
-harvest rate (Finding 1) applied to the adopted "good" yield tier, with
-machine-harvest tiers and all non-harvest labor carried over by analogy
-from this crop's closest researched sibling, since no dedicated cost
-study was found for this species.
-
-The yield-profile's ramp-to-full-bearing period is derived from the
-documented first-harvest and peak-production years; its peak daily
-harvest rate is derived from the adopted "good" yield tier divided by an
-assumed ripening-window length; on-tree standing-quality decay rate is
-set lower than this crop's closest sibling's, reflecting this species'
-documented tendency to hang well on the bush without over-ripening,
-though this remains a placeholder estimate rather than a directly
-measured figure.
+**Labour.** The ~1,962 h/ha harvest figure is Hummer & Barney's own worked
+example (8 kg/h applied to a 'Jonkheer van Tets' crop over a two-week harvest)
+[1]; non-harvest labour is estimated against the documented 60-70%
+harvest-share, no dedicated cost study having been found.
 
 ## Sources
 
-[1] A postharvest-handling chapter covering several related soft-fruit
-species in a long-standing federal agricultural handbook on commercial
-storage of fruits and vegetables. Supplied: species identity for red,
-white, and pink color forms, comparative acidity and flesh-color notes,
-main producing regions, harvest-ripeness color cue, soluble-solids and
-acidity figures, the whole-cluster harvest practice, storage temperature
-and humidity guidance, comparative storage-duration figures across
-several related currant and gooseberry species, controlled-atmosphere
-storage guidance and duration, a specific carbon-dioxide injury
-threshold, absence of chilling sensitivity, absence of ethylene data,
-precooling guidance, and two named postharvest decay organisms. Accessed
-2026-10-01, PDF extracted.
+[1] Hummer, K.E. and D.L. Barney, "Currants" (Crop Reports), *HortTechnology*
+12(3):377-387, July-September 2002 (USDA-ARS National Clonal Germplasm
+Repository, Corvallis, OR; University of Idaho). Supplied: taxonomy, synonyms
+and common names; the red-currant breeding species (*R. petraeum*, *R. triste*,
+*R. multiflorum* via 'Rondom'); self-fruitfulness and the 1-2% vs 20%
+pollinizer contrast; insect/wind pollination and hive density; fruiting on
+2-3-year spur wood and the 9-12-cane pruning rule; hand-harvest rates (8 kg/h
+red vs 4 kg/h black), the 'Jonkheer van Tets' yield (10.1-15.7 t/ha) and
+labour worked example; ethephon machine-harvest practice; hang time and the
+jelly/under-ripe-for-pectin note; fresh storage ("several days"); chill
+(800-1600 h at 0-7 °C), heat-damage threshold (30 °C), cold-hardiness,
+high-elevation/north-slope siting, GDD and frost-free-day needs; soil pH
+5.5-7.0; propagation (red harder to root) and establishment; the cultivar
+table with origins and parentages ('Jonkheer van Tets', 'Red Lake', 'Rondom',
+'Rovada', 'Viking', 'Blanka', 'White Dutch', 'White Versailles', 'White Currant
+1301'); white-pine-blister-rust host status, the *Cr* gene, mineral-oil and
+305 m setback mitigations; composition Table 3; uses; and world/regional
+currant production (red-currant producers: Poland, Germany, Holland, Belgium,
+France, Hungary). Accessed 2026-11-24, PDF opened directly.
 
-[2] A peer-reviewed horticultural-technology journal "crop report"
-article on currants generally. Supplied: taxonomy and related/ancestral
-species, historical cultivation and introduction detail, main producing
-regions, culinary uses, composition figures, plant description,
-pollination biology (self-fruitfulness, pollinizer share, hive density),
-cold-hardiness and chill-requirement figures, a foliar heat-damage
-threshold, soil pH guidance, propagation difficulty, fruiting-wood habit
-and pruning practice, rust-disease detail and resistant cultivars, named
-pests, a historical North American rootstock-species note, hand-harvest
-method and rate, a detailed labor-cost ratio and a specific high-yield
-worked labor example, fresh-market ripening and hang-time detail, fresh
-storage-life detail, freezing suitability, and a detailed named-cultivar
-description table. Accessed 2026-10-01, PDF extracted (two-column
-layout) and summarized via an automated fetch tool.
+[2] Wikipedia, "Redcurrant" (*Ribes rubrum*), with its USDA-sourced nutrition
+box for red/white currants, raw. Supplied: native range and naturalisation,
+plant size, the 17th-century Belgian/French large-berried origin, the RHS
+Award of Garden Merit cultivars ('Jonkheer van Tets', 'Red Lake', 'Stanza',
+'White Grape'), the composition figures (56 kcal, 13.8 g carb, 7.37 g sugars,
+4.3 g fibre, 1.4 g protein, 41 mg vitamin C), the tart organic-acid/polyphenol
+chemistry, and the culinary uses (UK jelly with meats; Scandinavian/German
+*rødgrød*/*rote Grütze*/summer puddings; Russian *kissel*; pastry fillings).
+Accessed 2026-11-24, opened directly.
 
-[3] A community-maintained general reference encyclopedia article on this
-species. Supplied: synonyms, native range, plant and fruit size, cluster
-fruit count, per-bush yield figure, light preference, composition
-figures, regional culinary uses including a named specialty preserve, a
-seasonal-ripening cultural note, and named cultivars recognized by a
-national horticultural society. Accessed 2026-10-01, opened directly
-(summarized via an automated fetch tool).
+[3] Postharvest storage reference for currants and gooseberries: the WFLO
+Commodity Storage Manual 2018 chapter "Currants and Gooseberries" (rev. J.
+Brecht, Univ. Florida; in the USDA Handbook 66 lineage), supplemented by an
+HB66 excerpt read at snippet depth. Supplied: not-chilling-sensitive status;
+handling at 31-32 °F / 90-95% RH; fresh life 1-2 weeks for currants (2-4 weeks
+gooseberry); black currant up to 4 weeks in air + 40% CO₂ (UK); the strong CA
+response extending red currant to 8-14 weeks (black only slightly); frozen
+keeping with sugar; and the *Cladosporium* and *Botrytis* decay organisms with
+CO₂'s fungistatic effect. Accessed 2026-11-24, WFLO PDF opened directly; HB66
+figures via search snippet.
 
-[4] A community-maintained general reference encyclopedia article on the
-white-fruited color form of this species. Supplied: taxonomic status as a
-cultivar group, comparative sweetness, named cultivars with an
-alternative origin date for one of them, and culinary/processing uses.
-Accessed 2026-10-01, opened directly (summarized via an automated fetch
-tool).
+[4] Wenneker, M., P. Vink, I. Heurneman, M. van Raak and A.S. van Bruggen,
+"Eutypa dieback as an important disease in red currant (*Ribes rubrum*) and
+gooseberry (*Ribes uva-crispa*) in the Netherlands," IFP 2008 (Avignon),
+pp. 150-151 (Applied Plant Research, Wageningen UR; Dutch Plant Protection
+Service). Supplied: identification of *Eutypa lata* as the cause of Dutch
+cane death and stem cankers (previously blamed on *Nectria*, *Phomopsis* and
+the currant clearwing); cankers on old pruning wounds; symptoms at 3-4 years;
+10-30% annual loss of productive branches and some fields replanted; *E.
+lata*'s wide woody host range and status as a major grapevine pathogen; and
+the spore-trap/stromata epidemiology. Accessed 2026-11-24, PDF opened directly.
 
-[5] A university agricultural-extension fact sheet on growing currants
-and related fruit in one U.S. state. Supplied: a specific regional
-multi-year yield trial's results across several named cultivars, spacing
-guidance, soil pH guidance, a specific fertilization rate, pruning
-guidance, ripeness indicators, and a note on absence of state-level
-growing restrictions for red and white currants specifically. Accessed
-2026-10-01, opened directly (summarized via an automated fetch tool).
+[5] Dutch and European controlled-atmosphere / ULO storage trial material for
+red currant, including an IIR/IIF *Fridoc* red-currant storage record and a
+*Polish Journal of Food and Nutrition Sciences* (2021) study. Supplied: the
+0 °C / ~2% O₂ / 18-20% CO₂ regime holding 'Rotet', 'Rondom' and 'Rovada' up
+to 10, 12 and 12 weeks (vs a 3-week ordinary-cold maximum), the 8-14-week CA
+range, and the >20% CO₂ internal-breakdown threshold at ~13 weeks. Accessed
+2026-11-24, search snippets only.
 
-[6] A university cooperative-extension reference page on currants.
-Supplied: hand-harvest and machine-harvest spacing conventions, mature
-bush height, trellis/cordon training detail, first-harvest and peak-
-production timing, a documented commercial yield range, old-wood removal
-practice, a labor-cost ratio, and price information. Accessed 2026-10-01,
-opened directly (summarized via an automated fetch tool).
+[6] Bar-le-Duc jelly material: the English Wikipedia "Bar-le-duc jelly"
+article, plus *Saveur*, CooksInfo, *France Today*, Gault&Millau and the
+producer-adjacent groseille.com. Supplied: the 1344 first record and Lorraine
+origin; the goose-quill hand-seeding by *épépineuses* (~7 seeds/berry); ~200
+currants per 85 g jar; the single-day harvest-to-jar constraint; the ~5,000-
+20,000 jars/year current output and the House of Dutriez; and the vague
+"several kg/day" worker rate (no seeds-per-hour figure found). Accessed
+2026-11-24, search snippets and article text.
 
-[7] A regional university-extension emerging-crops research bulletin on
-growing this crop in a high-tunnel greenhouse system. Supplied: a note on
-mechanical harvest of European hedgerow plantings, a directly measured
-hand-harvest rate on a specific outdoor cultivar, detailed cordon-training
-method, documented yield figures by training system and bearing year,
-harvest-timing detail including a season-extension effect from tunnel
-growing, shelf-life detail for clamshell-packed clusters, de-stemming
-practice for processing and frozen sales, pricing information, a
-cultivar-specific mildew-resistance note, a named caterpillar pest, and a
-note on a European summer canopy-thinning practice. Accessed 2026-10-01,
-PDF extracted.
+[7] FAO Irrigation and Drainage Paper 56 ("Crop Evapotranspiration"), the
+berry-bush category. Supplied: a general berry-bush crop-coefficient curve,
+plant height, rooting-zone depth and soil-moisture-depletion allowance; reused
+from this project's prior soft-fruit research rather than reopened this pass.
 
-[8] A provincial government agriculture department's currant-production
-reference page. Supplied: cold-hardiness figures, spacing guidance,
-productive-lifespan figures, rooting-depth detail, bloom and fruit frost-
-damage thresholds, plant-height range, harvest-timing window, ambient and
-refrigerated shelf-life figures, and a pollination note. Accessed
-2026-10-01, opened directly (summarized via an automated fetch tool).
+[8] FAO Irrigation and Drainage Paper 29 (Ayers and Westcot), Table A1.2.
+Supplied: a qualitative "sensitive" (estimated) salinity rating for *Ribes*
+sp., with the numeric ECe-threshold and yield-decline-slope cells blank for
+the genus; reused from this project's related-currant research rather than
+reopened this pass.
 
-[9] A peer-reviewed organic-fruit-growing conference proceedings article
-reporting a multi-year unsprayed cultivar trial for red and black currant
-in a Danish research orchard. Supplied: detailed per-bush yield figures
-across ten named red-currant cultivars, harvest-timing detail, juice
-soluble-solids/acid/color figures, leaf-spot disease severity scores
-including complete defoliation of two named cultivars, and a note on
-small berry size in an unusually dry trial season. Accessed 2026-10-01,
-PDF extracted (publisher/proceedings title partially inferred from the
-hosting website).
+[9] Poland and world currant-production material: FreshPlaza and Fruitnet
+reports (Poland as the EU's largest and world's second-largest currant
+producer, behind Russia), Helgi Library/Eurostat red-currant harvested
+production (~35.3 kt, 2016), and Polish berry-sector reports on the near-total
+processing reliance (concentrated juice, frozen-fruit export). Supplied: the
+red-currant processing economy and the caution that national figures lump red
+with black currants. Accessed 2026-11-24, search snippets only.
 
-[10] A peer-reviewed horticultural-conference proceedings article on
-long-term controlled-atmosphere storage trials for this crop. Supplied:
-storage-duration and atmosphere-composition trial results across five
-named cultivars, a note on stem desiccation driving early storage weight
-loss, a note linking earlier-picked berries to greater storage rot, and
-a specific optimal atmosphere composition and its resulting extended
-storage-quality duration. Accessed 2026-10-01, abstract opened.
+[10] Danish organic currant cultivar-trial material (H. Lindhard Pedersen /
+DARCOF, Aarslev; an *organic currant* unsprayed trial planted 1996, via
+OrgPrints and a *Journal of the American Pomological Society* paper). Supplied:
+heavy late-summer leaf-spot defoliation and wide cultivar differences in field
+resistance. Primarily documented for the black-fruited sibling; red-currant-
+specific defoliation ratings were not reconfirmed (the journal PDF was
+image-only). Accessed 2026-11-24, search snippets only.
 
-[11] A Dutch agricultural trade-press news article on research aimed at
-improving a struggling segment of the Dutch currant industry. Supplied:
-this crop's share of a national berry-production category, main
-production soil type, a historical yield figure no longer reliably
-reached, a documented plantation-lifespan decline, named causal soil and
-wood fungi, an ongoing research program covering field, substrate, and
-grafted-plant production systems, and named cultivars by harvest season.
-Accessed 2026-10-01, opened directly (originally non-English, translated
-and summarized via an automated fetch tool).
+[11] Dutch trade-press material on protected (glasshouse/tunnel) early
+red-currant production, including overwintering potted plants outdoors to meet
+chill before forcing. Carried from the earlier anonymised pass; not reopened
+this pass. Snippet level.
 
-[12] A government agricultural-research-institute technical report on
-cane death in this crop in a specific Dutch region. Supplied: identity
-and biology of a specific wound-infecting canker fungus, its wide host
-range among other fruit and ornamental species, affected named
-cultivars, a multi-grower disease-prevalence survey, standard pruning-
-timing practice, a note that a specific class of fungicidal wound
-treatment was not permitted for this crop at the time of the study, and a
-clarifying note that the pathogen's spore source is external to the
-plantings themselves rather than spread through planting stock. Accessed
-2026-10-01, PDF extracted (originally non-English, read directly).
-
-[13] A Dutch agricultural trade-press article profiling a specific
-commercial grower. Supplied: a specific glasshouse growing-area figure,
-a named early-season cultivar grown under glass, the practice of
-overwintering potted plants outdoors to meet chill requirement before
-moving them under cover, first-harvest timing, and fruit-cluster
-description. Accessed 2026-10-01, opened directly (originally non-
-English, translated and summarized via an automated fetch tool).
-
-[14] A commercial fruit-grower's product-information web page. Supplied:
-harvest-timing windows for two named cultivars and a note on controlled-
-atmosphere storage enabling year-round supply, plus a general climate
-suitability note for the growing region. Accessed 2026-10-01, opened
-directly.
-
-[15] A commercial controlled-atmosphere storage technology company's
-product web page. Supplied: a specific storage temperature and humidity
-recommendation, an extended storage-duration marketing claim, a
-recommendation to harvest immediately at maturity due to fading flavor
-quality, and a bruising-risk note. Accessed 2026-10-01, opened directly
-(marketing-level claims, treated as lower-confidence).
-
-[16] A peer-reviewed horticultural-conference proceedings article on the
-state of the Ribes (currant and gooseberry) industry in one major Eastern
-European producing country. Supplied: national annual production
-figures and color-share breakdown, named cultivars' share of red-currant
-production, the near-total industry reliance on processing (mostly
-freezing before concentrate production), and an export-share figure for
-processed fruit. Accessed 2026-10-01, abstract opened.
-
-[17] A community-maintained general reference encyclopedia article on a
-specific traditional French specialty currant preserve. Supplied: its
-documented historical origin date, the hand-seeding technique using a
-specially cut quill, a typical berry-count-per-jar figure, the finished
-preserve's preparation method, color options, a named commercial
-producer, and an approximate modern retail price. Accessed 2026-10-01,
-opened directly (summarized via an automated fetch tool).
-
-[18] Search-snippet-level material on the hand-seeding technique for the
-same specialty preserve, from several food-culture and historical-
-interest websites. Supplied: a documented seeding rate per hour and per
-day for a skilled worker, a typical residual-stem length left on each
-seeded berry, a typical seed count per berry, and an approximate berry-
-count-per-kilogram-of-finished-preserve figure. Accessed 2026-10-01,
-search snippets only.
-
-[19] A standard international crop-evapotranspiration reference work.
-Supplied: a general berry-bush crop-coefficient curve and maximum plant
-height, and root-zone depth range and soil-moisture-depletion allowance
-for the same general category; values reused from this project's own
-prior research on a related soft-fruit crop rather than reopened this
-pass.
-
-[20] A standard international agricultural-drainage-water-management
-reference work's crop-salt-tolerance data annex. Supplied: a tentative
-"sensitive" salt-tolerance rating for the broader currant genus, with no
-numeric threshold given; value reused from this project's own prior
-research on a related currant species rather than reopened this pass.
-
-[21] Search-snippet-level material on chill and heat tolerance from two
-gardening-reference websites. Supplied: an alternative winter chill-hour
-range specific to this species, a specific foliar heat-scorch
-temperature threshold, and a note that north-facing planting sites delay
-bloom. Accessed 2026-10-01, search snippets only (lower-authority
-sources).
-
-[22] Search-snippet-level material on named cultivars from several
-commercial nursery product pages. Supplied: parentage and bloom-timing
-detail for two named cultivars, a note on one cultivar's unusually heavy
-first-year-wood fruiting, a named Czechoslovak white cultivar's
-comparative sweetness and harder-to-pick smaller clusters, and a named
-pink cultivar's fruit-color description. Accessed 2026-10-01, search
-snippets only (nursery marketing pages).
-
-[23] Search-snippet-level material on the Dutch currant industry from a
-produce-trade-data aggregator and two Dutch agricultural trade-press
-search summaries. Supplied: a specific national fresh-production figure
-for one recent year, a specific high-yield regional study figure for one
-named cultivar, an open-field controlled-atmosphere storage-duration
-figure, and a comparative season-timing note for glasshouse/tunnel versus
-open-field production. Accessed 2026-10-01, search snippets only.
-
-[24] An agricultural trade-press article citing national agricultural-
-market-data-agency figures on one major Eastern European country's
-currant production. Supplied: a national currant growing-area range and
-a specific national production-tonnage figure for one recent year;
-reused from this project's own prior research on a related currant
-species rather than reopened this pass.
-
-[25] Search-snippet-level material on the same country's currant
-production from a market-research aggregator and an agricultural trade
-publication. Supplied: an updated national production-tonnage figure, a
-black-currant production-share figure, and an updated national growing-
-area figure. Accessed 2026-10-01, search snippets only.
+[12] An Italian study of 'Rovada' under modified-atmosphere packaging with an
+SO₂ active-release system (influence of sulphur dioxide on *Ribes rubrum* L.
+berry quality, Univ. of Turin). Supplied: maintenance of quality parameters up
+to 60 days of storage. Accessed 2026-11-24, search snippet only.
