@@ -130,7 +130,7 @@
 | raspberry | Rubus idaeus | raspberry.md | `black_raspberry`, `blackberry` | 2026-11-23 | RESEARCHED |
 | red_currant | Ribes rubrum | red-currant.md |  | 2026-11-24 | RESEARCHED |
 | satsuma | Citrus unshiu | satsuma.md | `kunenbo`, `mandarin`, `clementine` | 2026-11-24 | RESEARCHED |
-| seed_watermelon | Citrullus lanatus seed types and C. mucosospermus | watermelon.md | `citron_melon`, `watermelon` | 2026-10-10 | OUT-OF-DATE |
+| seed_watermelon | Citrullus lanatus seed types and C. mucosospermus | watermelon.md | `citron_melon`, `watermelon` | 2026-11-25 | RESEARCHED |
 | service_tree | Sorbus domestica |  | `medlar` | 2026-11-23 | PROPOSED |
 | shiikuwasha | Citrus depressa (Okinawan sour citrus) |  | `hetsuka_daidai`, `kunenbo` | 2026-11-19 | PROPOSED |
 | sour_cherry | P. cerasus | cherry.md | `sweet_cherry` | 2026-09-28 | OUT-OF-DATE |

@@ -1079,6 +1079,35 @@ upgrade snippet-level material or close the Open research questions.
   - **Needed for:** stand-life years, planting density and itemised grove-care
     labour (Stand life; Labor; Estimates).
 
+### seed_watermelon (2026-11-25)
+
+Re-research of the shared `watermelon.md` seed profile against the current
+checklist. Two CGC reports (Zhang & Jiang 1990; Zhang 1996) were opened and
+read; the items below would close the remaining gaps.
+
+- [ ] **`seed_watermelon--gansu-production`** (Online): "Watermelon
+  Production of Gansu Province in China," Cucurbit Genetics Cooperative
+  Report, article cgc25-10 (https://cucurbit.info/wp-content/uploads/2019/03/cgc25-10.pdf).
+  - **Where:** the PDF is on the open web but is a Chinese-font scan that
+    this pass could not extract to text.
+  - **Needed for:** current Gansu edible-seed-watermelon area, output and
+    per-hectare seed yield, to reconcile the national ~140,000 ha /
+    >200,000 t vs. improved-variety 2,250 kg/ha figures (Finding 4; Yield;
+    Open research questions).
+- [ ] **`seed_watermelon--chinese-seed-composition`** (Library): a measured
+  nutrient/oil profile for the Chinese edible-seed (guazi) kernel
+  specifically — a Chinese food-composition table or a Gansu Academy of
+  Agricultural Sciences paper.
+  - **Needed for:** a Chinese-group composition figure to replace the
+    protein-/oil-rich generality (Composition).
+- [ ] **`seed_watermelon--egusi-aflatoxin-primary`** (Library): the primary
+  Nigerian egusi-aflatoxin papers (Bankole and co-workers, "Fungal
+  contamination and aflatoxin B1 of 'egusi' melon seeds in Nigeria" and
+  "Storage practices and aflatoxin B1 contamination...").
+  - **Needed for:** exact contamination incidence, storage-time thresholds
+    and the ogiri-detoxification figures now cited at snippet depth
+    (Finding 7; Hazards) [25].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.

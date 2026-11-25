@@ -1,10 +1,12 @@
 # Watermelon (*Citrullus lanatus*), Seed Watermelon (Zigua, Egusi) and Citron Melon (*C. amarus*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/watermelon.md`
-**Researched:** 2026-10-10 (citron-melon profile re-reviewed 2026-11-09, and
-re-researched again 2026-11-17 against the full current checklist — see
-Finding 6 and the new citron-melon Agronomic data lines; the dessert- and
-seed-watermelon profiles were not re-researched on either pass)
+**Researched:** 2026-10-10 (citron-melon profile re-reviewed 2026-11-09 and
+re-researched 2026-11-17 against the full current checklist — see Finding 6
+and the citron-melon Agronomic data lines; the seed-watermelon profile
+re-researched 2026-11-25 against the full current checklist — see Findings 4
+and 7 and the rewritten seed-watermelon Agronomic data section; the
+dessert-watermelon profile has not been re-researched since 2026-10-10)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -28,12 +30,18 @@ treatment. Only general vine residue handling is shared across all three.
   preserving, fodder, or "pie" melon, and the wild tsamma melon of the
   Kalahari [1][11].
 - **Seed watermelon** covers two distinct species groups grown
-  specifically for their large, nutritious seeds rather than for flesh: a
-  Chinese seed-type group within *C. lanatus* itself, and a separate West
-  African species, the closest known wild relative of dessert watermelon.
-  A further distinct cucurbit genus sometimes sold under one of the same
-  common names in West Africa is explicitly excluded from this entry, as
-  it is a different genus entirely.
+  specifically for their large, nutritious seeds rather than for flesh.
+  The first is a Chinese edible-seed group within *C. lanatus* itself
+  (the roasted-seed "guazi" melon, also called seed melon or 籽瓜), grown
+  mainly in the dry northwest [27]. The second is West African egusi
+  watermelon, *Citrullus mucosospermus* — the closest wild relative of
+  cultivated watermelon [26], though its naming is unsettled (older
+  sources use *Colocynthis citrullus* L. or *C. lanatus* subsp.
+  *mucosospermus*) [23][26]. A further seed cucurbit sold under the same
+  "egusi" name in West Africa, *Cucumeropsis mannii* (white-seeded
+  egusi), is a different genus entirely and is excluded from this entry;
+  Benin varietal trials that lump all three "egusi" species together are
+  read here only for the *Citrullus* data [23].
 
 This entry draws comparisons against several other warm-season cucurbit
 crops this project has researched (for shared plasticulture, multi-pick
@@ -97,20 +105,42 @@ misshapen fruit and a specific calcium-related blossom-end disorder,
 while heavy water application (irrigation or rain) shortly before harvest
 causes fruit splitting.
 
-**Finding 4 — in the seed-type species group, the seed itself is the
-marketable product, not the flesh.** In the Chinese seed-type group,
-national growing area expanded severalfold between the mid-1990s and the
-mid-2010s; each plant typically bears a small number of modest-sized
-fruit, each containing a documented range of 100-200 seeds, which are
-salted and roasted as a popular snack food. In the West African seed-type
-species group, harvested fruit is deliberately left to rot in the field
-for several days (sources differ on the exact duration) until the pulp
-softens enough to release the seeds; the seeds are then washed out (with
-documented washing efficiency improving considerably as fermentation
-time increases), dried in a two-step process, and shelled by hand or
-machine. The kernels are ground into a traditional soup-thickening
-ingredient, or fermented into a separate traditional seasoning product;
-the seed oil is documented as roughly half linoleic acid by composition.
+**Finding 4 — in the seed-type species groups, the seed itself is the
+marketable product, and the Chinese group is graded by seed width.** In
+the Chinese edible-seed group (northwest China — Gansu, Xinjiang, Inner
+Mongolia, Ningxia and Anhui), the low-sugar flesh (soluble-solids content
+only about 4-5%) is not eaten; the plant is grown for its large flat
+seeds, which are washed, dried, salted and roasted (sometimes glazed with
+a licorice flavouring) as the "guazi" snack [27][28]. Named seed varieties
+carry roughly 250-320 seeds in a 2.5-3.5 kg fruit, with a 1000-seed weight
+of about 210-260 g (breeding lines reaching 340 g) [27] — higher seed
+counts than an earlier snippet-level figure of 100-200 suggested [9]. The
+commercial grade is set by **seed width**: before about 1989 the standard
+was under 10 mm and seed yields under 1,500 kg/ha, while varieties around
+11 mm wide, grown with plastic mulch and phosphorus, lifted yields to
+about 2,250 kg/ha [27]. Red-seeded varieties (about 8 mm wide, a separate
+market) yield only 50-75% of black-seeded ones, and the large black-seeded
+cultivars are closely related and notably susceptible to anthracnose and
+powdery mildew [27]. A few dual-purpose "Lanzhou Daban" types give both
+edible flesh (SSC 6-7%, storable into November-December) and a ~10 mm seed
+[27].
+
+In the West African egusi group (*C. mucosospermus*), the flesh is bitter
+and discarded; harvested fruit is deliberately left to rot in the field or
+in bags for several days (sources differ on duration) until the pulp
+softens enough to release the seeds, which are then washed out (washing
+efficiency improving markedly with longer fermentation), dried in two
+stages, and shelled by hand (commonly by women) or machine [4][10]. The
+kernels — roughly 30% protein and 50% oil on a dry-weight basis, the oil
+chiefly linoleic acid — are ground into a soup-thickening paste ("egusi"),
+pressed for oil, or fermented into a traditional seasoning ("ogiri")
+[4][10][24]. It is a rain-fed smallholder crop; reported dry-seed yields
+run from roughly 240 to 520 kg/ha under experimental fertility (up to
+about 1,000 kg/ha in the best trials), and a national figure for Cameroon
+fell from about 414 to 373 kg/ha between 2015 and 2019 [23]. Yield is set
+mainly by fruit number and fruit weight, and falls sharply when planting
+is delayed past the early rains — late plantings can set no seed at all
+[23].
 
 **Finding 5 — citron melon: a preserving, fodder, and emergency water
 melon.** This species has hard white flesh, rarely eaten raw, that is
@@ -140,6 +170,24 @@ two-season trial in Adana, Türkiye, grafted watermelon onto 11 *C.
 amarus* genotypes: total yield beat ungrafted controls but fell short of
 commercial rootstocks, and fruit sugar rose while lycopene and
 carotenoids did not [20].
+
+**Finding 7 — egusi seed is a documented aflatoxin risk, and the fix is
+drying and storage rather than the field.** Aspergillus is the dominant
+mould on stored egusi kernels, and aflatoxin B1 contamination is a
+post-harvest, not a field, problem: one Nigerian survey detected aflatoxin
+B1 in 27% of 137 farm-store samples (higher in the humid forest zone than
+the drier savanna), and a storage study found no aflatoxin for the first
+few months but rising contamination from about the fourth week in poorly
+dried or poorly stored seed, worst in jute sacks [25]. Prompt two-stage
+drying and dry storage are the controls; a botanical (lemon-grass) seed
+treatment reduced infestation in one trial [25]. Fermentation into the
+"ogiri" condiment itself destroys much of the toxin — one study lost about
+65% of aflatoxin B1 and 83% of aflatoxin G1 by the third day and reached
+full detoxification by the fourth — but this is a salvage pathway, not a
+safeguard, since the mould must still be kept down in storage [25]. This
+is the ergot/fungal-contamination hazard class the current checklist calls
+out, and it is specific to the seed groups (the dessert- and citron-melon
+profiles carry their own, different hazards).
 
 ## Agronomic data (dessert watermelon, *C. lanatus*)
 
@@ -212,45 +260,122 @@ carotenoids did not [20].
   two to three weeks; extremely ethylene-sensitive, and chilling-injury
   guidance conflicts between sources on the exact threshold (Finding 2).
 
-## Agronomic data (seed watermelon: zigua and egusi groups)
+## Agronomic data (seed watermelon: Chinese edible-seed and West African egusi groups)
 
-- **Life form / season:** Warm-season annual trailing vine, essentially
-  as the dessert-watermelon profile above, but harvested as a single
-  end-of-season crop for seed rather than picked continuously for fresh
-  fruit.
-- **Climate:** The Chinese seed-type group is grown across several
-  semiarid and temperate-summer northwestern growing regions; the West
-  African seed-type species group is grown across a broad tropical-
-  savanna belt in West Africa.
-- **Composition:** The flesh is not the marketable product (reported as
-  notably bitter in the West African species group); the harvested seeds
-  are protein- and oil-rich, with the West African group's seed oil
-  documented as roughly half linoleic acid and close to a fifth oleic
-  acid by composition.
-- **Yield:** No reliable per-hectare seed-yield figures were found for
-  either group; documented per-plant fruit and seed counts for the
-  Chinese group are used to derive a rough estimated per-hectare seed-
-  yield range (see Estimates below). National growing area for the
-  Chinese group more than doubled over roughly two decades, concentrated
-  in a small number of named northwestern growing regions.
-- **Propagation:** By direct seeding; harvested seed doubles informally
-  as planting seed in both groups, though this was not researched in
-  detail. Both groups are grown as traditional landraces or open-
-  pollinated cultivars rather than modern F1 hybrids.
-- **Harvest / processing:** In the Chinese group, fruits are split open
-  and seeds washed and sun-dried, then lightly salted and roasted (and
-  sometimes coated in a licorice-flavored glaze) as a popular snack food.
-  In the West African group, fruits are left to rot in the field or in
-  bags for several days until the pulp softens; seeds are then washed
-  out (washing efficiency improves markedly with longer fermentation),
-  dried in two stages, and shelled by hand (commonly by women) or
-  machine; kernels are ground into a traditional soup-thickening
-  ingredient, pressed for oil, or further processed into a traditional
-  fermented seasoning product.
-- **Quality risks:** Microbial and fungal contamination during the
-  fermentation and drying stages, and insect damage during storage, are
-  documented quality concerns in formal processing-standards guidance for
-  the West African group.
+*(Re-researched 2026-11-25 against the full current checklist in
+`skills/crop-research/SKILL.md` and `templates/research-doc.md`. "Chinese
+group" is the *C. lanatus* edible-seed/guazi type of northwest China;
+"egusi group" is West African *C. mucosospermus*. Genus-level traits
+shared with the dessert-watermelon profile above are cited there.)*
+
+- **Life form / season:** Warm-season frost-tender annual trailing vine,
+  as the dessert-watermelon profile, but grown to physiological seed
+  maturity and harvested once at the end of the season rather than picked
+  for fresh fruit [27].
+- **Harvest pattern:** Single end-of-season harvest. Chinese-group growers
+  "sow after the last frost and wait until senescence to harvest," about
+  55 days from pollination to seed-fruit ripening and over 120 days total
+  crop development [27]. This is the opposite of the dessert type's
+  asynchronous multi-pick harvest — the whole planting is taken at once
+  for seed.
+- **Days/years to first bearing:** Annual; first (and only) harvest in the
+  planting year, ~120 days from sowing for the Chinese group [27]; not
+  separately sourced for egusi.
+- **Climate zones:** Chinese group concentrated in the hot, intensely
+  sunny, extremely dry summer climate of northwest China (Gansu, Xinjiang,
+  Inner Mongolia, Ningxia, Anhui), where dry sunny conditions are credited
+  with heavier seed [27][28]. Egusi group grown across the forest and
+  savanna zones of West Africa (Benin, Ghana, Nigeria, Senegal, Guinea,
+  Cameroon) as a rain-fed crop [23][26]. No chill or vernalization
+  requirement (warm-season annual); no notable elevation band sourced for
+  either group.
+- **Composition:** Flesh not the product (Chinese-group flesh SSC ~4-5%
+  and not eaten; egusi flesh bitter) [27][23]. Egusi kernels ~30% protein
+  and ~50% oil on a dry basis (reported fat 50-59 g/100 g, protein 22-36
+  g/100 g), the oil chiefly linoleic acid; defatted egusi flour reaches
+  ~58-60% protein [24]. Chinese-group seed is protein- and oil-rich but no
+  measured profile was found.
+- **Edibility:** The seed is the food. Chinese-group seed roasted and eaten
+  as a snack; egusi kernel ground into soup paste, pressed for oil, or
+  fermented into a condiment (see Uses) [27][4][10]. Flesh discarded in
+  both.
+- **Pollination:** Genus-level, insect-pollinated monoecious flowers (see
+  dessert-watermelon profile). Both seed groups are grown as
+  open-pollinated landraces or OP cultivars, not triploid hybrids, so the
+  dedicated-pollinizer and elevated-hive requirements of seedless dessert
+  production do not apply [27].
+- **Photoperiod sensitivity:** Not independently sourced for either seed
+  group; genus-level evidence for *Citrullus* is conflicting (day-neutral
+  vs. long-day, see citron-melon Photoperiod bullet and [18]). Egusi's
+  strong planting-date effect on yield appears driven by rainfall and
+  season length rather than photoperiod, but this was not tested directly
+  [23]. Not applicable to tuberization/bulbing (a vine annual).
+- **Yield:** Chinese group: dry-seed yields under about 1,500 kg/ha for the
+  old narrow-seeded varieties, about 2,250 kg/ha for improved ~11 mm
+  varieties with plastic mulch and phosphorus, and about 202 kg/mu (~3,000
+  kg/ha) in a high-input trial; a national figure of ~200,000 t over
+  ~140,000 ha (~1,430 kg/ha) is internally inconsistent with the 2,250
+  figure and is treated as a rough national average [27]. Egusi group:
+  ~240-520 kg/ha under experimental fertility, up to ~1,000 kg/ha at best,
+  with a Cameroon national yield of ~373-414 kg/ha (2015-2019, declining)
+  [23]. Red-seeded Chinese varieties yield 50-75% of black-seeded [27].
+- **Water use:** No seed-group-specific crop-coefficient figure; carried
+  over by analogy from dessert watermelon (see Estimates). Chinese group is
+  irrigated in the arid northwest; egusi is rain-fed [27][23].
+- **Propagation:** Direct-seeded in both groups; harvested seed doubles
+  informally as planting seed. Both are open-pollinated landraces/OP
+  cultivars, not F1 hybrids, so no triploid-transplant or clonal/viral
+  degeneration issue arises; the main genetic concern is the narrow base
+  and disease susceptibility of the large black-seeded Chinese cultivars
+  [27]. Seed colour in the Chinese group segregates on a small set of genes
+  (red *r*, tan *t*, white *w*; black-dotted dominant over all) [27].
+- **Labor:** Not sourced as hours for either group; egusi shelling is noted
+  as a hand operation commonly done by women, and machine shellers exist
+  [4][10].
+- **Soil:** Chinese group on irrigated northwest soils; egusi on rain-fed
+  West African soils, responsive to phosphorus (optimum ~20 kg P/ha) and to
+  poultry manure, with best fruit/yield at ~150 kg/ha NPK and 1 × 1 m
+  spacing [23]. Salinity tolerance not sourced for either seed group;
+  genus-level dessert watermelon is only rated "moderately sensitive
+  (estimate)" (see citron-melon Salinity bullet and [18]).
+- **Storage (postharvest):** The stored product is dry seed, not fresh
+  fruit. The key risk is mould and aflatoxin in poorly dried or humidly
+  stored egusi seed (Finding 7); prompt two-stage drying, dry storage, and
+  avoiding jute sacks are the controls [25]. Dual-purpose Chinese "Lanzhou
+  Daban" fruit keeps into November-December [27]. Storage insects in stored
+  egusi are a documented concern [10][25].
+- **Establishment:** Direct sowing after the last frost (Chinese group) or
+  with the early rains (egusi); Chinese high-yield practice uses plastic
+  mulch and 3,000-4,000 plants/mu (~45,000-60,000 plants/ha) [27]; egusi
+  trials best at 1 × 1 m spacing [23].
+- **Cultivars:** Chinese black-seeded large-seed types 'GN-1', 'Jingyuan
+  Daban', and the named 'Hetaopi', 'Green Skin', 'Dark Skin', 'Striped
+  Skin' (fruit 2.5-3.5 kg, 250-320 seeds, 1000-seed weight 210-260 g);
+  red-seeded 'Ningxia Red', 'QJ-25', 'Xingfeng' (narrower ~8 mm seed, lower
+  yield); dual-purpose 'Lanzhou Daban' [27]. Egusi is grown as landraces;
+  germplasm collections (e.g. a Côte d'Ivoire university collection) show
+  wide morphological diversity [26].
+- **Weather response:** Frost-tender (sown after frost, harvested before
+  it); no sweetening-by-frost benefit (the product is seed). Chinese group
+  suited to hot, dry, sunny climates; egusi drought/heat tolerance not
+  separately quantified [27]. Heavy rain near egusi harvest would raise the
+  fermentation/drying mould risk (Finding 7).
+- **Water regime:** Ordinary irrigation (Chinese northwest) or rain-fed
+  (egusi); no flooded/paddy requirement [27][23].
+- **Harvest stages / windows:** One mature-seed stage, taken as a single
+  end-of-season harvest of the whole planting (not asynchronous) [27].
+- **Soil biology:** Chinese black-seeded cultivars susceptible to Fusarium
+  wilt, anthracnose, powdery mildew and gummy stem blight; no mycorrhizal
+  or allelopathy finding sourced [27].
+- **Invasiveness / biosecurity:** Egusi (*C. mucosospermus*) is native to
+  West Africa and grown within its native range (native Benin and Ghana;
+  cultivated Ghana, Guinea, Nigeria, Senegal); no invasive-species listing
+  was found in this pass, in contrast to the citron-melon profile's camel
+  melon [26]. The Chinese edible-seed group is a cultivated *C. lanatus*
+  form with no invasive listing found; seed moving into China is subject to
+  ordinary phytosanitary import inspection [28]. *Legal restrictions:* none
+  specific found.
+- **Controlled environment:** Not sourced for either seed group.
 
 ## Agronomic data (citron melon, *C. amarus*)
 
@@ -363,9 +488,16 @@ seed-watermelon profiles above are unaffected by this pass.)*
   poisoned livestock (sheep) in at least one historical account; this is
   a fodder-safety consideration rather than a human food-safety concern,
   relevant specifically to citron melon's use as cattle feed.
-- Fermenting and drying seed (in the West African seed-type group) carries
-  a documented fungal-contamination risk during processing; specific
-  mycotoxin data were not researched.
+- **Aflatoxin in stored egusi seed (fungal-contamination hazard).**
+  Aspergillus is the dominant storage mould on egusi kernels and aflatoxin
+  B1 is a documented post-harvest contaminant — found in 27% of farm-store
+  samples in one Nigerian survey, rising from about the fourth week in
+  poorly dried or humidly stored seed, worst in jute sacks (Finding 7)
+  [25]. Prompt two-stage drying and dry storage are the controls;
+  fermentation into "ogiri" destroys most of the toxin (~65% of aflatoxin
+  B1 by day 3, full detox by day 4) but is a salvage path, not a safeguard
+  [25]. This is a distinct fungal-toxin hazard, separate from the bitter
+  plant-toxin class noted above for wild/semi-wild *Citrullus*.
 
 ## Uses and processing
 
@@ -376,10 +508,14 @@ seed-watermelon profiles above are unaffected by this pass.)*
   seedless seed production. Transplants optionally grafted onto resistant
   cucurbit rootstocks.
 - **Seed watermelon chains:** Chinese-group fruit → split → seeds washed
-  and dried → salted and roasted. West African-group fruit → field-
-  fermented → seeds washed → dried → shelled → ground into soup
-  thickener, pressed for oil, or fermented into a traditional seasoning
-  product.
+  and sun-dried → salted and roasted (sometimes licorice-glazed) as the
+  "guazi" snack; graded by seed width, with wider black seeds the premium
+  grade [27][28]. Egusi (*C. mucosospermus*) fruit → field-fermented (fruit
+  left to rot several days) → seeds washed out (efficiency rises with
+  fermentation time) → two-stage dried → shelled (by hand, commonly by
+  women, or by machine) → ground into "egusi" soup paste, pressed for oil
+  (~half linoleic acid), or fermented into "ogiri" seasoning [4][10][24].
+  Dual-purpose Chinese "Lanzhou Daban" fruit → edible flesh plus seed [27].
 - **Citron melon chains:** fruit → cubed and cooked into preserves or
   pickled; fruit fed directly to cattle as fodder; seeds roasted in at
   least one named traditional type; disease-resistant accessions used as
@@ -400,15 +536,26 @@ seed-watermelon profiles above are unaffected by this pass.)*
 - World growing-area figures for dessert watermelon differ by roughly 5%
   between two statistical-aggregator sources for similar recent years —
   not resolved.
-- The precise taxonomic identity of the West African seed-type group is
-  disputed between sources, with at least one treating it as a different
-  genus entirely from a second commonly-used common name — not resolved.
-- Fermentation duration for West African seed-group processing is
-  reported very differently between sources (a few days versus up to two
-  weeks) — not resolved.
-- No reliable per-hectare seed-yield data were found for either seed-type
-  species group; the estimates provided here rest on a chain of
-  assumptions about planting density and per-seed weight.
+- The naming of the West African egusi group is unsettled (*Citrullus
+  mucosospermus* vs. *Colocynthis citrullus* vs. *C. lanatus* subsp.
+  *mucosospermus*), and it is often conflated with the different-genus
+  white egusi *Cucumeropsis mannii*; varietal trials that lump the two make
+  species-specific figures hard to separate [23][26] — not resolved.
+- Fermentation duration for egusi seed extraction is reported very
+  differently between sources (a few days versus up to two weeks) — not
+  resolved.
+- Per-hectare seed yields are now sourced for both groups (Chinese
+  ~1,500-2,250 kg/ha; egusi ~240-1,000 kg/ha), but the Chinese national
+  figure (~200,000 t over ~140,000 ha) is internally inconsistent with the
+  improved-variety 2,250 kg/ha figure, and no per-plant fruit count was
+  found for either group — the old 100-200 seeds/fruit figure [9] is
+  superseded by the sourced 250-320 for named Gansu varieties [27].
+- Gansu-province watermelon-production statistics (CGC Report cgc25-10,
+  "Watermelon Production of Gansu Province") could not be read this pass
+  (Chinese-font PDF); requested as `seed_watermelon--gansu-production`.
+- No measured composition, water-use, labour-hour or salinity figures were
+  found specifically for the Chinese edible-seed group; genus-level
+  dessert-watermelon analogy is used.
 - No dedicated yield, storage, or detailed composition data were found
   for citron melon; figures here are rough estimates scaled from dessert
   watermelon.
@@ -470,16 +617,20 @@ ripe fruit can safely remain on the vine before quality declines.
 
 Seed-watermelon growing-season length, pollination requirements, and
 water-use parameters are carried over by analogy from dessert watermelon,
-given the shared genus (for the Chinese group) or closely related genus
-(for the West African group) and similar general growth habit.
+given the shared genus (Chinese group) or closely related species (egusi)
+and similar general growth habit.
 
-Seed-watermelon seed-yield figures are built from a chain of estimates:
-a documented per-plant fruit count and seeds-per-fruit figure for the
-Chinese group, combined with an assumed per-seed dry weight (since no
-direct weight figure was found) and an assumed planting density, to
-derive a rough per-hectare dry-seed-yield estimate; this is among the
-weakest estimates in this entry and would be considerably improved by a
-dedicated regional seed-yield trial.
+Seed-watermelon seed-yield tiers are now taken directly from sourced field
+figures rather than built up from per-plant counts: Chinese group about
+1,500 kg/ha (old narrow-seeded), 2,250 kg/ha (improved ~11 mm varieties
+with plastic mulch and phosphorus), up to ~3,000 kg/ha (high-input trial,
+202 kg/mu); egusi group about 240-520 kg/ha (experimental fertility) up to
+~1,000 kg/ha (best trials), with a Cameroon national average near 373-414
+kg/ha [23][27]. These replace the earlier estimate chain (per-plant fruit ×
+seeds-per-fruit × per-seed weight × density), which is no longer needed.
+The 1 mu = 1/15 ha conversion is used for the Chinese figures (the 1990
+report's "6 mu = 1 acre," i.e. 15 mu/ha, giving 202.3 kg/mu ≈ 3,034
+kg/ha).
 
 Citron-melon yield tiers are estimated at roughly half of dessert
 watermelon's corresponding tiers, reflecting this crop's typically low-
@@ -688,3 +839,87 @@ and citron watermelon, a 2022 drought-screening study title for citron
 watermelon accessions, and Guzzon et al. (2017), *South African Journal
 of Botany*, on drought avoidance in *C. amarus* landraces (title only).
 Accessed 2026-11-17, search snippets only.
+
+[23] Multiple sources on West African egusi (*Citrullus mucosospermus*)
+agronomy and yield: an Open Journal of Soil Science (2025) land-suitability
+study for egusi in Bafia, Cameroon (rain-fed smallholder crop; national
+seed yield falling from ~414 kg/ha in 2015 to ~373 kg/ha in 2019;
+watermelon criteria borrowed for lack of egusi-specific ones); a Journal of
+Plant Nutrition 41(15) (2018) poultry-manure trial in Nigeria (seed yield
+~522 kg/ha first planting, ~242 kg/ha on residual fertility; yield rising
+with manure rate; sharp decline and eventual failure with later planting
+dates); a phosphorus cost-benefit study (optimum ~20 kg P/ha; best fruit
+and yield at 150 kg/ha NPK and 100 × 100 cm spacing); and a Benin
+agronomic evaluation comparing six egusi varieties across three cucurbit
+species (fruit number and weight the best seed-yield predictors). Supplied:
+dry-seed-yield range, planting-date and fertility effects, spacing, and
+the lumping of *Citrullus* with *Cucumeropsis* in regional usage. Accessed
+2026-11-25, search snippets only.
+
+[24] Multiple sources on egusi seed composition: an MDPI *Foods* 13(7):1131
+(2024) study of *C. mucosospermus* seed hydrocolloids (~30% protein, ~50%
+oil dry basis; defatted flour ~58% protein); a Springer (2025) NIR study
+(fat 50-59 g/100 g, protein 22-36 g/100 g, oil mainly polyunsaturated,
+chiefly linoleic acid); a study of egusi (*Colocynthis citrullus*) seed
+protein products (defatted flour ~60% protein); and a supercritical-CO2
+egusi-oil fatty-acid analysis. Supplied: proximate and fatty-acid
+composition of egusi kernels. Accessed 2026-11-25, search snippets only.
+
+[25] Multiple sources on fungal contamination and aflatoxin in egusi seed:
+"Fungal contamination and aflatoxin B1 of 'egusi' melon seeds in Nigeria"
+and "Storage practices and aflatoxin B1 contamination of 'egusi' melon
+seeds in Nigeria" (farm-store survey: aflatoxin B1 in 37 of 137 samples,
+27%, higher in the forest than the savanna zone; Aspergillus dominant,
+Penicillium next; higher mycoflora in jute sacks); "Storage Fungi Invasion
+and Aflatoxin Contamination Periods in Egusi Kernels" (no aflatoxin to ~4
+months whole, but rising from the 4th week in poorly stored shelled/
+unshelled seed; a post-harvest problem); a study of ogiri fermentation
+detoxifying contaminated seed (~65% aflatoxin B1 and ~83% aflatoxin G1 lost
+by day 3, full detox by day 4); a lemon-grass seed-extract trial reducing
+Aspergillus infestation and improving germination; and an egusi
+drying-method/storability study. Accessed 2026-11-25, search snippets only.
+
+[26] Multiple sources on *C. mucosospermus* taxonomy and native range: a
+georeferenced phylogenetic analysis of a global *Citrullus* collection
+(PubMed/PMC, 2021) and Chomicki & Renner (2015), *New Phytologist*, on
+watermelon origin (*C. mucosospermus* the closest relative of cultivated
+watermelon; wild-progenitor search refocused on West Africa); a PNAS (2021)
+Kordofan-melon genome paper (Kordofan melon closest, *C. mucosospermus*
+next); the USDA GRIN-Global taxonomy record (native Benin and Ghana;
+cultivated Ghana, Guinea, Nigeria, Senegal); and a Nangui Abrogoua
+University (Côte d'Ivoire) germplasm morphological-diversity study.
+Supplied: taxonomy, closest-relative status, native/cultivated range, and
+germplasm diversity. Accessed 2026-11-25, search snippets only (GRIN record
+opened).
+
+[27] Two Cucurbit Genetics Cooperative reports on edible-seed watermelon in
+China, read in full: Zhang, X.-p. & Jiang, Y. (1990), "Edible Seed
+Watermelons (*Citrullus lanatus* (Thunb.) Matsum. & Nakai) in Northwest
+China," *Cucurbit Genetics Cooperative Report* 13:40-42; and Zhang, J.
+(1996), "Breeding and Production of Watermelon for Edible Seed in China,"
+*CGC Report* 19:66-67. Supplied: northwest-China regions (Gansu, Xinjiang,
+Inner Mongolia, Ningxia, Anhui); season (sow after frost, harvest at
+senescence; ~55 days to seed-fruit ripening, >120 days total); fruit weight
+2.5-3.5 kg, 250-320 seeds per fruit, 1000-seed weight 210-260 g (lines to
+340 g); seed-width grade standard (<10 mm → <1,500 kg/ha; ~11 mm → ~2,250
+kg/ha; red-seeded ~8 mm at 50-75% of black-seeded yield); national area
+~140,000 ha and output >200,000 t, Gansu 1988 at 266,000 mu and 22,636 t;
+plastic mulch + 10-15 kg/mu P2O5 + 3,000-4,000 plants/mu → 202.3 kg/mu;
+named cultivars ('GN-1', 'Jingyuan Daban', 'Ningxia Red', 'Lanzhou Daban',
+'Hetaopi', 'Green Skin', 'Dark Skin', 'Striped Skin'); seed-colour genetics
+(*r*/*t*/*w*, black-dotted dominant); disease susceptibility of black-seeded
+lines; dual-purpose Lanzhou Daban (flesh SSC 6-7%, stored to Nov-Dec).
+Accessed 2026-11-25, fetched manually, then read.
+
+[28] Search-snippet-level sources on the Chinese edible-seed watermelon: a
+general-reference article on the roasted-seed snack "guazi" (watermelon
+seeds eaten in China since the Tang dynasty, widespread by Ming-Qing); a
+Chinese-language encyclopedia's seed-melon and watermelon-industry entries
+(seed-melon description; Xinjiang and Inner Mongolia among 2023's
+million-tonne watermelon producers, not split by seed vs. flesh type); a
+China-market industry report and trade listings on seed-using watermelon
+(including the claim that Gansu seeds run ~20% heavier than those from
+eastern provinces); and a customs notice on seed-import phytosanitary
+inspection at Lanzhou. Supplied: snack processing and naming, regional
+production context, the heavier-Gansu-seed claim, and seed-movement
+inspection. Accessed 2026-11-25, search snippets only.

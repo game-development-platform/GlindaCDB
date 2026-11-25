@@ -167,6 +167,11 @@ plain name with the cropID, doc and Finding.
   - `purple_passionfruit` / `yellow_passionfruit` (`passionfruit.md`, Finding 5): the cyanogenic
     glycoside is highest in very young unripe fruit and falls to insignificance in ripe, fallen fruit, so
     ripeness, not a growing condition, sets the level (a toxin *lowered* by maturation).
+  - `seed_watermelon` (`watermelon.md`, Finding 7 and Hazards): aflatoxin B1 in egusi (*C.
+    mucosospermus*) seed is a post-harvest, storage-driven toxin — undetected for the first months but
+    rising from about the fourth week in poorly dried or humidly stored seed (worst in jute sacks),
+    while prompt two-stage drying and dry storage hold it down (a toxin *raised* by storage conditions,
+    not the growing crop).
   - Imported: potato (light raises glycoalkaloids from 12-20 to 250-280 mg/kg); cassava (drought raises
     cyanogens); taioba (sun and heat raise oxalate; also higher in the dry season); celeriac (pink rot
     raises psoralens); sweet potato (mouldy roots form a lung toxin).
