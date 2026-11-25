@@ -1341,6 +1341,27 @@ citations; the items below would upgrade the snippet-depth additions.
   - **Needed for:** naming the clonal/viral-degeneration pathogen behind the Soil
     biology and Propagation bullets [1].
 
+### artocarpus_mutabilis (2026-11-25)
+
+First research of the wild Bornean sister species of marang (pingan /
+tonggom-tonggom), after it passed its gate check. Only snippet/abstract-level
+material was readable; the full texts below hold almost all the species-specific
+data.
+
+- [ ] **`artocarpus_mutabilis--telopea-2026`** (Online): Ruslan, [N.A.], Gardner,
+  E.M. and Ahmad Puad, A.S. (2026), "Comparative leaf anatomy between two sister
+  species: *Artocarpus odoratissimus* (Lumok) and *A. mutabilis* (Pingan) in
+  Sarawak," *Telopea* 30:25-34 (Sydney Open Journals, openjournals.library.sydney.edu.au/TEL/article/view/21732).
+  - **Needed for:** the anatomical measurements, habitat/ecology and any range or
+    phenology detail for *A. mutabilis* specifically (Climate zones; Findings 2-3)
+    [2].
+- [ ] **`artocarpus_mutabilis--gardner-2022`** (Library): Gardner, E.M. and others
+  (2022), "Engagement with indigenous people preserves local knowledge and
+  biodiversity alike," *Current Biology* 32(11):R511-R512,
+  doi:10.1016/j.cub.2022.04.062.
+  - **Needed for:** the complete diagnostic character set separating pingan from
+    lumok (Finding 3; Naming) [1].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.

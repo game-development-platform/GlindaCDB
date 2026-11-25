@@ -85,8 +85,13 @@ count:
 - **`pingan`** (*A. sarawakensis*, "mountain tarap"): orange, shaped like
   marang, with smaller sections [2]. No farming data were read this pass.
 - **`artocarpus_mutabilis`** (*A. mutabilis*): recognized by the Iban and
-  Dusun as distinct, and confirmed as distinct in 2022 [4]. Whether it is
-  cultivated was not read this pass.
+  Dusun as distinct, and confirmed as distinct in 2022 [4]. **Now researched
+  (passed its gate check 2026-11-25; see `artocarpus-mutabilis.md`):** it is
+  the *wild* sister of marang — pingan (Iban) / tonggom-tonggom (Dusun), with
+  smaller, less-sweet, thinner-pulped fruit — and is not cultivated. Its
+  research also found that the Iban name "pingan" is assigned by Gardner et
+  al. (2022) to *A. mutabilis*, conflicting with the `pingan` (*A.
+  sarawakensis*) proposed row below.
 - **Not proposed:** *A. elasticus* is named only as a confusable species
   and a rootstock [1].
 
