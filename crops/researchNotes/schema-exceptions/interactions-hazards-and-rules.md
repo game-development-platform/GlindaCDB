@@ -103,6 +103,12 @@ plain name with the cropID, doc and Finding.
 
 - **Status:** OPEN (imported 2026-11-24).
 - **What doesn't fit:** the template describes a crop alone in its field.
+- **Seen in:**
+  - `ume` (`ume.md`, Finding 2): a UNESCO-recognised integrated agroforestry system — coppice forest is
+    deliberately kept on the ridges around the orchards, giving slope protection and water retention,
+    a prized hardwood charcoal on a ~decade cycle, and habitat for the native bees that pollinate the
+    orchard, while the orchard's early bloom feeds those same bees before other forage; regional yields
+    there run roughly double other districts.
 - **Seen in (imported):** maize and pigeon pea (widely intercropped); grass pea (sown into a standing rice
   crop, *utera*); konjac, arrowroot, elephant foot yam, tacca (under trees); coyo (shade tree in coffee);
   grape (religious rules on what may be sown in a vineyard, see entry 65).
@@ -203,6 +209,10 @@ plain name with the cropID, doc and Finding.
     on Callery rootstock from 1 October 2024 (snippet only); Ohio, Pennsylvania and Massachusetts ban
     Callery pear itself, and Missouri from 2029. A ban on a rootstock restricts the crop's planting stock
     (compare entry 4).
+  - `ume` (`ume.md`, Finding 7): plum pox virus (sharka, EPPO A2) is under eradication on this crop in
+    Japan — a 2010 ordinance set demarcated regulated areas with mandatory destruction of infested trees
+    and bans on moving host plant material; nationwide emergency control ended 31 March 2021 but movement
+    restrictions still apply in the target areas.
   - Imported: mustard oil (erucic-acid limits); head mustard (fertilizer and pesticide intervals before
     harvest); wild rocket (EU leaf nitrate limit); makrut lime (leaf movement under a citrus-greening
     quarantine); bergamot (protected-origin yield cap of 40 t/ha); maypop (pharmacopoeia marker limit);

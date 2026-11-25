@@ -1,7 +1,15 @@
 # Ume / Japanese Apricot (*Prunus mume*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/ume.md`
-**Researched:** 2026-10-02
+**Researched:** 2026-10-02 (re-researched 2026-11-25 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md`.
+Added: the identity and eradication timeline of the Finding 7 virus (plum pox /
+sharka); a citrus-of-stone-fruit flowering-physiology source for the photoperiod
+angle; *Prunus* salinity-tolerance material; and *P. mume* naturalisation/
+invasive-status references. New Agronomic data lines on first bearing, edibility,
+photoperiod, salinity, weather response, water regime, harvest windows, soil
+biology, invasiveness / biosecurity and controlled environment; sources
+[39]-[42].)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -138,16 +146,22 @@ before consumption. A separate study reports the opposite trend (toxin
 levels *rising*, not falling, in both seed and flesh as the fruit
 ripens) — a direct conflict between sources that is not resolved here.
 
-**Finding 7 — a serious viral disease now established in Japan.** A
-specific aphid-and-graft-transmissible stone-fruit virus was first
-detected in Japan in a recent decade, found in orchards of this crop
-across three areas including the greater Tokyo region. One affected city
-has since removed tens of thousands of trees as a control measure; a
-notable public park lost over a thousand trees in one outbreak and
-waited several virus-free years before replanting. No treatment exists
-for this virus, which spreads via aphids and via grafting with infected
-budwood — the same budwood-borne risk documented for other stone-fruit
-crops this project has researched.
+**Finding 7 — a serious viral disease now established in Japan.** The
+aphid-and-graft-transmissible stone-fruit virus of this crop is **plum pox
+virus** (sharka; an EPPO A2 quarantine pathogen), first confirmed in Japan in
+spring 2009 in orchards of this crop at Ome City in the greater Tokyo region,
+with first-year detections also in Ibaraki and Kanagawa [39]. One affected city
+has since removed tens of thousands of trees as a control measure; a notable
+public park lost over a thousand trees in one outbreak and waited several
+virus-free years before replanting [22]. Under a 2010 ordinance the government
+set regulated/demarcated areas, destroyed infested trees and banned movement of
+host plant material; the initial detections were the PPV-D strain, with PPV-M
+first found (on this crop) at Yokohama in 2016, and nationwide emergency control
+was ended on 31 March 2021 after infection in the target areas fell sharply,
+though movement restrictions still apply there [39]. No treatment exists for the
+virus, which spreads via aphids and via grafting with infected budwood — the same
+budwood-borne risk documented for other stone-fruit crops this project has
+researched.
 
 **Finding 8 — traditional shrine and New Year ritual uses.** At least one
 major Shinto shrine holds an annual fruit-picking rite in late spring
@@ -174,17 +188,33 @@ custom.
   ground-nets through early summer (Finding 1). A grower may split the
   crop between the two stages; a fruit picked green is unavailable for
   the later ripe harvest.
-- **Climate:** Warm-temperate and subtropical (with low-chill cultivar
-  options for subtropical highland growing), and temperate for late-
-  blooming apricot-type cultivar selections. Excluded from arid climates
-  given this species' shallow roots and drought sensitivity.
+- **Days/years to first bearing:** First fruit at two to three years from
+  grafted nursery stock, full bearing by roughly the tenth year (Stand
+  life) [25][14].
+- **Climate zones:** Warm-temperate and subtropical (with low-chill
+  cultivar options for subtropical highland growing, over a documented
+  native elevation band [1]), and temperate for late-blooming apricot-type
+  cultivar selections. Excluded from arid climates given this species'
+  shallow roots and drought sensitivity; soil salinity and alkalinity also
+  limit where it can be grown (Soil) [42]. Chill requirement varies nearly
+  fourfold across cultivars (Finding 3) [11].
 - **Composition:** A moderate calorie content for raw fruit, very high
   water content, and meaningful fiber content; the traditional salted
-  product is lower in calories but extremely high in sodium.
+  product is lower in calories but extremely high in sodium [16].
+- **Edibility:** Essentially never eaten raw — the unripe flesh is sour
+  and cyanogenic (Finding 6), so every traditional product is processed
+  (salted and sun-dried, spirit-steeped, sugar-macerated, smoke-dried, or
+  boiled to an extract) (Naming and scope; Uses).
 - **Pollination:** Required — roughly two-thirds of fruiting cultivars
   are self-incompatible and depend on interplanted pollinizer cultivars
   and native or managed honeybees, which are active only above a specific
   minimum temperature and in light wind.
+- **Photoperiod sensitivity:** Not the governing cue — bloom timing in
+  this species is set mainly by chilling accumulation followed by a heat
+  requirement, with photoperiod only a secondary modulator (it
+  participates in autumn endodormancy induction, not in the
+  chilling-driven release that sets bloom date) [41]. No day-length
+  requirement for the (fruit) harvested organ.
 - **Yield:** A wide range from a national average up through yields in a
   specialized high-intensity growing region, an exceptional organic-
   grower figure, and a documented poor-year figure following a combined
@@ -213,7 +243,13 @@ custom.
   core growing region uses gravelly, well-drained, neutral-pH slopes.
   Soil nutrient-uptake figures are estimated by analogy to a related
   stone-fruit crop this project has researched, since no dedicated
-  nutrient-removal study was found.
+  nutrient-removal study was found. *Salinity:* salt-sensitive — soil
+  salinity and alkalinity are recognised limits on where *P. mume* can be
+  grown, and its salt-tolerance mechanism has not been systematically
+  studied (one 'Meiren'-cultivar transcriptome study is the main
+  species-specific work); *Prunus* generally is salt-sensitive, with
+  tolerance set by chloride/sodium exclusion and strongly rootstock-
+  dependent [42].
 - **Stand life:** First fruit at two to three years after planting from
   grafted nursery stock, full bearing by roughly the tenth year; total
   productive lifespan is not well sourced, though garden specimens are
@@ -238,6 +274,50 @@ custom.
   and shows chilling injury with extended storage below a specific
   refrigeration threshold. The traditional salted-dried product and a
   traditional spirit-infusion both keep for years at room temperature.
+- **Weather response:** The dominant climate risk is warm/abnormal
+  bloom-time weather, not frost extremes — a warm winter advances bloom
+  and produces abnormal flowers with reduced pollen germination and poor
+  set, and cold, windy bloom weather suppresses bee visitation and fruit
+  set (Finding 3); apricot-type cultivars are preferred for frost-prone
+  sites, and a specific bloom-damage temperature threshold is documented
+  [25]. Frost here is purely a hazard, with no documented quality-
+  improving (e.g. sweetening) role. Summer-through-winter water stress
+  cuts the following year's crop (Finding 4). Waterlogging tolerance was
+  not specifically researched (stone-fruit analogy).
+- **Water regime:** Ordinary rain-fed/irrigated culture on sloping
+  orchards; no flooded/paddy requirement, and the core region grows it on
+  slopes explicitly unsuited to rice (Finding 2). Because conventional
+  irrigation is hard on those slopes, growers raise soil water-holding
+  capacity instead (deep plowing, organic matter, green mulch), and a
+  soil-moisture-tension-triggered irrigation during flower-bud formation
+  maintains the next year's flowering (Finding 4).
+- **Harvest stages / windows:** Two stages from one orchard in one season
+  — green fruit hand-picked in late spring for spirits/syrup, and fully
+  ripe fruit caught daily in ground-nets through early summer and salted
+  the same day (Finding 1). A fruit picked green is unavailable for the
+  later ripe harvest. Bloom is midwinter (the earliest-blooming
+  stone-fruit this project has researched), harvest late spring to early
+  summer.
+- **Soil biology:** Not sourced in detail for this species. The
+  practically important soil/stock-borne issue is budwood-transmitted plum
+  pox virus (Finding 7) [39] rather than a documented replant disease,
+  mycorrhizal dependence, or allelopathy; a graft-incompatibility problem
+  with one alternative rootstock species is noted (Propagation) [37].
+- **Invasiveness / biosecurity:** Native to China (wild-diversity centre
+  in a specific mountainous region [30]); introduced elsewhere but **not**
+  rated an invasive weed — it is recorded as introduced (not invasive) in
+  the United States and assessed as having little invasive potential, and
+  is "not commonly planted" there [40]. The real biosecurity weight is
+  plant-health, not weediness: plum pox virus (sharka, EPPO A2) is under an
+  active eradication programme in Japan, with demarcated regulated areas,
+  mandatory destruction of infested trees and bans on moving host plant
+  material (Finding 7) [39]. Clean, virus-tested budwood and the quarantine
+  controls are the governing measures; broader stone-fruit quarantines
+  were not otherwise surveyed this pass.
+- **Controlled environment:** Not a protected/greenhouse field crop; the
+  species' prominent non-orchard use is as an ornamental flowering tree
+  and bonsai subject (Naming and scope), and no greenhouse fruit-production
+  figure was sought or found.
 
 ## Hazards
 
@@ -255,6 +335,12 @@ custom.
   the order of several grams of sodium per 100 g in traditional
   preparations) — an ordinary dietary-sodium consideration rather than an
   acute hazard, well known and not otherwise flagged here.
+- **Plant-health (not consumer) hazard:** plum pox virus (sharka), a
+  quarantine pathogen now under eradication in Japan on this crop, is
+  graft- and aphid-transmitted with no cure and triggers mandatory tree
+  destruction and host-material movement bans (Finding 7) [39]. **TO BE
+  ADDRESSED** — deferred until this project has a place for plant-health
+  data.
 
 ## Uses and processing
 
@@ -281,6 +367,12 @@ custom.
 
 ## Open research questions
 
+- 2026-11-25 pass caveats: the newly added angles are sourced at
+  snippet/report depth. Plum pox detail (strains, dates, end of emergency
+  control) comes from EPPO/MAFF reporting; the photoperiod and salinity
+  points rest on *Prunus*-wide (not always *P. mume*-specific) physiology,
+  with no systematic *P. mume* salt-tolerance study; and the non-invasive
+  status rests on a database flag and an older (1994) extension fact sheet.
 - Whether the cyanogenic toxin in seed and flesh rises or falls with
   increasing fruit ripeness is directly disputed between two sources —
   not resolved.
@@ -658,3 +750,39 @@ Supplied: a note on chilling-related browning of green fruit under
 refrigeration, and a traditional paper-wrapped room-temperature ripening
 method used when preparing fruit for the salted-dried product. Accessed
 2026-10-02, search snippets only.
+
+[39] Plum pox virus (sharka) sources on this crop in Japan (added in the
+2026-11-25 re-research): the EPPO Global Database reporting-service articles and
+distribution record, a Japanese Ministry of Agriculture (MAFF) pest-risk-analysis
+table, Tokyo Metropolitan Government plum-pox material, and a *Journal of General
+Plant Pathology* (2010) first-report article. Supplied: first confirmation in
+spring 2009 at Ome City, Tokyo, with first-year detections in Ibaraki and
+Kanagawa; the 2010 ordinance establishing regulated/demarcated areas with
+mandatory destruction of infested trees and bans on moving host plant material;
+the PPV-D strain initially and PPV-M first found on this crop at Yokohama in 2016;
+the EPPO A2 quarantine status ("present, under eradication"); and the end of
+nationwide emergency control on 31 March 2021 with residual movement
+restrictions. Accessed 2026-11-25, search snippets only.
+
+[40] Sources on *P. mume* naturalisation/invasive status: the GBIF species page
+(recorded introduced, invasive status "No"), a University of Florida IFAS tree
+fact sheet (1994; "little, if any" invasive potential), NC State Extension (not
+commonly planted in the US), and USDA GRIN (naturalised in Japan). Supplied: the
+basis for treating the species as introduced-but-not-invasive. Accessed
+2026-11-25, search snippets only (the IFAS sheet is a 1994 document).
+
+[41] Sources on *P. mume* flowering physiology: a 2026 *Fruit Research* review
+(flowering timing governed mainly by chilling accumulation then heat requirement,
+photoperiod a secondary modulator), a 2021 *Horticultural Plant Journal* study on
+photoperiod/temperature control of dormancy induction, and a 2018 *Scientific
+Reports* transcriptome study of the miR6390-DAM chilling-release mechanism.
+Supplied: the chilling-primary, photoperiod-secondary basis for the photoperiod
+line. Accessed 2026-11-25, search snippets only.
+
+[42] Sources on salinity in *P. mume* and *Prunus*: a 2021 study of the 'Meiren'
+cultivar's salt-stress signalling (noting soil salinity/alkalinity as limits on
+where *P. mume* grows and that its salt-tolerance mechanism is not systematically
+studied) and *Prunus* rootstock salt-tolerance comparisons (tolerance set by
+chloride/sodium exclusion; *Prunus* generally salt-sensitive; peach-almond and
+other hybrid rootstocks the more tolerant). Supplied: the salt-sensitivity
+assessment and the genus mechanism. Accessed 2026-11-25, search snippets only.

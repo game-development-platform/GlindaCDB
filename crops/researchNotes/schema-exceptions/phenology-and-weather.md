@@ -25,9 +25,13 @@ plain name with the cropID, doc and Finding.
     bloom and yield (SWP above −2.2 MPa); below −2.8 MPa the next crop falls; over-irrigation cuts later
     flowering; relieved severe stress can cause autumn re-bloom; a heavy crop suppresses next year's bud
     initiation (Finding 2).
+  - `ume` (`ume.md`, Finding 4): water stress from summer (flower-bud formation) through the following
+    winter sharply cuts the next spring's flower-bud number, flower size and fruit set — the most severe
+    restriction preventing flowering entirely — so a soil-moisture-tension-triggered irrigation in that
+    window protects next year's crop.
   - Imported: olive (alternate bearing; an off year about 57% lower in fruit); longan (off-year crop
     20-40%); mandarin (alternate bearing managed by chemical thinning); coyo; grapefruit (a late harvest
-    lowers the next crop); ume (water stress July-March cuts next spring's flowers); lowbush blueberry
+    lowers the next crop); lowbush blueberry
     (irrigation in the prune year raises the next year's buds; fields alternate prune and crop years);
     blackberry (alternate-year cropping).
 - **Possible home:** a "Carry-over effects" angle, covering any management or weather event whose main

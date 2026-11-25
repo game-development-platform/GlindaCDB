@@ -1221,6 +1221,26 @@ depth; the items below would upgrade it.
   - **Needed for:** replacing the RHS/zone hardiness-rating databases with a
     measured threshold (Weather response; Finding 5) [10].
 
+### ume (2026-11-25)
+
+Re-research of the `ume.md` profile (*Prunus mume*) against the current
+checklist. Plum-pox identity/eradication, photoperiod, salinity and
+invasiveness material was added at snippet/report depth; the items below would
+upgrade it. (Separate from this: the migrated doc carries inline citations for
+only a few of its 38 sources — a doc-wide citation-format cleanup, not a
+research gap.)
+
+- [ ] **`ume--ppv-maff-status`** (Online): the current MAFF / plant-protection
+  station status and demarcated-area map for plum pox virus on Japanese apricot.
+  - **Where:** Japanese government plant-protection pages (often not script-
+    accessible).
+  - **Needed for:** confirming the post-2021 surveillance status and residual
+    movement restrictions behind Finding 7 [39].
+- [ ] **`ume--salt-tolerance`** (Library): a systematic *P. mume* salinity /
+  rootstock salt-tolerance study.
+  - **Needed for:** a species-specific salt-tolerance threshold to replace the
+    *Prunus*-genus analogy (Soil salinity bullet) [42].
+
 ### strawberry (2026-11-25)
 
 Re-research of the garden-strawberry profile in the shared `strawberry.md`

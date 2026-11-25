@@ -126,9 +126,13 @@ plain name with the cropID, doc and Finding.
   - `sour_cherry` (`cherry.md`, Finding 3 and the 2026-11-25 re-research): trunk-shaken onto catch frames
     and bruised and softened in handling, so mechanically harvested fruit is a processing product only —
     the harvest method, not ripeness, decides it cannot be a fresh pack (sweet cherry, hand-picked, can).
+  - `ume` (`ume.md`, Finding 1): two products from one orchard set by harvest stage *and* method — green
+    fruit is hand-picked for spirit-infusions and syrup, while fruit left to ripen falls into ground-nets,
+    is collected daily and salted the same day for the salted-dried product; a fruit picked green is
+    unavailable for the later ripe harvest.
   - Imported: durian (cut from the tree vs windfall); cranberry (water harvest for processing vs dry
     harvest for fresh); blueberry (hand vs machine); raspberry (machine-picked fruit is for processing
-    only); ume (nets catch fallen ripe fruit); cashew (gathering fallen nuts weekly loses the cashew
+    only); cashew (gathering fallen nuts weekly loses the cashew
     apple, 8-10 times the nut weight, which needs near-daily hand picking and processing within hours);
     lotus root (water-jet digging in the flooded field vs drained hoe digging; water-jet digging of
     arrowhead needs a water allocation).
