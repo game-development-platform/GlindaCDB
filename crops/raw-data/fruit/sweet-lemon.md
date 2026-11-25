@@ -1,7 +1,17 @@
 # Sweet Lemon / Limetta (*Citrus limetta*) and Palestine Sweet Lime (*C. limettioides*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/sweet-lemon.md`
-**Researched:** 2026-10-06
+**Researched:** 2026-10-06 (re-researched 2026-11-25 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md`.
+Added: IOCV/UC Riverside and FAO material on Palestine sweet lime's rootstock
+virus-decline behaviour; a citrus-flowering physiology review for the
+photoperiod/chill angle; RHS and extension cold-hardiness ratings; a citrus
+rootstock salinity genus-context source; and "sweet lime / mosambi" composition
+snippets. New Finding 4 (rootstock virus decline) and Finding 5 (climate
+placement among citrus); new Agronomic data lines on first bearing, edibility,
+photoperiod, weather response, water regime, soil biology, invasiveness /
+biosecurity and controlled environment. Values from `lemon.md` are now labelled
+as analogies wherever used.)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -25,7 +35,7 @@ of genetically unrelated citron hybrids grown mainly as curiosities or
 ornamentals, with minimal commercial importance — fails this project's
 distinctiveness test and is instead noted as a cultivar-level detail
 under a separate citron research entry this project has also produced,
-not covered as its own row here. The naming is further tangled by at
+not covered as its own row here [6]. The naming is further tangled by at
 least one source treating that citron-hybrid group as a straightforward
 synonym of Palestine sweet lime, while another source treats them as
 clearly separate — this entry follows the separation and keeps limetta
@@ -37,7 +47,7 @@ That cultivar is botanically a sweet orange, grown on tens of thousands
 of hectares in one Indian state, and is covered under this project's
 separate sweet-orange research rather than here; production and juice-
 market statistics tied to that name were excluded from this entry for
-that reason.
+that reason [7].
 
 This entry's distinctiveness rests on a judgment call rather than a
 clean statistical case: no dedicated production statistics were found
@@ -98,6 +108,38 @@ fruit in at least one major U.S. citrus-growing state due to virus
 susceptibility [3]. It is eaten fresh and valued in at least one country
 for a traditional "cooling" remedy used in fever and jaundice [3].
 
+**Finding 4 — Palestine sweet lime is a rootstock that declines from
+graft-transmissible viruses, and is itself a cachexia indicator.** The
+clonal/viral-degeneration angle is this crop's most distinctive agronomic
+trait. As a rootstock, *C. limettioides* is highly susceptible to
+xyloporosis/cachexia (a graft-transmissible viroid disease): its susceptibility
+was reported as early as 1934, and in at least one Mediterranean growing area
+trees on sweet lime are removed before about year ten because they almost always
+decline from xyloporosis [8]. Its tristeza behaviour is reported inconsistently —
+some work rates it more tolerant than sour orange or Eureka lemon, other reports
+record wood-pitting and decline where tristeza is present (in one Argentine
+district with ~60% of trees on sweet lime, researchers expected a gradual
+plantation decline as had happened elsewhere) — and FAO indicator tables list it
+among exocortis hosts [8]. Precisely because it reacts, sweet lime is also used
+as an *indicator plant* for detecting cachexia in candidate trees [8]. This both
+explains the virus-susceptibility note already recorded for the fruiting crop
+and makes clean (certified, virus-tested) propagation stock the decisive factor
+in how long a planting lasts.
+
+**Finding 5 — a frost-tender, acid-lime-type citrus whose flowering is driven by
+cold or drought, not day length.** Placed against the current checklist's
+climate angles: citrus flowering is only weakly tied to photoperiod — it is
+induced primarily by cool temperatures or by drought stress, with no chill-hour
+threshold, and air temperature and soil moisture matter more than day length [9];
+there is no vernalization/chill requirement. The crop is cold-tender: a general
+reference rates *C. limetta* at the most tender hardiness class (RHS H2, roughly
+USDA zones 10-12, needing a sheltered site), consistent with acid lemon/lime
+types being the least cold-hardy citrus and young trees the most freeze-prone;
+*C. limettioides* is cited as hardy only to the low 30s °F for short spells
+[10]. Temperatures above ~30 °C can also impair citrus flowering [9]. (A naming
+caution: some "sweet lime" cold-hardiness figures online are for *C.
+limettioides*, not *C. limetta* — the two are kept distinct here [10].)
+
 ## Agronomic data
 
 - **Life form / season:** Perennial thorny evergreen citrus tree,
@@ -106,48 +148,81 @@ for a traditional "cooling" remedy used in fever and jaundice [3].
   year.
 - **Harvest pattern:** Year-round perennial bearing; a single harvest
   quality stage (ripe yellow fruit), with no documented green-picked use.
-- **Climate:** Subtropical, Mediterranean, and irrigated arid climates
-  (its native range in southern Iran), plus tropical highlands.
-- **Composition:** Composition figures are estimated, since no dedicated
-  food-composition table was found; this fruit is assumed to sit between
-  a typical acidic lemon-type citrus and a sweet orange in calorie
-  density, reflecting its lower acidity and comparatively higher
-  sweetness.
+- **Days/years to first bearing:** About five to seven years from seed,
+  reaching peak production between roughly ten and twenty years (Finding
+  2) [1].
+- **Climate zones:** Subtropical, Mediterranean, and irrigated arid
+  climates (its native range in southern Iran), plus tropical highlands.
+  Frost-tender — rated at the most cold-sensitive hardiness class (RHS H2,
+  roughly USDA zones 10-12 for *C. limetta*), in line with acid
+  lemon/lime-type citrus being the least cold-hardy group (Finding 5)
+  [10]. No chilling/vernalization requirement (Finding 5) [9].
+- **Composition:** No dedicated *C. limetta* food-composition table was
+  found; figures are estimated as intermediate between an acidic
+  lemon-type citrus and a sweet orange [13] (see Estimates). Secondary
+  "sweet lime / mosambi" snippets give roughly 43-47 kcal, ~0.8 g protein
+  and ~30 mg vitamin C per 100 g, but these sources conflate *C. limetta*,
+  *C. limettioides* and the excluded sweet-orange "mosambi", so they are
+  treated as weak corroboration only [12] (Open research questions).
+- **Edibility:** Raw-edible — the acidless, sweet-mild pulp is eaten fresh
+  or juiced rather than used as a souring agent, the key contrast with
+  typical lemon-type citrus; juice must be drunk at once (Finding 1).
 - **Pollination:** Palestine sweet lime is self-compatible, setting
   maximum fruit from self-pollination; limetta's pollination
   requirements were not specifically researched, and general insect-bee
   pollination support is assumed by analogy with other citrus.
+- **Photoperiod sensitivity:** Not a factor — citrus flowering is only
+  weakly photoperiodic and is induced instead by cool temperatures or
+  drought stress, with no day-length requirement for flowering and none
+  for the (fruit) harvested organ [9] (Finding 5).
 - **Yield:** No dedicated production statistics were found for this
   specific crop group; yield figures here are estimated by scaling down
   from values documented for a lemon-type citrus this project has
-  researched, reflecting an assumed lower-input, largely seedling-grown
-  production system (see Estimates below for adopted tier values).
+  researched (`lemon.md`), reflecting an assumed lower-input, largely
+  seedling-grown production system [13] (see Estimates below for adopted
+  tier values).
 - **Water use:** No species-specific standard crop-coefficient curve was
   found; water-use parameters (crop-coefficient curve, stage lengths,
   seasonal water totals, pH tolerance, planting density, labor figures,
   and stress multipliers) are all carried over by analogy from a lemon-
-  type citrus this project has previously researched, given the shared
-  genus and broadly similar tree form; seedling-propagated trees are
-  likely somewhat larger and slower to reach bearing age than budded
-  trees of that analog crop.
+  type citrus this project has previously researched (`lemon.md`), given
+  the shared genus and broadly similar tree form; seedling-propagated
+  trees are likely somewhat larger and slower to reach bearing age than
+  budded trees of that analog crop [13].
 - **Propagation:** Limetta from seed; Palestine sweet lime from cuttings;
   named horticultural selections from budded scionwood (one documented
   historical U.S. collection selection was held on lemon rootstock).
   Palestine sweet lime is itself an important citrus rootstock used
-  commercially in several countries.
+  commercially in several countries — but a *declining* one: it is highly
+  susceptible to graft-transmissible xyloporosis/cachexia and declines
+  further where tristeza is present, so plantings on it are shorter-lived
+  unless started from clean, virus-tested stock, and the species doubles
+  as a cachexia *indicator* plant (Finding 4) [8]. As a mainly
+  seed/cutting-grown fruiting crop it carries less clonal-virus baggage
+  than budded citrus, but the same viruses bear on it through its
+  rootstock role.
 - **Labor:** No crop-specific labor data were found; labor figures are
   carried over entirely by analogy from a lemon-type citrus this project
-  has researched.
+  has researched (`lemon.md`) [13].
 - **Soil:** pH tolerance figures are carried over by analogy from that
-  same lemon-type citrus analog, since no species-specific soil data were
-  found.
+  same lemon-type citrus analog (`lemon.md`), since no species-specific
+  soil data were found [13]. *Salinity:* no direct *C. limettioides*
+  salt-tolerance test was found; citrus salt tolerance is rootstock-set
+  and works by chloride/sodium exclusion, with lime/lemon-relative stocks
+  (Rangpur, Volkamer, rough lemon, Alemow) among the more tolerant in
+  genus trials — a genus analogy only, not a figure for this crop [11].
 - **Stand life:** Peak production between ten and twenty years after
   planting from seed; total productive lifespan was not researched in
-  detail.
-- **Disease/pest profile:** Palestine sweet lime shows documented virus
-  susceptibility severe enough that it is not grown for fruit in at least
-  one major U.S. citrus-growing state, though it remains valued there and
-  elsewhere purely as a rootstock.
+  detail. On a virus-affected sweet-lime rootstock, stand life is cut
+  short by xyloporosis/tristeza decline (Finding 4) [8].
+- **Disease/pest profile:** The dominant issue is graft-transmissible
+  virus/viroid decline on Palestine sweet lime rootstock — high
+  xyloporosis/cachexia susceptibility, further decline where tristeza is
+  present, and listing among exocortis hosts — severe enough that the crop
+  is not grown for fruit in at least one major U.S. citrus-growing state,
+  though it stays valued elsewhere as a rootstock and as a cachexia
+  indicator (Finding 4) [3][8]. General citrus pests/diseases apply by
+  analogy but were not separately researched for this group.
 - **Cultivars:** A baseline Iranian seedling type (acidless, sweet-mild,
   used as a traditional cold remedy); a very-low-acid, everbearing
   historical selection with a spring main bloom; a fully acidless
@@ -165,16 +240,59 @@ for a traditional "cooling" remedy used in fever and jaundice [3].
   months; a dedicated storage trial found a specific moderately cool
   temperature best for overall freshness, with an even colder temperature
   better for polyphenol retention (Finding 1).
+- **Establishment:** Set out as seedlings (limetta), rooted cuttings
+  (Palestine sweet lime), or budded nursery trees for named selections;
+  planting density and nursery practice are carried over by analogy from
+  the lemon-type citrus analog [13], no species-specific figure found.
+- **Weather response:** Frost-tender (Finding 5) — acid lemon/lime-type
+  citrus are the least cold-hardy group and young trees the most
+  freeze-prone; *C. limetta* sits at the most tender hardiness class and
+  *C. limettioides* is cited as hardy only to the low 30s °F for short
+  spells [10]. Heat above ~30 °C can impair flowering [9]. Drought,
+  waterlogging and wind thresholds were not sourced for this crop (lemon
+  analogy only) [13].
+- **Water regime:** Ordinary irrigation (subtropical/Mediterranean/arid
+  citrus practice); no flooded/paddy requirement. A dry spell can itself
+  trigger bloom, since drought stress is one of the two citrus
+  flower-induction cues [9] (Finding 5).
+- **Harvest stages / windows:** One ripe quality stage (yellow fruit), no
+  documented green-pick/cure route; bearing is spread through the year
+  with a spring main bloom in at least one selection (Harvest pattern;
+  Finding 2). The urgency is in the *juice*, which turns bitter within
+  minutes of pressing, not in the fruit on the tree (Finding 1).
+- **Soil biology:** Not sourced for this crop group. The practically
+  important soil-borne constraint is the rootstock's virus/viroid decline
+  (Finding 4) [8] rather than a documented replant or mycorrhizal effect.
+- **Invasiveness / biosecurity:** Native to southern Iran; no
+  invasive-species listing or naturalisation/escape record was found for
+  *C. limetta* in this pass. The real biosecurity weight is plant-health,
+  not weediness: Palestine sweet lime's virus susceptibility bars it from
+  fruit production in at least one major U.S. citrus state, and clean,
+  virus-tested propagation stock (as supplied through citrus clonal-
+  protection/certification programmes for the genus) is the governing
+  control (Findings 3-4) [3][8]. Broader citrus quarantines (for example
+  on huanglongbing or canker) were not checked in this pass.
+- **Controlled environment:** Grown under glass as a container/ornamental
+  citrus in cool climates (a general-reference and horticultural-society
+  practice for tender citrus) [10]; no greenhouse fruiting-yield figure
+  was sourced, and the full-size thorny tree makes commercial protected
+  fruit production unlikely (an inference).
 
 ## Hazards
 
-- No specific hazards were found for this crop group. Peel-oil
+- No consumer food-safety hazards were found for this crop group. Peel-oil
   phototoxicity (a documented concern for furanocoumarins in the peel oil
   of a related lemon-type citrus this project has researched) was not
   specifically researched for this crop group, and this entry does not
   extend that hazard here without a direct source. **TO BE ADDRESSED** —
   worth a dedicated check against a species-specific source before this
   crop's peel oil is treated as hazard-free.
+- **Plant-health (not consumer) hazard:** as a rootstock, Palestine sweet
+  lime is a reservoir/declining host for graft-transmissible citrus
+  viruses and viroids (xyloporosis/cachexia, tristeza, exocortis), which
+  shorten the life of trees worked on it and bear on nursery biosecurity
+  (Finding 4) [8]. **TO BE ADDRESSED** — deferred until this project has a
+  place for plant-health data, alongside the peel-oil item above.
 
 ## Uses and processing
 
@@ -190,6 +308,20 @@ for a traditional "cooling" remedy used in fever and jaundice [3].
 
 ## Open research questions
 
+- 2026-11-25 pass caveats: Findings 4-5 and the new Agronomic lines lean
+  on older IOCV/UC Riverside conference papers and reports for the
+  rootstock virus-decline behaviour (current recommendations may differ),
+  on citrus-wide (not *C. limetta*-specific) flowering physiology for the
+  photoperiod/chill angle, on genus rootstock trials (no direct *C.
+  limettioides* test) for salinity, and on hardiness-rating databases
+  rather than a measured killing temperature for cold tolerance. No
+  invasiveness/naturalisation record for *C. limetta* was found either
+  way.
+- "Sweet lime / mosambi" composition snippets (~43-47 kcal, ~30 mg
+  vitamin C per 100 g) conflate *C. limetta*, *C. limettioides* and the
+  excluded sweet-orange "mosambi"; a clean *C. limetta* entry (USDA
+  FoodData Central or the Indian Food Composition Tables) would replace
+  the analogy-based estimate.
 - No dedicated production statistics (growing area, national tonnage)
   were found for this crop group specifically; regional production
   figures are entangled with a differently classified sweet-orange
@@ -315,3 +447,51 @@ Supplied: named growing provinces for this crop group in its native
 country, and separate growing-area figures confirming the excluded
 cultivar's identity and extent as a sweet-orange cultivar in a specific
 Indian state. Accessed 2026-10-06, search snippets only.
+
+[8] International Organization of Citrus Virologists (IOCV, UC Riverside)
+conference proceedings and an FAO virus-host table on sweet lime
+(*C. limettioides*) as a rootstock (added in the 2026-11-25 re-research).
+Supplied: high xyloporosis/cachexia susceptibility (reported from 1934;
+trees removed before ~year 10 in a Mediterranean area due to near-certain
+decline), mixed tristeza behaviour (rated more tolerant than sour orange and
+Eureka lemon by one study, but wood-pitting and decline reported where tristeza
+is present, including an Argentine district with ~60% of trees on sweet lime),
+listing among exocortis hosts, and the use of sweet lime as a cachexia indicator
+plant. Accessed 2026-11-25, search snippets only (older conference papers/reports;
+current recommendations may differ).
+
+[9] University of Florida IFAS citrus-flowering extension material and a
+citrus-flowering physiology review. Supplied: citrus flowering is only weakly
+associated with photoperiod/vernalization and is induced primarily by cool
+temperatures or drought stress, with no chill-hour threshold and air
+temperature/soil moisture more influential than day length; temperatures above
+~30 °C can impair flowering. Accessed 2026-11-25, search snippets only.
+
+[10] Cold-hardiness references: the Royal Horticultural Society plant profile for
+*C. limetta* (hardiness H2, roughly USDA zones 10-12, sheltered site), an
+American University of Beirut landscape-plant profile, the Arizona-Sonora Desert
+Museum sweet-lime sheet (the *C. limetta* vs *C. limettioides* naming caution;
+*C. limettioides* hardy to the low 30s °F for short periods), and University of
+Georgia / Mississippi State extension notes that acid lemon/lime-type citrus are
+the least cold-hardy group and young trees the most freeze-prone. Accessed
+2026-11-25, search snippets only.
+
+[11] Citrus rootstock salinity-tolerance studies (Brazilian and Indian
+screenings). Supplied: salt tolerance in citrus is rootstock-set and works by
+chloride/sodium exclusion and accumulation in old leaves, with lime/lemon-
+relative stocks (Rangpur lime, Volkamer and rough lemon, Alemow) among the more
+tolerant; no *C. limettioides*-specific salinity test was found, so this is a
+genus analogy only. Accessed 2026-11-25, search snippets only.
+
+[12] Secondary "sweet lime / mosambi" nutrition snippets (Indian food-tracking
+and health sites, plus a general-reference limetta entry). Supplied: a
+conflicting range of roughly 43-47 kcal, ~0.8 g protein, ~9 g carbohydrate and
+~30 mg vitamin C per 100 g; none is a primary food-composition database and the
+"mosambi" label conflates *C. limetta*, *C. limettioides* and the excluded
+sweet-orange cultivar, so these are weak corroboration only. Accessed
+2026-11-25, search snippets only.
+
+[13] This project's own research file `lemon.md`, used only as a labelled analogy
+for composition, water-use/FAO-56 citrus coefficients, soil pH tolerance,
+planting density, labour, salinity context and yield scaling where no
+*C. limetta*-specific figure exists. Accessed 2026-11-25, internal reference.

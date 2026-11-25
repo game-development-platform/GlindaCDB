@@ -187,6 +187,11 @@ plain name with the cropID, doc and Finding.
   - `quince` (`quince.md`, Finding 1 and Propagation): grown in dedicated stool beds as the classic
     dwarfing rootstock for pear and also used for medlar; a long-standing storage reference calls
     rootstock use the crop's main commercial purpose.
+  - `sweet_lemon` (`sweet-lemon.md`, Finding 4 and Propagation): Palestine sweet lime (*C. limettioides*)
+    is a significant citrus rootstock in several countries — but a declining one, highly susceptible to
+    graft-transmissible xyloporosis/cachexia (trees removed before ~year 10 in one region) and further
+    declining where tristeza is present, which is exactly the sour-orange/tristeza pattern imported below;
+    it also doubles as a cachexia indicator plant.
   - Imported: date-plum (rootstock seed for Asian persimmon); golden
     currant; sour orange (classic citrus stock; tristeza kills sweet orange on it); cherry plum; squash
     as a graft stock for oriental melon.

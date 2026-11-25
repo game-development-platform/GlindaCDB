@@ -1198,6 +1198,29 @@ was added at search-snippet/database depth; the items below would upgrade it.
     analogy-based estimate and the conflicting generic snippets (Composition;
     Open research questions) [15].
 
+### sweet_lemon (2026-11-25)
+
+Re-research of the `sweet-lemon.md` profile (*Citrus limetta* / Palestine sweet
+lime) against the current checklist. Rootstock virus-decline, photoperiod/chill,
+salinity, cold-hardiness and composition material was added at search-snippet
+depth; the items below would upgrade it.
+
+- [ ] **`sweet_lemon--iocv-xyloporosis`** (Library): a modern IOCV / UC
+  Riverside review of Palestine sweet lime (*C. limettioides*) rootstock virus
+  and viroid behaviour (xyloporosis/cachexia, tristeza, exocortis).
+  - **Needed for:** replacing the older conference-paper snippets with current
+    recommendations behind Finding 4 and the disease/propagation lines [8].
+- [ ] **`sweet_lemon--ifct-composition`** (Online): a clean *C. limetta* row
+  from the Indian Food Composition Tables or USDA FoodData Central (not the
+  "mosambi" sweet-orange entry).
+  - **Needed for:** a species-specific composition figure to replace the
+    analogy estimate and the conflated mosambi snippets (Composition; Open
+    research questions) [12].
+- [ ] **`sweet_lemon--cold-killing-temp`** (Library): a measured cold-hardiness
+  / killing-temperature figure for *C. limetta* specifically.
+  - **Needed for:** replacing the RHS/zone hardiness-rating databases with a
+    measured threshold (Weather response; Finding 5) [10].
+
 ### strawberry (2026-11-25)
 
 Re-research of the garden-strawberry profile in the shared `strawberry.md`
