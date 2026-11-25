@@ -23,13 +23,13 @@ as apricot, known by regional names including ume (Japan), mei or meizi
 (China), and maesil (Korea); in English, "Japanese apricot" or
 occasionally "Chinese plum" or "Japanese plum" — the latter two names
 clash with an unrelated plum species this project has also researched as
-its own separate crop. This entry covers the fruiting form of the crop.
+its own separate crop [1]. This entry covers the fruiting form of the crop.
 The purely ornamental flowering form (with several hundred named Chinese
 cultivars across several cultivar groups) is the same species, and its
-blossom-viewing and symbolic uses are noted only in passing here. A
+blossom-viewing and symbolic uses are noted only in passing here [1]. A
 specific named cultivar group, thought to be hybrids between this species
 and apricot, is documented as a cultivar group within this entry rather
-than as a separate row.
+than as a separate row [35].
 
 This entry draws comparisons against two other stone-fruit crops this
 project has researched (one in the same taxonomic section, for shared
@@ -39,21 +39,21 @@ distinguishes itself from both:
 - **The fruit is essentially never eaten raw.** Every traditional product
   is processed in some way: salted and sun-dried, steeped in spirits,
   macerated in sugar as a syrup, smoke-dried, or boiled down into an
-  extract.
+  extract [1][19].
 - **Harvest stage sets the product.** Green (unripe) fruit is picked hard
   for spirit-infusions and syrup. Fruit destined for the salted-and-dried
   product is instead left to ripen and fall naturally into nets spread
   under the trees, collected daily, and salted the same day — a harvest
-  method distinct from other fruit crops this project has documented.
+  method distinct from other fruit crops this project has documented [2].
 - **Calendar.** It blooms in midwinter and is harvested in late spring to
   early summer, the earliest-blooming of the stone-fruit crops this
-  project has researched.
+  project has researched [1].
 - **Storage.** Green fruit yellows within days at room temperature and
-  shows chilling injury below a specific refrigeration threshold.
+  shows chilling injury below a specific refrigeration threshold [13][38].
 - **Market.** It has its own dedicated name and market across Japan,
-  China, and Korea, with national production figures in the tens of
-  thousands of tonnes in at least one of those countries in a typical
-  year.
+  China [31], and Korea [32], with national production figures in the tens
+  of thousands of tonnes in at least one of those countries in a typical
+  year [5][6].
 
 ## Research findings
 
@@ -74,45 +74,45 @@ days, producing a specific intermediate salted-dried product at roughly
 
 **Finding 2 — a UNESCO-recognized integrated agroforestry system.** In
 one specific Japanese growing region, this crop is grown on steep,
-gravelly, nutrient-poor slopes unsuited to rice cultivation, with
+gravelly, nutrient-poor slopes unsuited to rice cultivation [2], with
 coppice forest deliberately maintained on the surrounding ridges. That
 coppice serves multiple simultaneous functions: water retention and
 slope protection; production of a specific hardwood species used to make
 a prized regional charcoal, harvested selectively on a roughly decade-
 long cycle; habitat for native honeybees that pollinate the orchard crop;
 and, in return, the orchard crop feeds those same bees early in the year
-before other forage is available. A substantial majority of the local
+before other forage is available [3][4]. A substantial majority of the local
 working population is employed in this crop's production or related
 industries, and over a dozen local named varieties are recorded in that
-region. Regional yields there run roughly double those of other growing
-districts.
+region [3]. Regional yields there run roughly double those of other growing
+districts [4].
 
 **Finding 3 — warm winters and bloom-time weather strongly determine the
 crop.** The dominant commercial cultivar, along with roughly two-thirds
 of all fruiting cultivars generally, is gametophytically self-
-incompatible, so pollen-rich cultivars that bloom concurrently are
+incompatible [9], so pollen-rich cultivars that bloom concurrently are
 interplanted as pollinizers, and growers release managed honeybees
-during bloom. Bees fly only above a specific minimum temperature and in
-light wind, so hives are deliberately placed in sunny, sheltered spots.
-Cold bloom-time weather measurably lowers bee visitation and fruit set.
+during bloom [2][8]. Bees fly only above a specific minimum temperature and in
+light wind, so hives are deliberately placed in sunny, sheltered spots [2].
+Cold bloom-time weather measurably lowers bee visitation and fruit set [9].
 In one documented recent year, the crop failed across a major growing
 region even in a normally self-compatible cultivar; a controlled warming
 trial reproduced this failure, showing that artificially warmed trees
 bloomed notably earlier, produced flowers with abnormal or missing
 reproductive structures, produced lighter flowers with reduced pollen
-germination, and set substantially less fruit as a result. A worse event
+germination, and set substantially less fruit as a result [12]. A worse event
 the following documented year combined an unusually warm winter with a
 hailstorm, roughly halving that region's crop and bringing the national
-crop well below the prior year's level. Documented chill-requirement
-figures vary nearly fourfold across dozens of surveyed cultivars, with
-the lowest-chill lines originating from subtropical source regions.
+crop well below the prior year's level [5][7]. Documented chill-requirement
+figures vary nearly fourfold across dozens of surveyed cultivars [11], with
+the lowest-chill lines originating from subtropical source regions [10].
 
 **Finding 4 — shallow roots on droughty slopes.** Roots of this species
 lie mostly within a shallow soil layer, and the typical growing soil
 holds little water or fertility, making the tree strongly affected by
 drought. Sloping orchard sites are difficult to irrigate conventionally,
 so growers instead improve soil water-holding capacity through deep
-plowing, organic matter additions, and green mulch cover. A controlled
+plowing, organic matter additions, and green mulch cover [2]. A controlled
 pot trial on young trees found that restricting irrigation specifically
 during the period from summer flower-bud formation through the following
 winter sharply cut flower-bud number, flower size, and fruit set the
@@ -120,16 +120,16 @@ following spring, with the most severe restriction preventing flowering
 entirely; a specific moderate irrigation amount, triggered by a measured
 soil-moisture-tension threshold, was found to maintain normal flowering
 and fruit set. Summer-and-autumn water stress therefore measurably
-reduces the following year's crop.
+reduces the following year's crop [12].
 
 **Finding 5 — comparatively little hand work in the canopy, much more on
 the ground.** This crop is pruned hard during a roughly three-month
 dormant-season window before bloom; unlike related stone-fruit crops,
-fruit is not thinned by hand. A single detailed labor record from an
+fruit is not thinned by hand [2]. A single detailed labor record from an
 organic grower documents substantial annual per-area labor hours broken
 out by weeding, spraying, harvest, shipping preparation, pruning, and
 fertilizing — with weeding being by far the largest single labor
-category in that specific operation.
+category in that specific operation [26].
 
 **Finding 6 — a cyanogenic seed toxin, and a long required maturation
 period for one traditional product.** Documented measurements from
@@ -142,9 +142,9 @@ still carried a meaningfully elevated toxin level after three months of
 maturation, with levels falling steadily and reaching a low, generally
 regarded safe level only by around the twelve-month mark — leading the
 same study to describe at least nine months of maturation as essential
-before consumption. A separate study reports the opposite trend (toxin
+before consumption [20]. A separate study reports the opposite trend (toxin
 levels *rising*, not falling, in both seed and flesh as the fruit
-ripens) — a direct conflict between sources that is not resolved here.
+ripens) — a direct conflict between sources that is not resolved here [21].
 
 **Finding 7 — a serious viral disease now established in Japan.** The
 aphid-and-graft-transmissible stone-fruit virus of this crop is **plum pox
@@ -169,23 +169,23 @@ associated with a specific sacred tree, in which a priest ceremonially
 shakes the branches and shrine attendants gather the fallen green fruit
 by hand; the fruit is offered to the enshrined deity and made into
 protective charms, with several thousand fruits harvested from the
-shrine's own trees in a typical year. A separate major shrine maintains
+shrine's own trees in a typical year [27]. A separate major shrine maintains
 over a thousand trees across roughly fifty cultivars, harvesting several
 tonnes annually; its attendants salt and dry the fruit into a specific
 traditional product, distributed to the public in winter for households
-to drop into tea on New Year's morning. That New Year tea custom itself
+to drop into tea on New Year's morning [28]. That New Year tea custom itself
 traces back, per tradition, to a Buddhist monk's distribution of
 medicinal tea with this fruit and a seaweed during a historical 10th-
 century epidemic, later adopted into imperial and then general public
-custom.
+custom [29].
 
 ## Agronomic data
 
-- **Life form / season:** Perennial deciduous tree, a moderate height.
+- **Life form / season:** Perennial deciduous tree, a moderate height [1].
 - **Harvest pattern:** Year-round perennial bearing with two distinct
   harvest stages from a single orchard in a single season: green fruit
   hand-picked in late spring, and fully ripe fruit collected daily from
-  ground-nets through early summer (Finding 1). A grower may split the
+  ground-nets through early summer (Finding 1) [2]. A grower may split the
   crop between the two stages; a fruit picked green is unavailable for
   the later ripe harvest.
 - **Days/years to first bearing:** First fruit at two to three years from
@@ -200,47 +200,48 @@ custom.
   fourfold across cultivars (Finding 3) [11].
 - **Composition:** A moderate calorie content for raw fruit, very high
   water content, and meaningful fiber content; the traditional salted
-  product is lower in calories but extremely high in sodium [16].
+  product is lower in calories but extremely high in sodium [16][17].
 - **Edibility:** Essentially never eaten raw — the unripe flesh is sour
   and cyanogenic (Finding 6), so every traditional product is processed
   (salted and sun-dried, spirit-steeped, sugar-macerated, smoke-dried, or
   boiled to an extract) (Naming and scope; Uses).
 - **Pollination:** Required — roughly two-thirds of fruiting cultivars
-  are self-incompatible and depend on interplanted pollinizer cultivars
+  are self-incompatible [9] and depend on interplanted pollinizer cultivars
   and native or managed honeybees, which are active only above a specific
-  minimum temperature and in light wind.
+  minimum temperature and in light wind [2]; recent self-compatible
+  breeding releases need no pollinizer [34].
 - **Photoperiod sensitivity:** Not the governing cue — bloom timing in
   this species is set mainly by chilling accumulation followed by a heat
   requirement, with photoperiod only a secondary modulator (it
   participates in autumn endodormancy induction, not in the
   chilling-driven release that sets bloom date) [41]. No day-length
   requirement for the (fruit) harvested organ.
-- **Yield:** A wide range from a national average up through yields in a
-  specialized high-intensity growing region, an exceptional organic-
-  grower figure, and a documented poor-year figure following a combined
-  warm-winter-and-hail event (see Estimates below for adopted tier
-  values).
+- **Yield:** A wide range from a national average [5][6] up through yields
+  in a specialized high-intensity growing region [4], an exceptional
+  organic-grower figure [26], and a documented poor-year figure following a
+  combined warm-winter-and-hail event [7] (see Estimates below for adopted
+  tier values).
 - **Water use:** No species-specific standard crop-coefficient curve
   exists in the standard international reference; water-use parameters
   are estimated by analogy to a generic deciduous stone-fruit curve, as
   previously adopted for a related stone-fruit crop this project has
-  researched. This species' documented shallow effective rooting depth
+  researched [33]. This species' documented shallow effective rooting depth
   makes it notably more drought-sensitive than that generic analogy
-  alone would suggest, and water stress specifically during summer-
+  alone would suggest [2], and water stress specifically during summer-
   through-winter flower-bud formation reduces the following year's crop
-  (Finding 4).
+  (Finding 4) [12].
 - **Propagation:** Commercial fruiting cultivars are grafted onto
-  seedling rootstock grown from stones of a chosen rootstock cultivar;
+  seedling rootstock grown from stones of a chosen rootstock cultivar [14];
   own-rooted cuttings and air-layering (marcotting) are used for some
-  low-chill cultivars grown outside the species' core range. New
+  low-chill cultivars grown outside the species' core range [15]. New
   cultivars arise from controlled breeding crosses between named parent
-  cultivars.
+  cultivars [12].
 - **Labor:** Reasonably well documented via a single detailed organic-
-  grower labor record (Finding 5); this is one grower's experience rather
-  than an industry-wide survey, and other labor tiers are estimated by
-  scaling from this baseline.
+  grower labor record (Finding 5) [26]; this is one grower's experience
+  rather than an industry-wide survey, and other labor tiers are estimated
+  by scaling from this baseline.
 - **Soil:** A near-neutral, well-drained soil preference; the species'
-  core growing region uses gravelly, well-drained, neutral-pH slopes.
+  core growing region uses gravelly, well-drained, neutral-pH slopes [2].
   Soil nutrient-uptake figures are estimated by analogy to a related
   stone-fruit crop this project has researched, since no dedicated
   nutrient-removal study was found. *Salinity:* salt-sensitive — soil
@@ -253,27 +254,29 @@ custom.
 - **Stand life:** First fruit at two to three years after planting from
   grafted nursery stock, full bearing by roughly the tenth year; total
   productive lifespan is not well sourced, though garden specimens are
-  documented living seventy or more years, and commercial orchards in at
-  least one region are being actively replanted after some unspecified
-  productive period.
+  documented living seventy or more years [25], and commercial orchards in
+  at least one region are being actively replanted after some unspecified
+  productive period [2].
 - **Disease/pest profile:** A specific fungal scab disease (with
   documented fungicide-resistant strains in at least one growing region),
-  bacterial canker, gray mold, a specific brown-rot fungal disease, the
-  serious viral disease described in Finding 7, aphids, and scale insects.
+  bacterial canker, gray mold, a specific brown-rot fungal disease, aphids,
+  and scale insects [23], plus the serious viral disease described in
+  Finding 7 [39].
 - **Cultivars:** A large number of named Japanese cultivars across main
   commercial, regional, small-fruited, and apricot-type groups, plus
-  recent self-compatible breeding releases; over a hundred local types
+  recent self-compatible breeding releases [24]; over a hundred local types
   historically existed in one growing region alone before modern
   cultivar selection narrowed commercial production to a small number of
-  dominant clones.
+  dominant clones [3].
 - **Harvest:** Hand-picked while green for fresh sale and home processing,
   or collected daily from ground-nets once fully ripe and fallen, with
-  ripe fruit salted the same day it is collected (Finding 1).
+  ripe fruit salted the same day it is collected (Finding 1) [2].
 - **Storage:** Green fruit is typically precooled and held refrigerated
   for up to roughly two weeks; it yellows within days at room temperature
   and shows chilling injury with extended storage below a specific
-  refrigeration threshold. The traditional salted-dried product and a
-  traditional spirit-infusion both keep for years at room temperature.
+  refrigeration threshold [13][38]. The traditional salted-dried product and
+  a traditional spirit-infusion both keep for years at room temperature
+  [12][17].
 - **Weather response:** The dominant climate risk is warm/abnormal
   bloom-time weather, not frost extremes — a warm winter advances bloom
   and produces abnormal flowers with reduced pollen germination and poor
@@ -294,10 +297,10 @@ custom.
 - **Harvest stages / windows:** Two stages from one orchard in one season
   — green fruit hand-picked in late spring for spirits/syrup, and fully
   ripe fruit caught daily in ground-nets through early summer and salted
-  the same day (Finding 1). A fruit picked green is unavailable for the
+  the same day (Finding 1) [2]. A fruit picked green is unavailable for the
   later ripe harvest. Bloom is midwinter (the earliest-blooming
   stone-fruit this project has researched), harvest late spring to early
-  summer.
+  summer [1].
 - **Soil biology:** Not sourced in detail for this species. The
   practically important soil/stock-borne issue is budwood-transmitted plum
   pox virus (Finding 7) [39] rather than a documented replant disease,
@@ -316,8 +319,8 @@ custom.
   were not otherwise surveyed this pass.
 - **Controlled environment:** Not a protected/greenhouse field crop; the
   species' prominent non-orchard use is as an ornamental flowering tree
-  and bonsai subject (Naming and scope), and no greenhouse fruit-production
-  figure was sought or found.
+  and bonsai subject (Naming and scope) [1], and no greenhouse
+  fruit-production figure was sought or found.
 
 ## Hazards
 
@@ -345,19 +348,19 @@ custom.
 ## Uses and processing
 
 - **Chains:** green fruit → graded → precooled and shipped fresh, or
-  steeped in spirits as a traditional liqueur, or made into a sugar
-  syrup, or matured into a long-aged sweetened fruit syrup, or juiced and
-  reduced into a boiled-down extract. Ripe fruit → salted at a specific
-  concentration for several weeks → sun-dried for several days →
+  steeped in spirits as a traditional liqueur [18], or made into a sugar
+  syrup, or matured into a long-aged sweetened fruit syrup [12][20], or
+  juiced and reduced into a boiled-down extract [1]. Ripe fruit → salted at
+  a specific concentration for several weeks → sun-dried for several days →
   intermediate salted-dried product → further seasoned into the finished
-  traditional product. Ripe fruit (alternative path) → smoke-dried into a
-  traditional Chinese medicinal preparation. Ripe fruit → pitted → jam.
-  Stones → rootstock seed for nursery propagation.
+  traditional product [2][17]. Ripe fruit (alternative path) → smoke-dried
+  into a traditional Chinese medicinal preparation [19]. Ripe fruit →
+  pitted → jam [24]. Stones → rootstock seed for nursery propagation [14].
 - **Uses:** the salted-dried product as a everyday food accompaniment and
-  as a seasoning base; the smoke-dried product in traditional Chinese
-  medicine and in a traditional sour fruit drink; shrine and New Year
+  as a seasoning base [17]; the smoke-dried product in traditional Chinese
+  medicine and in a traditional sour fruit drink [19]; shrine and New Year
   ritual uses (Finding 8); the tree and its blossom as a major ornamental
-  and cultural symbol across East Asia.
+  and cultural symbol across East Asia [1].
 - Not covered in detail by this research: a red-shiso-colored variant of
   the salted-dried product (requires a separate herb crop); small whole-
   fruit crisp pickles; other regional Chinese preserved-fruit products;
@@ -381,8 +384,8 @@ custom.
   half-century discrepancy) — not resolved.
 - National production-area and yield figures for one major non-Japanese
   producing country come from an older, explicitly "incomplete"
-  statistical source, and may be confounded with a different, unrelated
-  plum species in some regional reporting — not resolved.
+  statistical source [31], and may be confounded with a different,
+  unrelated plum species in some regional reporting — not resolved.
 - A specific growing region's national production share is reported
   somewhat differently across two consecutive years' statistical
   releases — not resolved.
@@ -394,7 +397,7 @@ custom.
 - Waterlogging tolerance was not specifically researched for this
   species and is estimated by analogy.
 - Industry-standard yield-conversion ratios for the salted-dried product
-  were not found beyond general home-recipe guidance.
+  were not found beyond general home-recipe guidance [36].
 
 ## Estimates and derivations
 

@@ -1226,9 +1226,8 @@ depth; the items below would upgrade it.
 Re-research of the `ume.md` profile (*Prunus mume*) against the current
 checklist. Plum-pox identity/eradication, photoperiod, salinity and
 invasiveness material was added at snippet/report depth; the items below would
-upgrade it. (Separate from this: the migrated doc carries inline citations for
-only a few of its 38 sources — a doc-wide citation-format cleanup, not a
-research gap.)
+upgrade it. (A doc-wide inline-citation pass was also done in the same work, so
+all 42 sources are now cited inline.)
 
 - [ ] **`ume--ppv-maff-status`** (Online): the current MAFF / plant-protection
   station status and demarcated-area map for plum pox virus on Japanese apricot.
