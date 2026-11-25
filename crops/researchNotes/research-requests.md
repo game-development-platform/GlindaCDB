@@ -1108,6 +1108,28 @@ read; the items below would close the remaining gaps.
     and the ogiri-detoxification figures now cited at snippet depth
     (Finding 7; Hazards) [25].
 
+### watermelon (2026-11-25)
+
+Re-research of the shared `watermelon.md` dessert profile against the current
+checklist. Photoperiod, a numeric salinity benchmark [30], invasiveness [29],
+weather-response, soil-biology and controlled-environment lines were added and
+the profile was given full inline citations; the items below would upgrade the
+snippet-depth additions.
+
+- [ ] **`watermelon--salinity-primary`** (Library): a primary watermelon
+  salinity dose-response study reporting the metric explicitly (irrigation
+  water EC vs. soil ECe) — e.g. the Lucena/Martins or Colla et al. (2006)
+  papers behind the review figures.
+  - **Needed for:** a firm threshold and yield-decline slope to replace the
+    ~2.2 dS/m review figure and resolve the EC-vs-ECe ambiguity (Soil
+    salinity) [30].
+- [ ] **`watermelon--volunteer-weed`** (Online): a regional weed guide or
+  risk assessment that evaluates volunteer dessert *C. lanatus* seedlings (from
+  discarded fruit/seed) specifically, as distinct from wild/bitter/citron
+  forms.
+  - **Needed for:** a sourced weed status for the dessert type itself
+    (Invasiveness / biosecurity) [29].
+
 ### quince (2026-11-25)
 
 Re-research of the previously fully-anonymised doc against the current

@@ -6,7 +6,11 @@ re-researched 2026-11-17 against the full current checklist — see Finding 6
 and the citron-melon Agronomic data lines; the seed-watermelon profile
 re-researched 2026-11-25 against the full current checklist — see Findings 4
 and 7 and the rewritten seed-watermelon Agronomic data section; the
-dessert-watermelon profile has not been re-researched since 2026-10-10)
+dessert-watermelon profile re-researched 2026-11-25 against the full current
+checklist — see the rewritten dessert-watermelon Agronomic data section, with
+new photoperiod, salinity [30], weather-response, soil-biology and
+invasiveness [29] lines and full inline citations, which that profile
+previously lacked)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -134,7 +138,7 @@ stages, and shelled by hand (commonly by women) or machine [4][10]. The
 kernels — roughly 30% protein and 50% oil on a dry-weight basis, the oil
 chiefly linoleic acid — are ground into a soup-thickening paste ("egusi"),
 pressed for oil, or fermented into a traditional seasoning ("ogiri")
-[4][10][24]. It is a rain-fed smallholder crop; reported dry-seed yields
+[4][5][10][24]. It is a rain-fed smallholder crop; reported dry-seed yields
 run from roughly 240 to 520 kg/ha under experimental fertility (up to
 about 1,000 kg/ha in the best trials), and a national figure for Cameroon
 fell from about 414 to 373 kg/ha between 2015 and 2019 [23]. Yield is set
@@ -191,74 +195,154 @@ profiles carry their own, different hazards).
 
 ## Agronomic data (dessert watermelon, *C. lanatus*)
 
+*(Re-researched 2026-11-25 against the full current checklist in
+`skills/crop-research/SKILL.md` and `templates/research-doc.md`. New lines
+added for Days to first bearing, Edibility, Photoperiod sensitivity,
+Establishment, Weather response, Water regime, Harvest stages/windows, Soil
+biology, Invasiveness/biosecurity and Controlled environment; a numeric
+salinity benchmark [30] and an invasiveness source [29] were added; and the
+whole profile was given inline citations, which the 2026-10-10 version
+lacked. The seed- and citron-melon profiles below are unaffected by this
+pass.)*
+
 - **Life form / season:** Warm-season annual trailing vine, grown as a
   fruit crop though botanically closer to a vegetable-type cucurbit; can
-  reach several meters in vine length.
+  reach several meters in vine length [1][3].
 - **Harvest pattern:** Continuous/multi-pick harvest within a single
   season, since fruit sets at different times across the planting; at
-  least two picks, sometimes three to four, across one harvest window.
+  least two picks, sometimes three to four, across one harvest window [3].
   Harvested at a single ripeness stage, since the fruit does not continue
-  to ripen once cut.
-- **Climate:** Irrigated arid and semiarid climates, Mediterranean,
-  subtropical, tropical, and warm-temperate summer production.
+  to ripen once cut (Finding 2) [2].
+- **Days / years to first bearing:** Annual; fruit reaches maturity within
+  roughly 80-110 days from sowing (somewhat more from transplanting), with
+  no multi-year juvenile phase (Finding 2) [16][3].
+- **Climate zones:** Irrigated arid and semiarid climates, Mediterranean,
+  subtropical, tropical, and warm-temperate summer production — the FAO
+  reference documents distinct stage lengths for a warm desert-climate
+  season and a cooler Mediterranean one [13][3]. No chill or vernalization
+  requirement (warm-season annual); no notable elevation band was sourced
+  (it is grown wherever the frost-free warm season is long enough).
 - **Composition:** A low calorie density and very high water content,
-  with modest protein content, typical of a watery dessert melon.
-- **Pollination:** Required, insect-pollinated (monoecious flowers);
+  with modest protein content, typical of a watery dessert melon [1].
+- **Edibility:** Eaten fresh and raw as a sweet dessert melon — the one
+  *Citrullus* profile in this file whose flesh is the primary food (in
+  contrast to the seed and citron groups); rind is sometimes pickled and
+  culls juiced or fermented (see Uses) [1].
+- **Pollination:** Required, insect-pollinated (monoecious flowers) [1];
   seedless (triploid) production specifically requires a dedicated
   pollinizer planting and elevated hive density, since triploid pollen is
-  sterile (Finding 1). Poor pollination generally produces misshapen,
-  pear-shaped fruit.
+  sterile (Finding 1) [3][6]. Poor pollination generally produces
+  misshapen, pear-shaped fruit [3].
+- **Photoperiod sensitivity:** Not a governing cue for this warm-season
+  annual; genus-level sources conflict (one database calls *Citrullus*
+  day-neutral/"indifferent to photoperiodism," another long-day), and a
+  wild *C. colocynthis* sowing-date trial found flowering timing largely
+  insensitive to sowing date, loosely consistent with day-neutral behaviour
+  [18]. Cloud cover and cool/rainy spells reduce flowering and fruit set,
+  but through light and temperature rather than day length [16]. Not
+  applicable to tuberization/bulbing (a vine annual with no storage organ).
 - **Yield:** A wide range from a world average up through a major
   production region's multi-year average and an ideal-conditions ceiling
   figure, down to a considerably lower estimated figure for low-input,
   rainfed production (Finding 3; see Estimates below for adopted tier
-  values).
+  values) [3][14].
 - **Water use:** A standard international crop-coefficient curve exists
   for this species, with documented stage lengths differing between a
-  warm desert-climate season and a cooler Mediterranean-climate season.
-  This is a deep-rooted, moderately drought-tolerant but waterlogging-
+  warm desert-climate season and a cooler Mediterranean-climate season
+  [13]. This is a deep-rooted, moderately drought-tolerant but waterlogging-
   sensitive crop; clay soils are avoided unless carefully irrigated, to
-  prevent prolonged saturation and associated root rot and sudden wilt.
+  prevent prolonged saturation and associated root rot and sudden wilt [3].
   Water stress during establishment is sometimes deliberately applied to
   encourage deep rooting, but stress during fruit set and sizing causes
   small or misshapen fruit and calcium-related disorders, while large
-  water swings near harvest cause splitting (Finding 3).
+  water swings near harvest cause splitting (Finding 3) [3].
 - **Propagation:** By direct seeding or by transplant; seedless
   (triploid) plantings are always raised as transplants, started warm and
-  comparatively dry, given costly and poor-germinating triploid seed.
-  Diploid F1 hybrid seed is also common for seeded cultivars. Grafting
-  onto resistant cucurbit rootstocks (a bottle-gourd species, a squash
-  interspecific hybrid, or resistant citron-melon accessions) is an
-  optional disease-management option, primarily against a specific
-  fungal wilt disease.
+  comparatively dry, given costly and poor-germinating triploid seed
+  [1][3]. Diploid F1 hybrid seed is also common for seeded cultivars, and
+  pure-stand diploid fruit readily yields saved planting seed by open
+  pollination [7]. Grafting onto resistant cucurbit rootstocks (a
+  bottle-gourd species, a squash interspecific hybrid, or resistant
+  citron-melon accessions) is an optional disease-management option,
+  primarily against a specific fungal wilt disease [8].
 - **Labor:** Partially documented via regional small-acreage guides and
   enterprise budgets, with harvest and post-harvest handling identified
   as particularly labor-intensive stages; other labor tiers are estimated
-  by scaling from this documented baseline.
+  by scaling from this documented baseline [17].
 - **Soil:** A moderately wide pH tolerance; non-saline sandy loam or silt
   loam soils are preferred, since light soils warm earlier in spring; a
   high-yield crop holds a documented nitrogen quantity in its biomass,
   with phosphorus and potassium maintenance rates also documented for
-  depleted soils.
-- **Stand life:** A single-season annual crop.
+  depleted soils [3]. *Salinity:* moderately sensitive — a recent review
+  places the tolerance threshold at about 2.2 dS/m, with yield and
+  physiology declining above it; reported yield losses of roughly 25% at
+  ~3.5 dS/m and ~50% at ~4.5 dS/m, though one ripening-stage trial on a
+  dwarf type in substrate found little yield effect up to ~10 dS/m (sources
+  differ on whether they report irrigation-water EC or soil ECe) [30]. This
+  supersedes the FAO reference's non-numeric "Moderately Sensitive
+  (estimate)" rating [13][18].
+- **Establishment:** Direct-seeded or transplanted after the last frost
+  into warm soil (above a specific minimum soil temperature); commercial
+  systems commonly use raised beds with plastic mulch and drip irrigation,
+  with seedless fields interplanted with pollinizers at up to ~30% of the
+  stand (Finding 1) [3][6][16].
+- **Stand life:** A single-season annual crop [1].
 - **Disease/pest profile:** A specific fungal wilt disease and a soil-
   borne fungal root-rot pathogen, anthracnose, a bacterial fruit-blotch
   disease (not spread after harvest), charcoal rot and a specific vine-
   decline disease under heat stress, and a virus that can move
-  symptomlessly in infected transplants.
+  symptomlessly in infected transplants [3][2].
 - **Cultivars:** A very large number of named cultivars (reportedly over
   a thousand) spanning seeded diploid hybrids and open-pollinated types,
   seedless triploid hybrids, miniature "personal" seedless types, small
   "icebox" types, disease-resistant heritage open-pollinated lines, a
   record-setting giant type, and a luxury black-rind regional specialty
-  type.
+  type [1].
 - **Harvest:** Hand-cut at a single ripeness stage determined by external
   indicators (Finding 2), since the fruit does not ripen further once
   picked; windrowed and hand-to-hand loaded onto transport in large
-  commercial operations.
+  commercial operations [2][3].
 - **Storage:** A moderate cool temperature and high humidity for roughly
   two to three weeks; extremely ethylene-sensitive, and chilling-injury
-  guidance conflicts between sources on the exact threshold (Finding 2).
+  guidance conflicts between sources on the exact threshold (Finding 2)
+  [2].
+- **Weather response:** Frost-tender — growth slows markedly below a
+  specific cool threshold and cool snaps delay fruit set; frost is purely a
+  hazard here, with no sweetening or quality-improving role [16]. Cloudy,
+  cool or rainy bloom weather lowers fruit set and fruit sugar [16], and
+  heavy irrigation or rain shortly before harvest splits the fruit while
+  early-growth water stress causes small, misshapen fruit and a
+  calcium-related blossom-end disorder (Finding 3) [3]. Waterlogging is
+  poorly tolerated [3].
+- **Water regime:** Ordinary irrigated or rain-fed upland culture; no
+  flooded/paddy requirement, and prolonged soil saturation drives root rot
+  and sudden wilt, so clay soils are irrigated cautiously [13][3].
+- **Harvest stages / windows:** One ripeness stage (the fruit is
+  non-climacteric and does not ripen off the vine), but picked over
+  several passes across a single asynchronous harvest window as individual
+  fruit mature (Findings 2, 3) [3][2].
+- **Soil biology:** The practically important soil/stock-borne issues are
+  soil-borne Fusarium wilt and root/vine-decline fungi — the basis for
+  grafting onto resistant rootstocks (Propagation) — plus a seedborne
+  virus that moves symptomlessly in infected transplants; no mycorrhizal or
+  allelopathy finding was sourced, and as a seed-propagated annual there is
+  no clonal/viral-degeneration cycle of the kind seen in vegetatively
+  propagated crops [3][8].
+- **Invasiveness / biosecurity:** Cultivated dessert *C. lanatus*
+  naturalises on disturbed ground (roadsides, dumps, fields) across several
+  semiarid regions and is listed as naturalised in mainland Australia, but
+  it is **not** treated as a serious invasive in its own right — a North
+  American invasive database holds no invasive listing for the species, and
+  a Florida weed-risk assessment attributes most weedy behaviour to wild,
+  bitter or citron forms rather than the sweet dessert type (contrast the
+  citron-melon "camel melon", Finding 6) [29]. Volunteer seedlings from
+  discarded fruit occur but were not found assessed as a weed. *Legal
+  restrictions:* none specific found for the dessert type.
+- **Controlled environment:** Not primarily a protected crop, but grafted
+  transplants are raised in nurseries (Propagation), and small/mini
+  seedless types are grown under protected substrate culture in some
+  systems (the dwarf-type salinity trial above was run in substrate)
+  [8][30].
 
 ## Agronomic data (seed watermelon: Chinese edible-seed and West African egusi groups)
 
@@ -520,6 +604,11 @@ seed-watermelon profiles above are unaffected by this pass.)*
   pickled; fruit fed directly to cattle as fodder; seeds roasted in at
   least one named traditional type; disease-resistant accessions used as
   rootstock material for dessert watermelon.
+- **Dessert watermelon cultural use:** in one Southeast Asian country
+  whole watermelons are a Lunar New Year altar offering with a symbolic
+  meaning, with molded/novelty-shaped fruit grown specially for the
+  holiday and the fruit featuring in a traditional holiday fruit
+  arrangement [15].
 - Not covered in detail by this research: fresh-cut cube and slice
   processing for dessert watermelon; novelty molded/shaped fruit
   production; detailed traditional soup preparation using West African
@@ -573,6 +662,13 @@ seed-watermelon profiles above are unaffected by this pass.)*
   non-numeric estimate rather than a firm genus-level benchmark.
 - Isolation distance and diploid seed-yield figures for dessert-
   watermelon seed production were not researched.
+- 2026-11-25 pass caveats (dessert watermelon): the new photoperiod,
+  salinity and invasiveness material is at search-snippet depth. The
+  salinity figures [30] differ on whether they report irrigation-water EC
+  or soil ECe and include one conflicting ripening-stage result; genus
+  photoperiod remains unresolved (day-neutral vs long-day) [18]; and no
+  source was found that assesses volunteer dessert-watermelon seedlings
+  specifically as a weed, nor a notable elevation band for the crop.
 
 ## Estimates and derivations
 
@@ -923,3 +1019,28 @@ eastern provinces); and a customs notice on seed-import phytosanitary
 inspection at Lanzhou. Supplied: snack processing and naming, regional
 production context, the heavier-Gansu-seed claim, and seed-movement
 inspection. Accessed 2026-11-25, search snippets only.
+
+[29] Sources on dessert-watermelon (*C. lanatus*) naturalisation and weed
+status (added in the 2026-11-25 dessert-profile re-research): a University of
+Florida IFAS weed-risk assessment for *C. lanatus* (naturalised beyond its
+native range; most weedy behaviour attributed to wild/bitter/citron forms),
+the invasive.org database (no invasive listing held for the species in North
+America; included only for comparison), VicFlora (naturalised across mainland
+Australian states on disturbed sites; watermelons a cultivated variant of the
+species), and a general-reference overview (naturalised in semiarid regions of
+several continents; "pest plant" designation in parts of some Western
+countries). Supplied: the basis for treating dessert *C. lanatus* as
+naturalising-but-not-a-serious-invasive, distinct from the camel-melon citron
+form. Accessed 2026-11-25, search snippets only.
+
+[30] Sources on watermelon salinity tolerance (added in the 2026-11-25
+dessert-profile re-research): a 2025 MDPI review giving a maximum salinity
+tolerance threshold of ~2.2 dS/m with yield/physiology decline above it
+(watermelon moderately sensitive); a preprint review and Lucena et al./Martins
+et al. figures (~10% loss at 2.5-3.3 dS/m, ~25% at 3.5 dS/m, ~50% at 4.5
+dS/m); Colla et al. (2006) NFT study (5.2 dS/m lowered yield vs 2.0 dS/m
+through smaller fruit mass; grafting raised yield but not salt tolerance); and
+a 2025 mini-watermelon substrate study finding little ripening-stage yield
+effect up to ~10 dS/m (a conflicting result on a dwarf type). Supplied: the
+numeric salinity benchmark and the controlled-substrate culture note. Accessed
+2026-11-25, search snippets only.

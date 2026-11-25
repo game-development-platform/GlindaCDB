@@ -57,8 +57,13 @@ plain name with the cropID, doc and Finding.
   - `yellow_passionfruit` (`passionfruit.md`, Finding 2 and Pollination): the self-sterile yellow form is
     hand-pollinated where carpenter bees are scarce; in the Huila budget hand pollination is 21% of
     labour; growers set out decaying logs to shelter the carpenter bees.
+  - `watermelon` (`watermelon.md`, Finding 1): seedless (triploid) watermelon produces sterile pollen, so
+    up to ~30% of the field is planted to ordinary seeded pollinizers (dedicated rows or in-row mixes);
+    large operations use non-fruiting "super pollinizer" varieties bred purely to supply pollen without
+    taking marketable space, and hive density is raised (national guidance three hives/acre for seedless
+    vs one for seeded).
   - Imported: Japanese plum (about 11% pollinizer trees, never harvested); kiwifruit (male vines);
-    seedless watermelon (up to 30% pollinizer plants, some non-fruiting); date palm (2-4% males; pollen
+    date palm (2-4% males; pollen
     collected and hand-applied, 15-20 g per female; the pollen parent shifts ripening by up to two
     weeks); fig (caprifigs carrying the fig wasp, for Smyrna types); muscadine (female cultivars, 3:1
     within 50 ft); American persimmon (one male per 23 or more females, of the same chromosome race).

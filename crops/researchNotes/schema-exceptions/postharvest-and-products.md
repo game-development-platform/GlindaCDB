@@ -133,7 +133,11 @@ plain name with the cropID, doc and Finding.
     ppm ethylene for 1-2 days.
   - `quince` (`quince.md`, Finding 2): gives off a strong scent and ethylene as it ripens, so it is
     stored apart from pears and apples to avoid tainting them and hastening their ripening.
-  - Imported: kiwifruit (5-10 ppb softens fruit); watermelon (5 µL/L); kai-lan (1 ppm cuts shelf life
+  - `watermelon` (`watermelon.md`, Finding 2 and dessert Storage): dessert watermelon is a
+    non-climacteric fruit that is nonetheless extremely sensitive to ethylene — even a very low
+    concentration (~5 µL/L) causes softening, rind thinning and flesh-colour fading, so it is kept away
+    from ethylene-producing produce.
+  - Imported: kiwifruit (5-10 ppb softens fruit); kai-lan (1 ppm cuts shelf life
     about 30%); carrot (bitter from under 1 ppm; apples and pears are bad storage mates); celeriac
     (ethylene toughens roots).
 - **Possible home:** "Ethylene: sensitivity and production" and "Do not store with" lines under
