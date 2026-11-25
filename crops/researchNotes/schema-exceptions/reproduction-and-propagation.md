@@ -157,6 +157,11 @@ plain name with the cropID, doc and Finding.
   - `peach_low_chill` (`peach-low-chill.md`, Agronomic data, Propagation): 'Flordaguard' seed fruit must
     be picked before they drop because heat damages the embryo; seed is stratified; about 6% outcrosses
     and a further 10% runts are culled.
+  - `strawberry` (`strawberry.md`, 2026-11-25 re-research, Chill / transplant conditioning): the planting
+    stock is runner daughter plants dug after a nursery season and cold-stored ("frigo" bare-root or
+    plug transplants) with their own storage and chilling regime, which sets daughter-plant number and
+    size and the transplant's later vigour and flowering; the high-elevation runner nursery takes up its
+    own land, separate from the fruiting field.
   - Imported: seed potato (stored at 3.3 °C, browning at 0 °C); Andean potato (no tuber dormancy;
     diffused-light seed stores give short sturdy sprouts and 15-30% more yield); yam (dormancy length by
     species); cassava (stems keep about two weeks, upright in shade); cocoyam (seed cormels buried in

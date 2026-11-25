@@ -84,10 +84,16 @@ plain name with the cropID, doc and Finding.
 - **What doesn't fit:** the template assumes one sowing leads to one harvest in one place. Some crops
   pass through separate phases: lifted and replanted for several seasons, grown in a field and then
   forced indoors, or replanted from selected roots to make seed.
-- **Seen in (imported):** konjac (the same stock is dug, cured, stored and replanted for 3 (2-5)
-  seasons); porang; witloof chicory (field roots then forced in the dark); maca, ahipa, jicama, salsify
-  (selected roots replanted for seed); chuin (the root top replanted after harvest flowers and seeds but
-  forms no new root); lowbush blueberry (prune year then crop year).
+- **Seen in:**
+  - `strawberry` (`strawberry.md`, 2026-11-25 re-research, Biosecurity and nursery certification, and
+    Chill / transplant conditioning): runner multiplication happens in a separate nursery phase, often at
+    high elevation or higher latitude, producing cold-conditioned transplants that are then set out in a
+    lowland or coastal fruiting field; the two phases are in different places, and California runner
+    nurseries are run at both low and high elevation.
+  - Imported: konjac (the same stock is dug, cured, stored and replanted for 3 (2-5)
+    seasons); porang; witloof chicory (field roots then forced in the dark); maca, ahipa, jicama, salsify
+    (selected roots replanted for seed); chuin (the root top replanted after harvest flowers and seeds but
+    forms no new root); lowbush blueberry (prune year then crop year).
 - **Possible home:** a "Production cycle" line: phases, where each happens, and its length.
 
 ## 32 — Harvests on one plant that compete or exclude each other
@@ -147,6 +153,10 @@ plain name with the cropID, doc and Finding.
   - `pear_low_chill` (`pear-low-chill.md`, Labor and Hazards): cutting out fire blight 8-10 inches below
     infection with tool sterilising; copper every 10-14 days from bloom for leaf spot; dormant oil in
     mid-January for scale; streptomycin at bloom; trunk wraps against herbicide uptake through thin bark.
+  - `strawberry` (`strawberry.md`, Findings 3-4 and Agronomic data, Labor): hand runner-removal is a
+    notably large labour input in the annual coastal system; deliberate first-year blossom removal (and
+    runner training) builds the matted row; and matted-row beds are renovated after each harvest by mowing
+    the foliage back hard, narrowing the rows, thinning the plants and fertilising.
   - Imported: potato (hilling; vine kill 7-21 days before harvest to set skins); yam, tomato, eggplant
     (staking; yam poles 2-5 m); cauliflower (blanching; not needed in green cultivars); endive (tying to
     blanch); jicama and arrowroot (flower removal); horseradish (lifting side roots twice a season);
@@ -243,5 +253,9 @@ plain name with the cropID, doc and Finding.
     to early May, before northern states harvest. Trees must bloom by the third week of January to make
     it, so chill gained after mid-January is "not useful for commercial production" even though the trees
     still flower.
+  - `strawberry` (`strawberry.md`, 2026-11-25 re-research, Market window): winter production regions earn
+    their value from a gap in northern-hemisphere supply — Florida's winter crop and Egypt's winter export
+    (Egypt is, for part of each winter, the main EU supplier and ranks about sixth in the world for fresh
+    exports) sell into months when the main temperate regions are out of season.
 - **Possible home:** a "Market window" line under "Harvest stages / windows" (dates, competing regions,
   what it does to price, and the phenology deadline it sets).

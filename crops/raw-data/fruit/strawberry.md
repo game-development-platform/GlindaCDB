@@ -1,7 +1,9 @@
 # Garden Strawberry (*Fragaria × ananassa*) and Woodland Strawberry (*Fragaria vesca*, with musk strawberry *F. moschata*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/strawberry.md`
-**Researched:** 2026-10-10
+**Researched:** 2026-10-10 · **Garden-strawberry profile re-researched:** 2026-11-25
+(see the dated re-research section below; the woodland/musk profile is unchanged
+and remains out of date against the current checklist)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -244,6 +246,105 @@ liqueur (fruit macerated in spirits), and dried-leaf herbal tea [7][12].
   (Finding 6); postharvest cold-storage behavior was not researched for
   this species, and ambient shelf life is essentially a single day.
 
+## Garden strawberry — re-research against the current checklist (2026-11-25)
+
+This section re-researches the **garden strawberry** (*Fragaria* × *ananassa*)
+profile against the current research-doc template and the full step-3 checklist,
+covering the angles added on 2026-11-08 (chill/vernalization, photoperiod,
+frost-as-quality, flooded/paddy, clonal/viral degeneration, salinity, elevation,
+ergot/fungal contamination, asynchronous ripening) and 2026-11-11 (invasiveness/
+biosecurity), none of which the 2026-10-10 pass was written against. The
+woodland/musk profile further down is unchanged and remains out of date. Names
+kept general in the earlier pass are given directly here.
+
+**Parentage and names (de-anonymised).** The garden strawberry is the octoploid
+hybrid *F.* × *ananassa*, which arose in 18th-century Brittany from a chance
+cross between the North American scarlet (Virginia) strawberry *F. virginiana*
+and the South American beach (Chilean) strawberry *F. chiloensis* assembled in
+European gardens; the hybrid origin was identified by Antoine Nicolas Duchesne
+decades later [1]. The intensive coastal plasticulture system of Finding 3 is
+California's (the Santa Maria and Watsonville–Salinas districts), and the two
+producing states whose per-acre yields diverge in Finding 3 are California and
+Florida [3][5].
+
+**Chill / transplant conditioning.** Garden strawberry is not a classic
+winter-chill (chill-hour) crop, but cold is applied to the *planting stock*:
+nurseries dig runner plants after a growing season and hold them cold-stored
+("frigo"/cold-conditioned bare-root plants), and the chilling the nursery gives
+the mother and daughter plants sets both the number and size of daughter plants
+and the transplant's later vigour and flowering [10][21]. Short-day cultivars
+initiate flowers under cool temperatures and short days (Finding 1) — a
+floral-induction requirement, not a dormancy-breaking chill requirement.
+
+**Salinity — one of the most salt-sensitive crops grown.** Strawberry has an
+*ECe* salt-tolerance threshold of about **1.0 dS/m** (soil saturation-extract
+basis), among the lowest of any crop, with relative yield then falling by roughly
+**33% per additional dS/m** [18]; the standard evapotranspiration reference
+already flagged this species as having both the most sensitive soil-water-
+depletion allowance of any fruit crop in its list and a low salt threshold [14].
+The damage is ion-specific — chlorides, calcium chloride most of all, injure the
+plant even below 1 dS/m, so water *quality* matters as much as total salinity —
+and tolerance differs by cultivar (e.g. 'Albion' survived irrigation near
+2.5 dS/m in one trial) [18]. This sits alongside the species' extreme
+water-stress sensitivity already noted under Water use.
+
+**Clonal / viral degeneration and clean stock.** Runner propagation carries a
+suite of graft- and vector-transmitted viruses — strawberry mild yellow edge
+(SMYEV), strawberry mottle (SMoV), strawberry crinkle and strawberry vein-banding
+among them — most of which modern cultivars tolerate singly and symptomlessly,
+but which in **mixed infection** produce a decline disorder (reddened leaves,
+loss of vigour, plant death) [19]. Severe SMoV strains alone can cut yield by
+about 30% [19]. Aphids (the strawberry aphid) vector mottle, crinkle and mild
+yellow edge; whiteflies vector pallidosis and beet pseudo-yellows [19]. A 2012–13
+SMYEV + SMoV co-infection traced to nursery stock caused multi-million-dollar
+losses across several south-eastern U.S. states [19]. Clean stock is produced by
+**meristem-tip culture combined with heat therapy**, re-indexed on biological
+indicator and herbaceous-host plants because some viruses survive the treatment,
+then multiplied through foundation and certified nursery generations [19][20].
+
+**Biosecurity and nursery certification (de-anonymised).** Garden strawberry
+itself carries no invasive-species listing or formal weed-risk rating — the
+octoploid hybrid does not naturalise aggressively, though garden × wild hybrids
+(*F.* × *vescana*) occur in cultivation [22]; the biosecurity burden is on the
+*propagation chain* instead. California runs a voluntary Strawberry Registration
+and Certification Program (California Code of Regulations, Title 3, §§3049–3049.5)
+of annual virus testing and nursery inspection, with phytosanitary certificates
+required for out-of-state and export shipment [20]. The regulated fumigant named
+for quarantine/export in the earlier pass is **methyl bromide**, whose ordinary
+agricultural use was phased out in 2005 under the Montreal Protocol but which
+remains available under quarantine-and-pre-shipment and critical-use exemptions;
+nurseries have shifted to **1,3-dichloropropene + chloropicrin, iodomethane +
+chloropicrin and dazomet**, trialled across both low- and high-elevation
+California nursery sites [21]. (The wild woodland relative *F. vesca* — the
+sibling cropID, still out of date — *is* a listed invasive in Hawaii at
+700–1,700 m and on La Réunion, and is recorded as introduced in about 21
+countries [22]; that fact belongs to the woodland profile.)
+
+**Elevation and controlled environment.** In the tropics the crop is carried by
+altitude — grown in cool highlands (e.g. Indonesian highlands, and the central
+Mexican highland belt that supplies roughly 65% of Mexican volume) where lowland
+heat would prevent flower initiation [23]. It is also a flagship of
+controlled-environment and vertical production: a vertical hydroponic greenhouse
+returned about 21 kg/m² with no difference between stacked elevation tiers, and
+indoor systems are used specifically to beat tropical heat and humidity and to
+shorten the cold chain [23].
+
+**Market window (de-anonymised).** Winter production regions earn their value
+from a calendar gap in northern-hemisphere supply: Florida's winter crop and
+Egypt's winter export (Egypt is, for part of each winter, the main strawberry
+supplier to the EU, and ranks about sixth in the world for fresh-strawberry
+exports) sell into months when the main temperate regions are out of season [23].
+
+**Angles that do not apply, stated for completeness.** Frost is a **damage-only**
+event for this crop (the bloom-stage kill table of Finding 5); no
+quality-improving frost effect is documented. There is **no flooded/paddy** water
+requirement — the shallow root system makes waterlogging a root-rot risk, the
+opposite of a paddy crop. There is **no ergot/mycotoxin** hazard; the dominant
+fungus, grey mould (*Botrytis cinerea*), is a spoilage organism, not a mycotoxin
+producer. **Asynchronous/successive ripening** does apply and is already captured
+as the day-neutral pattern of picking every 1–3 days across a long season
+(Finding 1).
+
 ## Hazards
 
 - A specific allergenic protein associated with this fruit's red pigment
@@ -304,6 +405,16 @@ liqueur (fruit macerated in spirits), and dried-leaf herbal tea [7][12].
 - Whether woodland strawberry's wild populations harvested for export in
   one country are genuinely this species or a related wild species found
   regionally is not fully settled in the sources consulted.
+- The ~1.0 dS/m ECe salt-tolerance threshold and ~33%/dS/m slope are taken
+  from secondary USDA-ARS and extension sources citing Grieve et al. (2012);
+  the FAO Irrigation and Drainage Paper 29 strawberry row (Table A1.1) was not
+  opened directly to confirm the primary figures (request
+  `strawberry--fao29-salt-table`).
+- The California Strawberry Certification regulation text (CCR Title 3,
+  §§3049–3049.5) and the siting rules and virus-pressure rationale for
+  high-elevation runner nurseries were read only at search-snippet depth, not
+  from the regulation and program documents themselves (request
+  `strawberry--cdfa-cert-regs`).
 
 ## Estimates and derivations
 
@@ -527,3 +638,65 @@ Supplied: recent global harvested area and production-tonnage figures,
 and an independently derived average per-hectare yield figure. Accessed
 2026-10-10, search snippets only; underlying international statistics
 database not opened directly.
+
+[18] Multiple sources on strawberry salinity tolerance, including two
+USDA-ARS salinity-laboratory publications (citing Grieve et al., 2012) and
+University of California extension strawberry-disorder material. Supplied: the
+ECe salt-tolerance threshold of about 1.0 dS/m and the roughly 33%-per-dS/m
+yield-loss slope, a comparison with more tolerant crops (tomato ~2.5, cowpea
+~4.9, swiss chard ~7.0 dS/m), the ion-specific point that chlorides and
+especially calcium chloride injure the plant even below 1 dS/m, and a cultivar
+survival figure ('Albion' ~94% at ~2.5 dS/m). Accessed 2026-11-25, search
+snippets only (ARS PDFs not opened in full).
+
+[19] Multiple university-extension clean-plant and virology sources on
+strawberry viruses and decline, including UF/IFAS publications (HS1343, PP273)
+and University of California Foundation Plant Services material. Supplied: the
+named aphid- and whitefly-transmitted viruses (strawberry mild yellow edge,
+mottle, crinkle, vein-banding; pallidosis and beet pseudo-yellows), the
+mixed-infection decline disorder in otherwise-symptomless modern cultivars, a
+~30% yield loss from severe SMoV strains, the 2012–13 SMYEV + SMoV
+nursery-traced outbreak across several south-eastern U.S. states, and the
+meristem-culture-plus-heat-therapy clean-stock and re-indexing pipeline.
+Accessed 2026-11-25, search snippets only.
+
+[20] California Department of Food and Agriculture strawberry registration and
+certification program material and the California Code of Regulations citation
+for it (Title 3, §§3049–3049.5), with University of California Foundation Plant
+Services descriptions of foundation-stock testing. Supplied: the voluntary
+certification framework, annual virus testing and nursery inspection using
+biological indicator and herbaceous-host plants, the one-growing-season
+eligibility rule, phytosanitary-certificate requirements for out-of-state and
+export shipment, and a 2026 regulation-scoping meeting. Accessed 2026-11-25,
+search snippets only.
+
+[21] Multiple sources on methyl-bromide phase-out and California
+strawberry-nursery fumigation alternatives, including a California Agriculture
+article and ASHS horticultural-science trial reports. Supplied: the 2005
+Montreal-Protocol phase-out of methyl bromide with quarantine-and-pre-shipment
+and critical-use exemptions, the tested alternatives (iodomethane + chloropicrin,
+1,3-dichloropropene + chloropicrin, dazomet), trials at both low- and
+high-elevation California nursery sites, cold-stored nursery planting stock
+('Chandler', 'Selva'), and a note that nursery profitability may still suffer
+from the loss of methyl bromide. Accessed 2026-11-25, search snippets only.
+
+[22] Invasiveness and weed-status sources, including the IUCN Global Invasive
+Species Database profile for *Fragaria vesca*, GBIF distribution records, the
+EPPO database, and a BSBI botanical account. Supplied: *F. vesca* naturalised
+and invasive in Hawaii (700–1,700 m) and on La Réunion and introduced in about
+21 countries (none flagged invasive in GBIF); no EPPO pest risk analysis for the
+plant itself; no formal weed-risk listing for garden strawberry; and the
+existence of garden × wild (*F.* × *vescana*) hybrids in cultivation. Accessed
+2026-11-25, search snippets only.
+
+[23] Multiple sources on tropical, highland and controlled-environment
+strawberry production, including UF/IFAS overview articles, a Queensland review
+of protected cultivation, a vertical-hydroponic-greenhouse research article, and
+an industry controlled-environment case study. Supplied: tropical production
+pushed to elevation (Indonesian highlands; the central Mexican highland belt at
+roughly 65% of Mexican volume), Egypt's winter export role (about sixth in the
+world for fresh exports; for part of each winter the main EU supplier) alongside
+Florida's winter crop, a vertical hydroponic greenhouse yield of about 21 kg/m²
+with no difference between stacked elevation tiers, and controlled-environment
+systems used to beat tropical heat and humidity and shorten the cold chain.
+Accessed 2026-11-25, search snippets only.

@@ -1148,6 +1148,30 @@ material was added at search-snippet depth; the items below would upgrade it.
   - **Needed for:** replacing the 600-1,000 hour nursery-snippet range with a
     measured figure (chill bullet in the re-research section) [62].
 
+### strawberry (2026-11-25)
+
+Re-research of the garden-strawberry profile in the shared `strawberry.md`
+against the current checklist. Salinity, viral-decline, certification,
+methyl-bromide, invasiveness, elevation and market-window material was added at
+search-snippet depth; the items below would upgrade it.
+
+- [ ] **`strawberry--fao29-salt-table`** (Online): FAO Irrigation and Drainage
+  Paper 29 (Rev. 1), Table A1.1, the strawberry salt-tolerance row.
+  - **Where:** the FAO document repository (the salt-tolerance tables are in
+    Paper 29, not the FAO-56 evapotranspiration manual already used as [14]).
+  - **Needed for:** confirming the ~1.0 dS/m ECe threshold and ~33%/dS/m slope
+    from the primary FAO table rather than secondary USDA-ARS/extension sources
+    (Salinity bullet in the re-research section; Open research questions) [18].
+- [ ] **`strawberry--cdfa-cert-regs`** (Online): California Code of Regulations,
+  Title 3, §§3049-3049.5, plus the CDFA Strawberry Registration and
+  Certification Program and Foundation Plant Services nursery documents.
+  - **Where:** the CDFA Nursery Services and UC Davis FPS sites (PDFs not opened
+    in full this pass).
+  - **Needed for:** sourcing the certification, virus-testing, phytosanitary and
+    high-elevation runner-nursery specifics directly rather than from search
+    snippets (Biosecurity and nursery certification bullet; Open research
+    questions) [20][21].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.
