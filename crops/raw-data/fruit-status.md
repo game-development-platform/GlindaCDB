@@ -134,7 +134,7 @@
 | seed_watermelon | Citrullus lanatus seed types and C. mucosospermus | watermelon.md | `citron_melon`, `watermelon` | 2026-11-25 | RESEARCHED |
 | service_tree | Sorbus domestica |  | `medlar` | 2026-11-23 | PROPOSED |
 | shiikuwasha | Citrus depressa (Okinawan sour citrus) |  | `hetsuka_daidai`, `kunenbo` | 2026-11-19 | PROPOSED |
-| sour_cherry | P. cerasus | cherry.md | `sweet_cherry` | 2026-09-28 | OUT-OF-DATE |
+| sour_cherry | P. cerasus | cherry.md | `sweet_cherry` | 2026-11-25 | RESEARCHED |
 | strawberry | Fragaria × ananassa | strawberry.md | `woodland_strawberry` | 2026-10-10 | OUT-OF-DATE |
 | sudachi | Citrus sudachi (Tokushima sour citrus) |  | `hetsuka_daidai`, `kabosu` | 2026-11-19 | PROPOSED |
 | sweet_cherry | P. avium | cherry.md | `sour_cherry` | 2026-09-28 | OUT-OF-DATE |

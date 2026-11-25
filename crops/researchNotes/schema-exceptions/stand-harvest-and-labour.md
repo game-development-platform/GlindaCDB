@@ -117,6 +117,9 @@ plain name with the cropID, doc and Finding.
   - `purple_passionfruit` / `yellow_passionfruit` (`passionfruit.md`, Finding 3): the yellow form is
     gathered off the ground after it falls (daily, or it spoils), while the purple is vine-picked at
     colour; fallen fruit of equal ripeness has less sugar, acid and vitamin C.
+  - `sour_cherry` (`cherry.md`, Finding 3 and the 2026-11-25 re-research): trunk-shaken onto catch frames
+    and bruised and softened in handling, so mechanically harvested fruit is a processing product only —
+    the harvest method, not ripeness, decides it cannot be a fresh pack (sweet cherry, hand-picked, can).
   - Imported: durian (cut from the tree vs windfall); cranberry (water harvest for processing vs dry
     harvest for fresh); blueberry (hand vs machine); raspberry (machine-picked fruit is for processing
     only); ume (nets catch fallen ripe fruit); cashew (gathering fallen nuts weekly loses the cashew

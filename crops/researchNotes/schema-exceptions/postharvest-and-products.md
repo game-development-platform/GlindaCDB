@@ -215,3 +215,17 @@ plain name with the cropID, doc and Finding.
     worker manages "several kg/day". The labour, not any agronomic trait, is what defines the product.
 - **Possible home:** a "Processing labour intensity" note under "Uses and processing" for steps whose
   per-unit hand labour defines the product.
+
+## 70 — A processing step bounded on both sides, with an over-processing defect
+
+- **Status:** OPEN (first Glinda doc 2026-11-25).
+- **What doesn't fit:** the "Uses and processing" time limit records a minimum delay or a spoilage
+  deadline (and minimum soak times are already judged covered there). It has no place for a processing
+  step with a hard *ceiling* as well as a floor, where going too long causes a named quality defect
+  rather than ordinary spoilage.
+- **Seen in:**
+  - `sour_cherry` (`cherry.md`, Finding 3): the post-harvest cold-water soak must run at least 4 but no
+    more than 8 hours — under 4 h the fruit is too soft to machine-pit, over 8 h it bleaches and develops
+    the "scald" defect — so the step has both a floor and a ceiling.
+- **Possible home:** let the processing time limit carry a maximum as well as a minimum, with the defect
+  that over-processing causes.

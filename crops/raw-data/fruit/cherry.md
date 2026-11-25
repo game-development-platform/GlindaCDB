@@ -1,7 +1,12 @@
 # Cherry — Sweet Cherry (*Prunus avium*) and Sour Cherry (*Prunus cerasus*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/cherry.md`
-**Researched:** 2026-09-28
+**Researched:** 2026-09-28 (sour-cherry profile re-researched 2026-11-25
+against the full current checklist — see the dedicated "Sour cherry —
+re-research" section below for the chill, photoperiod, salinity, elevation,
+clonal/viral-degeneration, cherry-leaf-spot, invasiveness/biosecurity,
+composition-health and world-yield additions; the sweet-cherry profile has
+not been re-researched since 2026-09-28 and remains out of date)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -165,6 +170,9 @@ roughly 6.7 t/ha nationally, with one state reaching over 13 t/ha and
 another as low as 4 t/ha in different years [3]. No reliable world
 per-hectare yield figure was found for sour cherry at all — only total
 world production, led by Russia, Poland, Ukraine, and Turkey [2][6].
+(Updated 2026-11-25: a world-average of roughly 5 t/ha is now derivable
+from national area/production figures, and the country ranking is disputed —
+see the "Sour cherry — re-research" section and [60].)
 
 ## Agronomic data
 
@@ -243,6 +251,79 @@ world production, led by Russia, Poland, Ukraine, and Turkey [2][6].
   protected cultivation is rain-shelter structures built over
   conventional orchards specifically to prevent cracking.
 
+## Sour cherry — re-research against the current checklist (2026-11-25)
+
+This block re-researches `sour_cherry` (*Prunus cerasus*) against the full
+current checklist; the sweet-cherry profile above is unchanged and remains
+out of date. Genus-level traits shared with sweet cherry are cited above;
+only sour-cherry-specific or newly-sourced points are given here.
+
+- **Chill requirement:** A high-chill temperate species — roughly 600-1,000
+  hours below 7 °C by cultivar; the dominant US cultivar 'Montmorency' is
+  commonly cited around 700 hours (some sources 500-700, others to ~1,000),
+  and 'North Star' around 800-1,000 [62]. Snippet-level; this narrows but
+  does not close the earlier cultivar chill conflict (Open research
+  questions).
+- **Photoperiod sensitivity:** Not a factor — a temperate deciduous tree
+  flowering on spurs and one-year wood, with no documented day-length
+  requirement, and not applicable to tuberisation/bulbing.
+- **Elevation:** No distinctive high- or low-elevation band was sourced for
+  sour cherry specifically.
+- **Salinity:** Salt-sensitive. A nursery reference rates tart cherry's
+  salt/coastal tolerance "low," and a hydroponic study found the common
+  sour-cherry rootstock 'CAB-6P' very sensitive (growth and leaf chlorophyll
+  cut early in exposure); rootstock choice matters, as some cherry rootstocks
+  ('Mahaleb CDR-1', 'Daqingye') are comparatively salt-tolerant [63]. This
+  sits alongside the sweet-cherry salinity rating already cited [26].
+- **Clonal / viral degeneration:** Sour cherry is propagated only by
+  budding/grafting the scion clone onto rootstock, and the US industry rests
+  on a single very old clone — 'Montmorency' is about 95% of Michigan
+  tart-cherry production — so the genetic base is narrow and latent Prunus
+  viruses (such as Prunus necrotic ringspot virus and prune dwarf virus) pass
+  down the clone unless the stock starts clean; certified virus-free nursery
+  stock is the standard control (Finding 7) [61][64].
+- **Cherry leaf spot (*Blumeriella jaapii*) — the defining sour-cherry
+  disease.** Far more than for sweet cherry, leaf spot governs sour-cherry
+  management: 'Montmorency' is highly susceptible, and unmanaged trees can be
+  100% defoliated within two months of the first symptoms, weakening the tree
+  and its winter hardiness; control leans on fungicides, with resistance to
+  the SDHI fungicide boscalid already documented, and breeding programmes are
+  mapping resistance QTLs (some introgressed from *P. canescens*) [61].
+- **Invasiveness / biosecurity:** *P. cerasus* is "commonly cultivated,
+  occasionally escaped" to fencerows and disturbed ground and is generally
+  not treated as invasive in North America, though a few local lists monitor
+  it [64]. Its biosecurity weight is as a **plum pox (sharka) host**: the
+  cherry-adapted strain PPV-C naturally infects both sweet and tart cherry
+  (first isolated from sour cherry in Moldova), and US federal lists include
+  sour cherry among plum-pox-susceptible *Prunus*; the separate US plum-pox
+  variant (which does not naturally infect cherry) was declared eradicated
+  from the US in 2019. The standard safeguard is certified virus-free stock
+  [64].
+- **Composition / health positioning:** Tart 'Montmorency' cherries are
+  anthocyanin-rich and are marketed (as juice/concentrate) for sleep and
+  exercise recovery; they contain measurable melatonin (~13 ng/g fresh, about
+  six times the 'Balaton' level), though a cherry-only dose large enough to
+  be physiologically meaningful is impractical and controlled trials on sleep
+  are mixed [65]. This is a use/quality angle distinct from the plain
+  composition figures above (~500 kcal/kg, ~10 g protein/kg).
+- **Yield — world figure now derivable.** The earlier "no world sour-cherry
+  yield at all" gap is partly closed: national figures imply roughly 5 t/ha
+  (Poland ~35,000 ha producing ~160,000-200,000 t ≈ 5 t/ha; Iran 17,911 ha
+  producing 94,837 t ≈ 5.3 t/ha), consistent with the derived sweet-cherry
+  world average and below US averages [60] (see Estimates). World production
+  is about 1.4-1.6 Mt, but the country ranking is unresolved — one tally has
+  Russia leading (~297 kt, 2022) ahead of Poland, Ukraine and Turkey, while a
+  review citing FAOSTAT 2023 puts Turkey far ahead at 700-900 kt — not
+  reconciled [60].
+- **Harvest method decides the product:** Sour cherry is trunk-shaken onto
+  catch frames and bruises and softens in handling, so mechanically harvested
+  fruit is a processing product only, never a fresh pack — the harvest
+  method, not just ripeness, sets what it can become (Finding 3) [19].
+- **Processing window with both a floor and a ceiling:** the post-harvest
+  cold-water soak must run at least 4 but no more than 8 hours — under 4 h the
+  fruit is too soft to machine-pit, over 8 h it bleaches and scalds — an
+  unusual two-sided processing window (Finding 3) [11].
+
 ## Hazards
 
 Documented pests and diseases include bacterial canker (a serious,
@@ -302,10 +383,12 @@ cultivar grown almost nowhere else commercially.
 - The fresh-to-dried weight ratio for dried sweet cherries is given
   differently by two sources (roughly 0.175 versus roughly 0.25) — not
   resolved here.
-- World sour-cherry yield per hectare could not be sourced at all,
-  despite total world production being reasonably well documented;
-  national-level production statistics for the main producing countries
-  would be needed to derive a reliable figure.
+- World sour-cherry yield per hectare is now *estimated* at roughly 5 t/ha
+  from national area-and-production figures (Poland and Iran; see the
+  2026-11-25 re-research section and Estimates), rather than directly
+  sourced; and the world production *ranking* is unresolved between two
+  source families (Russia-led ~1.6 Mt in one 2022 tally versus Turkey far
+  ahead at 700-900 kt in a FAOSTAT-2023-citing review) [60].
 - Nearly all non-harvest labor-hour figures for both species are
   estimated by analogy to other deciduous tree-fruit crops this project
   has researched rather than directly sourced, since no detailed cherry
@@ -693,3 +776,56 @@ Accessed 2026-10-05.
 production in its home region. Supplied: a competing producer's orchard
 scale and annual output, and an alternative traditional distillation
 method and specification. Accessed 2026-10-05.
+
+[60] Multiple sources on sour-cherry production and area (added in the
+2026-11-25 re-research): a general-reference entry on *Prunus cerasus* (2022
+world production ~1.6 Mt led by Russia ~297 kt, with Poland, Ukraine and
+Turkey next), a Springer open-access polyphenol review citing FAOSTAT 2023
+(Turkey the leading producer at ~700-900 kt, Russia and Poland ~150-200 kt
+each), a Serbian sour-cherry production-economics study (2013-2022 world
+average ~1.42 Mt; ~18,240 ha in Serbia), and national area/production figures
+for Poland (~35,000 ha, ~160,000-200,000 t) and Iran (17,911 ha, 94,837 t).
+Supplied: world production total and the unresolved country ranking, and the
+Poland/Iran area-and-production figures used to derive a ~5 t/ha world-yield
+estimate. Accessed 2026-11-25, search snippets only (the underlying FAOSTAT
+database not opened directly).
+
+[61] Multiple sources on cherry leaf spot (*Blumeriella jaapii*) in sour
+cherry: an APS genome-resource article, a 2025 open-access QTL study of
+leaf-spot resistance in a sour-cherry population, an older study associating
+resistance with a *P. canescens*-derived QTL, a 2018 inheritance study, and a
+general-reference entry plus Michigan extension material. Supplied: leaf spot
+as the dominant sour-cherry disease; 'Montmorency' ~95% of Michigan
+tart-cherry production and highly susceptible; 100% defoliation within two
+months on unmanaged trees; boscalid (SDHI) fungicide-resistance; and
+resistance-breeding QTLs. Accessed 2026-11-25, search snippets only.
+
+[62] Nursery and extension sources on sour-cherry chilling requirement
+(Monrovia, Gardenia, Nature Hills, Raintree, a crop zone guide, and UC Marin
+Master Gardeners). Supplied: a species range of roughly 600-1,000 hours below
+7 °C, with 'Montmorency' commonly ~700 hours (some 500-700, others to ~1,000)
+and 'North Star' ~800-1,000. Accessed 2026-11-25, search snippets only.
+
+[63] Sources on sour-cherry salinity response: a short-term hydroponic study
+of the 'CAB-6P' sour-cherry rootstock (very salt-sensitive), a 2025 cherry-
+rootstock salt-tolerance screening ('Mahaleb CDR-1' and 'Daqingye' more
+tolerant), and a nursery tolerance rating ("low"). Accessed 2026-11-25,
+search snippets only.
+
+[64] Sources on *Prunus cerasus* naturalisation and plum pox: a regional
+flora checklist ("commonly cultivated, occasionally escaped"), APS and
+university-extension plum-pox (sharka) features, a study on cherry-adapted
+PPV-C phylogroups (natural host range both sweet and tart cherry; first
+isolated from sour cherry in Moldova), and a US federal notice listing sour
+cherry among plum-pox-susceptible *Prunus*; the US plum-pox variant was
+declared eradicated from the US in 2019. Supplied: escape/invasiveness
+status, plum-pox host status and the certified-stock safeguard. Accessed
+2026-11-25, search snippets only.
+
+[65] Sources on tart-cherry composition and health positioning: a
+peer-reviewed quantification of melatonin in 'Montmorency' (~13 ng/g) versus
+'Balaton' (~2 ng/g) tart cherries, randomised placebo-controlled trials on
+'Montmorency' concentrate (anthocyanin-rich; cardiometabolic and sleep
+endpoints, mixed results), and consumer/marketing pages. Supplied: melatonin
+and anthocyanin content and the sleep/recovery use positioning. Accessed
+2026-11-25, search snippets only.

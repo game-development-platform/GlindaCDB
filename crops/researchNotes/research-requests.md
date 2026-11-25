@@ -1129,6 +1129,25 @@ material was added at search-snippet depth; the items below would upgrade it.
     figures now cited only at abstract depth (Finding 3; Open research
     questions).
 
+### sour_cherry (2026-11-25)
+
+Re-research of the shared `cherry.md` sour-cherry profile against the current
+checklist. Production, chill, salinity, leaf-spot, plum-pox and melatonin
+material was added at search-snippet depth; the items below would upgrade it.
+
+- [ ] **`sour_cherry--faostat-area`** (Online): FAOSTAT sour-cherry
+  harvested-area and yield-per-hectare tables by country (recent years).
+  - **Where:** the FAOSTAT crops database (blocks scripted queries).
+  - **Needed for:** a directly-sourced world-average sour-cherry yield to
+    replace the ~5 t/ha estimate, and to reconcile the Russia-led (~1.6 Mt)
+    vs. Turkey-led (700-900 kt) production-ranking conflict (Finding 10;
+    Yield; Open research questions) [60].
+- [ ] **`sour_cherry--chill-extension`** (Library): a university-extension or
+  breeding record giving a firm chilling-hour requirement for 'Montmorency'
+  and 'North Star'.
+  - **Needed for:** replacing the 600-1,000 hour nursery-snippet range with a
+    measured figure (chill bullet in the re-research section) [62].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.

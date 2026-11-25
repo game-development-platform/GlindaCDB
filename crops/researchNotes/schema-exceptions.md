@@ -111,6 +111,7 @@ section files under [`schema-exceptions/`](schema-exceptions/):
 | 67 | Value set by a calendar market window against other regions | OPEN | stand-harvest-and-labour |
 | 68 | Irrigation scheduled by plant water status and deficit windows by stage | OPEN | phenology-and-weather |
 | 69 | A luxury product defined by extreme hand-processing labour | OPEN | postharvest-and-products |
+| 70 | A processing step bounded on both sides, with an over-processing defect | OPEN | postharvest-and-products |
 
 ## Reviewed during the 2026-11-24 import and judged already covered
 

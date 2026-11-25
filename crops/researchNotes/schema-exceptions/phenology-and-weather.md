@@ -138,6 +138,10 @@ plain name with the cropID, doc and Finding.
   - `pear_low_chill` (`pear-low-chill.md`, Weather response): 26 °F (−3.3 °C) usually kills *open*
     blossoms; early bloom (5-29 March) made all three hybrids very susceptible to late-spring freezes in
     Mississippi.
+  - `sour_cherry` (`cherry.md`, Finding 5 and the 2026-11-25 re-research): cherry bud-kill is
+    stage-specific — about −2.2 °C (10% kill) to −3.9 °C (90%) at full bloom but only ~−15 °C for 90%
+    kill at the earliest swelling stage for a standard cherry, with sour-cherry bud-kill documented at
+    two separate bloom stages.
   - Imported: grapefruit (−2.2 °C for 6 hours or more); Korla pear (a table of thresholds by organ, and
     freeze wounds that lead to canker); lingonberry (hardiness depends on snow cover); blackcurrant (2 °C
     for two days at bloom cut yield about 60%, with no frost); passionfruit and date palm (rain at
