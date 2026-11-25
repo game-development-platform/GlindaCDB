@@ -1130,6 +1130,24 @@ snippet-depth additions.
   - **Needed for:** a sourced weed status for the dessert type itself
     (Invasiveness / biosecurity) [29].
 
+### wet_tropics_mangoes (2026-11-25)
+
+Re-research of the grouped `wet-tropics-mangoes.md` entry (four *Mangifera*
+species) against the current checklist. The per-species profiles (`kuini.md`,
+`bachang.md`, `binjai.md`, `bambangan.md`) were used as internal source [11];
+they confirmed the gaps below rather than closing them.
+
+- [ ] **`wet_tropics_mangoes--flowering-induction`** (Library): a pomology
+  study of flowering/fruiting induction in *M. odorata/foetida/caesia/pajang*
+  (or wet-tropics *Mangifera* generally).
+  - **Needed for:** the photoperiod/seasonal-cue bullet, currently only
+    inferred (rainy-season fruiting, non-photoperiodic) [11].
+- [ ] **`wet_tropics_mangoes--yield-survey`** (Library): any regional
+  production/yield survey giving per-tree or per-hectare figures for these
+  species.
+  - **Needed for:** replacing the spacing-plus-"thousands of fruits" yield
+    estimate (Yield; Estimates) [11].
+
 ### quince (2026-11-25)
 
 Re-research of the previously fully-anonymised doc against the current

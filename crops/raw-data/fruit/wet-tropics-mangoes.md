@@ -1,7 +1,16 @@
 # Wet-Tropics Mangoes (*Mangifera odorata*, *M. foetida*, *M. caesia*, *M. pajang*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/wet-tropics-mangoes.md`
-**Researched:** 2026-10-12
+**Researched:** 2026-10-12 (re-researched 2026-11-25 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md`.
+Each of the four species has since been given its own dedicated profile —
+`kuini.md`, `bachang.md`, `binjai.md`, `bambangan.md`, re-researched
+2026-11-22/23 — which this grouped entry now draws on as source [11] for the
+new-checklist angles. Added Agronomic data lines for Days-to-first-bearing,
+Edibility, Photoperiod sensitivity, Establishment, Weather response, Water
+regime, Harvest stages/windows, Soil biology, Invasiveness/biosecurity and
+Controlled environment, a salinity note under Soil, and renamed Climate →
+Climate zones; also attached several previously-uncited sources inline.)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -39,7 +48,10 @@ No items are shared between this entry and this project's common-mango
 entry: grafts between this group and the common mango either failed
 outright or became incompatible after a short period, and the fruit and
 traditional products differ substantially. Each of the four species has
-its own fruit product line within this entry.
+its own fruit product line within this entry. The decision to document
+these four species as one combined entry (with species-level cultivar
+groups), and the distinctiveness reasoning in Finding 1, follow this
+project's own scoping research [8].
 
 ## Research findings
 
@@ -72,7 +84,8 @@ there are no long dry periods, and produces two crops a year
 specifically in regions with two distinct dry seasons. It is mostly
 seed-grown, since grafting onto the common mango becomes incompatible
 within a couple of years, and air-layering is possible but difficult. At
-least one specific growing region is noted as specializing in this crop.
+least one specific growing region is noted as specializing in this
+crop [6].
 
 **Finding 3 — bachang: mainly a sour condiment crop with irritant sap.**
 This species grows wild in lowland rainforest across parts of the
@@ -140,7 +153,7 @@ condiment from one indigenous community combines half-ripe (or
 sometimes fully ripe) flesh with grated dried seed from the same fruit
 and salt, sometimes with chili, sealed in a jar and fermented for at
 least a week to several weeks; the same grated dried seed is also used to
-sour a traditional raw fish salad. This species grows from wet lowlands
+sour a traditional raw fish salad [5]. This species grows from wet lowlands
 to above a specific elevation and specifically avoids swampy sites,
 unlike the flood-tolerant species described in Finding 4. At least one
 source notes that all horticultural aspects of this species still need
@@ -164,32 +177,51 @@ fruits" figure for old specimens of one species.
   regions with two distinct dry seasons; bachang has two distinct harvest
   stages (an unripe stage used for condiments, and a ripe stage eaten
   fresh after thick peeling).
-- **Climate:** Tropical, ever-wet lowlands; kuini tolerates a
+- **Days / years to first bearing:** Only bachang is sourced — about 6-8
+  years from planting [11] — and that is used as the group estimate; the
+  other three species are not separately sourced and are estimated by the
+  same common-mango analogy noted under Stand life (Finding 6) [7][11].
+- **Climate zones:** Tropical, ever-wet lowlands; kuini tolerates a
   comparatively modest annual rainfall provided there are no long dry
   periods; binjai is restricted to low elevation, while bachang and
-  bambangan tolerate elevations well above 1,000 meters.
+  bambangan tolerate elevations well above 1,000 meters. No chill or
+  vernalization requirement (equatorial evergreen/semi-deciduous trees).
 - **Composition:** Composition varies meaningfully by species — kuini is
   the most calorie-dense of the three species with documented figures,
   binjai the least calorie-dense but highest in vitamin C alongside
   bachang, and bachang has the highest documented protein content; a
   blended row-level default is used where species-specific data is
   needed but unavailable.
+- **Edibility:** None is a straightforward dessert fruit. Caustic bark sap
+  and/or acrid or irritant fruit juice force thick peeling (and, for unripe
+  fruit, washing or limewater-steeping) before eating (Finding 1); ripe
+  binjai and ripe kuini are eaten fresh after thick peeling, ripe bachang
+  only once the irritant quality has withdrawn to the skin, and bambangan
+  is eaten fresh or fermented, while much of the harvest across all four is
+  used unripe as a sour condiment or pickle (see Uses) [1][2][3][4].
 - **Pollination:** Not specifically researched for any of the four
   species; general insect pollination is assumed by analogy with the
   common mango, and two of the species have documented fragrant flowers
   consistent with insect attraction.
+- **Photoperiod sensitivity:** Not sourced for any of the four species and
+  not resolved in the per-species re-research [11]. Unlike the common mango
+  (a documented dry-season flowering trigger), these ever-wet-lowland trees
+  generally fruit in the rainy season, which points to a different, non-
+  photoperiodic induction mechanism, but the cue was not established
+  (Finding 6; Open research questions). Not applicable to any storage organ
+  (a seed-propagated tree-fruit crop).
 - **Yield:** No dedicated yield data exist for any of the four species;
   figures here are rough estimates built from documented tree spacing and
   a documented "thousands of fruits per old tree" figure for one species
   (see Estimates below).
 - **Water use:** No species-specific standard crop-coefficient curve
   exists; water-use parameters are estimated by analogy to the common
-  mango's documented measured water-use figures, adjusted to reflect this
-  group's lack of the common mango's dry-season physiological adaptation.
-  These are rain-forest-adapted trees that generally need rainfall spread
-  evenly through the year rather than concentrated wet-and-dry seasonal
-  cycles; binjai specifically tolerates periodic flooding, while
-  bambangan specifically avoids swampy sites.
+  mango's documented measured water-use figures [7], adjusted to reflect
+  this group's lack of the common mango's dry-season physiological
+  adaptation. These are rain-forest-adapted trees that generally need
+  rainfall spread evenly through the year rather than concentrated wet-and-
+  dry seasonal cycles; binjai specifically tolerates periodic flooding,
+  while bambangan specifically avoids swampy sites.
 - **Propagation:** Exclusively by seed in practice; kuini's seed is often
   polyembryonic (producing largely true-to-type seedlings), while the
   other three species are single-embryo (producing more variable
@@ -199,6 +231,10 @@ fruits" figure for old specimens of one species.
   Grafting onto the common mango either fails outright or becomes
   incompatible within a couple of years across the species where it has
   been tried.
+- **Establishment:** Seedling-grown and direct-planted at wide forest-tree
+  spacings — roughly 12-14 m for kuini, 12-16 m for binjai, and 14-16 m for
+  the very large bachang and bambangan; bachang (and the group generally)
+  needs ample soil moisture and light shade while young [1][2][3][11].
 - **Labor:** No dedicated labor study was found for any of the four
   species; labor figures here are rough estimates reflecting the
   particular difficulty of harvesting fruit from very tall forest trees
@@ -209,13 +245,17 @@ fruits" figure for old specimens of one species.
   moderately acidic pH tolerance is estimated, consistent with typical
   leached wet-tropics lowland soils. Binjai is documented growing on
   periodically flooded alluvium, while bambangan is documented on well-
-  drained alluvium.
+  drained alluvium. *Salinity:* not sourced for any of the four species,
+  including the flood-tolerant binjai (its riverbank flooding is documented
+  as freshwater seasonal inundation, not tidal/brackish, so flood tolerance
+  does not imply salt tolerance) [11].
 - **Stand life:** Not documented for any of the four species; bearing age
   is estimated at roughly six to eight years from seed by analogy with
-  the common mango, with tall forest-tree habits suggesting a somewhat
-  later bearing age than common mango's documented seedling bearing age.
-  Old specimens of at least one species are documented bearing thousands
-  of fruits in a single season.
+  the common mango [7] (and matching bachang's own ~6-8-year figure [11]),
+  with tall forest-tree habits suggesting a somewhat later bearing age than
+  common mango's documented seedling bearing age. Old specimens of at least
+  one species (binjai) are documented bearing thousands of fruits in a
+  single season.
 - **Disease/pest profile:** Mango-weevil larvae in the flesh, a specific
   fruit-borer pest affecting kuini, and a specific trunk-boring beetle
   affecting both bachang and bambangan.
@@ -236,6 +276,46 @@ fruits" figure for old specimens of one species.
   generally soft and juicy with a short ambient shelf life, and much of
   the harvest across all four species is instead converted promptly into
   pickled, salted, or fermented products rather than stored fresh.
+- **Weather response:** No frost consideration (equatorial lowland trees),
+  so frost plays no quality-improving role here; the governing seasonal
+  cue is rainfall rather than temperature or day length (Photoperiod
+  sensitivity). Harvest generally falls in the rainy season. Frost, heat,
+  wind and drought tolerance were not separately sourced for any of the
+  four species in the per-species re-research [11].
+- **Water regime:** Rain-fed across all four species — no irrigation or
+  flooded/paddy requirement for three of them, and bambangan specifically
+  avoids swampy sites [11]. Binjai is the distinctive case: it is grown on
+  riverbanks subject to periodic (freshwater) seasonal inundation and
+  tolerates that flooding, an unusual trait for a fruit tree (Finding 4)
+  [3].
+- **Harvest stages / windows:** Gathered from tall seedling trees by
+  climbing or collecting windfall. One ripe stage for binjai and bambangan;
+  bachang has two stages (unripe for condiments, ripe for fresh eating
+  after thick peeling) and kuini is also picked young for pickling as well
+  as ripe, with kuini bearing two crops a year where two dry seasons occur
+  (Findings 2, 3) [1][2].
+- **Soil biology:** Not sourced for any of the four species [11]. As
+  seed-propagated trees there is no clonal/viral-degeneration cycle; the
+  main stock issue is graft-incompatibility with the common mango
+  (Propagation), not a documented replant disease, mycorrhizal dependence
+  or allelopathy.
+- **Invasiveness / biosecurity:** None is rated a serious invasive weed. By
+  species: bachang is native to western Malesia and naturalised (not listed
+  invasive) in Burma, Thailand and the Lesser Sundas, IUCN Least Concern
+  (2021); bambangan is endemic to Borneo and not naturalised elsewhere,
+  IUCN Vulnerable (old 1998 assessment); kuini is IUCN data-deficient; and
+  no invasive listing was found for any of the four [11]. The real
+  biosecurity weight is seed-borne pests: the United States restricts
+  *Mangifera* seed imports because of the mango seed borer (historically
+  these species were brought in as graftwood instead), and bachang is an
+  EPPO-listed host of the oriental fruit fly (*Bactrocera dorsalis*) [11].
+  *Legal / religious:* no crop-specific legal restriction was found; the
+  general orlah rule on the first three years' fruit of a newly planted
+  tree applies to these as fruit trees (counting years from planting), with
+  nothing specific to these species [10].
+- **Controlled environment:** Not a protected crop and not sourced as one;
+  30-35 m seedling forest trees are unsuited to greenhouse or protected
+  cropping [11].
 
 ## Hazards
 
@@ -298,6 +378,14 @@ fruits" figure for old specimens of one species.
 - A further related species that hybridizes with binjai in mixed
   orchards, and the broader set of edible Malesian species in this genus
   beyond the four covered here, were not researched in this pass.
+- 2026-11-25 pass: the new-checklist angles (photoperiod, salinity, soil
+  biology, weather response, controlled environment) remain unsourced for
+  this group even after the per-species re-research [11], which confirmed
+  the gaps rather than closing them; the firmest new material is the
+  invasiveness/biosecurity picture (IUCN statuses, bachang naturalisation,
+  the US mango-seed-borer import restriction and the oriental-fruit-fly host
+  status). Photoperiod/flowering induction for these rainy-season-fruiting
+  species is the most useful remaining gap.
 
 ## Estimates and derivations
 
@@ -439,3 +527,18 @@ confirmation that the rule applies broadly to fruit trees and counts
 years from planting, with no specific content unique to these species.
 Accessed 2026-10-12 (originally reused from this project's prior research
 on an unrelated tree-fruit crop), search snippets only.
+
+[11] This project's own per-species profiles for the four species in this
+entry — `kuini.md`, `bachang.md`, `binjai.md`, `bambangan.md` — each
+re-researched 2026-11-22/23 against the full current checklist. Used here
+(added in the 2026-11-25 re-research) as internal references for the
+new-checklist angles: bachang's ~6-8-year bearing age; wide forest-tree
+planting spacings; the unresolved photoperiod/flowering-induction cue and
+unsourced salinity, soil-biology and weather-response data across the group;
+and the invasiveness/biosecurity findings — IUCN conservation statuses (bachang
+Least Concern 2021; bambangan Vulnerable, old 1998 assessment; kuini data
+deficient), bachang's naturalisation in Burma, Thailand and the Lesser Sundas,
+the absence of any invasive listing, the US *Mangifera* seed-import restriction
+for the mango seed borer, and bachang's EPPO host status for the oriental fruit
+fly. Accessed via this project's own prior work; those profiles carry the
+underlying primary citations.
