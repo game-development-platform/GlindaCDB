@@ -1323,6 +1323,24 @@ upgrade it.
   - **Needed for:** replacing the per-plant-per-week-times-density yield estimate,
     among the weakest in the entry (Yield; Estimates) [12].
 
+### yellow_pitaya (2026-11-25)
+
+Re-research of the `yellow-pitaya.md` profile (*Selenicereus megalanthus*)
+against the current checklist. Photoperiod, salinity, weather-response and
+invasiveness [10] lines were added and the profile was given full inline
+citations; the items below would upgrade the snippet-depth additions.
+
+- [ ] **`yellow_pitaya--plantpono-wra`** (Online): the PlantPono / Hawaii
+  Pacific Weed Risk Assessment PDF for *S. megalanthus* (final score not shown in
+  the snippet).
+  - **Needed for:** a firm weed-risk score to anchor the Invasiveness/biosecurity
+    bullet, now resting on "naturalised but not a serious weed" [10].
+- [ ] **`yellow_pitaya--cactus-virus`** (Library): a virology source naming the
+  cactus virus carried in *S. megalanthus* cutting material (likely cactus virus
+  X).
+  - **Needed for:** naming the clonal/viral-degeneration pathogen behind the Soil
+    biology and Propagation bullets [1].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.

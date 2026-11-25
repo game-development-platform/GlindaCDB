@@ -44,6 +44,11 @@ plain name with the cropID, doc and Finding.
 - **What doesn't fit:** "Photoperiod sensitivity" and the chill angle cover natural flowering triggers.
   Nothing records flowering that growers *cause* (water withholding, a cool spell, night lighting, a
   chemical) to set when or whether a crop flowers, or how many crops a year it gives.
+- **Seen in:**
+  - `yellow_pitaya` (`yellow-pitaya.md`, Finding 2 and Photoperiod): a deliberate ~30-day cut-off of
+    irrigation is used to force/synchronise flowering in this long-day CAM cactus (so the natural long-day
+    cue is reinforced by an imposed water stress); compare the sibling dragon fruit, forced instead by
+    night lighting.
 - **Seen in (imported):** pineapple (ethylene forcing); guava and pomegranate (water withheld to choose
   the flowering season, the Indian bahar system); lychee (cool spell below about 20 °C at the flush,
   plus cincturing); durian, mango, champedak (a dry spell; rain then gives shoots, not flowers; mango also

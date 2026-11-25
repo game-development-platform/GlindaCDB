@@ -30,12 +30,15 @@ plain name with the cropID, doc and Finding.
   - `red_currant` (`red-currant.md`, Finding 5 and Yield): *Eutypa lata* canker in the Netherlands is
     reported to cut plantation life from about 15 years to under 10, with the historical 15-20 t/ha yield
     no longer reliably reached; first fruit in year 2, peak by about year 5.
+  - `yellow_pitaya` (`yellow-pitaya.md`, Finding 3 and Stand life): a documented ten-year Colombian
+    commercial cycle — first harvest in year 3, full yield sustained years 5-8, declining in years 9-10,
+    then the planting is replaced.
   - Imported: asparagus (no harvest in year 1, light in year 2, full from year 3; cutting in year 1 cost
     23% of the five-year yield; Fusarium decline at 8-20 years); sweet cherry (full at year 6, about 25
     years); plum (0.23 / 0.38 / 0.76 / 1.0 of full yield in years 4-7); mangosteen (6-20 years to bear);
     orange (20-year economic cycle vs centuries-old trees); blackberry (15-20 years commercial vs about
     6); black raspberry (virus limits stands to 2-3 years); mountain papaya (peaks in years
-    4-5, 7-8-year cycle); babaco (26-month rotation); yellow pitaya (10-year cycle); pineapple (ratoon
+    4-5, 7-8-year cycle); babaco (26-month rotation); pineapple (ratoon
     crop about 0.53 of the plant crop); raspberry and blackberry (canes in age cohorts); dwarf sour
     cherry (regrows from suckers, so the stand doesn't age out); lingonberry (20-year beds); cranberry
     (century-old beds); seed lotus (three-year stand peaking in year 2); arrowroot (dug yearly for 5-6
