@@ -1174,6 +1174,30 @@ search-snippet depth; the items below would upgrade it.
   - **Needed for:** replacing the 800-1,200 hour EcoCrop/snippet range and the
     scattered cultivar units with a measured figure (chill bullet) [67].
 
+### sweet_granadilla (2026-11-25)
+
+Re-research of the `sweet-granadilla.md` profile against the current checklist.
+Fusarium-wilt/rootstock, photoperiod, salinity, invasiveness and virus material
+was added at search-snippet/database depth; the items below would upgrade it.
+
+- [ ] **`sweet_granadilla--alata-rootstock`** (Library): the INIFAP *Revista
+  Mexicana de Ciencias Agrícolas* study evaluating *Passiflora alata* as a
+  Fusarium-tolerant rootstock for granadilla, full text.
+  - **Needed for:** firm incidence/graft-take figures and field (not just
+    greenhouse) performance behind the rootstock-grafting management (Finding 6)
+    [12].
+- [ ] **`sweet_granadilla--virus-survey`** (Online): a *P. ligularis*-specific
+  virus survey (woodiness potyvirus, CMV/SMV/CABMV) from a Colombian or Andean
+  programme.
+  - **Needed for:** confirming the genus-level virus picture for this species
+    rather than relying on analogy (disease/pest profile; Finding 7) [14].
+- [ ] **`sweet_granadilla--icbf-composition`** (Online): the Colombian ICBF
+  *Tabla de Composición de Alimentos* row for granadilla.
+  - **Where:** the ICBF food-composition table (not well indexed to scripts).
+  - **Needed for:** a species-specific composition figure to replace the
+    analogy-based estimate and the conflicting generic snippets (Composition;
+    Open research questions) [15].
+
 ### strawberry (2026-11-25)
 
 Re-research of the garden-strawberry profile in the shared `strawberry.md`

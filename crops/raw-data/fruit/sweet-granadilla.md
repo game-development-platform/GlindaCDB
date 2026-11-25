@@ -1,7 +1,12 @@
 # Sweet Granadilla (*Passiflora ligularis*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/sweet-granadilla.md`
-**Researched:** 2026-10-03
+**Researched:** 2026-10-03 (re-researched 2026-11-25 against the full current
+checklist in `skills/crop-research/SKILL.md` and `templates/research-doc.md` —
+see Findings 6-7 and the new Agronomic data lines on first bearing, edibility,
+photoperiod, propagation/rootstock, salinity, weather response, water regime,
+harvest windows, soil biology, invasiveness / biosecurity and controlled
+environment)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -19,9 +24,11 @@ product profile. Native to the Andes, and documented as invasive in
 several island nations and archipelagos outside its native range. No
 commercial cultivars exist — this is an open-pollinated species, with
 types distinguished informally by fruit size, shape, and shell
-appearance. A giant passionflower-family fruit and a banana-shaped
-passionflower-family fruit remain open research candidates, not yet
-covered by this project.
+appearance. The giant passionflower-family fruit (`giant_granadilla`,
+*P. quadrangularis*) and the banana-shaped passionflower-family fruit
+(`banana_passionfruit`, *P. tripartita* var. *mollissima*) noted as open
+candidates in the original 2026-10-03 pass have since been researched as
+their own rows and are cross-referenced here as same-genus siblings.
 
 This entry passes this project's distinctiveness check clearly against
 its passionflower-family siblings (a yellow- and a purple-fruited
@@ -109,29 +116,81 @@ as equaling good natural bee pollination in effectiveness, and one
 source specifically warns that a decline in large-bee populations would
 threaten the crop's viability [4].
 
+**Finding 6 — Fusarium wilt ("secadera") is the crop's dominant, near-lethal
+disease, now met by grafting onto a tolerant rootstock.** Soil-borne *Fusarium
+solani* f. sp. *passiflorae* (wilt/"secadera") is described as the single
+disease most limiting granadilla production in Colombia, the leading producer,
+with crop losses reported above 90%; the species is rated extremely susceptible,
+one greenhouse trial recording 96% infection incidence with complete plant death
+within 10-30 days of inoculation [12]. The emerging management answer converts
+this normally seed-propagated crop to grafted culture: a related passionflower
+species, *Passiflora alata*, tolerated the same pathogen at only ~8% incidence
+and is proposed as a rootstock, with cleft grafting taking at ~92% versus ~84%
+for splice grafting; further relatives (*P. maliformis*, among others) are under
+evaluation as resistant rootstocks [12]. This is a genuine disease-limits-range
+pattern rescued by a rootstock, and a propagation route the 2026-10-03 profile
+did not record.
+
+**Finding 7 — rated a high-risk invader in the Pacific, with the newest
+checklist angles resting on database and genus-level evidence.** A Pacific-
+Islands weed-risk screening scores sweet granadilla 16.0 and rates it **High
+Risk**: a shade-tolerant, bird-dispersed environmental weed naturalised across
+the Hawaiian Islands (Kauaʻi, Oʻahu, Lānaʻi, Maui, Hawaiʻi), with a general
+reference also listing Haiti, Jamaica, Indonesia, the Galápagos and Samoa
+(unverified) and New Caledonia prohibiting its introduction for weed risk
+[11][13]. For the remaining angles, species-specific field data is thin: the FAO
+EcoCrop datasheet classifies *P. ligularis* as a **short-day (<12 h) plant**,
+rates its soil-salinity tolerance **low (<4 dS/m)**, and gives killing
+temperatures of about −1 °C in the rest period and 0 °C in early growth [10],
+while genus relatives supply the virus picture — passionfruit woodiness
+(potyvirus) and the mosaic viruses CMV/SMV/CABMV infect cultivated *Passiflora*,
+and inoculated granadilla developed foliar malformation and vein-purpling in an
+older Colombian study [14]. These are used below as labelled database/genus
+evidence, not species field measurements.
+
 ## Agronomic data
 
 - **Life form / season:** Vigorous perennial climbing vine, a semi-
   perennial production cycle lasting under six years, with stems
-  reaching several meters in length.
+  reaching several meters in length; no chilling requirement (a tropical
+  highland species).
+- **Days/years to first bearing:** First harvest roughly twelve months
+  after transplanting (Finding 1; Stand life) [2][4].
 - **Harvest pattern:** Continuous/overlapping harvest, since flowering
   and fruiting occur in overlapping cycles essentially year-round, though
   at least one source describes two identifiable main harvest peaks per
   year; harvested at a single commercial-maturity stage, a climacteric
   fruit that can be picked somewhat before full ripeness and finishes
   ripening off the vine.
-- **Climate:** Tropical highland (Andean, a specific mid-elevation band)
-  as the primary growing zone; subtropical uplands in this crop's
-  documented invasive range outside its native area.
-- **Composition:** Composition figures here are estimated by analogy to
-  this crop's passionflower-family sibling, since no dedicated food-
-  composition table was opened for this species specifically; this
-  fruit's pulp is noted elsewhere as sweeter and less acidic than that
-  sibling's.
+- **Climate zones:** Tropical highland (Andean, a specific mid-elevation
+  band) as the primary growing zone; subtropical uplands in this crop's
+  documented invasive range outside its native area. No chilling
+  requirement; a review of Andean passionfruit notes a high solar-
+  radiation demand (at least ~7 h sun/day) to encourage flowering and
+  fruit quality [10].
+- **Composition:** Estimated by analogy to this crop's passionflower-
+  family sibling, since no dedicated species-specific food-composition
+  table was opened; this fruit's pulp is noted elsewhere as sweeter and
+  less acidic than that sibling's [5]. Generic granadilla snippet figures
+  (roughly 40-100 kcal and ~20-30 mg vitamin C per 100 g across sources)
+  were found but disagree widely and are not *P. ligularis*-specific
+  (Open research questions) [15].
+- **Edibility:** Raw-edible — the hard, brittle shell is cracked open and
+  the sweet, low-acid, gelatinous pulp (seeds and all) eaten fresh; this
+  is a dessert fruit, not a cooked or juice crop like its siblings
+  (Naming and scope).
 - **Pollination:** Required — flowers lack sufficient capacity for self-
   pollination and depend on large bees (carpenter bees, bumblebees) or,
   where such bees are scarce, hand pollination, which is documented as
   equally effective.
+- **Photoperiod sensitivity:** The FAO EcoCrop datasheet classifies
+  *P. ligularis* as a short-day (<12 h) plant [10]; no species-specific
+  flowering-response trial was found, and the crop is grown mainly at low
+  Andean latitudes where day length varies little, so the classification
+  is weak evidence. The related *P. edulis* is instead described as a
+  long-day plant (genus analogy, not agreement) [14]. No
+  tuberization/bulbing day-length effect applies (the fruit is the
+  harvested organ).
 - **Yield:** An unusually wide range from a national average up through
   a historical higher average, a directly measured field-trial figure,
   and an unverified trade-press claim at the high end (Finding 3; see
@@ -141,14 +200,20 @@ threaten the crop's viability [4].
   passionflower-family sibling, given the shared genus, vine-on-trellis
   growth habit, and shallow rooting depth, adjusted for this species'
   documented shallower minimum effective soil depth and lower drought-
-  damage threshold. Documented seasonal rainfall requirements vary
+  damage threshold [5]. Documented seasonal rainfall requirements vary
   considerably across sources, from a lower range up to a notably higher
   range in at least one source's narrative text — a conflict not
   resolved here.
 - **Propagation:** By direct seeding into nursery beds, transplanted at
   the first-tendril stage; an open-pollinated species with no commercial
   hybrid varieties, cross-pollinated by large bees, selected informally
-  for fruit size, shape, and shell appearance.
+  for fruit size, shape, and shell appearance. Because it is seed-grown
+  rather than clonally propagated, clonal/viral degeneration is not the
+  issue it is for grafted tree fruit — but an emerging practice grafts
+  the granadilla scion onto a Fusarium-tolerant passionflower rootstock
+  (*P. alata*, with other relatives under evaluation) to survive the
+  wilt disease described in Finding 6, which introduces a nascent clonal
+  rootstock dimension to an otherwise seed-based crop [12].
 - **Labor:** Reasonably well documented via a single detailed field-trial
   cost study (Finding 4), though this is one trial's experience rather
   than an industry-wide survey, and its yields were below that trial's
@@ -159,16 +224,25 @@ threaten the crop's viability [4].
   minimum depth; a documented fertilization program for one field trial
   included organic matter at planting and twice yearly thereafter, plus
   specific mineral and foliar nutrient applications on a recurring
-  schedule.
+  schedule. *Salinity:* salt-sensitive — FAO EcoCrop rates soil-salinity
+  tolerance low (<4 dS/m), a general reference calls it moderate, and a
+  Colombian screening did not list *P. ligularis* among salt-tolerant
+  *Passiflora* accessions [10][11]; consistent with purple passionfruit's
+  moderate salt-sensitivity rating in the genus.
 - **Stand life:** First harvest at roughly twelve months after
   transplanting; productive for roughly five to eight years, sometimes
   described as longer; an overall semi-perennial production cycle of
   under six years.
-- **Disease/pest profile:** Sunscald, flower drop, fruit cracking, and
-  several nutrient-deficiency disorders are the main documented dry-
-  season problems (Finding 5); fruit-fly-type pests favored by dense,
-  unpruned canopy, and fungal disease pressure that rises above the
-  optimal elevation band.
+- **Disease/pest profile:** *Fusarium* wilt ("secadera", *F. solani* f.
+  sp. *passiflorae*) is the single most limiting disease in the leading
+  producing country, near-lethal and rated the main reason for the
+  emerging rootstock-grafting practice (Finding 6) [12]. Also: sunscald,
+  flower drop, fruit cracking, and several nutrient-deficiency disorders
+  as the main dry-season problems (Finding 5); fruit-fly-type pests
+  favored by a dense, unpruned canopy; other fungal disease pressure that
+  rises above the optimal elevation band; and genus-level virus pressure
+  (woodiness potyvirus, CMV/SMV/CABMV), not confirmed in a *P. ligularis*
+  survey here [14].
 - **Cultivars:** No commercial varieties exist; informal local selections
   vary in shell color and fruit size, and a collection of elite genotypes
   has been assembled in this crop's leading producing country, though
@@ -180,7 +254,51 @@ threaten the crop's viability [4].
   thresholds for different quality categories.
 - **Storage:** Roughly three to four weeks at a specific cool
   temperature and high humidity, or one to two weeks at room temperature
-  thanks to the fruit's hard protective shell.
+  thanks to the fruit's hard protective shell [6][7]. One source warns of
+  chilling injury across a band overlapping another's recommended storage
+  temperature (Open research questions).
+- **Weather response:** Frost-sensitive but not as cold-intolerant as its
+  lowland giant-granadilla sibling — a cultivation source reports it
+  withstands short periods of light frost while being intolerant of heat,
+  and FAO EcoCrop gives killing temperatures around −1 °C (rest period)
+  and 0 °C (early growth); sustained cold hinders development and frost
+  damages leaves and fruit [10][11]. Drought is the more serious stress:
+  shallow fibrous roots make the crop drought-intolerant, with serious
+  physiological damage below a specific soil-water-potential threshold and
+  drought cutting flower-bud formation more than causing flower drop
+  (Finding 5). Dry-season sunscald, fruit cracking, flower drop and
+  nutrient-deficiency disorders, and low-humidity drying of floral
+  stigmas, are the documented dose-level responses [3].
+- **Water regime:** Ordinary irrigation or rainfall; no flooded/paddy
+  requirement. Shallow-rooted and drought-intolerant, so it needs steady
+  moisture, but waterlogging and poor drainage are also harmful (Finding
+  5; Water use).
+- **Harvest stages / windows:** A single commercial-maturity stage, taken
+  as a climacteric fruit that can be picked slightly before full ripeness
+  and finishes off the vine; harvests come near-continuously year-round in
+  overlapping cycles, with at least one source describing two main annual
+  peaks (Findings 1-2; Harvest pattern). Ripening within one planting is
+  asynchronous — three growth cycles (ripening fruit, flowers setting,
+  new reproductive branches) run simultaneously at any time (Finding 2).
+- **Soil biology:** Soil-borne *Fusarium solani* f. sp. *passiflorae* is
+  the crop's defining pathogen (Finding 6) [12]. No replant or allelopathy
+  data was found for the species; other *Passiflora* seedlings depend
+  strongly on arbuscular mycorrhizae in low-phosphorus soil (genus
+  analogy, not confirmed here).
+- **Invasiveness / biosecurity:** Native to the Andes; naturalised and
+  weedy well beyond it. A Pacific-Islands weed-risk screening scores it
+  16.0 and rates it High Risk — a shade-tolerant, bird-dispersed
+  environmental weed naturalised across the Hawaiian Islands — and a
+  general reference lists it as invasive in Haiti, Jamaica, Indonesia, the
+  Galápagos and Samoa (unverified, citation-flagged); New Caledonia
+  prohibits its introduction over weed risk [11][13] (Finding 7). *Legal
+  restrictions:* the New Caledonia import prohibition is the only specific
+  one found.
+- **Controlled environment:** Covered (greenhouse) production of this
+  crop is documented to exist commercially, but no greenhouse yield or
+  protected-cropping cost figure was sourced [9]; the vigorous
+  overhead-trellis vine habit makes enclosed cultivation look costly, an
+  inference.
 
 ## Hazards
 
@@ -191,9 +309,13 @@ threaten the crop's viability [4].
   **TO BE ADDRESSED** — worth a dedicated check against a species-
   specific source before this crop is treated as food-safe in all growth
   stages.
-- This species is documented as invasive outside its native range in
-  several island nations and archipelagos; this is an ecological/
-  regulatory concern rather than a food-safety hazard.
+- This species is documented as invasive outside its native range,
+  rated High Risk by a Pacific-Islands weed-risk screening and
+  naturalised across the Hawaiian Islands, with New Caledonia prohibiting
+  its introduction (Finding 7); this is an ecological/regulatory concern
+  rather than a food-safety hazard [11][13].
+- *Fusarium* wilt ("secadera") is an agronomic/production hazard, not a
+  consumer one — it can kill over 90% of a planting (Finding 6) [12].
 - No consumer feed-safety hazards were found.
 
 ## Uses and processing
@@ -210,6 +332,14 @@ threaten the crop's viability [4].
 
 ## Open research questions
 
+- 2026-11-25 pass caveats: Findings 6-7 and the new Agronomic lines are
+  search-snippet-level only. Photoperiod (short-day) and salinity (low)
+  rest on the FAO EcoCrop database classification, not a species field
+  trial; the Pacific High Risk score (16.0) and the Hawaiian naturalised
+  range were seen in snippets; the Galápagos/Samoa/Haiti/Jamaica/Indonesia
+  invasive list is a citation-flagged general-reference claim; and the
+  *P. alata* rootstock result comes from one greenhouse/short-field study.
+  No *P. ligularis*-specific virus survey was found (genus evidence only).
 - Documented seasonal rainfall requirements vary considerably across
   four separate sources, with one source's own narrative text giving a
   notably higher figure than its own data table — not resolved.
@@ -392,3 +522,53 @@ value figure and market-ranking for a specific producing region, a note
 on an elite-genotype collection effort, and a note that covered
 (greenhouse) production of this crop exists commercially. Accessed
 2026-10-03, search snippets only.
+
+[10] The FAO EcoCrop datasheet for *Passiflora ligularis*, plus a review of
+Andean passionfruit. Supplied (added in the 2026-11-25 re-research): a
+short-day (<12 h) photoperiod classification, a low soil-salinity tolerance
+rating (<4 dS/m), killing temperatures of about −1 °C (rest period) and 0 °C
+(early growth), and a minimum ~7 h/day solar-radiation requirement for flowering
+and fruit quality in Andean passionfruit. Accessed 2026-11-25, search snippets
+only.
+
+[11] A University of Florida IFAS cultivation publication on sweet granadilla
+(HS1467) and the community-maintained general-reference entry on *P. ligularis*.
+Supplied: tolerance of short periods of light frost with intolerance of heat;
+cold hindering development and frost damaging leaves/fruit; a "moderate salt
+tolerance" statement; and the list of countries where the species is considered
+invasive plus the New Caledonia import prohibition. Accessed 2026-11-25, search
+snippets only.
+
+[12] Colombian research on *Fusarium* wilt of granadilla and tolerant
+rootstocks: an INIFAP *Revista Mexicana de Ciencias Agrícolas* study evaluating
+*Passiflora alata* as a Fusarium-tolerant rootstock for granadilla (96%
+infection incidence in *P. ligularis* vs ~8% in *P. alata*; cleft grafting ~92%
+vs splice ~84% take; trial in Antioquia), a review stating "secadera" (*F.
+solani* f. sp. *passiflorae*) causes losses over 90% and that *P. ligularis* and
+*P. quadrangularis* are extremely susceptible with complete mortality in 10-30
+days, and 2025 *Frontiers in Plant Science* / *Acta Agronómica* studies of
+further candidate resistant *Passiflora* rootstocks. Supplied: the disease's
+severity and the emerging rootstock-grafting management. Accessed 2026-11-25,
+search snippets only.
+
+[13] Pacific-region invasiveness material on *P. ligularis*: a Plant Pono /
+Hawaii-Pacific Weed Risk Assessment screening (score 16.0, High Risk; a
+shade-tolerant, bird-dispersed environmental weed; naturalised on Kauaʻi, Oʻahu,
+Lānaʻi, Maui and Hawaiʻi) and a Passifloraceae family profile flagging it as an
+environmental weed in Hawaii. Supplied: the High Risk rating and the Hawaiian
+naturalised range. Accessed 2026-11-25, search snippets only.
+
+[14] Search-snippet-level material on *Passiflora* virus diseases: Colombian
+studies reporting passionfruit woodiness (potyvirus) and the mosaic viruses CMV,
+SMV and CABMV in cultivated passionfruit/gulupa, an Embrapa review of *Passiflora*
+viruses, and an older Colombian inoculation study in which granadilla developed
+foliar malformation and vein-purpling; also a reference describing *P. edulis* as
+a long-day plant. Supplied: the genus-level virus picture and the day-length
+analogy, neither confirmed in a *P. ligularis* survey. Accessed 2026-11-25,
+search snippets only.
+
+[15] Generic granadilla/passionfruit food-composition snippets (a UK-style
+nutrition table for granadilla flesh and seeds, a supplier USDA-derived listing,
+and a general passionfruit reference). Supplied: a wide, conflicting range of
+calorie (~40-100 kcal/100 g) and vitamin-C (~20-30 mg/100 g) figures, none
+specific to *P. ligularis*. Accessed 2026-11-25, search snippets only.

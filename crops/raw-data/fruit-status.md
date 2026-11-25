@@ -138,7 +138,7 @@
 | strawberry | Fragaria × ananassa | strawberry.md | `woodland_strawberry` | 2026-11-25 | RESEARCHED |
 | sudachi | Citrus sudachi (Tokushima sour citrus) |  | `hetsuka_daidai`, `kabosu` | 2026-11-19 | PROPOSED |
 | sweet_cherry | P. avium | cherry.md | `sour_cherry` | 2026-11-25 | RESEARCHED |
-| sweet_granadilla | Passiflora ligularis | sweet-granadilla.md |  | 2026-10-03 | OUT-OF-DATE |
+| sweet_granadilla | Passiflora ligularis | sweet-granadilla.md |  | 2026-11-25 | RESEARCHED |
 | sweet_lemon | Citrus limetta | sweet-lemon.md | `lemon`, `meyer_lemon` | 2026-10-06 | OUT-OF-DATE |
 | tachibana | Citrus tachibana (wild Japanese mandarin) |  | `hyuganatsu`, `mandarin` | 2026-11-19 | PROPOSED |
 | tangelo | Citrus × tangelo (mandarin × grapefruit) |  | `mandarin`, `clementine` | 2026-11-20 | PROPOSED |

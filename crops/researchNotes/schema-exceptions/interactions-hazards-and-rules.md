@@ -61,6 +61,11 @@ plain name with the cropID, doc and Finding.
     factor that most limits where quince can be grown commercially — it rules the crop out of warm,
     humid-summer regions and reportedly devastated one Eastern European country's industry for two decades
     until resistant selections on a specific rootstock were bred.
+  - `sweet_granadilla` (`sweet-granadilla.md`, Finding 6): soil-borne *Fusarium
+    solani* f. sp. *passiflorae* ("secadera") causes losses above 90% in Colombia, the leading producer,
+    with the crop rated extremely susceptible (96% incidence, death in 10-30 days); the emerging rescue is
+    grafting the scion onto a tolerant relative (*P. alata*, ~8% incidence) — a disease-limits-range case
+    answered by a rootstock, exactly as for `peach_low_chill` and `quince`.
   - Imported: grape (Pierce's disease makes European grapes uneconomic in the US Southeast, where
     muscadine is resistant);
     taro (leaf blight destroyed Samoa's crop in 1993; recovery by breeding).
