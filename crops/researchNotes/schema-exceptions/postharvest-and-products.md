@@ -61,10 +61,12 @@ plain name with the cropID, doc and Finding.
   - `satsuma` (`satsuma.md`, Finding 3): late cultivars ('Aoshima') are air-dried after harvest until
     they lose a few percent of their weight — a curing step that firms the rind — before they are placed
     in cool, humid storage.
+  - `quince` (`quince.md`, Finding 2): climacteric; picked under-ripe on a ground-colour cue, cold-stored
+    a few months, then given a warm room-temperature ripening step before it reaches processing quality.
   - Imported: peach, plum, apricot, papaya, guava, kiwifruit (off-plant ripening); avocado (never ripens
     on the tree); banana (scheduled ethylene ripening at 14-18 °C over 4-10 days; fails above about 25
     °C); cantaloupe (softens but gains no sugar off the vine); honeydew (ethylene treatment); durian (the
-    husk gives off ethylene); quince (stored, then ripened at 20 °C); medlar (inedible until bletted, 2-3
+    husk gives off ethylene); medlar (inedible until bletted, 2-3
     weeks cool or frost on the tree);
      Asian persimmon (astringent types need CO2 or ethanol
     treatment, drying, or freezing); Asian pear (climacteric in some cultivars, not others).
@@ -129,9 +131,11 @@ plain name with the cropID, doc and Finding.
     ethylene producers of any fruit (160-370 µL/kg·h at the climacteric peak), so it would over-ripen
     ethylene-sensitive produce stored with it; the yellow form is also force-ripened off-vine with 100
     ppm ethylene for 1-2 days.
+  - `quince` (`quince.md`, Finding 2): gives off a strong scent and ethylene as it ripens, so it is
+    stored apart from pears and apples to avoid tainting them and hastening their ripening.
   - Imported: kiwifruit (5-10 ppb softens fruit); watermelon (5 µL/L); kai-lan (1 ppm cuts shelf life
     about 30%); carrot (bitter from under 1 ppm; apples and pears are bad storage mates); celeriac
-    (ethylene toughens roots); quince (ripens its neighbours).
+    (ethylene toughens roots).
 - **Possible home:** "Ethylene: sensitivity and production" and "Do not store with" lines under
   "Storage".
 

@@ -21,9 +21,11 @@ plain name with the cropID, doc and Finding.
     (*Cronartium ribicola*), which needs a five-needle pine; some North American jurisdictions restrict
     or ban *Ribes* with a ~305 m setback from pines, though red and white currants are often exempted
     where black currant is not. Less susceptible than the black-fruited sibling.
+  - `quince` (`quince.md`, Soil biology and Disease/pest profile): host of a *Gymnosporangium* rust that
+    needs a nearby juniper to complete its life cycle, giving an "avoid planting near junipers" site rule;
+    also a regulated host of fire blight (see entry 55).
   - Imported: blackcurrant, golden currant, gooseberry (white pine blister rust; setbacks
-    around 300 m and state bans); Meyer lemon (tristeza reservoir; certified stock required); quince
-    (rust carried by nearby juniper).
+    around 300 m and state bans); Meyer lemon (tristeza reservoir; certified stock required).
 - **Possible home:** a "Host for other crops' diseases" line under "Invasiveness / biosecurity".
 
 ## 54 — Disease shared with neighbouring or nursery crops
@@ -55,6 +57,10 @@ plain name with the cropID, doc and Finding.
     which pears can be grown in the US South; the European 'Moonglow' was dead within five years in a
     Mississippi trial while the hybrids survived; the imported bloom-warmth-and-wetting forecast was not
     re-sourced this pass.
+  - `quince` (`quince.md`, Finding 3 and Invasiveness / biosecurity): fire blight (EPPO A2) is the single
+    factor that most limits where quince can be grown commercially — it rules the crop out of warm,
+    humid-summer regions and reportedly devastated one Eastern European country's industry for two decades
+    until resistant selections on a specific rootstock were bred.
   - Imported: grape (Pierce's disease makes European grapes uneconomic in the US Southeast, where
     muscadine is resistant);
     taro (leaf blight destroyed Samoa's crop in 1993; recovery by breeding).

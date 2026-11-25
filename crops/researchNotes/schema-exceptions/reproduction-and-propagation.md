@@ -179,7 +179,10 @@ plain name with the cropID, doc and Finding.
   - `pear_low_chill` (`pear-low-chill.md`, Finding 5): the standard stock is *P. calleryana*, grown from
     seed; it is not a crop row in this project, and is now an invasive whose sale is banned in several
     states.
-  - Imported: date-plum (rootstock seed for Asian persimmon); quince (pear and medlar rootstock); golden
+  - `quince` (`quince.md`, Finding 1 and Propagation): grown in dedicated stool beds as the classic
+    dwarfing rootstock for pear and also used for medlar; a long-standing storage reference calls
+    rootstock use the crop's main commercial purpose.
+  - Imported: date-plum (rootstock seed for Asian persimmon); golden
     currant; sour orange (classic citrus stock; tristeza kills sweet orange on it); cherry plum; squash
     as a graft stock for oriental melon.
 - **Possible home:** a "Role as rootstock for other crops" line under "Propagation".
@@ -193,6 +196,9 @@ plain name with the cropID, doc and Finding.
   - `pear` (`pear.md`, Finding 6): quince is the most widespread stock but its compatibility "is not good
     for all cultivars"; the imported 8-10-year delay and interstem bridge were not re-confirmed this pass
     (request `pear--quince-incompatibility`).
+  - `quince` (`quince.md`, Finding 1 and Propagation): the stock side of the same incompatibility — pear
+    scions 'Bartlett'/'Williams' and 'Bosc' are incompatible on quince and need a 'Beurré Hardy' or
+    'Doyenné du Comice' interstem bridge; pear rootstocks in turn perform poorly on quince.
   - Imported: Asian persimmon (date-plum stock fails with some cultivars; graft take 44-45% vs 70%);
     Texas persimmon (incompatible with the rest of the genus); wet-tropics mangoes (incompatible with
     mango); pomegranate (grafting impractical); sweet cherry on Mahaleb (failure after about 6 years);

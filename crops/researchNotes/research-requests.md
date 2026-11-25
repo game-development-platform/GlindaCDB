@@ -1108,6 +1108,27 @@ read; the items below would close the remaining gaps.
     and the ogiri-detoxification figures now cited at snippet depth
     (Finding 7; Hazards) [25].
 
+### quince (2026-11-25)
+
+Re-research of the previously fully-anonymised doc against the current
+checklist. Production, chill, salinity, fire-blight and virus-certification
+material was added at search-snippet depth; the items below would upgrade it.
+
+- [ ] **`quince--ucdavis-rootstock`** (Online): University of California,
+  "Quince as Pear Rootstock" (https://fruitsandnuts.ucdavis.edu/quince-pear-rootstock).
+  - **Where:** open web; not opened this pass.
+  - **Needed for:** the named-clone vigour figures and the delayed
+    (reportedly 8-10 year) pear-on-quince incompatibility timing — also the
+    quince side of the outstanding `pear--quince-incompatibility` request
+    (Finding 1; Propagation).
+- [ ] **`quince--fireblight-breeding`** (Library): the Eastern European
+  conference article behind source [9] on breeding fire-blight-resistant
+  quince selections (two decades of industry damage; a hybrid population on a
+  named rootstock; infection-rate figures).
+  - **Needed for:** pinning the specific country and the devastation/recovery
+    figures now cited only at abstract depth (Finding 3; Open research
+    questions).
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.

@@ -34,6 +34,7 @@
 | champedak | Artocarpus integer | champedak.md | `jackfruit`, `lakoocha`, `marang` | 2026-11-17 | RESEARCHED |
 | charichuelo | Garcinia madruno |  | `mangosteen` | 2026-11-23 | PROPOSED |
 | cherry_plum | Prunus cerasifera | cherry-plum.md | `japanese_plum` | 2026-11-17 | RESEARCHED |
+| chinese_quince | Pseudocydonia sinensis |  | `quince` | 2026-11-25 | PROPOSED |
 | chinotto | Citrus myrtifolia (possibly *C.* × *aurantium* var. *myrtifolia*) | chinotto.md | `bitter_orange` | 2026-11-17 | RESEARCHED |
 | citron | Citrus medica | citron.md | `key_lime`, `lemon`, `meyer_lemon`, `ponderosa_lemon` | 2026-11-17 | RESEARCHED |
 | citron_melon | Citrullus amarus | watermelon.md | `seed_watermelon`, `watermelon` | 2026-11-17 | RESEARCHED |
@@ -124,7 +125,7 @@
 | ponderosa_lemon | Citrus hybrid, 'Ponderosa' lemon (presumed lemon × citron) | ponderosa-lemon.md | `meyer_lemon`, `lemon`, `citron`, `pomelo` | 2026-11-23 | RESEARCHED |
 | pulasan | Nephelium ramboutan-ake, syn. N. mutabile | pulasan.md | `rambutan`, `longan`, `lychee` | 2026-11-23 | RESEARCHED |
 | purple_passionfruit | Passiflora edulis | passionfruit.md | `yellow_passionfruit` | 2026-11-24 | RESEARCHED |
-| quince | Cydonia oblonga | quince.md | `japanese_quince`, `loquat`, `medlar` | 2026-10-02 | OUT-OF-DATE |
+| quince | Cydonia oblonga | quince.md | `japanese_quince`, `loquat`, `medlar` | 2026-11-25 | RESEARCHED |
 | rambutan | Nephelium lappaceum | rambutan.md | `longan`, `lychee`, `mata_kucing`, `pulasan` | 2026-11-23 | RESEARCHED |
 | rangpur_lime | Citrus × limonia (mandarin × citron) |  | `key_lime`, `mandarin` | 2026-11-19 | PROPOSED |
 | raspberry | Rubus idaeus | raspberry.md | `black_raspberry`, `blackberry` | 2026-11-23 | RESEARCHED |
