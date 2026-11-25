@@ -62,6 +62,11 @@ plain name with the cropID, doc and Finding.
     large operations use non-fruiting "super pollinizer" varieties bred purely to supply pollen without
     taking marketable space, and hive density is raised (national guidance three hives/acre for seedless
     vs one for seeded).
+  - `woodland_strawberry` (`strawberry.md`, Finding 6 and the 2026-11-25 woodland re-research): the musk
+    strawberry *F. moschata* is dioecious/subdioecious, so a planting must include non-fruiting male
+    plants (or a second compatible clone) interplanted for the female plants to set fruit — a required,
+    never-harvested pollen source within the same crop, unlike the self-fertile garden and woodland
+    strawberries.
   - Imported: Japanese plum (about 11% pollinizer trees, never harvested); kiwifruit (male vines);
     date palm (2-4% males; pollen
     collected and hand-applied, 15-20 g per female; the pollen parent shifts ripening by up to two

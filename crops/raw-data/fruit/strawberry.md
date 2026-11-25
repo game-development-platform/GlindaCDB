@@ -156,7 +156,7 @@ liqueur (fruit macerated in spirits), and dried-leaf herbal tea [7][12].
   the many small surface seeds) but this effect is not independently
   sourced here.
 - **Yield:** A wide range from a world average (derived from global
-  production-area statistics) up to considerably higher figures in
+  production-area statistics) [17] up to considerably higher figures in
   intensive coastal plasticulture systems, and down to lower figures in
   traditional matted-row systems (see Estimates below for adopted tier
   values).
@@ -171,7 +171,7 @@ liqueur (fruit macerated in spirits), and dried-leaf herbal tea [7][12].
   seed-propagated F1 hybrid lines are an emerging but still minor
   technology, bred from inbred parent lines self-pollinated over several
   generations, since vigor is lost after a few generations of further
-  selfing. A specific chilling duration applied to nursery mother plants
+  selfing [9]. A specific chilling duration applied to nursery mother plants
   affects both the number and size of resulting daughter plants.
 - **Labor:** Reasonably well documented for an intensive coastal
   plasticulture system via a detailed regional cost study (planting,
@@ -207,6 +207,10 @@ liqueur (fruit macerated in spirits), and dried-leaf herbal tea [7][12].
   at room temperature is roughly a single day (Finding 2).
 
 ## Agronomic data (woodland / musk strawberry, *F. vesca* / *F. moschata*)
+
+*(These bullets are the 2026-10-10 baseline; the checklist angles — photoperiod,
+invasiveness, salinity, musk-strawberry dioecy and the rest — are re-researched
+in the dated "Woodland / musk strawberry" section below, 2026-11-25.)*
 
 - **Life form / season:** Small perennial herb; alpine cultivated forms
   are clump-forming and runnerless, while wild forms spread by runners.
@@ -254,8 +258,8 @@ covering the angles added on 2026-11-08 (chill/vernalization, photoperiod,
 frost-as-quality, flooded/paddy, clonal/viral degeneration, salinity, elevation,
 ergot/fungal contamination, asynchronous ripening) and 2026-11-11 (invasiveness/
 biosecurity), none of which the 2026-10-10 pass was written against. The
-woodland/musk profile further down is unchanged and remains out of date. Names
-kept general in the earlier pass are given directly here.
+woodland/musk profile has its own re-research section below (also 2026-11-25).
+Names kept general in the earlier pass are given directly here.
 
 **Parentage and names (de-anonymised).** The garden strawberry is the octoploid
 hybrid *F.* × *ananassa*, which arose in 18th-century Brittany from a chance
@@ -315,10 +319,10 @@ agricultural use was phased out in 2005 under the Montreal Protocol but which
 remains available under quarantine-and-pre-shipment and critical-use exemptions;
 nurseries have shifted to **1,3-dichloropropene + chloropicrin, iodomethane +
 chloropicrin and dazomet**, trialled across both low- and high-elevation
-California nursery sites [21]. (The wild woodland relative *F. vesca* — the
-sibling cropID, still out of date — *is* a listed invasive in Hawaii at
-700–1,700 m and on La Réunion, and is recorded as introduced in about 21
-countries [22]; that fact belongs to the woodland profile.)
+California nursery sites [21]. (The wild woodland relative *F. vesca*
+*is* a listed invasive in Hawaii at 700–1,700 m and on La Réunion, and is
+recorded as introduced in about 21 countries [22]; that is covered in the
+woodland re-research section below.)
 
 **Elevation and controlled environment.** In the tropics the crop is carried by
 altitude — grown in cool highlands (e.g. Indonesian highlands, and the central
@@ -344,6 +348,73 @@ fungus, grey mould (*Botrytis cinerea*), is a spoilage organism, not a mycotoxin
 producer. **Asynchronous/successive ripening** does apply and is already captured
 as the day-neutral pattern of picking every 1–3 days across a long season
 (Finding 1).
+
+## Woodland / musk strawberry — re-research against the current checklist (2026-11-25)
+
+This section re-researches the **woodland / musk strawberry** profile (*Fragaria
+vesca*, with musk strawberry *F. moschata*) against the current research-doc
+template and the full step-3 checklist, covering the angles added on 2026-11-08
+(chill/vernalization, photoperiod, frost-as-quality, flooded/paddy, clonal/viral
+degeneration, salinity, elevation, ergot/fungal contamination, asynchronous
+ripening) and 2026-11-11 (invasiveness/biosecurity), none of which the
+2026-10-10 pass was written against. Several of the shared sources added in the
+garden re-research above ([18] salinity, [19] viruses, [22] invasiveness) apply
+here and are cited directly; one woodland-specific flowering-physiology source
+[24] is added.
+
+**Photoperiod / flowering habit — this species is the genetic model.** *F.
+vesca* is the textbook case for the seasonal-vs-perpetual flowering split. Wild
+seasonal accessions are **facultative short-day** plants: they require short days
+to flower above ~15 °C, but at cool temperatures (~10 °C) they initiate flowers
+regardless of day length; above ~21 °C flowering is inhibited under any
+photoperiod [24]. The cultivated **alpine** forms (*F. vesca* f.
+*semperflorens*) are **perpetual (day-neutral/everbearing)**: they carry a
+non-functional copy of the floral-repressor gene *FvTFL1* and so flower and fruit
+from early summer to late autumn, the trait conferred by recessive alleles of a
+small number of genes [24]. This is the mechanism behind the runnerless
+ever-fruiting alpine habit noted in Finding 6, and it mirrors (at the diploid,
+single-gene level) the short-day / day-neutral cultivar split documented for the
+octoploid garden strawberry in Finding 1.
+
+**Invasiveness / biosecurity — the opposite of the garden hybrid.** Unlike the
+non-naturalising octoploid garden strawberry, *F. vesca* **is** a listed
+invasive: the IUCN Global Invasive Species Database records it as naturalised and
+invasive in Hawaii (roughly 700–1,700 m) and on La Réunion, and GBIF/EPPO records
+show it introduced in about 21 countries (not flagged invasive elsewhere, and
+with no EPPO pest risk analysis for the plant itself) [22]. Garden × woodland
+hybrids (*F.* × *vescana*) occur in cultivation [22]. Because the cultivated
+alpine forms are **seed-grown**, the nursery virus-certification burden that
+dominates garden-strawberry biosecurity (above) is much lighter here; wild and
+runner-propagated *F. vesca* still host the same genus virus suite [19], but the
+decline-after-a-few-years of alpine seedlings (Finding 6) is a habit of the
+seed-grown forms rather than a documented clonal/viral degeneration.
+
+**Reproduction — musk strawberry is dioecious.** *F. moschata* is not
+self-fertile: its plants are functionally male or female (dioecious/subdioecious),
+so fruit set requires separate male plants or a second compatible clone
+interplanted — a true pollination *requirement*, distinct from garden
+strawberry's self-fertile hermaphrodite flowers (Finding 6) [8]. It is grown only
+on a small scale in a few European countries [8].
+
+**Salinity.** No *F. vesca*-specific salinity figure was found; as a *Fragaria*
+it is taken to share the genus's extreme salt sensitivity — an *ECe* threshold
+near 1.0 dS/m and ion-specific chloride injury below that [18][14] — so the same
+"one of the most salt-sensitive crops grown" caveat applies by analogy.
+
+**Angles that do not apply, or are shared with garden strawberry.** *Chill /
+vernalization:* a cold-climate perennial, but not a chill-hour crop; cool
+temperatures promote flower initiation rather than break a dormancy requirement
+[24]. *Frost:* a damage-only event, governed by the shared bloom-stage frost-kill
+table (Finding 5) [15]; no quality-improving frost effect. *Flooded/paddy:* none
+— a shallow-rooted woodland-edge herb, not a flood crop. *Elevation:* wild
+populations span a wide elevation band (documented across one country's northern
+highlands) and the Hawaiian invasive populations sit at ~700–1,700 m [13][22].
+*Ergot/mycotoxin:* none; the dominant fungus is grey mould (*Botrytis cinerea*),
+a spoilage organism, not a mycotoxin producer (as for garden strawberry) [2].
+*Asynchronous/successive ripening:* applies — alpine forms are picked
+continuously over a long season, while wild fruit persists on the plant only
+about a day (Finding 6) [7][12]. *Controlled environment:* only small-scale; a
+greenhouse production-cycle length is documented for alpine forms [12].
 
 ## Hazards
 
@@ -374,6 +445,10 @@ as the day-neutral pattern of picking every 1–3 days across a long season
 - **Woodland / musk strawberry chains:** alpine seed → plants → berries.
   Berries → jam, or liqueur (macerated in spirits). Leaves → dried herbal
   tea. Musk strawberry requires co-planted male plants for fruit set.
+- **Cultural use:** the ripe strawberry carries ceremonial significance in
+  a documented Haudenosaunee (Iroquois) tradition, marked by a communal
+  strawberry-drink ceremony and an annual early-summer community festival
+  [16].
 - Not covered in detail by this research: frozen-berry and aseptic-puree
   processing; strawberry wine; detailed fumigation, plastic-mulch,
   tunnel, straw-mulch, and sprinkler frost-protection system engineering.
@@ -405,6 +480,11 @@ as the day-neutral pattern of picking every 1–3 days across a long season
 - Whether woodland strawberry's wild populations harvested for export in
   one country are genuinely this species or a related wild species found
   regionally is not fully settled in the sources consulted.
+- 2026-11-25 woodland pass: *F. moschata* flowering physiology and
+  sex-determination were not found at snippet depth (only the fact that it
+  needs separate males); woodland/musk salinity, soil biology and per-area
+  yield remain by-analogy estimates, and the *F. vesca* flowering genetics
+  [24] are at search-snippet depth.
 - The ~1.0 dS/m ECe salt-tolerance threshold and ~33%/dS/m slope are taken
   from secondary USDA-ARS and extension sources citing Grieve et al. (2012);
   the FAO Irrigation and Drainage Paper 29 strawberry row (Table A1.1) was not
@@ -700,3 +780,16 @@ Florida's winter crop, a vertical hydroponic greenhouse yield of about 21 kg/m²
 with no difference between stacked elevation tiers, and controlled-environment
 systems used to beat tropical heat and humidity and shorten the cold chain.
 Accessed 2026-11-25, search snippets only.
+
+[24] Multiple sources on *Fragaria vesca* flowering physiology and its genetic
+control (added in the 2026-11-25 woodland/musk re-research): peer-reviewed
+plant-science articles (PMC) and a review on photoperiodism inheritance in
+*Fragaria*. Supplied: wild seasonal *F. vesca* as a facultative short-day plant
+(obligatory short-day above ~15 °C, photoperiod-independent flowering at ~10 °C,
+flowering inhibited above ~21 °C under any photoperiod); the perpetual-flowering
+alpine form (*F. vesca* f. *semperflorens*) flowering/fruiting early summer to
+late autumn through loss of the floral repressor *FvTFL1* (and *FvFT1*-dependent
+long-day flowering), with the day-neutral trait conferred by recessive alleles
+of a small number of genes in diploid Alpine accessions. No *F. moschata*
+flowering/sex-determination data were found at this depth. Accessed 2026-11-25,
+search snippets only.

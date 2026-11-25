@@ -1304,6 +1304,25 @@ search-snippet depth; the items below would upgrade it.
     snippets (Biosecurity and nursery certification bullet; Open research
     questions) [20][21].
 
+### woodland_strawberry (2026-11-25)
+
+Re-research of the woodland/musk profile in the shared `strawberry.md` against
+the current checklist. Photoperiod genetics [24] and invasiveness [22] were
+added; salinity, soil biology and yield remain by-analogy. The items below would
+upgrade it.
+
+- [ ] **`woodland_strawberry--moschata-reproduction`** (Library): a pomology
+  source on *Fragaria moschata* sex expression (dioecy/subdioecy), male-plant
+  ratio and flowering season.
+  - **Needed for:** firming the musk-strawberry pollination requirement, now
+    sourced only as "needs separate males" (Reproduction bullet; schema entry 17)
+    [8].
+- [ ] **`woodland_strawberry--alpine-yield`** (Library): an alpine (*F. vesca* f.
+  *semperflorens*) production trial giving per-plant or per-area yield and berry
+  weight.
+  - **Needed for:** replacing the per-plant-per-week-times-density yield estimate,
+    among the weakest in the entry (Yield; Estimates) [12].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.

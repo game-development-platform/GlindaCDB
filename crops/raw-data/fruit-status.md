@@ -145,7 +145,7 @@
 | ume | Prunus mume | ume.md | `japanese_plum` | 2026-11-25 | RESEARCHED |
 | watermelon | Citrullus lanatus dessert | watermelon.md | `citron_melon`, `seed_watermelon` | 2026-11-25 | RESEARCHED |
 | wet_tropics_mangoes | Mangifera odorata, M. foetida, M. caesia, M. pajang | wet-tropics-mangoes.md | `bachang`, `bambangan`, `binjai`, `kuini` | 2026-11-25 | RESEARCHED |
-| woodland_strawberry | Fragaria vesca and F. moschata | strawberry.md | `strawberry` | 2026-10-10 | OUT-OF-DATE |
+| woodland_strawberry | Fragaria vesca and F. moschata | strawberry.md | `strawberry` | 2026-11-25 | RESEARCHED |
 | yellow_passionfruit | Passiflora edulis | passionfruit.md | `purple_passionfruit` | 2026-11-24 | RESEARCHED |
 | yellow_pitaya | Selenicereus megalanthus | yellow-pitaya.md |  | 2026-09-30 | OUT-OF-DATE |
 | yuzu | Citrus junos |  | `hetsuka_daidai`, `kabosu`, `ichang_papeda` | 2026-11-19 | PROPOSED |
