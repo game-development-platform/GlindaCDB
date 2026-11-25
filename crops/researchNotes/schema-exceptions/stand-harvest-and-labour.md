@@ -226,9 +226,13 @@ plain name with the cropID, doc and Finding.
 - **Seen in:**
   - `pear` (`pear.md`, Finding 5): black end, a calyx-end disorder of 'd'Anjou', is linked to waterlogged
     spring subsoil and to Asian (*P. serotina*) rootstocks.
+  - `sweet_cherry` (`cherry.md`, Finding 1): rain, fog or dew near harvest cracks the fruit — up to 90% of
+    a susceptible cultivar's crop in a bad year — by a cuticle-failure ("zipper") mechanism, not simple
+    water uptake; even low cracking rates can make a harvest uneconomical, and the disorder is the single
+    factor confining commercial sweet-cherry growing to arid regions (rain shelters the main control).
   - Imported: tomato (cracking); cabbage (head splitting); radish (root splitting, 5-30% losses);
     celeriac and rutabaga (brown heart from boron; rutabaga resistance by cultivar); napa cabbage
-    (tipburn); celery (blackheart, pithiness); sweet cherry (rain cracking up to 90%); nectarine (rain
+    (tipburn); celery (blackheart, pithiness); nectarine (rain
     cracking); lime (stylar-end breakdown from field heat, up to 40%); mangosteen (translucent flesh from
     excess water); broccoli, cauliflower, romanesco (buttoning); cauliflower (ricing); jicama (cracking
     after rain in heat); pomegranate (cracking, sunburn).

@@ -1148,6 +1148,32 @@ material was added at search-snippet depth; the items below would upgrade it.
   - **Needed for:** replacing the 600-1,000 hour nursery-snippet range with a
     measured figure (chill bullet in the re-research section) [62].
 
+### sweet_cherry (2026-11-25)
+
+Re-research of the shared `cherry.md` sweet-cherry profile against the current
+checklist. Production ranking, chill, photoperiod, elevation, virus/certification,
+brown-rot disease profile, invasiveness and melatonin material was added at
+search-snippet depth; the items below would upgrade it.
+
+- [ ] **`sweet_cherry--faostat-area`** (Online): FAOSTAT sweet-cherry (not
+  combined "cherries") harvested-area and yield-per-hectare tables by country
+  (recent years).
+  - **Where:** the FAOSTAT crops database (blocks scripted queries); most public
+    rankings report combined sweet+sour "cherries" rather than sweet alone.
+  - **Needed for:** a directly-sourced world-average sweet-cherry yield to
+    replace the ~6 t/ha derivation and the ~9 t/ha Türkiye-area-implied
+    cross-check (Finding 10; Yield; Open research questions) [66].
+- [ ] **`sweet_cherry--melatonin`** (Library): Xia et al. 2020 (*Molecules*) and
+  the Hongdeng/Rainier sweet-cherry melatonin-rhythm study, full texts.
+  - **Needed for:** firm ripe-fruit melatonin ng/g values for sweet cherry, to
+    replace the ~0.1 ng/g review-table snippet and confirm the contrast with
+    tart cherry (composition/health bullet) [72].
+- [ ] **`sweet_cherry--chill-extension`** (Library): a university-extension or
+  breeding record giving a firm chilling-hour requirement for standard
+  sweet-cherry cultivars.
+  - **Needed for:** replacing the 800-1,200 hour EcoCrop/snippet range and the
+    scattered cultivar units with a measured figure (chill bullet) [67].
+
 ### strawberry (2026-11-25)
 
 Re-research of the garden-strawberry profile in the shared `strawberry.md`

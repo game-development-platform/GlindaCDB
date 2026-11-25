@@ -138,6 +138,10 @@ plain name with the cropID, doc and Finding.
   - `pear_low_chill` (`pear-low-chill.md`, Weather response): 26 °F (−3.3 °C) usually kills *open*
     blossoms; early bloom (5-29 March) made all three hybrids very susceptible to late-spring freezes in
     Mississippi.
+  - `sweet_cherry` (`cherry.md`, Finding 5): the standard-cultivar bud-kill table is a sweet cherry —
+    10% of flower buds die near −2.2 °C and 90% near −3.9 °C at full bloom, but 90% kill needs about
+    −15 °C at the earliest bud-swelling stage, so the same organ's threshold swings ~11 °C across
+    developmental stages.
   - `sour_cherry` (`cherry.md`, Finding 5 and the 2026-11-25 re-research): cherry bud-kill is
     stage-specific — about −2.2 °C (10% kill) to −3.9 °C (90%) at full bloom but only ~−15 °C for 90%
     kill at the earliest swelling stage for a standard cherry, with sour-cherry bud-kill documented at

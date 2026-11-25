@@ -1,12 +1,15 @@
 # Cherry — Sweet Cherry (*Prunus avium*) and Sour Cherry (*Prunus cerasus*)
 
 **Category:** Fruit · **Path:** `crops/raw-data/fruit/cherry.md`
-**Researched:** 2026-09-28 (sour-cherry profile re-researched 2026-11-25
+**Researched:** 2026-09-28 (both species' profiles re-researched 2026-11-25
 against the full current checklist — see the dedicated "Sour cherry —
-re-research" section below for the chill, photoperiod, salinity, elevation,
-clonal/viral-degeneration, cherry-leaf-spot, invasiveness/biosecurity,
-composition-health and world-yield additions; the sweet-cherry profile has
-not been re-researched since 2026-09-28 and remains out of date)
+re-research" and "Sweet cherry — re-research" sections below. The sour-cherry
+block covers chill, photoperiod, salinity, elevation, clonal/viral
+degeneration, cherry leaf spot, invasiveness/biosecurity, composition-health
+and world yield; the sweet-cherry block covers chill, photoperiod, elevation,
+salinity, clonal/viral degeneration, the brown-rot-dominated disease profile,
+invasiveness/biosecurity, the melatonin composition contrast, and the world
+production ranking.)
 
 This file is original research synthesis, compiled from the public sources
 listed at the end of the document, with citations tracking each sourced
@@ -165,7 +168,10 @@ national statistics show sweet cherry yields averaging roughly 9 t/ha in
 a strong year and around 6 t/ha in a weaker one, with the leading
 production state reaching nearly 13 t/ha in a particularly good year
 [3]. A world average sweet cherry yield around 6 t/ha can be derived from
-global production-and-area figures [4]. US sour cherry yields average
+global production-and-area figures [4]. (Updated 2026-11-25: Türkiye is now
+documented as the world's leading sweet-cherry producer, ~720 kt, and its
+~82,000 ha of sweet-cherry area implies roughly 9 t/ha — see the "Sweet
+cherry — re-research" section and [66].) US sour cherry yields average
 roughly 6.7 t/ha nationally, with one state reaching over 13 t/ha and
 another as low as 4 t/ha in different years [3]. No reliable world
 per-hectare yield figure was found for sour cherry at all — only total
@@ -324,6 +330,93 @@ only sour-cherry-specific or newly-sourced points are given here.
   fruit is too soft to machine-pit, over 8 h it bleaches and scalds — an
   unusual two-sided processing window (Finding 3) [11].
 
+## Sweet cherry — re-research against the current checklist (2026-11-25)
+
+This block re-researches `sweet_cherry` (*Prunus avium*) against the full
+current checklist, the companion to the sour-cherry block above. Traits shared
+across the two species are cited in the findings and Agronomic data above; only
+sweet-cherry-specific or newly-sourced points are given here.
+
+- **Chill requirement:** A solidly high-chill temperate tree — a standard
+  figure is roughly 800-1,200 hours below 7 °C [67] — but the cultivar range is
+  very wide. An Italian trial spanned 'Kronio' (~700 chill units) to 'Ferrovia'
+  (~1,200); a Czech 2017-2021 screening put most of 40 genotypes in the
+  750-1,000-hour band with the lowest ('Adélka') under 500; a US-patented
+  low-chill selection claims only ~300-400 hours; and a six-year Argentine
+  measurement of four cultivars averaged ~1,615 hours [67]. Breeding has thus
+  pushed the floor far below the species-typical requirement. Units differ
+  between studies (chill hours vs. Utah/Dynamic chill units), so the figures are
+  not directly comparable — this narrows but does not fully close the chill-hour
+  conflict flagged in Open research questions.
+- **Photoperiod sensitivity:** Not a flowering trigger. Across *Prunus*,
+  sweet-cherry flowering date is governed by the chilling requirement far more
+  than by heat or day length; photoperiod is implicated in dormancy *onset* in
+  autumn and in the late-winter ecodormancy phase, not in the chilling-driven
+  release of endodormancy that sets bloom date [68]. No day-length requirement
+  for yield (not a tuber/bulb crop).
+- **Elevation:** Grown from near sea level to above 2,000 m — a Lebanese
+  cultivar trial ran five sites from 1,130 to 2,080 m — with growers using
+  altitude both to secure the cool winters the chill requirement needs and to
+  stagger the harvest window. Altitude is also a quality lever: higher-elevation
+  orchards gave greater antioxidant/phytochemical content in Greek and Lebanese
+  studies [73]. This is a real elevation band, unlike the sour-cherry profile,
+  where none was sourced.
+- **Salinity:** Salt-sensitive, consistent with the sweet-cherry salinity
+  rating already cited [26]; rootstock choice is the main lever, as for sour
+  cherry [63].
+- **Clonal / viral degeneration:** Sweet cherry is propagated only by
+  budding/grafting named scion clones onto seedling or clonal rootstock
+  (Finding 7), so latent *Prunus* viruses pass down the clone unless the stock
+  starts clean. Prunus necrotic ringspot virus (PNRSV) is the key example —
+  pollen- and seed-transmitted, it shrinks leaves and produces chlorotic rings
+  and spots, with one survey putting sweet-cherry incidence near 6% — alongside
+  prune dwarf virus; certified virus-free nursery stock, produced under regional
+  *Prunus* virus-certification programmes, is the standard control [69]. This
+  sits alongside the sour-cherry clonal/viral note above.
+- **Brown rot is the defining fungal disease (not leaf spot).** Where sour
+  cherry is governed by cherry leaf spot, sweet cherry's main fungal threat is
+  brown rot (*Monilinia fructicola* and *M. laxa*), which rots blossoms and ripe
+  fruit — with blossom blight at bloom a warning of fruit rot to come — though
+  sweet cherry is actually the least blossom-rot-susceptible of the stone
+  fruits. Bacterial canker (*Pseudomonas syringae*, Finding 6) is most severe in
+  young 1-6-year orchards and controlled mainly with copper; powdery mildew
+  (*Podosphaera* spp.) is a secondary leaf/twig disease [71].
+- **Invasiveness / biosecurity — materially higher than for sour cherry.**
+  *P. avium* is a bird- and squirrel-dispersed escape that naturalises readily.
+  New Zealand lists it as an environmental weed (on the Department of
+  Conservation's 2024 list; naturalised since 1872, forming dense seedling
+  stands that block native regeneration). In North America it is reported
+  invasive across the north-east, mid-west and Pacific Northwest — an archived
+  US Forest Service "Weed of the Week" names about a dozen states, and it forms
+  near-monocultures that shade out the forest understory in the southern
+  Willamette Valley of Oregon [70]. Its biosecurity weight, as for sour cherry,
+  is as a plum pox (sharka) host: the cherry-adapted PPV-C strain naturally
+  infects both sweet and tart cherry, and the standard safeguard is certified
+  stock [64]. This is a genuine gap the 2026-09-28 profile missed — it carried
+  no invasiveness line at all.
+- **Composition / health — the melatonin story is the tart species', not this
+  one.** Dark-cultivar sweet cherry is anthocyanin-rich and antioxidant, but its
+  melatonin content is very low — on the order of 0.1 ng/g (cv. 'Van'), with
+  most cultivars reported under 0.05 ng/g, roughly two orders of magnitude below
+  the tart 'Montmorency' ~13 ng/g cited in the sour-cherry block [65][72]. So
+  the sleep/recovery melatonin marketing attaches to tart cherry; sweet cherry's
+  health positioning rests on anthocyanins and polyphenols instead. This is a
+  composition angle distinct from the plain figures above (~630 kcal/kg, ~10.6 g
+  protein/kg).
+- **Yield — world ranking now anchored.** Finding 10's derived world
+  sweet-cherry average (~6 t/ha) and US tiers stand; added here: Türkiye is now
+  documented as the world's leading sweet-cherry producer (a recent season
+  ~720,000 t of sweet cherry within ~900,000 t of all cherries), and its
+  ~82,000 ha of sweet-cherry area implies roughly 9 t/ha — consistent with the
+  US good-year figure and above the derived world average [66] (see Estimates).
+  A directly-sourced FAOSTAT world area/yield for sweet cherry specifically
+  (rather than combined "cherries") was still not opened (research request).
+- **Harvest pattern:** Hand-picked over 1-3 passes because fruit on one tree
+  ripens somewhat asynchronously — a mildly successive harvest, unlike sour
+  cherry's single mechanical shake (Agronomic data; Finding 3) — and, unlike
+  mechanically harvested sour cherry, hand-picking keeps sweet cherry suitable
+  for the fresh pack (schema entry 33).
+
 ## Hazards
 
 Documented pests and diseases include bacterial canker (a serious,
@@ -389,6 +482,15 @@ cultivar grown almost nowhere else commercially.
   sourced; and the world production *ranking* is unresolved between two
   source families (Russia-led ~1.6 Mt in one 2022 tally versus Turkey far
   ahead at 700-900 kt in a FAOSTAT-2023-citing review) [60].
+- World sweet-cherry yield per hectare is sourced only as a ~6 t/ha derivation
+  from combined global "cherries" figures [4] plus a ~9 t/ha Türkiye-area-
+  implied estimate [66]; a directly-sourced FAOSTAT sweet-cherry (not combined)
+  area/yield was not opened (research request).
+- Ripe-fruit melatonin concentrations for sweet cherry are cited only at
+  review/snippet depth (~0.1 ng/g cv. 'Van', most cultivars <0.05 ng/g) and
+  vary widely by analytical method and maturity stage between studies; the
+  primary measurements (Xia et al. 2020; the Hongdeng/Rainier study) were not
+  read in full [72] (research request).
 - Nearly all non-harvest labor-hour figures for both species are
   estimated by analogy to other deciduous tree-fruit crops this project
   has researched rather than directly sourced, since no detailed cherry
@@ -417,7 +519,14 @@ than derived) from documented US national and state-level figures,
 adjusted downward to reflect that the largest world producing countries
 likely use lower-input orchard systems than typical US commercial
 production; good and exceptional sour-cherry yield figures are derived
-directly from documented US national and state-level figures.
+directly from documented US national and state-level figures. A cross-check
+added 2026-11-25: Türkiye, the documented world-leading sweet-cherry producer,
+is reported at about 720,000 t of sweet cherry on roughly 82,000 ha of
+sweet-cherry area, implying ≈ 720,000 ÷ 82,000 ≈ 8.8 t/ha [66] — close to the
+US good-year figure and above the ~6 t/ha world average, as expected of a
+leading producer. The ~82,000 ha is itself an attaché estimate, so this is a
+cross-check on the derived world average, not a directly-sourced FAOSTAT
+sweet-cherry yield.
 
 Water-use parameters (crop-coefficient curve, seasonal water-use index,
 root-zone available water) are derived from a standard international
@@ -829,3 +938,76 @@ peer-reviewed quantification of melatonin in 'Montmorency' (~13 ng/g) versus
 endpoints, mixed results), and consumer/marketing pages. Supplied: melatonin
 and anthocyanin content and the sleep/recovery use positioning. Accessed
 2026-11-25, search snippets only.
+
+[66] Sources on sweet-cherry world production and yield (added in the 2026-11-25
+sweet-cherry re-research): a USDA Foreign Agricultural Service attaché "Stone
+Fruit Annual" for Türkiye (Türkiye the world's leading sweet-cherry producer; a
+recent season ~720,000 t of sweet cherry within ~900,000 t of all cherries;
+sweet-cherry planted area ~82,000 ha), a USDA FAS world stone-fruit circular, and
+commercial/encyclopedic cherry-production rankings (Helgi Library, Statista, a
+Wikipedia FAOSTAT-based list) agreeing that Türkiye leads at roughly 0.66-0.83 Mt
+of all cherries. Supplied: the world production ranking and the ~82,000 ha area
+used to cross-check a ~9 t/ha sweet-cherry yield. Accessed 2026-11-25, search
+snippets only; the underlying FAOSTAT database not opened directly.
+
+[67] Sources on sweet-cherry chilling requirement: an FAO EcoCrop entry
+(~800-1,200 hours below 7 °C), an Italian low-chill cultivar trial ('Kronio' ~700
+to 'Ferrovia' ~1,200 chill units), a Czech 2017-2021 screening of 40 genotypes
+(most 750-1,000 chill hours; lowest 'Adélka' under 500), a US plant patent for a
+low-chill selection ('IFG Cher-four', ~300-400 chill hours), and a six-year
+Argentine measurement of four cultivars (~1,615 hours ≤7 °C average). Supplied:
+the species-typical chill range and the wide cultivar/unit spread. Accessed
+2026-11-25, search snippets only.
+
+[68] Sources on sweet-cherry dormancy and photoperiod: a *Prunus* flowering-date
+fine-mapping study and dormancy reviews (flowering date governed by the chilling
+requirement far more than heat or photoperiod; photoperiod implicated in dormancy
+onset and the ecodormancy phase, not endodormancy release). Supplied: the basis
+for treating sweet-cherry flowering as chill-driven, not photoperiod-triggered.
+Accessed 2026-11-25, search snippets only.
+
+[69] Sources on sweet-cherry viruses and clean-stock certification: a Prunus
+necrotic ringspot virus (PNRSV) reference (pollen- and seed-transmitted; reduced
+leaf size; chlorotic rings/spots; certified virus-free trees the key control), an
+EPPO host sheet (~5.9% sweet-cherry incidence in one survey), a Croatian Prunus
+virus survey (PNRSV, prune dwarf virus and PPV incidences), and a US Pacific
+Northwest / Oregon *Prunus* virus-certification program description. Supplied: the
+clonal/viral-degeneration route and the certification control for sweet cherry.
+Accessed 2026-11-25, search snippets only.
+
+[70] Sources on *Prunus avium* naturalisation and invasiveness: the New Zealand
+Plant Conservation Network and Weedbusters (environmental weed; on the Department
+of Conservation's 2024 list; naturalised 1872; dense seedling stands), the NZ
+Flora / Flora of New Zealand treatment, an archived US Forest Service "Weed of the
+Week" (reported invasive in about a dozen US states; birds and squirrels drive
+escape; shades out forest understories), a Native Plant Trust profile, and a US
+National Park Service / IRMA species profile (naturalised across NE, Midwest and
+Pacific Northwest North America; near-monocultures in the southern Willamette
+Valley, Oregon). Supplied: the escape/invasiveness status absent from the
+2026-09-28 profile. Accessed 2026-11-25, search snippets only (the Forest Service
+page is an archived 2009 document).
+
+[71] Sources on the sweet-cherry disease profile: UC Davis cherry
+diseases-and-disorders material, the Connecticut Plant Pest Handbook, a Canadian
+cherry crop profile, and NCAT/ATTRA cherry-disease guidance. Supplied: brown rot
+(*Monilinia fructicola* and *M. laxa*) as the main blossom/fruit rot with sweet
+cherry the least blossom-rot-susceptible stone fruit; bacterial canker
+(*Pseudomonas syringae*) worst in young 1-6-year orchards with copper the main
+control; and powdery mildew (*Podosphaera* spp.) as a secondary disease. Accessed
+2026-11-25, search snippets only.
+
+[72] Sources on sweet-cherry melatonin and phytochemistry: a review table of
+fruit melatonin values (sweet cherry cv. 'Van' ~0.1 ng/g; most cultivars under
+0.05 ng/g; large between-study variation attributed to analytical method, fresh
+vs. dried and maturation stage), with primary studies (Xia et al. 2020,
+*Molecules*; a Hongdeng/Rainier melatonin-rhythm study) identified but not read in
+full. Supplied: the very-low sweet-cherry melatonin figures contrasted with the
+tart-cherry levels at [65]. Accessed 2026-11-25, search snippets only.
+
+[73] Sources on sweet-cherry elevation and altitude effects: a Greek study of
+cultivars at low (39-59 m), medium (216 m) and high (490-546 m) elevation sites
+(higher elevation gave greater antioxidant content for most cultivars), a Lebanese
+multi-site trial spanning 1,130-2,080 m (altitude spreads maturity dates), and a
+mid-elevation (117-697 m) late-cultivar study. Supplied: the
+near-sea-level-to-above-2,000 m growing range and altitude as a quality lever.
+Accessed 2026-11-25, search snippets only.
