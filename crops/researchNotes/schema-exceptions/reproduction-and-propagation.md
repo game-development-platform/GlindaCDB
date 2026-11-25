@@ -126,6 +126,11 @@ plain name with the cropID, doc and Finding.
   seedling stocks (90-180 days); Texas persimmon (no dormancy, but cold storage *induces* it; fruit pulp
   inhibits germination); swiss chard (dormant in seedbeds above 35 °C); velvet bean (hard seed coat);
   wasabi (winter cold breaks seed dormancy); carrot (seed debearding).
+- **Seen in (confirmed):** azarole (`azarole.md`, Finding 3 / Propagation): hard, impermeable seed coat;
+  needs stratification and germinates only after up to ~18 months, so grafting is the main route;
+  medlar (`medlar.md`, Finding 4): the hard seed coat means seed "will not usually germinate until it has
+  gone through two winters," broken commercially by a brief sulphuric-acid soak. Both are *Crataegus* /
+  *Mespilus* pomes whose double-dormancy seed pushes growers to grafting.
 - **Possible home:** a "Seed treatment" line under "Establishment".
 
 ## 22 — Seed unit or seed size that sets labour

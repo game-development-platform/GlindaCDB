@@ -56,7 +56,10 @@ Kuntze [1].
 **Proposed:**
 - **Azarole** (`azarole`, *Crataegus azarolus*): the "Mediterranean
   medlar", a cultivated hawthorn fruit [7]. It shares the name and the
-  closest genus.
+  closest genus. **Now researched (passed its gate check 2026-11-25; see
+  `azarole.md`):** confirmed distinct — a *Crataegus* fruit of the
+  Mediterranean-to-Iran region, grafted on hawthorn, and, unlike medlar,
+  eaten ripe off the tree with no bletting.
 - **Service tree** (`service_tree`, *Sorbus domestica*): one of the few
   fruits that, like medlar, most varieties can be eaten raw only after
   bletting [1].

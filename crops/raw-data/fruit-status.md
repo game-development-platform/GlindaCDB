@@ -10,7 +10,7 @@
 | artocarpus_mutabilis | Artocarpus mutabilis | artocarpus-mutabilis.md | `marang`, `pingan` | 2026-11-25 | RESEARCHED |
 | asian_pear | Pyrus pyrifolia and related species | asian-pear.md | `korla_pear` | 2026-11-17 | RESEARCHED |
 | avocado | Persea americana | avocado.md |  | 2026-11-17 | RESEARCHED |
-| azarole | Crataegus azarolus (Mediterranean medlar) |  | `medlar` | 2026-11-23 | PROPOSED |
+| azarole | Crataegus azarolus (Mediterranean medlar) | azarole.md | `medlar` | 2026-11-25 | RESEARCHED |
 | babaco | Vasconcellea × heilbornii | babaco.md | `mountain_papaya`, `papaya` | 2026-11-17 | RESEARCHED |
 | bachang | Mangifera foetida (horse mango) | bachang.md | `mango`, `kuini`, `bambangan`, `binjai`, `wet_tropics_mangoes`, `kasturi`, `kemang` | 2026-11-22 | RESEARCHED |
 | bambangan | Mangifera pajang | bambangan.md | `mango`, `bachang`, `kuini`, `binjai`, `wet_tropics_mangoes` | 2026-11-22 | RESEARCHED |

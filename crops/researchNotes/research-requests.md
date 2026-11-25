@@ -1362,6 +1362,33 @@ data.
   - **Needed for:** the complete diagnostic character set separating pingan from
     lumok (Finding 3; Naming) [1].
 
+### azarole (2026-11-25)
+
+First research of the `azarole.md` profile (*Crataegus azarolus*, the
+"Mediterranean medlar") after it passed its gate check. Only snippet-level
+material was readable; the items below would firm up composition, pomology and
+propagation, which are the best-sourced parts of a thinly-documented crop.
+
+- [ ] **`azarole--bahri-sahloul-2009`** (Library): Bahri-Sahloul, R. and others
+  (2009), "Chemical characterisation of *Crataegus azarolus* L. fruit from 14
+  genotypes found in Tunisia," *Journal of Horticultural Science and
+  Biotechnology* 84:23-28.
+  - **Needed for:** the full fruit-composition dataset (sugars, vitamin C,
+    phenols, minerals) behind the Composition bullet [6].
+- [ ] **`azarole--bignami-2003`** (Library): Bignami, C. and others (2003),
+  evaluation of azarole accessions, *Acta Horticulturae* 597.
+  - **Needed for:** the Italian accession pomology and chemistry (GHI4/GHI7,
+    sucrose, polyphenols) behind Finding 2 and Cultivars [7].
+- [ ] **`azarole--sjar-rootstocks-2022`** (Online): the 2022 *Spanish Journal of
+  Agricultural Research* clonal-rootstock study for hawthorn
+  (sjar.revistas.csic.es/index.php/sjar/article/view/19567).
+  - **Needed for:** rootstock performance (apple/pear/quince clonal stocks) behind
+    Finding 3 and Propagation [4].
+- [ ] **`azarole--invitro-germination-2025`** (Online): the 2025 in-vitro
+  germination study (ojs.uomosul.edu.iq Mesopotamia agricultural journal).
+  - **Needed for:** the dormancy-breaking / in-vitro propagation detail behind
+    Finding 3 [5].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.
