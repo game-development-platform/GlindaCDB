@@ -1448,6 +1448,33 @@ unsourced.
   - **Needed for:** the still-unconfirmed sexual system (dioecious vs monoecious),
     flowering and propagation detail (Finding 3; Pollination) [4].
 
+### chinese_quince (2026-11-26)
+
+First research of the `chinese-quince.md` profile (*Pseudocydonia sinensis*)
+after it passed its gate check as its own monotypic genus. Only snippet-level
+web material was readable; no quantitative agronomy (yield, water use, labour,
+production, first-bearing age, storage regime, cultivars) was found, and several
+findings rest on weak single sources.
+
+- [ ] **`chinese_quince--east-asian-horticulture`** (Library): Chinese, Korean
+  or Japanese horticultural / pomology sources on *Pseudocydonia sinensis*
+  (木瓜 / 모과 / 花梨) cultivation.
+  - **Needed for:** yield, production, first-bearing age, propagation beyond
+    seed, cultivar names, storage regime — all currently "Not sourced." [1][2].
+- [ ] **`chinese_quince--reproductive-biology`** (Online): a botanical/extension
+  source on flowering and self-fertility.
+  - **Needed for:** whether it is self-fertile like *Cydonia* and its pollination
+    mechanism (Pollination bullet, unsourced) [1].
+- [ ] **`chinese_quince--frost-bletting`** (Online): an extension-grade source on
+  fruit softening / astringency loss after frost.
+  - **Needed for:** confirming the weakly-sourced bletting-like effect; if real it
+    joins schema Entry 41 alongside `quince`/`medlar` (Edibility; Open questions) [2].
+- [ ] **`chinese_quince--influenza-polyphenol-fulltext`** (Library): full text of
+  the 2005 *J. Agric. Food Chem.* and 2008 *J. Ethnopharmacol.* fruit-phenolic
+  studies.
+  - **Needed for:** firming the procyanidin/anti-influenza detail now read only at
+    abstract depth (Finding 2) [4].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.

@@ -34,7 +34,7 @@
 | champedak | Artocarpus integer | champedak.md | `jackfruit`, `lakoocha`, `marang` | 2026-11-17 | RESEARCHED |
 | charichuelo | Garcinia madruno | charichuelo.md | `mangosteen` | 2026-11-26 | RESEARCHED |
 | cherry_plum | Prunus cerasifera | cherry-plum.md | `japanese_plum` | 2026-11-17 | RESEARCHED |
-| chinese_quince | Pseudocydonia sinensis |  | `quince` | 2026-11-25 | PROPOSED |
+| chinese_quince | Pseudocydonia sinensis | chinese-quince.md | `quince`, `japanese_quince`, `medlar`, `pear` | 2026-11-26 | RESEARCHED |
 | chinotto | Citrus myrtifolia (possibly *C.* × *aurantium* var. *myrtifolia*) | chinotto.md | `bitter_orange` | 2026-11-17 | RESEARCHED |
 | citron | Citrus medica | citron.md | `key_lime`, `lemon`, `meyer_lemon`, `ponderosa_lemon` | 2026-11-17 | RESEARCHED |
 | citron_melon | Citrullus amarus | watermelon.md | `seed_watermelon`, `watermelon` | 2026-11-17 | RESEARCHED |

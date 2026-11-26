@@ -38,7 +38,11 @@ for juice, "quince tea" (Korean *mogwa-cha*) and traditional medicine. It is
 a different genus from *Cydonia* and clearly passes the distinctiveness
 check, so it is added to the status table as `PROPOSED` (`chinese_quince`)
 with a cross-link back to this row; it has not yet been researched in detail
-[1].
+[1]. **Now researched** (passed its gate check as its own monotypic genus,
+2026-11-26): see `chinese-quince.md`. The two fruits diverge sharply in use —
+true quince's Western *membrillo*/jelly tradition versus Chinese quince's East
+Asian honey-preserve/tea (*mogwa-cha*), liqueur and throat-remedy products,
+with the Chinese quince also a major ornamental/bonsai tree.
 
 ## Research findings
 
@@ -312,8 +316,8 @@ vegetatively propagated crops.
   confirmed here as 'Beurré Hardy'/'Doyenné du Comice') partly addresses the
   outstanding `pear--quince-incompatibility` request, but the delayed
   (reportedly 8-10 year) failure timing was not re-confirmed this pass.
-- Chinese quince (*Pseudocydonia sinensis*), newly added as a `PROPOSED`
-  row, has not yet been researched in detail.
+- Chinese quince (*Pseudocydonia sinensis*) — researched 2026-11-26
+  (`chinese-quince.md`); passed its gate check as its own monotypic genus.
 
 ## Estimates and derivations
 

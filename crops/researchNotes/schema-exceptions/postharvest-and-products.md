@@ -183,6 +183,10 @@ plain name with the cropID, doc and Finding.
 - **Status:** OPEN (imported 2026-11-24).
 - **What doesn't fit:** "Uses and processing" lists harvested organs. Sometimes the whole living plant is
   sold.
+- **Seen in:**
+  - `chinese_quince` (`chinese-quince.md`, Finding 3, Uses): a fruit tree grown across much of its
+    introduced range as an ornamental and **bonsai** subject for its exfoliating patchwork bark, flowers
+    and autumn colour — the living tree, not the fruit, is effectively the product.
 - **Seen in (imported):** Buddha's hand (sold as a potted plant).
 - **Possible home:** an "Ornamental / living plant" use in "Uses and processing".
 
