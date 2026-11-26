@@ -35,10 +35,13 @@ mangosteens"** [2][6]. Like button mangosteen it is an instance of the loose
   "*G. madruno*," especially from Amazonian material, may mix more than one
   species — a parallel to the marang / `artocarpus_mutabilis` split in this
   project [5].
-- **Another New World mangosteen, not proposed this pass:** *Garcinia intermedia*
-  (lemon-drop mangosteen) surfaced as a related cultivated Neotropical *Garcinia*,
-  but it was not researched here; it is a candidate for its own row if a later
-  pass confirms it as a distinct crop [2].
+- **Another New World mangosteen — now researched:** *Garcinia intermedia*
+  (lemon-drop mangosteen), surfaced here as a related cultivated Neotropical
+  *Garcinia*, passed its own gate check on 2026-11-26 and has its own row
+  (`garcinia_intermedia`, `garcinia-intermedia.md`). It is distinct from *G.
+  madruno*: a small, **smooth**, orange-to-red fruit eaten out of hand and
+  notably **precocious** (bears in ~2-3 years), versus this crop's warty,
+  slow-bearing fruit [2].
 
 **Gate check (2026-11-26): passes.** Proposed from `mangosteen.md` as "a tropical
 American *Garcinia* fruit... no farming data were read this pass" [6]. It is

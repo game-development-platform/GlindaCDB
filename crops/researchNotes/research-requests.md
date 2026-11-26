@@ -1475,6 +1475,28 @@ findings rest on weak single sources.
   - **Needed for:** firming the procyanidin/anti-influenza detail now read only at
     abstract depth (Finding 2) [4].
 
+### garcinia_intermedia (2026-11-26)
+
+First research of the `garcinia-intermedia.md` profile (*Garcinia intermedia*,
+lemon drop mangosteen) after it passed its gate check. Only snippet/abstract-level
+web material was readable; the sex system, bearing age, apomixis and all
+quantitative agronomy are unresolved, and several sources conflict.
+
+- [ ] **`garcinia_intermedia--chapingo-review-2022`** (Library): full text of
+  Andrés-Agustín, Cruz-Castillo & Bautista-Villegas (2022), "*Garcinia
+  intermedia*, a little-known fruit tree in the American tropics," *Revista
+  Chapingo Serie Horticultura* (doi 10.5154/r.rchsh.2021.03.005).
+  - **Needed for:** horticulture, propagation, antioxidant data and the native
+    range — read only at abstract depth (Findings 1, 4) [4].
+- [ ] **`garcinia_intermedia--sex-system`** (Online): a botanical/floral source
+  resolving dioecious vs bisexual flowers.
+  - **Needed for:** the contradicted sex system (NParks "bisexual" vs the weed-risk
+    PDF "dioecious"); decides orchard sex management and Entry 3 fit (Finding 3) [1][3].
+- [ ] **`garcinia_intermedia--bearing-apomixis`** (Online): a rare-fruit/pomology
+  source on first-fruiting age and seed fidelity (nucellar/apomictic?).
+  - **Needed for:** confirming the ~2-3-year precocity claim and whether seed comes
+    true (Finding 2; Propagation) [1][2].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.
