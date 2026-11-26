@@ -32,8 +32,12 @@ Chinese [1].
     its own row, `mata_kucing` (`mata-kucing.md`) [1].
   - **Wild varieties:** var. *longepetiolulatus*, *obtusus* and
     *magnifolius* grow wild in China [1]; the encyclopedia also lists
-    var. *echinatus*, a spiny Bornean form [11]. It is
-    proposed as its own row, `longan_echinatus`, in `mata-kucing.md`.
+    var. *echinatus*, a spiny Bornean/Philippine form [11]. It was
+    proposed as its own row (`longan_echinatus`) but **gate-checked and
+    rejected** (2026-11-26): its only distinction is rambutan-like fruit
+    spines, with no distinct farming, harvest or use, and a 2017 phylogeny
+    groups its one sample with commercial longan — so it is folded in here
+    and in `mata-kucing.md` as a variety, not a separate crop.
 - **Thai types:** three edible types are distinguished within var.
   *longan* [1]:
   - a large forest tree with small fruit;

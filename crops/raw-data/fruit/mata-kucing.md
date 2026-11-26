@@ -53,7 +53,9 @@ licensed under this project's MIT license (see repository `LICENSE`).
     greatest variation in Borneo, where 30-40 local races might be
     distinguished [1][2]. This is the main subject of this doc.
   - **var. *echinatus*:** fruits with spines up to about 1 cm, like
-    rambutan; Borneo (Sabah) and the Philippines [1][2]. See Proposed.
+    rambutan; Borneo (Sabah) and the Philippines [1][2]. Gate-checked as a
+    candidate row and **rejected** (2026-11-26); folded here as a variety —
+    see the gate-check note below.
 - **Local races of var. *malesianus*** [1][2][4]:
   - **True *mata kucing*:** smooth, globose fruit that turns brown when
     ripe. It is the common form in Peninsular Malaysia and also grows in
@@ -87,10 +89,33 @@ licensed under this project's MIT license (see repository `LICENSE`).
   and propagation [11], and of later cuttings and tissue-culture work
   [11]. Planting away from its river-bank habitat is said to be limited
   by scarce true-to-type material [11].
-- **Spiny longan** (`longan_echinatus`, *D. longan* var. *echinatus*):
-  spiny fruit [1], a separate chapter in Lim's compendium [11]. The
-  2017 phylogeny places it with commercial longan, not with *D.
-  malesianus* [3].
+
+**Gate check — rejected (2026-11-26): spiny longan (`longan_echinatus`, *D.
+longan* var. *echinatus*).** Flagged above as a candidate for its own row, it
+was re-examined against the distinctiveness check and **does not clear it**.
+Its only distinguishing trait is fruit morphology — rambutan-like spines up to
+about 1 cm [1][2] — for which Leenhouts gave it varietal rank. On every other
+axis the check weighs, it belongs with existing rows rather than a new one:
+- **Taxonomy (weak as a separate lineage):** the 2017 multi-locus phylogeny's
+  single var. *echinatus* sample grouped with **commercial longan**, not with
+  *D. malesianus* [3], so it is at most a spiny form of *D. longan* — and rank
+  assigned on one fruit trait is a classification matter, not a crop trait.
+- **Range:** Borneo (Sabah) and the Philippines [1][2] — overlapping, not
+  separate from, the *malesianus* complex this doc already covers.
+- **Farming system / harvest / uses:** none found as distinct. No source
+  describes var. *echinatus* being cultivated, gathered, marketed or eaten as
+  anything apart from longan / mata kucing; its edibility is only inferred from
+  the species, so it reads as a **wild spiny-fruited form**, not a crop. A
+  dedicated chapter exists in Lim's compendium [11], but the compendium is
+  arranged one taxon per chapter and that chapter was not readable in full this
+  pass.
+The spine trait is folded into this doc and `longan.md` (where it is already
+noted) at the variety level — the template's home for "a minor difference that
+failed the distinctiveness check" — and the status row is set to `REJECTED`.
+The Lim compendium chapter [11] and a 1988 "Edible Sapindaceae in Sabah"
+survey (Van Welzen, Lamb & Wong; not read this pass) remain the places to look
+if a later pass turns up a distinct gathered-fruit use that would justify
+reopening it.
 
 ## Research findings
 

@@ -87,7 +87,7 @@
 | lemon | Citrus × limon | lemon.md | `persian_lime`, `citron`, `bitter_orange`, `meyer_lemon`, `sweet_lemon`, `bergamot`, `ponderosa_lemon` | 2026-11-19 | RESEARCHED |
 | lingonberry | Vaccinium vitis-idaea | lingonberry.md | `blueberry`, `cranberry`, `lowbush_blueberry`, `bilberry` | 2026-11-19 | RESEARCHED |
 | longan | Dimocarpus longan | longan.md | `lychee`, `rambutan`, `pulasan`, `mata_kucing`, `ackee`, `mamoncillo`, `longan_echinatus` | 2026-11-20 | RESEARCHED |
-| longan_echinatus | Dimocarpus longan var. echinatus |  | `mata_kucing`, `longan` | 2026-11-23 | PROPOSED |
+| longan_echinatus | Dimocarpus longan var. echinatus | mata-kucing.md, longan.md | `mata_kucing`, `longan` | 2026-11-26 | REJECTED |
 | loquat | Eriobotrya japonica | loquat.md | `medlar`, `quince`, `pear` | 2026-11-20 | RESEARCHED |
 | lowbush_blueberry | Vaccinium angustifolium, V. myrtilloides | lowbush-blueberry.md | `blueberry`, `lingonberry`, `cranberry`, `bilberry`, `half_high_blueberry` | 2026-11-20 | RESEARCHED |
 | lychee | Litchi chinensis | lychee.md | `longan`, `rambutan`, `pulasan`, `ackee`, `mamoncillo` | 2026-11-20 | RESEARCHED |
