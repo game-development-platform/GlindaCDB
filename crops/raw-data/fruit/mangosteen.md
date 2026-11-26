@@ -76,7 +76,11 @@ treated as *G. mangostana* var. *mangostana* [2][4].
     mangosteen.
   - **`charichuelo`** (*G. madruno*): a tropical American *Garcinia*
     fruit [2]. Several former *Rheedia* fruits of South America are now
-    in *Garcinia* [3]. No farming data were read this pass.
+    in *Garcinia* [3]. **Now researched (passed its gate check 2026-11-26;
+    see `charichuelo.md`):** a Neotropical "New World mangosteen" with a
+    warty yellow subacid fruit, dioecious (possibly facultatively
+    apomictic), and now treated as a species complex (three new Amazonian
+    species split out in 2024).
   - **`garcinia_dulcis`** (*G. dulcis*): introduced across the Pacific
     as a fruit suited to village production [3]. No farming data were
     read this pass.

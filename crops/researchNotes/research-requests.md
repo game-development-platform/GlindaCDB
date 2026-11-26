@@ -1407,6 +1407,26 @@ readable, and composition, fruiting season and yield are entirely unsourced.
     yield, and any grafting/sex-ratio planting practice (Composition, Yield,
     Open questions).
 
+### charichuelo (2026-11-26)
+
+First research of the `charichuelo.md` profile (*Garcinia madruno*, the New World
+mangosteen) after it passed its gate check. Only snippet-level web material was
+readable; composition, fruiting season and yield are entirely unsourced, and the
+species boundary is itself unsettled.
+
+- [ ] **`charichuelo--madruno-complex-2024`** (Online): the 2024 Brazilian study
+  delimiting the *Garcinia madruno* species complex and describing three new
+  Amazonian species (SciELO, *Acta Botanica Brasilica*,
+  scielo.br/j/abb/a/cGN4RBXZTRHrZP7hQHj6Bgs).
+  - **Needed for:** which traits, range and uses belong to *G. madruno* s.s. versus
+    the Amazonian segregates (Naming; Finding 2) [5].
+- [ ] **`charichuelo--neotropical-horticulture`** (Library): Neotropical
+  underutilised-fruit / agroforestry literature on charichuelo / madroño (*G.
+  madruno*).
+  - **Needed for:** the still-missing fruit composition, fruiting season, per-tree
+    yield, seed-handling and sex-ratio planting practice (Composition, Yield,
+    Open questions).
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.

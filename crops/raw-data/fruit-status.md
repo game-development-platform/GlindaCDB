@@ -32,7 +32,7 @@
 | cam_xoan | Citrus sinensis cv. Xoan (Mekong Delta 'cam xoàn' orange; labelled C. nobilis in one source) | orange.md | `kunenbo`, `orange` | 2026-11-22 | REJECTED |
 | cantaloupe | Cucumis melo, Reticulatus and Cantalupensis groups | cantaloupe.md | `honeydew`, `oriental_melon` | 2026-11-17 | RESEARCHED |
 | champedak | Artocarpus integer | champedak.md | `jackfruit`, `lakoocha`, `marang` | 2026-11-17 | RESEARCHED |
-| charichuelo | Garcinia madruno |  | `mangosteen` | 2026-11-23 | PROPOSED |
+| charichuelo | Garcinia madruno | charichuelo.md | `mangosteen` | 2026-11-26 | RESEARCHED |
 | cherry_plum | Prunus cerasifera | cherry-plum.md | `japanese_plum` | 2026-11-17 | RESEARCHED |
 | chinese_quince | Pseudocydonia sinensis |  | `quince` | 2026-11-25 | PROPOSED |
 | chinotto | Citrus myrtifolia (possibly *C.* × *aurantium* var. *myrtifolia*) | chinotto.md | `bitter_orange` | 2026-11-17 | RESEARCHED |

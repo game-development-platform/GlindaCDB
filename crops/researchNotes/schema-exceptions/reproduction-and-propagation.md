@@ -21,6 +21,10 @@ plain name with the cropID, doc and Finding.
   - `button_mangosteen` (`button-mangosteen.md`, Finding 2): dioecious; a male and a female tree are both
     needed to crop, and growers hand-pollinate. Its sibling true mangosteen is the inverse — apomictic
     with no known male trees, so sex needs no managing at all (`mangosteen.md`, Finding 1).
+  - `charichuelo` (`charichuelo.md`, Finding 2): dioecious and generally needs both sexes, but like some
+    dioecious *Garcinia* it may set viable seed without fertilisation — so it sits between button
+    mangosteen (must manage sex) and true mangosteen (no males). The three species show the *Garcinia*
+    spectrum from obligate-sexual to facultatively-apomictic within one entry.
   - Imported: kiwifruit and date palm (dioecious; males are a non-bearing share of the stand); rambutan,
     pulasan; asparagus (male plants yield more; all-male hybrids; female plants seed volunteers); coontie;
     mountain papaya (three sexes); American persimmon (a plant's sex expression can change from year to
