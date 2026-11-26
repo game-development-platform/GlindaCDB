@@ -1389,6 +1389,24 @@ propagation, which are the best-sourced parts of a thinly-documented crop.
   - **Needed for:** the dormancy-breaking / in-vitro propagation detail behind
     Finding 3 [5].
 
+### button_mangosteen (2026-11-25)
+
+First research of the `button-mangosteen.md` profile (*Garcinia prainiana*,
+cherapu) after it passed its gate check. Only snippet-level web material was
+readable, and composition, fruiting season and yield are entirely unsourced.
+
+- [ ] **`button_mangosteen--mybis-nparks`** (Online): the full Malaysian
+  Biodiversity Information System (MyBIS, mybis.gov.my/art/275) and Singapore
+  NParks FloraFaunaWeb (flora/4/2/4211) species pages.
+  - **Needed for:** firmer range, altitude, dioecy, hand-pollination and bearing-age
+    detail behind Findings 1-2 [3][4].
+- [ ] **`button_mangosteen--malaysian-horticulture`** (Library): Malaysian
+  forestry / underutilised-fruit horticultural literature on cherapu (*G.
+  prainiana*).
+  - **Needed for:** the still-missing fruit composition, fruiting season, per-tree
+    yield, and any grafting/sex-ratio planting practice (Composition, Yield,
+    Open questions).
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.

@@ -69,7 +69,11 @@ treated as *G. mangostana* var. *mangostana* [2][4].
     [14].
 - **Proposed:**
   - **`button_mangosteen`** (*G. prainiana*): an edible *Garcinia*
-    fruit [2]. No farming data were read this pass.
+    fruit [2]. **Now researched (passed its gate check 2026-11-25; see
+    `button-mangosteen.md`):** a small orange thin-skinned Malesian fruit
+    that, unlike true mangosteen, is dioecious and needs both sexes (growers
+    hand-pollinate), bears young, and is itself used as a rootstock for true
+    mangosteen.
   - **`charichuelo`** (*G. madruno*): a tropical American *Garcinia*
     fruit [2]. Several former *Rheedia* fruits of South America are now
     in *Garcinia* [3]. No farming data were read this pass.

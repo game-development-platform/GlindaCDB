@@ -28,7 +28,7 @@
 | breadfruit | Artocarpus altilis | breadfruit.md | `jackfruit`, `lakoocha`, `marang` | 2026-11-17 | RESEARCHED |
 | buddhas_hand | Citrus medica var. sarcodactylis | buddhas-hand.md |  | 2026-11-17 | RESEARCHED |
 | bush_cherry | Prunus tomentosa | bush-cherry.md |  | 2026-11-17 | RESEARCHED |
-| button_mangosteen | Garcinia prainiana |  | `mangosteen` | 2026-11-23 | PROPOSED |
+| button_mangosteen | Garcinia prainiana | button-mangosteen.md | `mangosteen` | 2026-11-25 | RESEARCHED |
 | cam_xoan | Citrus sinensis cv. Xoan (Mekong Delta 'cam xoàn' orange; labelled C. nobilis in one source) | orange.md | `kunenbo`, `orange` | 2026-11-22 | REJECTED |
 | cantaloupe | Cucumis melo, Reticulatus and Cantalupensis groups | cantaloupe.md | `honeydew`, `oriental_melon` | 2026-11-17 | RESEARCHED |
 | champedak | Artocarpus integer | champedak.md | `jackfruit`, `lakoocha`, `marang` | 2026-11-17 | RESEARCHED |

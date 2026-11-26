@@ -18,6 +18,9 @@ plain name with the cropID, doc and Finding.
   - `papaya` (`papaya.md`, Finding 1): selfed Solo seed gives 2 hermaphrodites : 1 female; Hawaii plants
     3 seedlings per hole (5 for 'Rainbow', which splits 1:1) and thins to one hermaphrodite. Heat causes
     female sterility in hermaphrodites.
+  - `button_mangosteen` (`button-mangosteen.md`, Finding 2): dioecious; a male and a female tree are both
+    needed to crop, and growers hand-pollinate. Its sibling true mangosteen is the inverse — apomictic
+    with no known male trees, so sex needs no managing at all (`mangosteen.md`, Finding 1).
   - Imported: kiwifruit and date palm (dioecious; males are a non-bearing share of the stand); rambutan,
     pulasan; asparagus (male plants yield more; all-male hybrids; female plants seed volunteers); coontie;
     mountain papaya (three sexes); American persimmon (a plant's sex expression can change from year to
@@ -207,6 +210,9 @@ plain name with the cropID, doc and Finding.
     graft-transmissible xyloporosis/cachexia (trees removed before ~year 10 in one region) and further
     declining where tristeza is present, which is exactly the sour-orange/tristeza pattern imported below;
     it also doubles as a cachexia indicator plant.
+  - `button_mangosteen` (`button-mangosteen.md`, Finding 3 and Propagation): grown mainly as a fruit, but
+    young *G. prainiana* trees are also used as rootstock for its famous cousin true mangosteen (*G.
+    mangostana*) — a within-genus stock/scion link between two crop rows in this project.
   - Imported: date-plum (rootstock seed for Asian persimmon); golden
     currant; sour orange (classic citrus stock; tristeza kills sweet orange on it); cherry plum; squash
     as a graft stock for oriental melon.
