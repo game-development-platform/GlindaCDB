@@ -50,7 +50,7 @@
 | feijoa | Acca sellowiana | feijoa.md |  | 2026-11-17 | RESEARCHED |
 | fig | Ficus carica | fig.md |  | 2026-11-17 | RESEARCHED |
 | finger_lime | Citrus australasica | finger-lime.md |  | 2026-11-17 | RESEARCHED |
-| garcinia_dulcis | Garcinia dulcis |  | `mangosteen` | 2026-11-23 | PROPOSED |
+| garcinia_dulcis | Garcinia dulcis | garcinia-dulcis.md | `mangosteen` | 2026-11-26 | RESEARCHED |
 | giant_granadilla | Passiflora quadrangularis | giant-granadilla.md |  | 2026-11-17 | RESEARCHED |
 | golden_currant | Ribes aureum | golden-currant.md |  | 2026-11-17 | RESEARCHED |
 | gooseberry | Ribes uva-crispa × R. hirtellum | gooseberry.md |  | 2026-11-17 | RESEARCHED |

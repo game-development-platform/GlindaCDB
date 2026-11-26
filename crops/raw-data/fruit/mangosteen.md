@@ -82,8 +82,11 @@ treated as *G. mangostana* var. *mangostana* [2][4].
     apomictic), and now treated as a species complex (three new Amazonian
     species split out in 2024).
   - **`garcinia_dulcis`** (*G. dulcis*): introduced across the Pacific
-    as a fruit suited to village production [3]. No farming data were
-    read this pass.
+    as a fruit suited to village production [3]. **Now researched (passed
+    its gate check 2026-11-26; see `garcinia-dulcis.md`):** "mundu", a
+    very wide-ranging (Assam to N Queensland) semi-wild dooryard fruit,
+    not grown commercially, sour and grown mainly for jam, and a source of
+    gamboge dye from its unripe fruit.
   - **Not proposed:** the wild varieties *malaccensis* and *borneensis*.
     They are forest trees with no farming data [4]. Other Pacific species
     (*G. pseudoguttifera*, *G. hollrungii*, *G. jaweri*, *G. floribunda*)

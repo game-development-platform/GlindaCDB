@@ -1427,6 +1427,27 @@ species boundary is itself unsettled.
     yield, seed-handling and sex-ratio planting practice (Composition, Yield,
     Open questions).
 
+### garcinia_dulcis (2026-11-26)
+
+First research of the `garcinia-dulcis.md` profile (*Garcinia dulcis*, mundu)
+after it passed its gate check. Only snippet-level web material was readable; the
+sexual system, fruit composition, bearing age and harvest calendar are all
+unsourced.
+
+- [ ] **`garcinia_dulcis--prosea-entry`** (Library): the PROSEA "Edible fruits and
+  nuts" entry for *Garcinia dulcis* (prosea.prota4u.org/view.aspx?id=1508, cited
+  via ILRI).
+  - **Needed for:** fruit detail, uses, composition and any agronomy behind
+    Finding 1 [2].
+- [ ] **`garcinia_dulcis--ecocrop-agroforestry`** (Online): the FAO EcoCrop record
+  (ecocrop.fao.org id 2302) and the World Agroforestry species profile.
+  - **Needed for:** the climate envelope, soils and management detail behind the
+    Climate zones bullet [3].
+- [ ] **`garcinia_dulcis--flora-java-nparks`** (Online): the Flora of Java and the
+  full NParks FloraFaunaWeb pages.
+  - **Needed for:** the still-unconfirmed sexual system (dioecious vs monoecious),
+    flowering and propagation detail (Finding 3; Pollination) [4].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.
