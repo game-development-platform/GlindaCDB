@@ -137,7 +137,7 @@
 | shiikuwasha | Citrus depressa (Okinawan sour citrus) | shiikuwasha.md | `hetsuka_daidai`, `kunenbo`, `tachibana` | 2026-11-27 | RESEARCHED |
 | sour_cherry | P. cerasus | cherry.md | `sweet_cherry` | 2026-11-25 | RESEARCHED |
 | strawberry | Fragaria × ananassa | strawberry.md | `woodland_strawberry` | 2026-11-25 | RESEARCHED |
-| sudachi | Citrus sudachi (Tokushima sour citrus) |  | `hetsuka_daidai`, `kabosu` | 2026-11-19 | PROPOSED |
+| sudachi | Citrus sudachi (Tokushima sour citrus) | sudachi.md | `hetsuka_daidai`, `kabosu`, `yuzu` | 2026-11-27 | RESEARCHED |
 | sweet_cherry | P. avium | cherry.md | `sour_cherry` | 2026-11-25 | RESEARCHED |
 | sweet_granadilla | Passiflora ligularis | sweet-granadilla.md |  | 2026-11-25 | RESEARCHED |
 | sweet_lemon | Citrus limetta | sweet-lemon.md | `lemon`, `meyer_lemon` | 2026-11-25 | RESEARCHED |

@@ -1623,6 +1623,24 @@ agronomy (yield, bearing age) and per-landrace composition are thin.
   - **Needed for:** the Harvest-stages bullet and Finding 1's maturity windows
     [2].
 
+### sudachi (2026-11-27)
+
+First research of the `sudachi.md` profile (*Citrus sudachi*) after it passed
+its gate check. Strong on place/GI, supply systems and the namesake flavonoid,
+but agronomy (yield, bearing age) and quantitative composition are thin.
+
+- [ ] **`sudachi--tokushima-gi-spec`** (Library): the full Tokushima Sudachi GI
+  product specification (MAFF GI #129 / UK register).
+  - **Needed for:** firming the production figures, any juice-content/size
+    shipping standard, and the cultivation-method rules (Finding 2) [2].
+- [ ] **`sudachi--composition`** (Online): a quantitative juice-composition
+  source (citric/malic acid, Brix, vitamin C).
+  - **Needed for:** the Composition bullet, currently only qualitative [1][3].
+- [ ] **`sudachi--sudachitin-clinical`** (Library): the human hyperlipidemia /
+  pharmacology studies on sudachitin.
+  - **Needed for:** grounding the health claim beyond the animal/model work
+    (Finding 3) [3].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.
