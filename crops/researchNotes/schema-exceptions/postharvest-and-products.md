@@ -190,6 +190,9 @@ plain name with the cropID, doc and Finding.
   - `chinese_quince` (`chinese-quince.md`, Finding 3, Uses): a fruit tree grown across much of its
     introduced range as an ornamental and **bonsai** subject for its exfoliating patchwork bark, flowers
     and autumn colour — the living tree, not the fruit, is effectively the product.
+  - `tachibana` (`tachibana.md`, Finding 3, Uses): Japan's native wild mandarin, whose near-inedible
+    fruit is incidental — it is grown as a **shrine/palace/garden ornamental** and as the **miniature
+    tree** in the Hinamatsuri doll display, so the living (often potted/miniature) plant is the product.
 - **Seen in (imported):** Buddha's hand (sold as a potted plant).
 - **Possible home:** an "Ornamental / living plant" use in "Uses and processing".
 

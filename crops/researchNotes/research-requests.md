@@ -1641,6 +1641,26 @@ but agronomy (yield, bearing age) and quantitative composition are thin.
   - **Needed for:** grounding the health claim beyond the animal/model work
     (Finding 3) [3].
 
+### tachibana (2026-11-27)
+
+First research of the `tachibana.md` profile (*Citrus tachibana*) after it
+passed its gate check as a cultural/ornamental heritage citrus. Strong on
+genetics, symbolism and ornamental use; thin on fruit agronomy (which matters
+little, as it is not a fruit crop) and on formal conservation status.
+
+- [ ] **`tachibana--redlist-status`** (Online): the Japanese Red List / Ministry
+  of Environment or prefectural listing for wild *C. tachibana*.
+  - **Needed for:** the Invasiveness/biosecurity and conservation notes, left
+    unconfirmed (Finding 2) [2].
+- [ ] **`tachibana--genome-2021`** (Library): the 2021 *Nature Communications*
+  citrus genome and the Heda-population diversity study.
+  - **Needed for:** firming the *C. ryukyuensis* × mainland-mandarin origin and
+    the polyembryony/clonal-maintenance point (Finding 2) [2].
+- [ ] **`tachibana--revival-commerce`** (Online): the "resurrecting tachibana"
+  culinary/commercial revival and any current ornamental-nursery scale.
+  - **Needed for:** quantifying the cultivation/use footprint and any food
+    revival (Findings 1, 3) [1][3].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.

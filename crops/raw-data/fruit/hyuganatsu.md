@@ -60,7 +60,8 @@ This entry does **not** cover:
   it is recorded under Cultivars here.
 - **Tachibana** (*C. tachibana*), the inferred pollen parent [2][6], a
   wild Japanese mandarin. Used as a DNA reference in `hetsuka-daidai.md`.
-  Proposed as its own candidate row (`tachibana`).
+  **Now researched (passed its gate check 2026-11-27 as a cultural/
+  ornamental heritage citrus; see `tachibana.md`).**
 - **Natsudaidai** (`natsudaidai`): the usual pollen source, including
   Kawano natsudaidai interplanted on the Izu Peninsula (Finding 2) [8][11].
   See that entry.
@@ -293,8 +294,8 @@ production [5]. Shizuoka, western Kanagawa, and Ehime also grow it [2].
   [8], was not rechecked.
 - **Storage regime, soil, water, cold tolerance, labour hours, virus
   status** were not sourced.
-- **Proposed rows:** `tachibana` needs a gate-check decision (Naming
-  and scope); `haruka` was gate-checked and not promoted.
+- **Proposed rows:** `tachibana` was researched 2026-11-27 (`tachibana.md`; see
+  Naming and scope); `haruka` was gate-checked and not promoted.
 
 ## Estimates and derivations
 

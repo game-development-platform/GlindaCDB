@@ -234,6 +234,10 @@ plain name with the cropID, doc and Finding.
   - `satsuma` (`satsuma.md`, Finding 6): a satsuma (or plastic imitation) is placed atop the stacked
     *kagami mochi* New Year offering in place of the traditional *daidai* bitter orange, on the household
     Shinto altar or alcove, and eaten in the *kagami biraki* ritual in mid-January.
+  - `tachibana` (`tachibana.md`, Finding 3): Japan's native citrus is a longevity/eternity symbol planted
+    at shrines since the Heian period and before the Imperial Palace Shishinden (the "Ukon no tachibana"),
+    which inspired the Order of Culture medal; it bears family crests, is the Hinamatsuri doll-set tree,
+    appears on the ¥500 coin, and was historically burned as incense.
   - Imported: citron (etrog, with rules on grafting and quality); fruit trees generally (no fruit in the
     first three years; no grafting between species, such as apple on quince); grape (rules on what may be
     sown in a vineyard); date palm (closed fronds for ritual use); horseradish (Passover bitter herb);

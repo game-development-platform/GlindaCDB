@@ -141,7 +141,7 @@
 | sweet_cherry | P. avium | cherry.md | `sour_cherry` | 2026-11-25 | RESEARCHED |
 | sweet_granadilla | Passiflora ligularis | sweet-granadilla.md |  | 2026-11-25 | RESEARCHED |
 | sweet_lemon | Citrus limetta | sweet-lemon.md | `lemon`, `meyer_lemon` | 2026-11-25 | RESEARCHED |
-| tachibana | Citrus tachibana (wild Japanese mandarin) |  | `hyuganatsu`, `mandarin` | 2026-11-19 | PROPOSED |
+| tachibana | Citrus tachibana (wild Japanese mandarin) | tachibana.md | `hyuganatsu`, `mandarin`, `shiikuwasha` | 2026-11-27 | RESEARCHED |
 | tangelo | Citrus × tangelo (mandarin × grapefruit) |  | `mandarin`, `clementine` | 2026-11-20 | PROPOSED |
 | ume | Prunus mume | ume.md | `japanese_plum` | 2026-11-25 | RESEARCHED |
 | watermelon | Citrullus lanatus dessert | watermelon.md | `citron_melon`, `seed_watermelon` | 2026-11-25 | RESEARCHED |

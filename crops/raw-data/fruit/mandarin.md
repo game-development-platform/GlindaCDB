@@ -61,7 +61,9 @@ licensed under this project's MIT license (see repository `LICENSE`).
 - rangpur_lime (`rangpur_lime`, researched 2026-11-27, `rangpur-lime.md`): a
   mandarin × citron hybrid and a major drought-/tristeza-tolerant citrus
   rootstock (Brazil's 'Cravo'), alongside Cleopatra mandarin [7];
-- tachibana (`tachibana`, proposed): the wild Japanese mandarin.
+- tachibana (`tachibana`, researched 2026-11-27, `tachibana.md`): Japan's
+  native wild mandarin and a likely wild ancestor of *C. reticulata*, kept
+  as a cultural/ornamental heritage citrus rather than a fruit crop.
 
 **Proposed:**
 - clementine (`clementine`, *Citrus × clementina*): its pollination and
