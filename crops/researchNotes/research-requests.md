@@ -1563,6 +1563,26 @@ unsourced.
   `mountain_tarap`, the file moved to `mountain-tarap.md`, and the cross-links
   in `marang.md`, `artocarpus-mutabilis.md` and `fruit-status.md` updated.
 
+### rangpur_lime (2026-11-27)
+
+First research of the `rangpur-lime.md` profile (*Citrus* × *limonia*) after it
+passed its gate check. Rich on uses and rootstock role, but fruit composition,
+hardiness and current rootstock-share figures are snippet-level or unsourced.
+
+- [ ] **`rangpur_lime--ucr-cvc-fulltext`** (Online): the full UC Riverside
+  Citrus Variety Collection entries for *C. limonia*.
+  - **Needed for:** authoritative parentage, botanical description and seed
+    (polyembryony) detail (Naming; Propagation) [2].
+- [ ] **`rangpur_lime--brazil-rootstock-fulltext`** (Library): full text of the
+  Scielo/Embrapa/USP limão-cravo rootstock trials.
+  - **Needed for:** quantified drought/CTV performance, scion-yield figures and
+    the current displacement by citrandarin/'Cleopatra' hybrids (Findings 2-3)
+    [3].
+- [ ] **`rangpur_lime--fruit-composition-hardiness`** (Online): a pomology
+  source on Brix/acidity, juice yield, cold hardiness and harvest months.
+  - **Needed for:** the unsourced Composition, Climate-zones and Harvest-window
+    bullets [1][5].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.

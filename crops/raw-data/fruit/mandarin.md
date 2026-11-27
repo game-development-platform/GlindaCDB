@@ -58,8 +58,9 @@ licensed under this project's MIT license (see repository `LICENSE`).
   clementine is willowleaf × sweet orange [2][9];
 - bitter_orange (`bitter_orange`, `bitter-orange.md`): sour orange is a
   mandarin rootstock [1];
-- rangpur_lime (`rangpur_lime`, proposed): a mandarin × citron hybrid
-  and a chloride-tolerant rootstock alongside Cleopatra mandarin [7];
+- rangpur_lime (`rangpur_lime`, researched 2026-11-27, `rangpur-lime.md`): a
+  mandarin × citron hybrid and a major drought-/tristeza-tolerant citrus
+  rootstock (Brazil's 'Cravo'), alongside Cleopatra mandarin [7];
 - tachibana (`tachibana`, proposed): the wild Japanese mandarin.
 
 **Proposed:**

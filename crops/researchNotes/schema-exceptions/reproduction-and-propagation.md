@@ -221,6 +221,13 @@ plain name with the cropID, doc and Finding.
   - `button_mangosteen` (`button-mangosteen.md`, Finding 3 and Propagation): grown mainly as a fruit, but
     young *G. prainiana* trees are also used as rootstock for its famous cousin true mangosteen (*G.
     mangostana*) — a within-genus stock/scion link between two crop rows in this project.
+  - `rangpur_lime` (`rangpur-lime.md`, Finding 2 and Propagation): the citron × mandarin hybrid is used
+    "principally as a citrus rootstock" outside the US, and as limão-cravo ('Cravo') long dominated
+    Brazil's citrus rootstock use — valued for vigour, early/high scion yield, outstanding drought
+    tolerance and **tristeza (CTV) tolerance**, so it is one of the stocks that *replaced* the
+    tristeza-killed sour orange (the mirror image of the `sweet_lemon`/sour-orange decline above); it is
+    now partly ceding ground to citrandarin/'Cleopatra' hybrids because it is susceptible to *Phytophthora*
+    root rot and citrus blight.
   - Imported: date-plum (rootstock seed for Asian persimmon); golden
     currant; sour orange (classic citrus stock; tristeza kills sweet orange on it); cherry plum; squash
     as a graft stock for oriental melon.

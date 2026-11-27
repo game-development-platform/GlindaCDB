@@ -128,7 +128,7 @@
 | purple_passionfruit | Passiflora edulis | passionfruit.md | `yellow_passionfruit` | 2026-11-24 | RESEARCHED |
 | quince | Cydonia oblonga | quince.md | `japanese_quince`, `loquat`, `medlar` | 2026-11-25 | RESEARCHED |
 | rambutan | Nephelium lappaceum | rambutan.md | `longan`, `lychee`, `mata_kucing`, `pulasan` | 2026-11-23 | RESEARCHED |
-| rangpur_lime | Citrus × limonia (mandarin × citron) |  | `key_lime`, `mandarin` | 2026-11-19 | PROPOSED |
+| rangpur_lime | Citrus × limonia (mandarin × citron) | rangpur-lime.md | `key_lime`, `mandarin`, `citron`, `lemon` | 2026-11-27 | RESEARCHED |
 | raspberry | Rubus idaeus | raspberry.md | `black_raspberry`, `blackberry` | 2026-11-23 | RESEARCHED |
 | red_currant | Ribes rubrum | red-currant.md |  | 2026-11-24 | RESEARCHED |
 | satsuma | Citrus unshiu | satsuma.md | `kunenbo`, `mandarin`, `clementine` | 2026-11-24 | RESEARCHED |

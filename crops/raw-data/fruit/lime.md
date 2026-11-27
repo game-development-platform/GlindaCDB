@@ -47,8 +47,12 @@ one crop entry, with separate status rows (`key_lime`, `persian_lime`):
 - **Sweet lime** (*C. limetta*): the `sweet_lemon` entry, `sweet-lemon.md`.
   It is a sour orange × citron type, unrelated to the acid limes'
   papeda line [6].
-- **Rangpur lime** (`rangpur_lime`): proposed here. It is a mandarin ×
-  citron hybrid [6][16] and a rootstock for both limes [3][4].
+- **Rangpur lime** (`rangpur_lime`): a mandarin × citron hybrid [6][16] and a
+  rootstock for both limes [3][4]. **Now researched (passed its gate check
+  2026-11-27; see `rangpur-lime.md`):** a mandarin-looking but very sour citrus
+  used as a lime substitute, and — more importantly — a **major citrus
+  rootstock** (Brazil's dominant 'Cravo'), prized for drought and tristeza
+  tolerance.
 - **Lemon** (`lemon`) and **citron** (`citron`): parents in the claims
   above.
 
