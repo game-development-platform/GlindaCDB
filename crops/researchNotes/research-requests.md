@@ -1661,6 +1661,26 @@ little, as it is not a fruit crop) and on formal conservation status.
   - **Needed for:** quantifying the cultivation/use footprint and any food
     revival (Findings 1, 3) [1][3].
 
+### yuzu (2026-11-27)
+
+First research of the `yuzu.md` profile (*Citrus junos*) after it passed its
+gate check as the flagship of the Japanese sour-citrus group. Strong on
+identity, production, uses and the cold-hardiness/thorn traits; thin on
+quantitative agronomy and composition.
+
+- [ ] **`yuzu--gi-specs`** (Library): the Kito and Monobe yuzu GI product
+  specifications in full (MAFF register).
+  - **Needed for:** firming production figures, the harvest calendar, and the
+    thorn/precooling handling detail (Finding 2; Entry 72) [2].
+- [ ] **`yuzu--composition-oil`** (Online): quantitative juice composition and
+  peel/seed essential-oil and seed-oil data.
+  - **Needed for:** the Composition bullet and the cosmetics/seed-oil chain
+    (Finding 3) [1][3].
+- [ ] **`yuzu--bearing-yield`** (Online): grafted bearing age and per-tree/
+  per-hectare yield.
+  - **Needed for:** the Days-to-bearing and Yield bullets, currently proverbial/
+    national-only (Finding 2) [2].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.

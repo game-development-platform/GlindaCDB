@@ -238,6 +238,9 @@ plain name with the cropID, doc and Finding.
     at shrines since the Heian period and before the Imperial Palace Shishinden (the "Ukon no tachibana"),
     which inspired the Order of Culture medal; it bears family crests, is the Hinamatsuri doll-set tree,
     appears on the ¥500 coin, and was historically burned as incense.
+  - `yuzu` (`yuzu.md`, Finding 3): in the *yuzuyu* winter-solstice (*Tōji*) bath, whole yuzu fruits are
+    floated in hot water (often in a cloth bag) for their aroma — a custom dating to at least the early
+    18th century, believed to ward off colds and bad luck.
   - Imported: citron (etrog, with rules on grafting and quality); fruit trees generally (no fruit in the
     first three years; no grafting between species, such as apple on quince); grape (rules on what may be
     sown in a vineyard); date palm (closed fronds for ritual use); horseradish (Passover bitter herb);

@@ -276,3 +276,17 @@ plain name with the cropID, doc and Finding.
     exports) sell into months when the main temperate regions are out of season.
 - **Possible home:** a "Market window" line under "Harvest stages / windows" (dates, competing regions,
   what it does to price, and the phenology deadline it sets).
+
+## 72 — The plant's own structure damages its harvested product
+
+- **Status:** OPEN (first Glinda doc 2026-11-27).
+- **What doesn't fit:** "Labor" records harvest hours and "Harvest stages" records maturity, but neither
+  captures a plant morphology that *damages the product itself* — forcing a slower, gentler harvest and
+  downgrading fruit that would otherwise make fresh-market grade. It is a quality/handling constraint set
+  by the plant's architecture, not by ripeness or method choice.
+- **Seen in:**
+  - `yuzu` (`yuzu.md`, Finding 2): yuzu trees are covered in **sharp thorns that scratch the fruit's
+    peel**, so fresh fruit must be carefully hand-harvested and precooled (3-5 °C) to hold its grade; the
+    thorns downgrade otherwise-sound fruit and raise harvest labour.
+- **Possible home:** a "Harvest hazards to the product" note under "Labor" or "Harvest stages / windows":
+  the structural feature, the damage it causes, and the handling it forces.

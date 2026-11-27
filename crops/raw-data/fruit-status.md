@@ -149,4 +149,4 @@
 | woodland_strawberry | Fragaria vesca and F. moschata | strawberry.md | `strawberry` | 2026-11-25 | RESEARCHED |
 | yellow_passionfruit | Passiflora edulis | passionfruit.md | `purple_passionfruit` | 2026-11-24 | RESEARCHED |
 | yellow_pitaya | Selenicereus megalanthus | yellow-pitaya.md |  | 2026-11-25 | RESEARCHED |
-| yuzu | Citrus junos |  | `hetsuka_daidai`, `kabosu`, `ichang_papeda` | 2026-11-19 | PROPOSED |
+| yuzu | Citrus junos | yuzu.md | `hetsuka_daidai`, `kabosu`, `ichang_papeda` | 2026-11-27 | RESEARCHED |

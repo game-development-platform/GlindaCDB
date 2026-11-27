@@ -50,9 +50,9 @@ This entry does **not** cover:
   entry.
 - **The other Japanese sour citrus** the comparison study used as
   controls: **yuzu**, **sudachi**, **kabosu** and **shiikuwasha**
-  (*C. depressa*) [1]. Each was proposed as its own candidate row;
-  `kabosu`, `shiikuwasha` (`shiikuwasha.md`) and `sudachi` (`sudachi.md`)
-  have since been researched, while `yuzu` remains proposed.
+  (*C. depressa*) [1]. Each was proposed as its own candidate row, and all
+  four — `kabosu`, `shiikuwasha` (`shiikuwasha.md`), `sudachi` (`sudachi.md`)
+  and `yuzu` (`yuzu.md`) — have since been researched.
 - **Hyuganatsu**, a Miyazaki citrus the study used because its fruit
   looks similar; one of its parents is tachibana [1]. It is eaten fresh,
   not used as a sour citrus. Promoted after a gate check on 2026-11-19
@@ -231,9 +231,8 @@ against wildlife damage [3]. The source gives no figures or mechanism.
   not found.
 - **Chemistry:** the 2019 flavonoid, coumarin and synephrine paper [5]
   was seen only as an abstract.
-- **Proposed rows:** `yuzu` still needs a gate-check decision (Naming and
-  scope); `kabosu`, `shiikuwasha`, `sudachi` and `hyuganatsu` have since been
-  researched.
+- **Proposed rows:** all now resolved — `kabosu`, `shiikuwasha`, `sudachi`,
+  `yuzu` and `hyuganatsu` have been researched.
 
 ## Estimates and derivations
 

@@ -54,11 +54,11 @@ more agronomic data than hetsuka daidai.
 
 **Separate entries:**
 - **Yuzu** (`yuzu`) and **sudachi** (`sudachi`): proposed rows, named in
-  the parentage claims [4]. **Sudachi** passed its gate check on 2026-11-27
-  (Tokushima's green sour counterpart to this Ōita crop) and is researched
-  in `sudachi.md`; `yuzu` remains proposed. **Kunenbo** (`kunenbo`), also
-  named there, passed its gate check on 2026-11-19 and is researched in
-  `kunenbo.md`.
+  the parentage claims [4]. Both have since been researched — **sudachi**
+  (2026-11-27, Tokushima's green sour counterpart to this Ōita crop,
+  `sudachi.md`) and **yuzu** (2026-11-27, the cold-hardy aromatic flagship
+  of the group, `yuzu.md`). **Kunenbo** (`kunenbo`), also named there,
+  passed its gate check on 2026-11-19 and is researched in `kunenbo.md`.
 - **Ichang papeda** (`ichang_papeda`): proposed here because of the
   papeda-parent claim [1][3]; rejected at its gate check (below).
 
