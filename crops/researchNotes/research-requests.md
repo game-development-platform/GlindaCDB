@@ -1520,6 +1520,26 @@ every quantitative figure is snippet-level.
     1986-2007 programme, and whether the planting-material scarcity is solved
     (Open questions) [3][4].
 
+### peluntan (2026-11-27)
+
+First research of the `peluntan.md` profile (*Artocarpus sericicarpus*, tarap
+bulu) after it passed its gate check. Only snippet-level web material was
+readable; bearing age, yield, season and composition are all unsourced.
+
+- [ ] **`peluntan--prosea-lim-fulltext`** (Library): the full PROSEA
+  *A. sericicarpus* entry and Lim, *Edible Medicinal and Non-Medicinal Plants*
+  (2012) chapter on the species.
+  - **Needed for:** composition, bearing age, yield, season and uses now cited
+    only at snippet depth (Findings 1-3) [1][5].
+- [ ] **`peluntan--pulp-quality`** (Online): a Sabah/Sarawak pomology or wild-
+  fruit source resolving the pulp-thickness-vs-flavour conflict.
+  - **Needed for:** whether peluntan is genuinely a better fruit than marang or
+    just better-flavoured with thinner flesh (Finding 1; Open questions) [1][3].
+- [ ] **`peluntan--propagation-season`** (Online): a horticultural source on
+  bearing age, fruiting season and propagation beyond seed.
+  - **Needed for:** the Days-to-bearing, Harvest-window and Propagation bullets
+    (all unsourced or seed-only) [4][5].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.

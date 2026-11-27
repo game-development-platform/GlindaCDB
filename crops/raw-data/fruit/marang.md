@@ -81,7 +81,12 @@ count:
 **Proposed:**
 - **`peluntan`** (*A. sericicarpus*; also gumihan, pedalai, tarap bulu):
   a hairy, bright-orange fruit from the same areas, often confused with
-  marang [2]. No farming data were read this pass.
+  marang [2]. **Now researched (passed its gate check 2026-11-27; see
+  `peluntan.md`):** a validly distinct species — a ~15 cm bright-orange,
+  densely hairy "giant rambutan" with sweet creamy pulp and edible roasted
+  seeds, less smelly and often rated better-flavoured than marang (though with
+  thinner pulp by one account); it is the minor Bornean *Artocarpus* most seen
+  in Sarawak markets, but only at local scale.
 - **`pingan`** (*A. sarawakensis*, "mountain tarap"): orange, shaped like
   marang, with smaller sections [2]. No farming data were read this pass.
 - **`artocarpus_mutabilis`** (*A. mutabilis*): recognized by the Iban and

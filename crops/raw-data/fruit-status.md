@@ -111,7 +111,7 @@
 | peach_low_chill | Prunus persica, subtropical peaches | peach-low-chill.md | `nectarine`, `peach` | 2026-11-24 | RESEARCHED |
 | pear | Pyrus communis | pear.md | `korla_pear`, `loquat`, `medlar` | 2026-11-24 | RESEARCHED |
 | pear_low_chill | Pyrus communis × P. pyrifolia hybrids | pear-low-chill.md |  | 2026-11-24 | RESEARCHED |
-| peluntan | Artocarpus sericicarpus (gumihan, tarap bulu) |  | `marang` | 2026-11-23 | PROPOSED |
+| peluntan | Artocarpus sericicarpus (gumihan, tarap bulu) | peluntan.md | `marang`, `artocarpus_mutabilis`, `jackfruit` | 2026-11-27 | RESEARCHED |
 | persian_lime | C. × latifolia | lime.md | `key_lime`, `lemon` | 2026-11-19 | RESEARCHED |
 | persimmon | Diospyros kaki | persimmon.md |  | 2026-11-23 | RESEARCHED |
 | persimmon_american | Diospyros virginiana | persimmon-american.md |  | 2026-11-23 | RESEARCHED |
