@@ -37,9 +37,11 @@ species**, and resurrected *A. mutabilis* for the wild one [1][3].
   [1][3]; older PROSEA material gives pingan as an Iban name for the lumped marang
   [5][6]; and Wikipedia's marang entry gives "pingan"/"mountain tarap" to yet
   another species, *A. sarawakensis* (this project's separate `PROPOSED` `pingan`
-  row) [5][6]. The `pingan` proposed row therefore carries a genuine naming
-  conflict that should be resolved when it is researched. This doc treats "pingan
-  = *A. mutabilis*" as the current best reading.
+  row) [5][6]. **Resolved (2026-11-27):** the `pingan` row (*A. sarawakensis*)
+  has now been researched (`pingan.md`), and it adopts **"mountain tarap"** as
+  its common name, leaving "pingan" to *A. mutabilis* per Gardner et al. (2022);
+  that doc also recommends renaming its cropID off `pingan`. This doc's reading,
+  "pingan = *A. mutabilis*", therefore stands as the current best one [3][5].
 - **Range:** Borneo — documented wild in primary and secondary forest in central
   and southern Sarawak [2]. The Philippine and other cultivated populations once
   filed under "*A. odoratissimus*" are the cultivated sister species (lumok), not
@@ -190,8 +192,10 @@ and southern Sarawak [2].
 - **Conservation status:** no IUCN assessment for *A. mutabilis* was found; the
   split leaves this wild species unassessed [2].
 - **The "pingan" name clash** between *A. mutabilis* (Gardner et al. 2022) and
-  *A. sarawakensis* (Wikipedia; this project's `PROPOSED` `pingan` row) needs
-  resolving when `pingan` is researched [1][5].
+  *A. sarawakensis* was **resolved (2026-11-27)** when the `pingan` row was
+  researched (`pingan.md`): *A. sarawakensis* takes "mountain tarap", "pingan"
+  stays with *A. mutabilis*, and a cropID rename off `pingan` is recommended to
+  the maintainer [1][5].
 - **Works identified, not yet read (full text):**
   - Gardner, E.M. and others (2022), *Current Biology* 32(11):R511-R512 — full
     text, for the complete diagnostic character set [1].

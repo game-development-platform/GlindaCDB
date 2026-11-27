@@ -118,7 +118,7 @@
 | persimmon_dateplum | Diospyros lotus | persimmon-dateplum.md |  | 2026-11-23 | RESEARCHED |
 | persimmon_texas | Diospyros texana | persimmon-texas.md |  | 2026-11-23 | RESEARCHED |
 | pineapple | Ananas comosus | pineapple.md |  | 2026-11-23 | RESEARCHED |
-| pingan | Artocarpus sarawakensis (mountain tarap) |  | `marang` | 2026-11-23 | PROPOSED |
+| pingan | Artocarpus sarawakensis (mountain tarap) | pingan.md | `marang`, `artocarpus_mutabilis`, `peluntan` | 2026-11-27 | RESEARCHED |
 | plantain | Musa AAB and other cooking bananas | banana.md | `banana`, `highland_banana` | 2026-11-17 | RESEARCHED |
 | plum | Prunus domestica, European plum | plum.md | `japanese_plum` | 2026-11-23 | RESEARCHED |
 | pomegranate | Punica granatum | pomegranate.md |  | 2026-11-23 | RESEARCHED |

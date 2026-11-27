@@ -1540,6 +1540,30 @@ readable; bearing age, yield, season and composition are all unsourced.
   - **Needed for:** the Days-to-bearing, Harvest-window and Propagation bullets
     (all unsourced or seed-only) [4][5].
 
+### pingan / mountain tarap (2026-11-27)
+
+First research of the `pingan.md` profile (*Artocarpus sarawakensis*, mountain
+tarap) after it passed its gate check. A rare, little-studied Sarawak endemic;
+almost all agronomy is unsourced, and the cropID carries an unresolved rename
+recommendation.
+
+- [ ] **`pingan--prosea-jarrett-floramalesiana`** (Library): the full PROSEA
+  *A. sarawakensis* entry, Jarrett's *Artocarpus* revision (Blumea, 1975), and
+  the Flora Malesiana treatment.
+  - **Needed for:** range (resolving the Sarawak-endemic vs Riau/Sumatra
+    conflict), fruit/seed detail, and any agronomy (Findings 1-3; most
+    Agronomic-data bullets are "Not sourced.") [1][2].
+- [ ] **`pingan--seed-and-bearing`** (Online): a Sabah/Sarawak ethnobotany or
+  pomology source on seed edibility, bearing age and season.
+  - **Needed for:** the unsourced seed-use, Days-to-bearing and harvest-window
+    bullets [1][5].
+- [ ] **MAINTAINER DECISION — cropID rename.** `pingan` (*A. sarawakensis*)
+  collides with the Iban "pingan" that Gardner et al. (2022) assign to
+  *A. mutabilis* (`artocarpus_mutabilis`). Recommended: rename this row to
+  `mountain_tarap` (or `artocarpus_sarawakensis`) and update the cross-links in
+  `marang.md`, `artocarpus-mutabilis.md` and `peluntan.md`. Not a research task
+  — flagged for the maintainer [3][5].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.

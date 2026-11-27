@@ -88,7 +88,13 @@ count:
   thinner pulp by one account); it is the minor Bornean *Artocarpus* most seen
   in Sarawak markets, but only at local scale.
 - **`pingan`** (*A. sarawakensis*, "mountain tarap"): orange, shaped like
-  marang, with smaller sections [2]. No farming data were read this pass.
+  marang, with smaller sections [2]. **Now researched (passed its gate check
+  2026-11-27; see `pingan.md`):** a rare Sarawak-endemic wild forest fruit,
+  gathered not grown, of good flavour but little-studied. Its research
+  **resolved the three-way "pingan" name clash**: following Gardner et al.
+  (2022), "pingan" belongs to *A. mutabilis* (`artocarpus_mutabilis`), so the
+  *A. sarawakensis* doc uses **"mountain tarap"** and recommends the cropID be
+  renamed off `pingan`.
 - **`artocarpus_mutabilis`** (*A. mutabilis*): recognized by the Iban and
   Dusun as distinct, and confirmed as distinct in 2022 [4]. **Now researched
   (passed its gate check 2026-11-25; see `artocarpus-mutabilis.md`):** it is
