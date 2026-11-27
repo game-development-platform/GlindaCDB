@@ -7,7 +7,7 @@
 | apple_high_chill | Malus domestica | apple-high-chill.md |  | 2026-11-17 | RESEARCHED |
 | apple_low_chill | Malus domestica | apple-low-chill.md |  | 2026-11-17 | RESEARCHED |
 | apricot | Prunus armeniaca | apricot.md |  | 2026-11-17 | RESEARCHED |
-| artocarpus_mutabilis | Artocarpus mutabilis | artocarpus-mutabilis.md | `marang`, `pingan` | 2026-11-25 | RESEARCHED |
+| artocarpus_mutabilis | Artocarpus mutabilis | artocarpus-mutabilis.md | `marang`, `mountain_tarap` | 2026-11-25 | RESEARCHED |
 | asian_pear | Pyrus pyrifolia and related species | asian-pear.md | `korla_pear` | 2026-11-17 | RESEARCHED |
 | avocado | Persea americana | avocado.md |  | 2026-11-17 | RESEARCHED |
 | azarole | Crataegus azarolus (Mediterranean medlar) | azarole.md | `medlar` | 2026-11-25 | RESEARCHED |
@@ -95,11 +95,12 @@
 | mandarin | Citrus reticulata | mandarin.md | `kunenbo`, `satsuma`, `orange`, `bitter_orange`, `rangpur_lime`, `tachibana`, `clementine`, `tangelo` | 2026-11-20 | RESEARCHED |
 | mango | Mangifera indica | mango.md | `cashew`, `pistachio`, `kuini`, `bachang`, `binjai`, `bambangan`, `kasturi` | 2026-11-20 | RESEARCHED |
 | mangosteen | Garcinia mangostana | mangosteen.md | `button_mangosteen`, `charichuelo`, `garcinia_dulcis` | 2026-11-23 | RESEARCHED |
-| marang | Artocarpus odoratissimus (terap, tarap) | marang.md | `jackfruit`, `champedak`, `breadfruit`, `lakoocha`, `peluntan`, `pingan`, `artocarpus_mutabilis` | 2026-11-23 | RESEARCHED |
+| marang | Artocarpus odoratissimus (terap, tarap) | marang.md | `jackfruit`, `champedak`, `breadfruit`, `lakoocha`, `peluntan`, `mountain_tarap`, `artocarpus_mutabilis` | 2026-11-23 | RESEARCHED |
 | mata_kucing | Dimocarpus longan ssp. malesianus (syn. D. malesianus) | mata-kucing.md | `longan`, `rambutan`, `isau`, `longan_echinatus` | 2026-11-23 | RESEARCHED |
 | medlar | Mespilus germanica | medlar.md | `loquat`, `quince`, `pear`, `azarole`, `service_tree` | 2026-11-23 | RESEARCHED |
 | meyer_lemon | Citrus × meyeri | meyer-lemon.md | `lemon`, `citron`, `sweet_lemon`, `ponderosa_lemon` | 2026-11-23 | RESEARCHED |
 | mountain_papaya | Vasconcellea pubescens | mountain-papaya.md | `papaya`, `babaco` | 2026-11-23 | RESEARCHED |
+| mountain_tarap | Artocarpus sarawakensis (mountain tarap) | mountain-tarap.md | `marang`, `artocarpus_mutabilis`, `peluntan` | 2026-11-27 | RESEARCHED |
 | muscadine | Vitis rotundifolia | grape.md | `american_grape`, `grape` | 2026-11-17 | RESEARCHED |
 | natsudaidai | Citrus natsudaidai (natsumikan, incl. amanatsu) | natsudaidai.md | `daidai`, `hassaku`, `hetsuka_daidai`, `hyuganatsu`, `haruka`, `kunenbo` | 2026-11-17 | RESEARCHED |
 | nectarine | Prunus persica, smooth-skinned | nectarine.md | `peach`, `peach_low_chill` | 2026-11-23 | RESEARCHED |
@@ -118,7 +119,6 @@
 | persimmon_dateplum | Diospyros lotus | persimmon-dateplum.md |  | 2026-11-23 | RESEARCHED |
 | persimmon_texas | Diospyros texana | persimmon-texas.md |  | 2026-11-23 | RESEARCHED |
 | pineapple | Ananas comosus | pineapple.md |  | 2026-11-23 | RESEARCHED |
-| pingan | Artocarpus sarawakensis (mountain tarap) | pingan.md | `marang`, `artocarpus_mutabilis`, `peluntan` | 2026-11-27 | RESEARCHED |
 | plantain | Musa AAB and other cooking bananas | banana.md | `banana`, `highland_banana` | 2026-11-17 | RESEARCHED |
 | plum | Prunus domestica, European plum | plum.md | `japanese_plum` | 2026-11-23 | RESEARCHED |
 | pomegranate | Punica granatum | pomegranate.md |  | 2026-11-23 | RESEARCHED |

@@ -87,22 +87,22 @@ count:
   seeds, less smelly and often rated better-flavoured than marang (though with
   thinner pulp by one account); it is the minor Bornean *Artocarpus* most seen
   in Sarawak markets, but only at local scale.
-- **`pingan`** (*A. sarawakensis*, "mountain tarap"): orange, shaped like
-  marang, with smaller sections [2]. **Now researched (passed its gate check
-  2026-11-27; see `pingan.md`):** a rare Sarawak-endemic wild forest fruit,
-  gathered not grown, of good flavour but little-studied. Its research
-  **resolved the three-way "pingan" name clash**: following Gardner et al.
-  (2022), "pingan" belongs to *A. mutabilis* (`artocarpus_mutabilis`), so the
-  *A. sarawakensis* doc uses **"mountain tarap"** and recommends the cropID be
-  renamed off `pingan`.
+- **`mountain_tarap`** (*A. sarawakensis*, "mountain tarap"; cropID renamed
+  from `pingan` 2026-11-27): orange, shaped like marang, with smaller sections
+  [2]. **Now researched (passed its gate check 2026-11-27; see
+  `mountain-tarap.md`):** a rare Sarawak-endemic wild forest fruit, gathered
+  not grown, of good flavour but little-studied. Its research **resolved the
+  three-way "pingan" name clash**: following Gardner et al. (2022), "pingan"
+  belongs to *A. mutabilis* (`artocarpus_mutabilis`), so the *A. sarawakensis*
+  row took **"mountain tarap"** and its cropID was renamed off `pingan`.
 - **`artocarpus_mutabilis`** (*A. mutabilis*): recognized by the Iban and
   Dusun as distinct, and confirmed as distinct in 2022 [4]. **Now researched
   (passed its gate check 2026-11-25; see `artocarpus-mutabilis.md`):** it is
   the *wild* sister of marang — pingan (Iban) / tonggom-tonggom (Dusun), with
   smaller, less-sweet, thinner-pulped fruit — and is not cultivated. Its
   research also found that the Iban name "pingan" is assigned by Gardner et
-  al. (2022) to *A. mutabilis*, conflicting with the `pingan` (*A.
-  sarawakensis*) proposed row below.
+  al. (2022) to *A. mutabilis*, which is why the *A. sarawakensis* row below
+  was renamed `mountain_tarap` (it kept using "pingan" in trade).
 - **Not proposed:** *A. elasticus* is named only as a confusable species
   and a rootstock [1].
 

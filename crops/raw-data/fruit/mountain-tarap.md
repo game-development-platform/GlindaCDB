@@ -1,6 +1,6 @@
 # Mountain Tarap (*Artocarpus sarawakensis*)
 
-**Category:** Fruit · **Path:** `crops/raw-data/fruit/pingan.md`
+**Category:** Fruit · **Path:** `crops/raw-data/fruit/mountain-tarap.md`
 **Researched:** 2026-11-27
 
 This file is original research synthesis, compiled from the public sources
@@ -13,8 +13,9 @@ licensed under this project's MIT license (see repository `LICENSE`).
 *Artocarpus sarawakensis* F.M.Jarrett (Moraceae): **mountain tarap**; also
 called **pingan** in trade and some references [2][4]. It is a rare,
 Sarawak-endemic evergreen tree in the same genus as marang, jackfruit,
-champedak, breadfruit and peluntan [2][5]. This doc covers the cropID `pingan`,
-which was proposed from `marang.md` for this species [5].
+champedak, breadfruit and peluntan [2][5]. This doc covers the row
+**`mountain_tarap`** (renamed from the cropID `pingan` on 2026-11-27 to resolve
+the name clash below), proposed from `marang.md` for this species [5].
 
 **Naming conflict — resolved here (the reason this row was flagged).** The name
 "pingan" is contested across **three** *Artocarpus*, and resolving it was an
@@ -30,9 +31,9 @@ explicit open item for this row [5]:
 So the same vernacular is used for three species by different authorities. To
 avoid a collision with the `artocarpus_mutabilis` row (which, following Gardner
 2022, is the better holder of "pingan"), **this doc uses "mountain tarap" as the
-preferred common name for *A. sarawakensis***, and recommends the cropID itself
-be renamed (e.g. `mountain_tarap` or `artocarpus_sarawakensis`); that rename is
-left to the maintainer (see Open questions) [3][5]. Classification/naming is a
+preferred common name for *A. sarawakensis***, and the cropID has accordingly
+been **renamed from `pingan` to `mountain_tarap`** (2026-11-27), leaving
+"pingan" to the `artocarpus_mutabilis` row [3][5]. Classification/naming is a
 sourcing matter, not a crop trait, so it is noted here rather than logged as a
 schema exception.
 
@@ -148,11 +149,11 @@ analogues [5].
 
 ## Open research questions
 
-- **Should the cropID be renamed?** Following Gardner et al. (2022), "pingan"
-  belongs to *A. mutabilis* (the `artocarpus_mutabilis` row). Keeping this row's
-  id as `pingan` perpetuates the collision; renaming it to `mountain_tarap` (or
-  `artocarpus_sarawakensis`) and updating the cross-links in `marang.md` and
-  `artocarpus-mutabilis.md` is recommended but left to the maintainer [3][5].
+- **CropID renamed (done 2026-11-27):** following Gardner et al. (2022),
+  "pingan" belongs to *A. mutabilis* (the `artocarpus_mutabilis` row), so this
+  row's id was renamed from `pingan` to `mountain_tarap`, the file moved to
+  `mountain-tarap.md`, and the cross-links in `marang.md`,
+  `artocarpus-mutabilis.md` and the status table updated [3][5].
 - **Range conflict:** endemic to Sarawak (PROSEA) vs an additional Riau,
   Sumatra record (Flora Malesiana) — unresolved [1][2].
 - **Essentially all agronomy** (bearing age, yield, season, composition,
