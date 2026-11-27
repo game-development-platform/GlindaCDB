@@ -1497,6 +1497,29 @@ quantitative agronomy are unresolved, and several sources conflict.
   - **Needed for:** confirming the ~2-3-year precocity claim and whether seed comes
     true (Finding 2; Propagation) [1][2].
 
+### isau (2026-11-26)
+
+First research of the `isau.md` profile (the Sarawak *isau* race of *Dimocarpus
+longan* subsp. *malesianus*) after it passed its gate check as a semi-wild fruit
+under active domestication. The key primary source could not be opened, and
+every quantitative figure is snippet-level.
+
+- [ ] **`isau--upm-bintulu-1988-fulltext`** (Library): the full text of Wong,
+  Ibrahim Yusof, Pearce & Alau Tayan (1988), "ISAU — A potential tropical longan
+  of Sarawak," UPM Bintulu (open-access copy at core.ac.uk/download/153827606.pdf
+  returned HTTP 403 this pass).
+  - **Needed for:** the actual Brix, vitamin C, calcium and iron values and the
+    fruit/aril weights now cited only at snippet depth (Findings 1, 4) [1].
+- [ ] **`isau--unimas-propagation-theses`** (Library): the 2006 cuttings thesis
+  and the 2007 Kho Swee Ling conventional/in-vitro thesis (UNIMAS repository).
+  - **Needed for:** full rooting/tissue-culture/inarching results and the
+    true-to-type bottleneck detail (Finding 3) [3].
+- [ ] **`isau--current-domestication-status`** (Online): a recent Sarawak
+  agriculture/extension source.
+  - **Needed for:** how far isau has moved into planted cultivation since the
+    1986-2007 programme, and whether the planting-material scarcity is solved
+    (Open questions) [3][4].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.

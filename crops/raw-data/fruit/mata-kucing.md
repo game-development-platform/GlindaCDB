@@ -82,13 +82,16 @@ licensed under this project's MIT license (see repository `LICENSE`).
   same" way [1];
 - lychee (`lychee`) and pulasan (`pulasan`), other Sapindaceae fruits.
 
-**Proposed:**
-- **Isau** (`isau`, the Sarawak *isau* race): the race singled out for
-  development. It has the thickest aril and is green when ripe [4]. It
-  was the subject of a 1988 UPM Bintulu programme on taxonomy, botany
-  and propagation [11], and of later cuttings and tissue-culture work
+**Now researched (passed its gate check, 2026-11-26):**
+- **Isau** (`isau`, `isau.md`, the Sarawak *isau* race): the race singled out
+  for development. It has the thickest aril and is green when ripe [4]. It
+  was the subject of a 1988 UPM Bintulu programme (begun 1986) on taxonomy,
+  botany and propagation [11], and of later cuttings and tissue-culture work
   [11]. Planting away from its river-bank habitat is said to be limited
-  by scarce true-to-type material [11].
+  by scarce true-to-type material [11]. It passed its own gate check as a
+  **semi-wild fruit under active domestication** with a distinct quality,
+  development and propagation story — distinct from the undifferentiated
+  subspecies and from the rejected wild var. *echinatus* (below).
 
 **Gate check — rejected (2026-11-26): spiny longan (`longan_echinatus`, *D.
 longan* var. *echinatus*).** Flagged above as a candidate for its own row, it

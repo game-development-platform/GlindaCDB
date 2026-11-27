@@ -107,6 +107,10 @@ plain name with the cropID, doc and Finding.
     grafted trees.
   - `pear_low_chill` (`pear-low-chill.md`, Propagation): pears do not come true from seed, so cultivars
     are sold budded or grafted onto Callery or *P. betulifolia* seedlings.
+  - `isau` (`isau.md`, Finding 3, Propagation): the selected Sarawak longan race's seed is **not true to
+    type** (and slow, ~7-8 yr to bear), so the race must be fixed vegetatively (cuttings, tissue culture,
+    inarching); scarcity of true-to-type planting material is the main limit on planting it outside its
+    wild riverbank range — a case where "won't come true" directly bottlenecks a crop's domestication.
   - Imported: mangosteen and porang (apomictic); mango (polyembryonic cultivar groups come true, others
     don't); Key lime and citrus rootstocks (nucellar seed); oregano (seedlings don't keep the parent's
     chemotype).

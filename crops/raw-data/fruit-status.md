@@ -67,7 +67,7 @@
 | hyuganatsu | Citrus tamurana (Miyazaki hybrid, tachibana parent) | hyuganatsu.md | `hetsuka_daidai`, `natsudaidai`, `yuzu`, `haruka`, `tachibana` | 2026-11-19 | RESEARCHED |
 | ichang_papeda | Citrus cavaleriei (syn. *C. ichangensis*) | kabosu.md | `kabosu`, `yuzu` | 2026-11-19 | REJECTED |
 | indian_jujube | Ziziphus mauritiana | indian-jujube.md | `jujube` | 2026-11-19 | RESEARCHED |
-| isau | Dimocarpus longan ssp. malesianus var. malesianus, Sarawak 'isau' race |  | `mata_kucing` | 2026-11-23 | PROPOSED |
+| isau | Dimocarpus longan ssp. malesianus var. malesianus, Sarawak 'isau' race | isau.md | `mata_kucing`, `longan` | 2026-11-26 | RESEARCHED |
 | jackfruit | Artocarpus heterophyllus | jackfruit.md | `breadfruit`, `champedak`, `kwai_muk`, `lakoocha`, `marang` | 2026-11-19 | RESEARCHED |
 | japanese_plum | Prunus salicina | japanese-plum.md | `cherry_plum`, `plum`, `ume` | 2026-11-19 | RESEARCHED |
 | japanese_quince | Chaenomeles japonica | japanese-quince.md | `mugua`, `quince` | 2026-11-19 | RESEARCHED |
