@@ -133,7 +133,7 @@
 | red_currant | Ribes rubrum | red-currant.md |  | 2026-11-24 | RESEARCHED |
 | satsuma | Citrus unshiu | satsuma.md | `kunenbo`, `mandarin`, `clementine` | 2026-11-24 | RESEARCHED |
 | seed_watermelon | Citrullus lanatus seed types and C. mucosospermus | watermelon.md | `citron_melon`, `watermelon` | 2026-11-25 | RESEARCHED |
-| service_tree | Sorbus domestica |  | `medlar` | 2026-11-23 | PROPOSED |
+| service_tree | Sorbus domestica | service-tree.md | `medlar`, `azarole`, `quince` | 2026-11-27 | RESEARCHED |
 | shiikuwasha | Citrus depressa (Okinawan sour citrus) |  | `hetsuka_daidai`, `kunenbo` | 2026-11-19 | PROPOSED |
 | sour_cherry | P. cerasus | cherry.md | `sweet_cherry` | 2026-11-25 | RESEARCHED |
 | strawberry | Fragaria × ananassa | strawberry.md | `woodland_strawberry` | 2026-11-25 | RESEARCHED |

@@ -63,6 +63,9 @@ plain name with the cropID, doc and Finding.
     in cool, humid storage.
   - `quince` (`quince.md`, Finding 2): climacteric; picked under-ripe on a ground-colour cue, cold-stored
     a few months, then given a warm room-temperature ripening step before it reaches processing quality.
+  - `service_tree` (`service-tree.md`, Finding 1): the sorb fruit is hard and astringent at harvest and
+    is edible only after **bletting** (over-softening), which turns it sweet and spiced-pear-like — the
+    same inedible-until-bletted pattern as medlar (imported below), and often begun on the tree.
   - Imported: peach, plum, apricot, papaya, guava, kiwifruit (off-plant ripening); avocado (never ripens
     on the tree); banana (scheduled ethylene ripening at 14-18 °C over 4-10 days; fails above about 25
     °C); cantaloupe (softens but gains no sugar off the vine); honeydew (ethylene treatment); durian (the

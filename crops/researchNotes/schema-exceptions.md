@@ -112,6 +112,7 @@ section files under [`schema-exceptions/`](schema-exceptions/):
 | 68 | Irrigation scheduled by plant water status and deficit windows by stage | OPEN | phenology-and-weather |
 | 69 | A luxury product defined by extreme hand-processing labour | OPEN | postharvest-and-products |
 | 70 | A processing step bounded on both sides, with an over-processing defect | OPEN | postharvest-and-products |
+| 71 | A crop blended into another crop's product as a quality or processing additive | OPEN | interactions-hazards-and-rules |
 
 ## Reviewed during the 2026-11-24 import and judged already covered
 

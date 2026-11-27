@@ -254,3 +254,21 @@ plain name with the cropID, doc and Finding.
   - Imported: bergamot (protected origin; microclimate); arrowhead (a geographic indication, with intact
     sprouts as a grade).
 - **Possible home:** a "Protected origin" note under "Uses and processing".
+
+## 71 — A crop blended into another crop's product as a quality or processing additive
+
+- **Status:** OPEN (2026-11-27; first Glinda doc the same day).
+- **What doesn't fit:** "Uses and processing" lists the crop's own products. Some crops matter mainly as a
+  minor additive **fermented or blended into a *different* crop's processed product** — for tannin,
+  acidity, clarification or preservation — rather than as a product in their own right. This differs from
+  a rootstock link (Entry 25) and from forage/host support (Entry 60): here it is the crop's *harvested
+  fruit* that goes into another crop's product. (It also differs from Entry 66's protected-origin blends,
+  where the mix stays within one product family.)
+- **Seen in:**
+  - `service_tree` (`service-tree.md`, Finding 2 and Uses): the astringent, high-tannin sorb fruit is
+    **fermented together with apple juice** to make a regional German apple-wine/cider variant
+    (Speierling Apfelwein), the tannins clarifying and preserving the apple wine; reported at ~3:1–3:2
+    service:apple historically and ~5-15% today. Its notable commercial role is as this additive to
+    another crop's product, not as a fresh fruit.
+- **Possible home:** a "Blended into another crop's product" note under "Uses and processing" (target
+  product, proportion, function).

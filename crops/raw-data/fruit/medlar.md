@@ -61,8 +61,11 @@ Kuntze [1].
   Mediterranean-to-Iran region, grafted on hawthorn, and, unlike medlar,
   eaten ripe off the tree with no bletting.
 - **Service tree** (`service_tree`, *Sorbus domestica*): one of the few
-  fruits that, like medlar, most varieties can be eaten raw only after
-  bletting [1].
+  fruits that, like medlar, can be eaten raw only after bletting [1]. **Now
+  researched (passed its gate check 2026-11-27; see `service-tree.md`):** a
+  distinct Maleae tree bearing small apple-/pear-shaped sorbs (bletted like
+  medlar), additionally a prized hardwood and a tannin additive fermented into
+  German apple wine (Speierling) — the latter a new schema Entry 71.
 
 ## Research findings
 

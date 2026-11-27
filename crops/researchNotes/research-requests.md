@@ -1583,6 +1583,26 @@ hardiness and current rootstock-share figures are snippet-level or unsourced.
   - **Needed for:** the unsourced Composition, Climate-zones and Harvest-window
     bullets [1][5].
 
+### service_tree (2026-11-27)
+
+First research of the `service-tree.md` profile (*Sorbus domestica*) after it
+passed its gate check. Good on uses and bletting, but fruit composition, bearing
+age and the apple-wine proportions are weakly sourced or conflicting.
+
+- [ ] **`service_tree--euforgen-atlas-fulltext`** (Library): the EUFORGEN
+  technical guidelines and the European Atlas of Forest Tree Species chapter.
+  - **Needed for:** range, conservation status, bearing age and timber detail
+    (Findings 3-4) [2].
+- [ ] **`service_tree--speierling-cider`** (Library): an authoritative German
+  cider/pomology source on Speierling Apfelwein.
+  - **Needed for:** firming the service:apple blend proportions now resting on a
+    forum post, and the tannin/clarification function (Finding 2; new schema
+    Entry 71) [3].
+- [ ] **`service_tree--fruit-composition`** (Online): a pomology source on sorb
+  tannin content, Brix/acidity and bletted-flesh nutrition.
+  - **Needed for:** the unsourced Composition bullet (medlar's figures are not
+    transferable) [1].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.
