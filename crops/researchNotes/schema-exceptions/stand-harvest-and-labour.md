@@ -105,6 +105,12 @@ plain name with the cropID, doc and Finding.
 - **What doesn't fit:** "Uses and processing" lists every harvested organ, and "Harvest stages" lists
   maturity stages, but neither records that taking one product reduces or prevents another, or that the
   target product changes how the crop is grown.
+- **Seen in:**
+  - `shiikuwasha` (`shiikuwasha.md`, Finding 1): the same Okinawan sour citrus is picked at three
+    maturities for three mutually-exclusive products — green/most-sour (~Aug-Sep) as an acidulant/vinegar
+    substitute, part-ripe (~Sep-Dec) for juice, and ripe/orange (~Dec-Jan) eaten raw — so taking a fruit
+    green for acid precludes its sweet ripe use (the "maturity chosen per harvest" sub-pattern, as with
+    seed lotus below).
 - **Seen in (imported):** bitter orange (blossoms for neroli are taken at the cost of fruit); coconut
   (a tapped spadix sets no nuts); date palm (trunk tapping means no dates for 2-4 years and can kill the
   palm); okra (pod vs seed); giant granadilla (immature vegetable vs ripe fruit); cassava (five leaf cuts

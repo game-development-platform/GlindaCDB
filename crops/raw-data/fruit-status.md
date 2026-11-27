@@ -134,7 +134,7 @@
 | satsuma | Citrus unshiu | satsuma.md | `kunenbo`, `mandarin`, `clementine` | 2026-11-24 | RESEARCHED |
 | seed_watermelon | Citrullus lanatus seed types and C. mucosospermus | watermelon.md | `citron_melon`, `watermelon` | 2026-11-25 | RESEARCHED |
 | service_tree | Sorbus domestica | service-tree.md | `medlar`, `azarole`, `quince` | 2026-11-27 | RESEARCHED |
-| shiikuwasha | Citrus depressa (Okinawan sour citrus) |  | `hetsuka_daidai`, `kunenbo` | 2026-11-19 | PROPOSED |
+| shiikuwasha | Citrus depressa (Okinawan sour citrus) | shiikuwasha.md | `hetsuka_daidai`, `kunenbo`, `tachibana` | 2026-11-27 | RESEARCHED |
 | sour_cherry | P. cerasus | cherry.md | `sweet_cherry` | 2026-11-25 | RESEARCHED |
 | strawberry | Fragaria × ananassa | strawberry.md | `woodland_strawberry` | 2026-11-25 | RESEARCHED |
 | sudachi | Citrus sudachi (Tokushima sour citrus) |  | `hetsuka_daidai`, `kabosu` | 2026-11-19 | PROPOSED |

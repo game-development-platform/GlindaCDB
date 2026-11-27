@@ -65,7 +65,10 @@ Vietnam [1][2][4][5][6].
   `orange.md`, Naming and scope;
 - **Shiikuwasha** (`shiikuwasha`, *C. depressa*): the native Ryukyu
   mandarin, a parent with Kunenbo of 'Kabuchi', 'Oto' and 'Tarogayo'
-  [3].
+  [3]. **Now researched (passed its gate check 2026-11-27; see
+  `shiikuwasha.md`):** Okinawa's signature sour citrus — picked at three
+  maturities for acidulant/juice/raw use, and the highest-polymethoxyflavone
+  (nobiletin) citrus of commercial Japan.
 
 ## Research findings
 

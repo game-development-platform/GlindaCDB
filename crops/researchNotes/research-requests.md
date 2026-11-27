@@ -1603,6 +1603,26 @@ age and the apple-wine proportions are weakly sourced or conflicting.
   - **Needed for:** the unsourced Composition bullet (medlar's figures are not
     transferable) [1].
 
+### shiikuwasha (2026-11-27)
+
+First research of the `shiikuwasha.md` profile (*Citrus depressa*) after it
+passed its gate check. Rich on uses, harvest staging and PMF chemistry, but
+agronomy (yield, bearing age) and per-landrace composition are thin.
+
+- [ ] **`shiikuwasha--okinawa-arc-breeding`** (Library): the Okinawa
+  Agricultural Research Center material and the *Breeding Science* (2016)
+  landrace study.
+  - **Needed for:** bearing age, yield, the landrace set and per-landrace
+    composition/PMF figures (Finding 3; Cultivars) [4].
+- [ ] **`shiikuwasha--pmf-clinical`** (Library): human-trial reviews of
+  nobiletin/PMF (e.g. the cognitive and metabolic reviews).
+  - **Needed for:** firming the health claims beyond animal/cell models, and the
+    (currently unestablished) Okinawan-longevity link (Finding 2) [3].
+- [ ] **`shiikuwasha--harvest-calendar`** (Online): a horticultural source
+  reconciling the differing harvest-window dates (Jun-Aug vs Aug-Feb).
+  - **Needed for:** the Harvest-stages bullet and Finding 1's maturity windows
+    [2].
+
 ### tangelo (optional, for the proposed row)
 
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.
