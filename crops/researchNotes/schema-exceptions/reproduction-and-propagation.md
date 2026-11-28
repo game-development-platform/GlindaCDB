@@ -87,6 +87,14 @@ plain name with the cropID, doc and Finding.
 - **Status:** OPEN (imported 2026-11-24).
 - **What doesn't fit:** "Pollination" assumes pollination is wanted. In some crops it adds unwanted
   seeds or changes what the product is.
+- **Seen in:**
+  - `tangelo` (`tangelo.md`, Finding 2): the mirror of the clementine case. 'Minneola'/'Orlando' tangelos
+    are self-incompatible and set poorly in solid blocks, so cross-pollination is *needed* for a crop —
+    but it brings seeds: a solid 'Minneola' block is seedless but low-yielding, while interplanting
+    pollenizers gives 7-12 (Minneola) or 0-45 (Orlando) seeds, with seedier fruit also larger. The grower
+    trades seedlessness against yield through grove design, complicated by 'Orlando'×'Minneola' cross-
+    incompatibility (a third pollenizer variety is required) and by over-set/limb-breakage if the
+    pollenizer is too strong; gibberellic acid substitutes where set is poor.
 - **Seen in (imported):** clementine and mandarin (cross-pollination makes fruit seedy); pomelo;
   parthenocarpic cucumber (seedy if pollinated); pineapple (seeds from hummingbird pollination, which is
   why hummingbirds are banned in Hawaii); Asian persimmon (pollination-variant cultivars lose astringency

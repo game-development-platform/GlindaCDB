@@ -142,7 +142,7 @@
 | sweet_granadilla | Passiflora ligularis | sweet-granadilla.md |  | 2026-11-25 | RESEARCHED |
 | sweet_lemon | Citrus limetta | sweet-lemon.md | `lemon`, `meyer_lemon` | 2026-11-25 | RESEARCHED |
 | tachibana | Citrus tachibana (wild Japanese mandarin) | tachibana.md | `hyuganatsu`, `mandarin`, `shiikuwasha` | 2026-11-27 | RESEARCHED |
-| tangelo | Citrus × tangelo (mandarin × grapefruit) |  | `mandarin`, `clementine` | 2026-11-20 | PROPOSED |
+| tangelo | Citrus × tangelo (mandarin × grapefruit) | tangelo.md | `mandarin`, `clementine`, `grapefruit` | 2026-11-27 | RESEARCHED |
 | ume | Prunus mume | ume.md | `japanese_plum` | 2026-11-25 | RESEARCHED |
 | watermelon | Citrullus lanatus dessert | watermelon.md | `citron_melon`, `seed_watermelon` | 2026-11-25 | RESEARCHED |
 | wet_tropics_mangoes | Mangifera odorata, M. foetida, M. caesia, M. pajang | wet-tropics-mangoes.md | `bachang`, `bambangan`, `binjai`, `kuini` | 2026-11-25 | RESEARCHED |

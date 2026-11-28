@@ -65,8 +65,10 @@ distinct enough for its own row:
 - orange (`orange`, `orange.md`): sweet orange is one parent [1].
 - satsuma (`satsuma`, `satsuma.md`): the other early small citrus in the
   Spanish statistics [2]; `satsuma.md` excludes clementine [11].
-- tangelo (`tangelo`, proposed): another mandarin hybrid split from
-  `mandarin.md` [11].
+- tangelo (`tangelo`, researched 2026-11-27, `tangelo.md`): another
+  mandarin hybrid split from `mandarin.md` on distinct pollination data —
+  the mirror of this doc's parthenocarpy, as it *needs* cross-pollination
+  for yield but is then seedy [11].
 
 **Proposed:** none new.
 

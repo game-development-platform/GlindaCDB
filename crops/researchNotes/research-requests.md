@@ -1681,10 +1681,26 @@ quantitative agronomy and composition.
   - **Needed for:** the Days-to-bearing and Yield bullets, currently proverbial/
     national-only (Finding 2) [2].
 
-### tangelo (optional, for the proposed row)
+### tangelo (2026-11-27, now researched)
 
+First research of `tangelo.md` (*Citrus* × *tangelo*) after it passed its gate
+check on distinct pollination biology. Strong on the pollination/seed-set story
+and the Minneola/Orlando cultivars; thin on yield, water use and the Ugli/other
+hybrids.
+
+- [ ] **`tangelo--ufifas-minneola`** (Library): UF/IFAS CH072 (Minneola) and the
+  pollenizer-planting sheets in full.
+  - **Needed for:** firming the seed-set figures, pollenizer layout and GA₃ use
+    (Finding 2; Entry 18) [1].
 - [ ] **`tangelo--ufifas-lee`** (Online): HS172/CH080, Lee Citrus Hybrid.
 - [ ] **`tangelo--ufifas-nova`** (Online): HS177/CH076, Nova Tangelo.
+  - **Needed for:** the other named tangelo hybrids (Cultivars) [1].
+- [ ] **`tangelo--ugli`** (Online): parentage, cultivation and harvest of the
+  'Ugli'/Jamaican tangelo.
+  - **Needed for:** the Cultivars bullet and Finding 1, currently thin [2].
+- [ ] **`tangelo--grapefruit-interaction`** (Online): whether tangelos carry the
+  grapefruit furanocoumarin drug-interaction.
+  - **Needed for:** the Hazards note, currently inferred from the parent [2].
 
 ### Backlog from docs already committed
 

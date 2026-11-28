@@ -69,8 +69,11 @@ licensed under this project's MIT license (see repository `LICENSE`).
 - clementine (`clementine`, *Citrus × clementina*): its pollination and
   water data are distinct (Findings 2 and 5) [3][9]; since researched in
   `clementine.md`;
-- tangelo (`tangelo`, *Citrus × tangelo*): mandarin × grapefruit, with
-  'Minneola' and 'Orlando' [2].
+- tangelo (`tangelo`, *Citrus × tangelo*, researched 2026-11-27,
+  `tangelo.md`): mandarin × grapefruit, with 'Minneola'/Honeybell and
+  'Orlando'; split out on its distinct pollination biology (self-
+  incompatible, needs interplanted pollenizers, seedless-vs-yield
+  trade-off), as clementine was [2].
 
 ## Research findings
 
