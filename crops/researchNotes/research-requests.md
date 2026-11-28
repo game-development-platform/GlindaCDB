@@ -35,6 +35,31 @@ are never committed: this project keeps citations and findings only.
 
 ## Outstanding requests
 
+### wheat (2026-11-28)
+
+First research of `wheat.md` (*Triticum* spp., the genus-level umbrella row) after
+re-researching the OUT-OF-DATE cereal row against the current template. Strong on
+biology (vernalization, ploidy, pollination), hazards and the yield spread; thin
+on a few quantitative fractions and two quarantine diseases.
+
+- [ ] **`wheat--faostat-2023`** (Online): the FAOSTAT Crops and Livestock
+  Products table for wheat, 2023 (world area, production, derived yield).
+  - **Needed for:** firming the world area/yield figures, read this pass only
+    from secondary summaries (Finding 6) [1].
+- [ ] **`wheat--karnal-bunt-blast`** (Online): quarantine status and spread of
+  **Karnal bunt** (*Tilletia indica*) and **wheat blast** (*Magnaporthe oryzae*
+  Triticum pathotype).
+  - **Needed for:** the Invasiveness/biosecurity bullet, where both were
+    identified but not sourced (Finding 7) [6].
+- [ ] **`wheat--hybrid-seed`** (Library): hybrid-wheat seed-production methods
+  (cytoplasmic male sterility, chemical hybridising agents).
+  - **Needed for:** the Pollination/Propagation note on why hybrid wheat lags
+    (Finding 5) [8].
+- [ ] **`wheat--durum-composition`** (Online): a clean per-100 g durum-wheat
+  composition breakdown.
+  - **Needed for:** the Composition bullet, which lacks a durum-specific set
+    (Finding 4) [3].
+
 ### mandarin (2026-11-20)
 
 - [ ] **`mandarin--ufifas-mandarin-guide`** (Online): any UF/IFAS EDIS publication

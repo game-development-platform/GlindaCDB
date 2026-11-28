@@ -4,7 +4,7 @@ No sanitized cereal crop files exist yet in this repository's `cereal/` subdirec
 
 | cropID | Scientific name | Raw data file name | Related crops | Date of last update | Status |
 |---|---|---|---|---|---|
-| wheat | *Triticum spp.* |  |  |  | OUT-OF-DATE |
+| wheat | *Triticum spp.* | wheat.md | `wheat_bread`, `wheat_durum`, `wheat_einkorn`, `wheat_emmer`, `wheat_spelt`, `wheat_khorasan`, `wheat_club`, `triticale` | 2026-11-28 | RESEARCHED |
 | wheat_bread | *Triticum aestivum* |  | `wheat` |  | OUT-OF-DATE |
 | wheat_durum | *Triticum durum* |  | `wheat` |  | OUT-OF-DATE |
 | wheat_durum_spring | *Triticum durum* |  | `wheat_durum` |  | OUT-OF-DATE |

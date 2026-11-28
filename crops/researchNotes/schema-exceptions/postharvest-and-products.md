@@ -211,6 +211,12 @@ plain name with the cropID, doc and Finding.
 - **Status:** OPEN (imported 2026-11-24).
 - **What doesn't fit:** "Composition" gives amounts, not structure. Starch granule size changes how a
   starch settles and gels, and so what it is used for.
+- **Seen in:**
+  - `wheat` (`wheat.md`, Finding 4): the end-use class is set by **structural** grain traits, not the
+    composition figure — **grain hardness** and **gluten (gliadin+glutenin) strength**, not protein
+    percentage alone, decide whether a wheat becomes bread flour (hard, strong gluten), pasta semolina
+    (durum, hardest) or cake/pastry flour (soft, weak gluten); the elastic gluten network is itself a
+    structural property no "amount" captures.
 - **Seen in (imported):** edible canna (30-100 µm granules, among the largest known; fast settling, clear
   firm gels for glass noodles) vs arrowroot (fine granules).
 - **Possible home:** a note under "Composition".
